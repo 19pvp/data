@@ -1,1 +1,16 @@
-{"appearances":{"0":[27778,""]},"armor":110,"classs":4,"displayid":27778,"flags2":24576,"id":12994,"level":23,"name":"Thorbia's Gauntlets","quality":3,"reqlevel":18,"slot":10,"slotbak":10,"source":[2],"subclass":3,"firstseenpatch":0,"avgbuyout":52000,"dura":40,"sellprice":788,"sta":3,"str":8,"statsInfo":{"4":{"qty":8,"alloc":0,"socketMult":0},"7":{"qty":3,"alloc":0,"socketMult":0}},"popularity":9,"icon":"inv_gauntlets_11","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Thorbia's Gauntlets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->110 Armor</span><br><span><!--stat4-->+8 Strength</span><br><span><!--stat7-->+3 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">88</span></div></td></tr></table>"}
+{
+  "id": 12994,
+  "name": "Thorbia's Gauntlets",
+  "icon": "inv_gauntlets_11",
+  "popularity": 9,
+  "armor": 110,
+  "class": "ARMOR",
+  "quality": "RARE",
+  "subclass": "MAIL",
+  "type": "HANDS",
+  "stats": {
+    "strength": 8,
+    "stamina": 3
+  },
+  "sourceType": "DROP"
+}

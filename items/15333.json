@@ -1,1 +1,13 @@
-{"appearances":{"0":[28006,""]},"armor":31,"classs":4,"displayid":28006,"flags2":24576,"id":15333,"level":22,"name":"Wrangler's Cloak","quality":2,"reqlevel":17,"slot":16,"slotbak":16,"source":[2],"subclass":-6,"firstseenpatch":0,"avgbuyout":3500,"dmgrange":0.2,"sellprice":537,"statsInfo":[],"popularity":9,"icon":"inv_misc_cape_01","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Wrangler's Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Back</td></tr></table><!--rf--><span><!--amr-->31 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->17<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">37</span></div></td></tr></table>"}
+{
+  "id": 15333,
+  "name": "Wrangler's Cloak",
+  "icon": "inv_misc_cape_01",
+  "popularity": 9,
+  "armor": 31,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "CLOAKS",
+  "type": "BACK",
+  "stats": {},
+  "sourceType": "DROP"
+}

@@ -1,1 +1,18 @@
-{"appearances":{"0":[1705,""]},"armor":509,"classs":4,"displayid":1705,"flags2":24576,"id":54990,"level":14,"name":"Gilnean Shield","quality":3,"reqlevel":5,"side":1,"slot":14,"slotbak":14,"source":[4],"sourcemore":[{"c":4714,"c2":11,"n":"The Battle for Gilneas City","t":5,"ti":24904}],"subclass":6,"firstseenpatch":0,"dura":60,"sellprice":462,"sheathtype":4,"sta":4,"statsInfo":{"7":{"qty":4,"alloc":10000,"socketMult":0}},"popularity":12,"icon":"inv_shield_04","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Gilnean Shield</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->14</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->509 Armor</span><br><span><!--stat7-->+4 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">62</span></div></td></tr></table>"}
+{
+  "id": 54990,
+  "name": "Gilnean Shield",
+  "icon": "inv_shield_04",
+  "popularity": 14,
+  "armor": 509,
+  "side": "ALLIANCE",
+  "class": "ARMOR",
+  "quality": "RARE",
+  "subclass": "SHIELDS",
+  "type": "SHIELD",
+  "stats": {
+    "stamina": 4
+  },
+  "sourceType": "QUEST",
+  "sourceId": 24904,
+  "sourceName": "The Battle for Gilneas City"
+}

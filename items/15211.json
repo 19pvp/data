@@ -1,1 +1,16 @@
-{"appearances":{"0":[28567,""]},"classs":2,"commondrop":true,"displayid":28567,"dps":11,"flags2":24576,"id":15211,"level":22,"name":"Militant Shortsword","quality":2,"reqlevel":17,"slot":13,"slotbak":13,"source":[2],"speed":2.5,"subclass":7,"firstseenpatch":0,"avgbuyout":5212,"dmgmax1":36,"dmgmin1":19,"dmgrange":0.6,"dmgtype1":0,"dura":60,"mledmgmax":36,"mledmgmin":19,"mledps":11,"mlespeed":2.5,"sellprice":1917,"sheathtype":3,"statsInfo":[],"popularity":8,"icon":"inv_sword_20","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Militant Shortsword</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:7--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->19 - 36 Damage</span></td>\n    <th>Speed <!--spd-->2.50</th>\n</tr></table><!--dps-->(11.00 damage per second)<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->17<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">19</span> <span class=\"moneycopper\">17</span></div></td></tr></table>"}
+{
+  "id": 15211,
+  "name": "Militant Shortsword",
+  "icon": "inv_sword_20",
+  "dmgMin": 19,
+  "dmgMax": 36,
+  "speed": 2.5,
+  "dps": 11,
+  "popularity": 6,
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "ONE_HANDED_SWORD",
+  "type": "ONE_HAND",
+  "stats": {},
+  "sourceType": "DROP"
+}

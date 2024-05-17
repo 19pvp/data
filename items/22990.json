@@ -1,1 +1,18 @@
-{"appearances":{"0":[22991,"inv_misc_cape_04"]},"armor":33,"classs":4,"displayid":22991,"flags2":24576,"id":22990,"level":21,"name":"Tranquillien Champion's Cloak","quality":3,"reqlevel":16,"slot":16,"slotbak":16,"source":[2,5],"sourcemore":[{"bd":1,"dd":-1,"n":"Celebras the Cursed","t":1,"ti":12225,"z":2100},{"bd":1,"n":"Provisioner Vredigar","t":1,"ti":16528,"z":3433}],"subclass":-6,"firstseenpatch":0,"buyprice":2883,"dmgrange":0.2,"reqfaction":922,"reqrep":7,"sellprice":576,"sta":7,"statsInfo":{"7":{"qty":7,"alloc":11667,"socketMult":0}},"popularity":8,"icon":"inv_misc_cape_07","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Tranquillien Champion's Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Back</td></tr></table><!--rf--><span><!--amr-->33 Armor</span><br><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<br>Requires <a href=\"/cata/faction=922/tranquillien\" class=\"q1\">Tranquillien</a> - Exalted<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">76</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Celebras the Cursed</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 5.19%</div></td></tr></table>"}
+{
+  "id": 22990,
+  "name": "Tranquillien Champion's Cloak",
+  "icon": "inv_misc_cape_07",
+  "popularity": 25,
+  "armor": 33,
+  "class": "ARMOR",
+  "quality": "RARE",
+  "subclass": "CLOAKS",
+  "type": "BACK",
+  "stats": {
+    "stamina": 7
+  },
+  "sourceType": "DROP",
+  "sourceId": 12225,
+  "sourceName": "Celebras the Cursed",
+  "sourceZone": 2100
+}

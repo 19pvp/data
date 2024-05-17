@@ -1,1 +1,23 @@
-{"appearances":{"0":[69312,""]},"classs":2,"displayid":69312,"dps":20.31,"flags2":24576,"id":53451,"level":20,"name":"Wind Rider Wand","quality":3,"reqlevel":18,"side":2,"slot":15,"slotbak":26,"source":[4],"sourcemore":[{"c":16,"c2":1,"n":"The Conquest of Azshara","t":5,"ti":24439}],"speed":1.6,"subclass":19,"firstseenpatch":0,"dmgrange":0.6,"dura":45,"hitrtng":2,"int":2,"sellprice":1320,"sta":2,"statsInfo":{"5":{"qty":2,"alloc":5259,"socketMult":0},"7":{"qty":2,"alloc":5259,"socketMult":0},"31":{"qty":2,"alloc":5258,"socketMult":0}},"popularity":31,"icon":"inv_wand_12","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Wind Rider Wand</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->22 - 43 Nature Damage</span></td>\n    <th>Speed <!--spd-->1.60</th>\n</tr></table><!--dps-->(20.31 damage per second)<br><span><!--stat7-->+2 Stamina</span><br><span><!--stat5-->+2 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Improves hit rating by <!--rtg31-->2.</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">13</span> <span class=\"moneycopper\">20</span></div></td></tr></table><!--i?53451:1:85:18-->"}
+{
+  "id": 53451,
+  "name": "Wind Rider Wand",
+  "icon": "inv_wand_12",
+  "dmgMin": 22,
+  "dmgMax": 43,
+  "speed": 1.6,
+  "dps": 20.31,
+  "popularity": 32,
+  "side": "HORDE",
+  "class": "WEAPON",
+  "quality": "RARE",
+  "subclass": "WAND",
+  "type": "RANGED",
+  "stats": {
+    "hit": 2,
+    "stamina": 2,
+    "intellect": 2
+  },
+  "sourceType": "QUEST",
+  "sourceId": 24439,
+  "sourceName": "The Conquest of Azshara"
+}

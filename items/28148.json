@@ -1,1 +1,18 @@
-{"appearances":{"0":[13039,""]},"armor":37,"classs":4,"displayid":13039,"flags2":24576,"id":28148,"level":10,"name":"Bronze Mail Bracers","quality":2,"reqlevel":9,"side":2,"slot":9,"slotbak":9,"source":[4],"sourcemore":[{"c":3433,"c2":0,"n":"Delivery to Tranquillien","t":5,"ti":9148}],"subclass":3,"firstseenpatch":0,"dura":25,"sellprice":72,"str":1,"statsInfo":{"4":{"qty":1,"alloc":10000,"socketMult":0}},"popularity":6,"icon":"inv_bracer_12","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Bronze Mail Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->37 Armor</span><br><span><!--stat4-->+1 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">72</span></div></td></tr></table>"}
+{
+  "id": 28148,
+  "name": "Bronze Mail Bracers",
+  "icon": "inv_bracer_12",
+  "popularity": 6,
+  "armor": 37,
+  "side": "HORDE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "MAIL",
+  "type": "WRISTS",
+  "stats": {
+    "strength": 1
+  },
+  "sourceType": "QUEST",
+  "sourceId": 9148,
+  "sourceName": "Delivery to Tranquillien"
+}

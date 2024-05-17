@@ -1,1 +1,16 @@
-{"appearances":{"0":[10971,""]},"armor":34,"classs":4,"displayid":10971,"flags2":24576,"id":14561,"level":17,"name":"Prospector's Cuffs","quality":2,"reqlevel":12,"slot":9,"slotbak":9,"source":[2],"subclass":2,"firstseenpatch":0,"agi":2,"avgbuyout":3500,"dura":30,"sellprice":245,"sta":1,"statsInfo":{"3":{"qty":2,"alloc":6667,"socketMult":0},"7":{"qty":1,"alloc":3333,"socketMult":0}},"popularity":6,"icon":"inv_bracer_07","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Prospector's Cuffs</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->17</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->34 Armor</span><br><span><!--stat3-->+2 Agility</span><br><span><!--stat7-->+1 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->12<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">45</span></div></td></tr></table>"}
+{
+  "id": 14561,
+  "name": "Prospector's Cuffs",
+  "icon": "inv_bracer_07",
+  "popularity": 6,
+  "armor": 34,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "LEATHER",
+  "type": "WRISTS",
+  "stats": {
+    "agility": 2,
+    "stamina": 1
+  },
+  "sourceType": "DROP"
+}

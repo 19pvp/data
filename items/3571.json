@@ -1,1 +1,21 @@
-{"appearances":{"0":[19546,""]},"classs":2,"displayid":19546,"dps":13.75,"flags2":24576,"id":3571,"level":21,"name":"Trogg Beater","quality":2,"reqlevel":16,"slot":17,"slotbak":17,"source":[2],"sourcemore":[{"dd":-1,"n":"Magosh","t":1,"ti":1399,"z":38}],"speed":3.6,"subclass":5,"firstseenpatch":0,"avgbuyout":10600,"dmgmax1":60,"dmgmin1":39,"dmgrange":0.4,"dmgtype1":0,"dura":65,"mledmgmax":60,"mledmgmin":39,"mledps":13.75,"mlespeed":3.6,"sellprice":2118,"sheathtype":1,"sta":7,"statsInfo":{"7":{"qty":7,"alloc":10000,"socketMult":0}},"popularity":10,"icon":"inv_hammer_15","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Trogg Beater</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->39 - 60 Damage</span></td>\n    <th>Speed <!--spd-->3.60</th>\n</tr></table><!--dps-->(13.75 damage per second)<br><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">21</span> <span class=\"moneycopper\">18</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Magosh</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 31.36%</div></td></tr></table>"}
+{
+  "id": 3571,
+  "name": "Trogg Beater",
+  "icon": "inv_hammer_15",
+  "dmgMin": 39,
+  "dmgMax": 60,
+  "speed": 3.6,
+  "dps": 13.75,
+  "popularity": 10,
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "TWO_HANDED_MACE",
+  "type": "TWO_HAND",
+  "stats": {
+    "stamina": 7
+  },
+  "sourceType": "DROP",
+  "sourceId": 1399,
+  "sourceName": "Magosh",
+  "sourceZone": 38
+}

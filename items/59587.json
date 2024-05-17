@@ -1,1 +1,18 @@
-{"appearances":{"0":[12094,"inv_belt_34"]},"armor":77,"classs":4,"displayid":12094,"flags2":24576,"id":59587,"level":19,"name":"Fractured Belt","quality":2,"reqlevel":15,"side":2,"slot":6,"slotbak":6,"source":[4],"sourcemore":[{"c":17,"c2":1,"n":"Hezrul Bloodmark","t":5,"ti":852}],"subclass":3,"firstseenpatch":0,"dura":30,"sellprice":357,"str":4,"statsInfo":{"4":{"qty":4,"alloc":10000,"socketMult":0}},"popularity":21,"icon":"inv_belt_45","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Fractured Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->19</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->77 Armor</span><br><span><!--stat4-->+4 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">57</span></div></td></tr></table>"}
+{
+  "id": 59587,
+  "name": "Fractured Belt",
+  "icon": "inv_belt_45",
+  "popularity": 7,
+  "armor": 77,
+  "side": "HORDE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "MAIL",
+  "type": "WAIST",
+  "stats": {
+    "strength": 4
+  },
+  "sourceType": "QUEST",
+  "sourceId": 852,
+  "sourceName": "Hezrul Bloodmark"
+}

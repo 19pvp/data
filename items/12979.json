@@ -1,1 +1,16 @@
-{"appearances":{"0":[28661,""]},"armor":33,"classs":4,"displayid":28661,"flags2":24576,"id":12979,"level":21,"name":"Firebane Cloak","quality":3,"reqlevel":16,"slot":16,"slotbak":16,"source":[2],"subclass":-6,"firstseenpatch":0,"avgbuyout":19400,"dmgrange":0.2,"sellprice":617,"sta":5,"statsInfo":{"7":{"qty":5,"alloc":8333,"socketMult":0},"51":{"qty":5,"alloc":8333,"socketMult":0}},"popularity":13,"icon":"inv_misc_cape_08","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Firebane Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Back</td></tr></table><!--rf--><span><!--amr-->33 Armor</span><br><span><!--stat7-->+5 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">17</span></div></td></tr></table>"}
+{
+  "id": 12979,
+  "name": "Firebane Cloak",
+  "icon": "inv_misc_cape_08",
+  "popularity": 21,
+  "armor": 33,
+  "class": "ARMOR",
+  "quality": "RARE",
+  "subclass": "CLOAKS",
+  "type": "BACK",
+  "stats": {
+    "stamina": 5,
+    "fireResistance": 5
+  },
+  "sourceType": "DROP"
+}

@@ -1,1 +1,15 @@
-{"appearances":{"0":[50059,""]},"armor":38,"classs":4,"displayid":50059,"flags2":24576,"id":51994,"level":25,"name":"Tumultuous Cloak","quality":3,"slot":16,"slotbak":16,"source":[2],"sourcemore":[{"icon":"inv_misc_bag_15","n":"Satchel of Helpful Goods","q":3,"t":3,"ti":51999}],"subclass":-6,"firstseenpatch":0,"sellprice":953,"statsInfo":[],"popularity":40,"icon":"inv_misc_cape_03","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Tumultuous Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Back</td></tr></table><!--rf--><span><!--amr-->38 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">53</span></div></td></tr></table>"}
+{
+  "id": 51994,
+  "name": "Tumultuous Cloak",
+  "icon": "inv_misc_cape_03",
+  "popularity": 38,
+  "armor": 38,
+  "class": "ARMOR",
+  "quality": "RARE",
+  "subclass": "CLOAKS",
+  "type": "BACK",
+  "stats": {},
+  "sourceType": "DROP",
+  "sourceId": 51999,
+  "sourceName": "Satchel of Helpful Goods"
+}

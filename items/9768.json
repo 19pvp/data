@@ -1,1 +1,13 @@
-{"appearances":{"0":[11108,""]},"armor":26,"classs":4,"displayid":11108,"flags2":24576,"id":9768,"level":21,"name":"Greenweave Bracers","quality":2,"reqlevel":16,"slot":9,"slotbak":9,"source":[2],"subclass":1,"firstseenpatch":0,"avgbuyout":3400,"dura":35,"sellprice":317,"statsInfo":[],"popularity":6,"icon":"inv_bracer_12","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Greenweave Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->26 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">17</span></div></td></tr></table>"}
+{
+  "id": 9768,
+  "name": "Greenweave Bracers",
+  "icon": "inv_bracer_12",
+  "popularity": 6,
+  "armor": 26,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "CLOTH",
+  "type": "WRISTS",
+  "stats": {},
+  "sourceType": "DROP"
+}

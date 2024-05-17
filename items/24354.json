@@ -1,1 +1,22 @@
-{"appearances":{"0":[37054,""]},"classs":2,"displayid":37054,"dps":12.95,"flags2":24576,"id":24354,"level":20,"name":"Staff of the Hand","quality":2,"reqlevel":18,"side":1,"slot":17,"slotbak":17,"source":[4],"sourcemore":[{"c":3525,"c2":1,"n":"Ending Their World","t":5,"ti":9759}],"speed":2.2,"subclass":10,"firstseenpatch":0,"dmgmax1":30,"dmgmin1":27,"dmgrange":0.1,"dmgtype1":0,"dura":65,"int":3,"mledmgmax":30,"mledmgmin":27,"mledps":12.95,"mlespeed":2.2,"sellprice":1840,"sheathtype":2,"sta":6,"statsInfo":{"5":{"qty":3,"alloc":5000,"socketMult":0},"7":{"qty":6,"alloc":10000,"socketMult":0}},"popularity":7,"icon":"inv_staff_draenei_a_01","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Staff of the Hand</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->27 - 30 Damage</span></td>\n    <th>Speed <!--spd-->2.20</th>\n</tr></table><!--dps-->(12.95 damage per second)<br><span><!--stat7-->+6 Stamina</span><br><span><!--stat5-->+3 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">18</span> <span class=\"moneycopper\">40</span></div></td></tr></table>"}
+{
+  "id": 24354,
+  "name": "Staff of the Hand",
+  "icon": "inv_staff_draenei_a_01",
+  "dmgMin": 27,
+  "dmgMax": 30,
+  "speed": 2.2,
+  "dps": 12.95,
+  "popularity": 7,
+  "side": "ALLIANCE",
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "STAFF",
+  "type": "TWO_HAND",
+  "stats": {
+    "stamina": 6,
+    "intellect": 3
+  },
+  "sourceType": "QUEST",
+  "sourceId": 9759,
+  "sourceName": "Ending Their World"
+}

@@ -1,1 +1,19 @@
-{"appearances":{"0":[73913,""]},"armor":55,"classs":4,"displayid":73913,"flags2":24576,"id":65671,"level":20,"name":"Cue Cue Gloves","quality":2,"reqlevel":19,"side":2,"slot":10,"slotbak":10,"source":[4],"sourcemore":[{"c":267,"c2":0,"n":"Welcome to the Machine","t":5,"ti":28096}],"subclass":2,"firstseenpatch":0,"agi":3,"dura":35,"sellprice":354,"sta":3,"statsInfo":{"3":{"qty":3,"alloc":6666,"socketMult":0},"7":{"qty":3,"alloc":6667,"socketMult":0}},"popularity":6,"icon":"inv_gauntlets_20","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Cue Cue Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->55 Armor</span><br><span><!--stat3-->+3 Agility</span><br><span><!--stat7-->+3 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">54</span></div></td></tr></table>"}
+{
+  "id": 65671,
+  "name": "Cue Cue Gloves",
+  "icon": "inv_gauntlets_20",
+  "popularity": 4,
+  "armor": 55,
+  "side": "HORDE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "LEATHER",
+  "type": "HANDS",
+  "stats": {
+    "agility": 3,
+    "stamina": 3
+  },
+  "sourceType": "QUEST",
+  "sourceId": 28096,
+  "sourceName": "Welcome to the Machine"
+}

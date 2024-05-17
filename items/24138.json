@@ -1,1 +1,19 @@
-{"appearances":{"0":[10671,"inv_weapon_crossbow_02"]},"classs":2,"displayid":10671,"dps":8.39,"flags2":24576,"id":24138,"level":12,"name":"Silver Crossbow","quality":2,"reqclass":4,"reqlevel":10,"side":1,"slot":15,"slotbak":26,"source":[4],"sourcemore":[{"c":-261,"c2":4,"n":"Beast Training","t":5,"ti":9675}],"speed":3.1,"subclass":18,"firstseenpatch":0,"classes":4,"dmgmax1":34,"dmgmin1":18,"dmgrange":0.6,"dmgtype1":2,"dura":35,"rgddmgmax":34,"rgddmgmin":18,"rgddps":8.39,"rgdspeed":3.1,"sellprice":286,"statsInfo":[],"popularity":6,"icon":"inv_weapon_crossbow_01","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Silver Crossbow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->12</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:18--><span class=\"q1\">Crossbow</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->18 - 34 Damage</span></td>\n    <th>Speed <!--spd-->3.10</th>\n</tr></table><!--dps-->(8.39 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 35 / 35<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/cata/class=3/hunter\" class=\"c3\">Hunter</a></div></td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">86</span></div></td></tr></table>"}
+{
+  "id": 24138,
+  "name": "Silver Crossbow",
+  "icon": "inv_weapon_crossbow_01",
+  "dmgMin": 18,
+  "dmgMax": 34,
+  "speed": 3.1,
+  "dps": 8.39,
+  "popularity": 6,
+  "side": "ALLIANCE",
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "CROSSBOW",
+  "type": "RANGED",
+  "stats": {},
+  "sourceType": "QUEST",
+  "sourceId": 9675,
+  "sourceName": "Beast Training"
+}

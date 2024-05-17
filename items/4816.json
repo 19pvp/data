@@ -1,1 +1,16 @@
-{"appearances":{"0":[3541,""]},"armor":145,"classs":4,"displayid":3541,"flags2":24576,"id":4816,"level":24,"name":"Legionnaire's Leggings","quality":2,"reqlevel":19,"slot":7,"slotbak":7,"source":[5],"subclass":3,"firstseenpatch":0,"avgbuyout":20000,"buyprice":7519,"dura":75,"hitrtng":5,"sellprice":1503,"str":5,"statsInfo":{"4":{"qty":5,"alloc":6250,"socketMult":0},"31":{"qty":5,"alloc":6250,"socketMult":0}},"popularity":5,"icon":"inv_pants_03","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Legionnaire's Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->24</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->145 Armor</span><br><span><!--stat4-->+5 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->19<br><!--rr--><span class=\"q2\">Equip: Improves hit rating by <!--rtg31-->5.</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">15</span> <span class=\"moneycopper\">3</span></div></td></tr></table><!--i?4816:1:85:19-->"}
+{
+  "id": 4816,
+  "name": "Legionnaire's Leggings",
+  "icon": "inv_pants_03",
+  "popularity": 3,
+  "armor": 145,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "MAIL",
+  "type": "LEGS",
+  "stats": {
+    "hit": 5,
+    "strength": 5
+  },
+  "sourceType": "VENDOR"
+}

@@ -1,1 +1,19 @@
-{"appearances":{"0":[9486,"inv_belt_06"]},"armor":21,"classs":4,"displayid":9486,"flags2":24576,"id":52915,"level":11,"name":"Aggra's Sash","quality":2,"reqlevel":1,"side":2,"slot":6,"slotbak":6,"source":[4],"sourcemore":[{"c":4720,"c2":11,"n":"The Heads of the SI:7","t":5,"ti":25093}],"subclass":1,"firstseenpatch":0,"dura":25,"int":1,"sellprice":62,"sta":1,"statsInfo":{"5":{"qty":1,"alloc":6666,"socketMult":0},"7":{"qty":1,"alloc":6667,"socketMult":0}},"popularity":6,"icon":"inv_belt_25","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Aggra's Sash</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->21 Armor</span><br><span><!--stat7-->+1 Stamina</span><br><span><!--stat5-->+1 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">62</span></div></td></tr></table>"}
+{
+  "id": 52915,
+  "name": "Aggra's Sash",
+  "icon": "inv_belt_25",
+  "popularity": 6,
+  "armor": 21,
+  "side": "HORDE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "CLOTH",
+  "type": "WAIST",
+  "stats": {
+    "stamina": 1,
+    "intellect": 1
+  },
+  "sourceType": "QUEST",
+  "sourceId": 25093,
+  "sourceName": "The Heads of the SI:7"
+}

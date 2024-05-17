@@ -1,1 +1,19 @@
-{"appearances":{"0":[22923,""]},"armor":0,"classs":4,"displayid":22923,"flags2":24576,"id":7508,"level":13,"name":"Ley Orb","quality":2,"reqclass":128,"reqlevel":10,"slot":23,"slotbak":23,"source":[4],"subclass":-5,"firstseenpatch":0,"classes":128,"cooldown":900000,"sellprice":400,"sheathtype":7,"spi":1,"statsInfo":{"6":{"qty":1,"alloc":10000,"socketMult":0}},"popularity":9,"icon":"inv_misc_orb_01","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Ley Orb</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->13</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><!--rf--><span><!--stat6-->+1 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/cata/class=8/mage\" class=\"c8\">Mage</a></div></td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Use: <a href=\"/cata/spell=9252/replenish-mana-i\" class=\"q2\">Restores 140 to 180 mana.</a> (15 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span></div></td></tr></table>"}
+{
+  "id": 7508,
+  "name": "Ley Orb",
+  "icon": "inv_misc_orb_01",
+  "popularity": 9,
+  "armor": 0,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "OFF_HAND_FRILLS",
+  "type": "HELD_IN_OFF_HAND",
+  "stats": {
+    "spirit": 1
+  },
+  "sourceType": "QUEST",
+  "use": {
+    "spell": 9252,
+    "text": "Restores 140 to 180 mana. (15 Min Cooldown)"
+  }
+}

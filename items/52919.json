@@ -1,1 +1,22 @@
-{"appearances":{"0":[25470,"inv_weapon_halberd_08"]},"classs":2,"displayid":25470,"dps":5.94,"flags2":24576,"id":52919,"level":11,"name":"Oxidizing Axe","quality":2,"reqlevel":1,"side":2,"slot":13,"slotbak":13,"source":[4],"sourcemore":[{"c":4720,"c2":11,"n":"Wild Mine Cart Ride","t":5,"ti":25184}],"speed":1.6,"subclass":0,"firstseenpatch":0,"dmgmax1":13,"dmgmin1":6,"dmgrange":0.6,"dmgtype1":0,"dura":40,"mledmgmax":13,"mledmgmin":6,"mledps":5.94,"mlespeed":1.6,"sellprice":316,"sheathtype":3,"sta":1,"str":1,"statsInfo":{"4":{"qty":1,"alloc":6667,"socketMult":0},"7":{"qty":1,"alloc":6667,"socketMult":0}},"popularity":23,"icon":"inv_throwingaxe_06","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Oxidizing Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->6 - 13 Damage</span></td>\n    <th>Speed <!--spd-->1.60</th>\n</tr></table><!--dps-->(5.94 damage per second)<br><span><!--stat4-->+1 Strength</span><br><span><!--stat7-->+1 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">16</span></div></td></tr></table>"}
+{
+  "id": 52919,
+  "name": "Oxidizing Axe",
+  "icon": "inv_throwingaxe_06",
+  "dmgMin": 6,
+  "dmgMax": 13,
+  "speed": 1.6,
+  "dps": 5.94,
+  "popularity": 6,
+  "side": "HORDE",
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "ONE_HANDED_AXE",
+  "type": "ONE_HAND",
+  "stats": {
+    "strength": 1,
+    "stamina": 1
+  },
+  "sourceType": "QUEST",
+  "sourceId": 25184,
+  "sourceName": "Wild Mine Cart Ride"
+}

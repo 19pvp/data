@@ -1,1 +1,13 @@
-{"appearances":{"0":[13014,""]},"armor":93,"classs":4,"displayid":13014,"flags2":24576,"id":9814,"level":24,"name":"Fortified Belt","quality":2,"reqlevel":19,"slot":6,"slotbak":6,"source":[2,16],"subclass":3,"firstseenpatch":0,"avgbuyout":4524,"dura":35,"sellprice":733,"statsInfo":[],"popularity":7,"icon":"inv_belt_04","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Fortified Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->24</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->93 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->19<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">33</span></div></td></tr></table>"}
+{
+  "id": 9814,
+  "name": "Fortified Belt",
+  "icon": "inv_belt_04",
+  "popularity": 9,
+  "armor": 93,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "MAIL",
+  "type": "WAIST",
+  "stats": {},
+  "sourceType": "DROP"
+}

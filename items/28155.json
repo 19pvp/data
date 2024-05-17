@@ -1,1 +1,19 @@
-{"appearances":{"0":[3553,""]},"armor":28,"classs":4,"displayid":3553,"flags2":24576,"id":28155,"level":17,"name":"Apothecary's Waistband","quality":2,"reqlevel":12,"slot":6,"slotbak":6,"source":[5],"sourcemore":[{"n":"Provisioner Vredigar","t":1,"ti":16528,"z":3433}],"subclass":1,"firstseenpatch":0,"buyprice":965,"dura":30,"int":2,"reqfaction":922,"reqrep":5,"sellprice":193,"spi":2,"statsInfo":{"5":{"qty":2,"alloc":6667,"socketMult":0},"6":{"qty":2,"alloc":6667,"socketMult":0}},"popularity":36,"icon":"inv_misc_bandana_03","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Apothecary's Waistband</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->17</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->28 Armor</span><br><span><!--stat5-->+2 Intellect</span><br><span><!--stat6-->+2 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->12<br>Requires <a href=\"/cata/faction=922/tranquillien\" class=\"q1\">Tranquillien</a> - Honored<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">93</span></div></td></tr></table>"}
+{
+  "id": 28155,
+  "name": "Apothecary's Waistband",
+  "icon": "inv_misc_bandana_03",
+  "popularity": 43,
+  "armor": 28,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "CLOTH",
+  "type": "WAIST",
+  "stats": {
+    "intellect": 2,
+    "spirit": 2
+  },
+  "sourceType": "VENDOR",
+  "sourceId": 16528,
+  "sourceName": "Provisioner Vredigar",
+  "sourceZone": 3433
+}

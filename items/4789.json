@@ -1,1 +1,15 @@
-{"appearances":{"0":[4487,""]},"armor":55,"classs":4,"displayid":4487,"flags2":24576,"id":4789,"level":18,"name":"Stable Boots","quality":2,"reqlevel":13,"slot":8,"slotbak":8,"source":[5],"subclass":2,"firstseenpatch":0,"avgbuyout":7500,"buyprice":1999,"dura":45,"sellprice":399,"sta":4,"statsInfo":{"7":{"qty":4,"alloc":10000,"socketMult":0}},"popularity":15,"icon":"inv_boots_03","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Stable Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->18</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->55 Armor</span><br><span><!--stat7-->+4 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->13<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">99</span></div></td></tr></table>"}
+{
+  "id": 4789,
+  "name": "Stable Boots",
+  "icon": "inv_boots_03",
+  "popularity": 9,
+  "armor": 55,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "LEATHER",
+  "type": "FEET",
+  "stats": {
+    "stamina": 4
+  },
+  "sourceType": "VENDOR"
+}

@@ -1,1 +1,22 @@
-{"appearances":{"0":[1201,""]},"classs":2,"displayid":1201,"dps":7.73,"flags2":24576,"id":6215,"level":11,"name":"Balanced Fighting Stick","quality":2,"reqlevel":7,"side":1,"slot":17,"slotbak":17,"source":[4],"sourcemore":[{"c":12,"c2":0,"n":"Wanted: \"Hogger\"","t":5,"ti":176}],"speed":2.2,"subclass":10,"firstseenpatch":0,"agi":1,"dmgmax1":18,"dmgmin1":16,"dmgrange":0.1,"dmgtype1":0,"dura":45,"mledmgmax":18,"mledmgmin":16,"mledps":7.73,"mlespeed":2.2,"sellprice":385,"sheathtype":2,"sta":1,"statsInfo":{"3":{"qty":1,"alloc":6667,"socketMult":0},"7":{"qty":1,"alloc":6667,"socketMult":0}},"popularity":12,"icon":"inv_staff_08","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Balanced Fighting Stick</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->16 - 18 Damage</span></td>\n    <th>Speed <!--spd-->2.20</th>\n</tr></table><!--dps-->(7.73 damage per second)<br><span><!--stat3-->+1 Agility</span><br><span><!--stat7-->+1 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">85</span></div></td></tr></table>"}
+{
+  "id": 6215,
+  "name": "Balanced Fighting Stick",
+  "icon": "inv_staff_08",
+  "dmgMin": 16,
+  "dmgMax": 18,
+  "speed": 2.2,
+  "dps": 7.73,
+  "popularity": 12,
+  "side": "ALLIANCE",
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "STAFF",
+  "type": "TWO_HAND",
+  "stats": {
+    "agility": 1,
+    "stamina": 1
+  },
+  "sourceType": "QUEST",
+  "sourceId": 176,
+  "sourceName": "Wanted: \"Hogger\""
+}

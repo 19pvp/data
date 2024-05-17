@@ -1,1 +1,18 @@
-{"appearances":{"0":[8325,""]},"armor":100,"classs":4,"displayid":8325,"flags2":24576,"id":56706,"level":26,"name":"Greenpaw Belt","quality":2,"reqlevel":19,"side":1,"slot":6,"slotbak":6,"source":[4],"sourcemore":[{"c":331,"c2":1,"n":"King of the Foulweald","t":5,"ti":13989}],"subclass":3,"firstseenpatch":0,"dura":35,"int":7,"sellprice":874,"statsInfo":{"5":{"qty":7,"alloc":10000,"socketMult":0}},"popularity":5,"icon":"inv_belt_23","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Greenpaw Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->26</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->100 Armor</span><br><span><!--stat5-->+7 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">74</span></div></td></tr></table>"}
+{
+  "id": 56706,
+  "name": "Greenpaw Belt",
+  "icon": "inv_belt_23",
+  "popularity": 5,
+  "armor": 100,
+  "side": "ALLIANCE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "MAIL",
+  "type": "WAIST",
+  "stats": {
+    "intellect": 7
+  },
+  "sourceType": "QUEST",
+  "sourceId": 13989,
+  "sourceName": "King of the Foulweald"
+}

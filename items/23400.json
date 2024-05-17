@@ -1,1 +1,18 @@
-{"appearances":{"0":[23016,"inv_misc_cape_18"]},"armor":24,"classs":4,"displayid":23016,"flags2":24576,"id":23400,"level":16,"name":"Sylastor's Cloak","quality":2,"reqlevel":11,"side":2,"slot":16,"slotbak":16,"source":[4],"sourcemore":[{"c":3433,"c2":0,"n":"Deactivate An'owyn","t":5,"ti":9169}],"subclass":-6,"firstseenpatch":0,"dmgrange":0.2,"sellprice":255,"sta":2,"statsInfo":{"7":{"qty":2,"alloc":10000,"socketMult":0}},"popularity":19,"icon":"inv_misc_cape_11","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Sylastor's Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->16</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Back</td></tr></table><!--rf--><span><!--amr-->24 Armor</span><br><span><!--stat7-->+2 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">55</span></div></td></tr></table>"}
+{
+  "id": 23400,
+  "name": "Sylastor's Cloak",
+  "icon": "inv_misc_cape_11",
+  "popularity": 6,
+  "armor": 24,
+  "side": "HORDE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "CLOAKS",
+  "type": "BACK",
+  "stats": {
+    "stamina": 2
+  },
+  "sourceType": "QUEST",
+  "sourceId": 9169,
+  "sourceName": "Deactivate An'owyn"
+}

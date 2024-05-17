@@ -1,1 +1,20 @@
-{"armor":0,"classs":4,"flags2":24578,"id":20444,"level":23,"name":"Sentinel's Medallion","quality":3,"reqlevel":18,"side":1,"slot":2,"slotbak":2,"source":[5],"sourcemore":[{"n":"Illiyana Moonblaze","t":1,"ti":14753,"z":331}],"subclass":-3,"firstseenpatch":0,"agi":6,"buyprice":1,"sellprice":1,"sta":2,"statsInfo":{"3":{"qty":6,"alloc":8571,"socketMult":0},"7":{"qty":2,"alloc":2857,"socketMult":0}},"popularity":10,"icon":"inv_jewelry_necklace_13","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Sentinel's Medallion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><!--rf--><span><!--stat3-->+6 Agility</span><br><span><!--stat7-->+2 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>"}
+{
+  "id": 20444,
+  "name": "Sentinel's Medallion",
+  "icon": "inv_jewelry_necklace_13",
+  "popularity": 15,
+  "armor": 0,
+  "side": "ALLIANCE",
+  "class": "ARMOR",
+  "quality": "RARE",
+  "subclass": "AMULETS",
+  "type": "NECK",
+  "stats": {
+    "agility": 6,
+    "stamina": 2
+  },
+  "sourceType": "VENDOR",
+  "sourceId": 14753,
+  "sourceName": "Illiyana Moonblaze",
+  "sourceZone": 331
+}

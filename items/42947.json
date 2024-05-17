@@ -1,1 +1,21 @@
-{"appearances":{"0":[45947,""]},"classs":2,"displayid":45947,"flags2":159744,"heirloombonuses":[0,0,0,0],"id":42947,"level":1,"name":"Dignified Headmaster's Charge","quality":7,"reqlevel":80,"slot":17,"slotbak":17,"source":[5],"speed":2.9,"subclass":10,"firstseenpatch":0,"dbcFlags":36872,"dmgrange":0.4,"mlespeed":2.9,"scadist":5,"sheathtype":2,"statsInfo":[],"popularity":155,"icon":"inv_jewelry_talisman_12","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q7\">Dignified Headmaster's Charge</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><br>Binds to account<!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->361 - 543 Damage</span></td>\n    <th>Speed <!--spd-->2.90</th>\n</tr></table><!--dps-->(156.00 damage per second)<br><span><!--stat7-->+93 Stamina</span><br><span><!--stat5-->+76 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires level <!--minlvl-->1 to <!--maxlvl-->80 (<!--lvl-->80)<br><!--rr--><span class=\"q2\">Equip: Improves critical strike rating by <!--rtg32-->62.</span><br><span class=\"q2\">Equip: Increases spell power by <!--rtg45-->395.</span><!--itemEffects:1--></td></tr></table><!--i?42947:1:80:80:5:0-->"}
+{
+  "id": 42947,
+  "name": "Dignified Headmaster's Charge",
+  "icon": "inv_jewelry_talisman_12",
+  "dmgMin": 45,
+  "dmgMax": 68,
+  "speed": 2.9,
+  "dps": 19.48,
+  "popularity": 155,
+  "class": "WEAPON",
+  "quality": "HEIRLOOM",
+  "subclass": "STAFF",
+  "type": "TWO_HAND",
+  "stats": {
+    "crit": 6,
+    "spellPower": 39,
+    "stamina": 9,
+    "intellect": 7
+  },
+  "sourceType": "VENDOR"
+}

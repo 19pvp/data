@@ -1,1 +1,21 @@
-{"appearances":{"0":[20072,""]},"classs":2,"displayid":20072,"dps":10,"flags2":24576,"id":3188,"level":15,"name":"Coral Claymore","quality":2,"reqlevel":10,"slot":17,"slotbak":17,"source":[2],"sourcemore":[{"n":"Slark","t":1,"ti":519,"z":40}],"speed":2.8,"subclass":8,"firstseenpatch":0,"avgbuyout":5000,"dmgmax1":34,"dmgmin1":22,"dmgrange":0.4,"dmgtype1":0,"dura":55,"mledmgmax":34,"mledmgmin":22,"mledps":10,"mlespeed":2.8,"sellprice":879,"sheathtype":1,"sta":4,"statsInfo":{"7":{"qty":4,"alloc":10000,"socketMult":0}},"popularity":5,"icon":"inv_sword_38","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Coral Claymore</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->15</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:8--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->22 - 34 Damage</span></td>\n    <th>Speed <!--spd-->2.80</th>\n</tr></table><!--dps-->(10.00 damage per second)<br><span><!--stat7-->+4 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->10<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">79</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Slark</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 36.45%</div></td></tr></table>"}
+{
+  "id": 3188,
+  "name": "Coral Claymore",
+  "icon": "inv_sword_38",
+  "dmgMin": 22,
+  "dmgMax": 34,
+  "speed": 2.8,
+  "dps": 10,
+  "popularity": 12,
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "TWO_HANDED_SWORD",
+  "type": "TWO_HAND",
+  "stats": {
+    "stamina": 4
+  },
+  "sourceType": "DROP",
+  "sourceId": 519,
+  "sourceName": "Slark",
+  "sourceZone": 40
+}

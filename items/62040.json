@@ -1,1 +1,18 @@
-{"appearances":{"0":[23553,"inv_misc_cape_08"]},"armor":0,"classs":4,"displayid":23553,"flags2":159744,"heirloombonuses":[0,0,0,0],"id":62040,"level":1,"name":"Ancient Bloodmoon Cloak","quality":7,"reqlevel":80,"slot":16,"slotbak":16,"source":[5],"subclass":-6,"firstseenpatch":0,"buyprice":12000000,"scadist":413,"statsInfo":[],"popularity":348,"icon":"inv_misc_cape_05","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q7\">Ancient Bloodmoon Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><br>Binds to account<!--ue--><table width=\"100%\"><tr><td>Back</td></tr></table><!--rf--><span><!--amr-->365 Armor</span><br><span><!--stat7-->+57 Stamina</span><br><span><!--stat5-->+38 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires level <!--minlvl-->1 to <!--maxlvl-->80 (<!--lvl-->80)<br><!--rr--><span class=\"q2\">Equip: Improves critical strike rating by <!--rtg32-->25.</span><br><span class=\"q2\">Equip: Improves haste rating by <!--rtg36-->25.</span><br><span class=\"q2\">Equip: <a href=\"/cata/spell=71354/heirloom-experience-bonus-5\" class=\"q2\">Experience gained from killing monsters and completing quests increased by 5%.</a></span><!--itemEffects:1--></td></tr></table><!--i?62040:1:80:80:413:0-->"}
+{
+  "id": 62040,
+  "name": "Ancient Bloodmoon Cloak",
+  "icon": "inv_misc_cape_05",
+  "popularity": 348,
+  "armor": 0,
+  "class": "ARMOR",
+  "quality": "HEIRLOOM",
+  "subclass": "CLOAKS",
+  "type": "BACK",
+  "stats": {
+    "crit": 2,
+    "haste": 2,
+    "stamina": 5,
+    "intellect": 3
+  },
+  "sourceType": "VENDOR"
+}

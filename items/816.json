@@ -1,1 +1,21 @@
-{"appearances":{"0":[2710,""]},"classs":2,"displayid":2710,"dps":6,"flags2":24576,"id":816,"level":11,"name":"Small Hand Blade","quality":2,"reqlevel":6,"slot":13,"slotbak":13,"source":[2],"sourcemore":[{"n":"Harvest Golem","t":1,"ti":36,"z":40}],"speed":1.5,"subclass":15,"firstseenpatch":0,"agi":1,"avgbuyout":2717,"dmgmax1":12,"dmgmin1":6,"dmgrange":0.6,"dmgtype1":0,"dura":30,"mledmgmax":12,"mledmgmin":6,"mledps":6,"mlespeed":1.5,"sellprice":305,"sheathtype":3,"statsInfo":{"3":{"qty":1,"alloc":10000,"socketMult":0}},"popularity":24,"icon":"inv_weapon_shortblade_01","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Small Hand Blade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->6 - 12 Damage</span></td>\n    <th>Speed <!--spd-->1.50</th>\n</tr></table><!--dps-->(6.00 damage per second)<br><span><!--stat3-->+1 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->6<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">5</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Harvest Golem</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 2.82%</div></td></tr></table>"}
+{
+  "id": 816,
+  "name": "Small Hand Blade",
+  "icon": "inv_weapon_shortblade_01",
+  "dmgMin": 6,
+  "dmgMax": 12,
+  "speed": 1.5,
+  "dps": 6,
+  "popularity": 13,
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "DAGGER",
+  "type": "ONE_HAND",
+  "stats": {
+    "agility": 1
+  },
+  "sourceType": "DROP",
+  "sourceId": 36,
+  "sourceName": "Harvest Golem",
+  "sourceZone": 40
+}

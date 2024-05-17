@@ -1,1 +1,13 @@
-{"appearances":{"0":[25967,""]},"armor":29,"classs":4,"commondrop":true,"displayid":25967,"flags2":24576,"id":6575,"level":20,"name":"Defender Cloak","quality":2,"reqlevel":15,"slot":16,"slotbak":16,"source":[2,16],"subclass":-6,"firstseenpatch":0,"avgbuyout":3322,"sellprice":431,"statsInfo":[],"popularity":6,"icon":"inv_misc_cape_05","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Defender Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Back</td></tr></table><!--rf--><span><!--amr-->29 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">31</span></div></td></tr></table>"}
+{
+  "id": 6575,
+  "name": "Defender Cloak",
+  "icon": "inv_misc_cape_05",
+  "popularity": 6,
+  "armor": 29,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "CLOAKS",
+  "type": "BACK",
+  "stats": {},
+  "sourceType": "DROP"
+}

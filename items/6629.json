@@ -1,1 +1,19 @@
-{"appearances":{"0":[23109,"inv_misc_cape_15"]},"armor":35,"classs":4,"displayid":23109,"flags2":24576,"id":6629,"level":23,"name":"Sporid Cape","quality":3,"reqlevel":18,"slot":16,"slotbak":16,"source":[2],"sourcemore":[{"bd":1,"dd":-1,"n":"Verdan the Everliving","t":1,"ti":5775,"z":718}],"subclass":-6,"firstseenpatch":0,"sellprice":756,"spi":4,"sta":5,"statsInfo":{"6":{"qty":4,"alloc":5714,"socketMult":0},"7":{"qty":5,"alloc":7143,"socketMult":0}},"popularity":23,"icon":"inv_misc_cape_17","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Sporid Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Back</td></tr></table><!--rf--><span><!--amr-->35 Armor</span><br><span><!--stat7-->+5 Stamina</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">56</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Verdan the Everliving</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 20.13%</div></td></tr></table>"}
+{
+  "id": 6629,
+  "name": "Sporid Cape",
+  "icon": "inv_misc_cape_17",
+  "popularity": 10,
+  "armor": 35,
+  "class": "ARMOR",
+  "quality": "RARE",
+  "subclass": "CLOAKS",
+  "type": "BACK",
+  "stats": {
+    "stamina": 5,
+    "spirit": 4
+  },
+  "sourceType": "DROP",
+  "sourceId": 5775,
+  "sourceName": "Verdan the Everliving",
+  "sourceZone": 718
+}

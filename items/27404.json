@@ -1,1 +1,21 @@
-{"appearances":{"0":[28218,""]},"classs":2,"displayid":28218,"dps":12.78,"flags2":24576,"id":27404,"level":17,"name":"Lightspark","quality":2,"reqlevel":13,"side":1,"slot":15,"slotbak":26,"source":[4],"sourcemore":[{"c":3525,"c2":1,"n":"Containing the Threat","t":5,"ti":9569}],"speed":1.8,"subclass":19,"firstseenpatch":0,"dmgrange":0.6,"dura":35,"int":1,"sellprice":671,"statsInfo":{"5":{"qty":1,"alloc":10000,"socketMult":0}},"popularity":19,"icon":"inv_wand_07","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Lightspark</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->17</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->16 - 30 Arcane Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(12.78 damage per second)<br><span><!--stat5-->+1 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">71</span></div></td></tr></table>"}
+{
+  "id": 27404,
+  "name": "Lightspark",
+  "icon": "inv_wand_07",
+  "dmgMin": 16,
+  "dmgMax": 30,
+  "speed": 1.8,
+  "dps": 12.78,
+  "popularity": 19,
+  "side": "ALLIANCE",
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "WAND",
+  "type": "RANGED",
+  "stats": {
+    "intellect": 1
+  },
+  "sourceType": "QUEST",
+  "sourceId": 9569,
+  "sourceName": "Containing the Threat"
+}

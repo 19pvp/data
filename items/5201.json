@@ -1,1 +1,21 @@
-{"appearances":{"0":[20340,""]},"classs":2,"displayid":20340,"dps":17.5,"flags2":24576,"id":5201,"level":20,"name":"Emberstone Staff","quality":3,"reqlevel":15,"slot":17,"slotbak":17,"source":[2],"sourcemore":[{"dd":-1,"z":1581}],"speed":3,"subclass":10,"firstseenpatch":0,"critstrkrtng":6,"dmgmax1":63,"dmgmin1":42,"dmgrange":0.4,"dmgtype1":0,"dura":75,"int":6,"mledmgmax":63,"mledmgmin":42,"mledps":17.5,"mlespeed":3,"sellprice":2115,"sheathtype":2,"sta":6,"statsInfo":{"5":{"qty":6,"alloc":5259,"socketMult":0},"7":{"qty":6,"alloc":5259,"socketMult":0},"32":{"qty":6,"alloc":5259,"socketMult":0}},"popularity":16,"icon":"inv_staff_13","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Emberstone Staff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->42 - 63 Damage</span></td>\n    <th>Speed <!--spd-->3.00</th>\n</tr></table><!--dps-->(17.50 damage per second)<br><span><!--stat7-->+6 Stamina</span><br><span><!--stat5-->+6 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<br><!--rr--><span class=\"q2\">Equip: Improves critical strike rating by <!--rtg32-->6.</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">21</span> <span class=\"moneycopper\">15</span></div></td></tr></table><!--i?5201:1:85:15-->"}
+{
+  "id": 5201,
+  "name": "Emberstone Staff",
+  "icon": "inv_staff_13",
+  "dmgMin": 42,
+  "dmgMax": 63,
+  "speed": 3,
+  "dps": 17.5,
+  "popularity": 13,
+  "class": "WEAPON",
+  "quality": "RARE",
+  "subclass": "STAFF",
+  "type": "TWO_HAND",
+  "stats": {
+    "crit": 6,
+    "stamina": 6,
+    "intellect": 6
+  },
+  "sourceType": "DROP",
+  "sourceZone": 1581
+}

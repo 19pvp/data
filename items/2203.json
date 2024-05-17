@@ -1,1 +1,21 @@
-{"appearances":{"0":[3375,""]},"classs":2,"displayid":3375,"dps":12.5,"flags2":24576,"id":2203,"level":19,"name":"Brashclaw's Chopper","quality":2,"reqlevel":14,"slot":17,"slotbak":17,"source":[2],"sourcemore":[{"dd":-1,"n":"Sergeant Brashclaw","t":1,"ti":506,"z":40}],"speed":3.4,"subclass":1,"firstseenpatch":0,"avgbuyout":5500,"dmgmax1":51,"dmgmin1":34,"dmgrange":0.4,"dmgtype1":0,"dura":65,"mledmgmax":51,"mledmgmin":34,"mledps":12.5,"mlespeed":3.4,"sellprice":1492,"sheathtype":1,"str":6,"statsInfo":{"4":{"qty":6,"alloc":10000,"socketMult":0}},"popularity":6,"icon":"inv_axe_23","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Brashclaw's Chopper</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->19</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->34 - 51 Damage</span></td>\n    <th>Speed <!--spd-->3.40</th>\n</tr></table><!--dps-->(12.50 damage per second)<br><span><!--stat4-->+6 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->14<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">14</span> <span class=\"moneycopper\">92</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Sergeant Brashclaw</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 21.63%</div></td></tr></table>"}
+{
+  "id": 2203,
+  "name": "Brashclaw's Chopper",
+  "icon": "inv_axe_23",
+  "dmgMin": 34,
+  "dmgMax": 51,
+  "speed": 3.4,
+  "dps": 12.5,
+  "popularity": 6,
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "TWO_HANDED_AXE",
+  "type": "TWO_HAND",
+  "stats": {
+    "strength": 6
+  },
+  "sourceType": "DROP",
+  "sourceId": 506,
+  "sourceName": "Sergeant Brashclaw",
+  "sourceZone": 40
+}

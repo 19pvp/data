@@ -1,1 +1,21 @@
-{"appearances":{"0":[19624,""]},"classs":2,"displayid":19624,"dps":5.91,"flags2":24576,"id":3223,"level":11,"name":"Frostmane Scepter","quality":2,"reqlevel":6,"slot":13,"slotbak":13,"source":[2],"sourcemore":[{"n":"Great Father Arctikus","t":1,"ti":1260,"z":1}],"speed":2.2,"subclass":4,"firstseenpatch":0,"avgbuyout":15000,"dmgmax1":17,"dmgmin1":9,"dmgrange":0.6,"dmgtype1":0,"dura":40,"mledmgmax":17,"mledmgmin":9,"mledps":5.91,"mlespeed":2.2,"sellprice":306,"sheathtype":3,"sta":1,"statsInfo":{"7":{"qty":1,"alloc":10000,"socketMult":0}},"popularity":13,"icon":"inv_mace_07","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Frostmane Scepter</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->9 - 17 Damage</span></td>\n    <th>Speed <!--spd-->2.20</th>\n</tr></table><!--dps-->(5.91 damage per second)<br><span><!--stat7-->+1 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->6<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">6</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Great Father Arctikus</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 25.28%</div></td></tr></table>"}
+{
+  "id": 3223,
+  "name": "Frostmane Scepter",
+  "icon": "inv_mace_07",
+  "dmgMin": 9,
+  "dmgMax": 17,
+  "speed": 2.2,
+  "dps": 5.91,
+  "popularity": 13,
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "ONE_HANDED_MACE",
+  "type": "ONE_HAND",
+  "stats": {
+    "stamina": 1
+  },
+  "sourceType": "DROP",
+  "sourceId": 1260,
+  "sourceName": "Great Father Arctikus",
+  "sourceZone": 1
+}

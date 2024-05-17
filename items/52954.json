@@ -1,1 +1,22 @@
-{"appearances":{"0":[2397,"inv_staff_02"]},"classs":2,"displayid":2397,"dps":5.63,"flags2":24576,"id":52954,"level":8,"name":"Hatchling Prodder","quality":2,"reqlevel":1,"side":2,"slot":17,"slotbak":17,"source":[4],"sourcemore":[{"c":4720,"c2":11,"n":"Surrender or Else!","t":5,"ti":24868}],"speed":3.2,"subclass":10,"firstseenpatch":0,"dmgmax1":22,"dmgmin1":14,"dmgrange":0.4,"dmgtype1":0,"dura":40,"int":1,"mledmgmax":22,"mledmgmin":14,"mledps":5.63,"mlespeed":3.2,"sellprice":163,"sheathtype":2,"sta":1,"statsInfo":{"5":{"qty":1,"alloc":6667,"socketMult":0},"7":{"qty":1,"alloc":6667,"socketMult":0}},"popularity":11,"icon":"inv_staff_18","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Hatchling Prodder</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->8</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->14 - 22 Damage</span></td>\n    <th>Speed <!--spd-->3.20</th>\n</tr></table><!--dps-->(5.63 damage per second)<br><span><!--stat7-->+1 Stamina</span><br><span><!--stat5-->+1 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">63</span></div></td></tr></table>"}
+{
+  "id": 52954,
+  "name": "Hatchling Prodder",
+  "icon": "inv_staff_18",
+  "dmgMin": 14,
+  "dmgMax": 22,
+  "speed": 3.2,
+  "dps": 5.63,
+  "popularity": 9,
+  "side": "HORDE",
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "STAFF",
+  "type": "TWO_HAND",
+  "stats": {
+    "stamina": 1,
+    "intellect": 1
+  },
+  "sourceType": "QUEST",
+  "sourceId": 24868,
+  "sourceName": "Surrender or Else!"
+}

@@ -1,1 +1,21 @@
-{"appearances":{"0":[20536,""]},"classs":2,"displayid":20536,"dps":13.89,"flags2":24576,"id":6220,"level":21,"name":"Meteor Shard","quality":3,"reqlevel":16,"slot":13,"slotbak":13,"source":[2],"sourcemore":[{"bd":1,"dd":-1,"z":209}],"speed":1.8,"subclass":15,"firstseenpatch":0,"dmgmax1":33,"dmgmin1":17,"dmgrange":0.6,"dmgtype1":0,"dura":45,"mledmgmax":33,"mledmgmin":17,"mledps":13.89,"mlespeed":1.8,"sellprice":1960,"sheathtype":3,"statsInfo":[],"popularity":20,"icon":"inv_weapon_shortblade_25","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Meteor Shard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><br>Binds when picked up<br>Unique-Equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->17 - 33 Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(13.89 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<br><!--rr--><span class=\"q2\">Chance on hit: <a href=\"/cata/spell=13442/firebolt\" class=\"q2\">Blasts a target for 35 Fire damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">19</span> <span class=\"moneycopper\">60</span></div></td></tr></table>"}
+{
+  "id": 6220,
+  "name": "Meteor Shard",
+  "icon": "inv_weapon_shortblade_25",
+  "dmgMin": 17,
+  "dmgMax": 33,
+  "speed": 1.8,
+  "dps": 13.89,
+  "popularity": 15,
+  "class": "WEAPON",
+  "quality": "RARE",
+  "subclass": "DAGGER",
+  "type": "ONE_HAND",
+  "stats": {},
+  "sourceType": "DROP",
+  "sourceZone": 209,
+  "chanceOnHit": {
+    "spell": 13442,
+    "text": "Blasts a target for 35 Fire damage."
+  }
+}

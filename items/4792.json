@@ -1,1 +1,15 @@
-{"appearances":{"0":[23131,""]},"armor":32,"classs":4,"displayid":23131,"flags2":24576,"id":4792,"level":23,"name":"Spirit Cloak","quality":2,"reqlevel":18,"slot":16,"slotbak":16,"source":[5],"subclass":-6,"firstseenpatch":0,"avgbuyout":12999,"buyprice":3280,"sellprice":656,"spi":4,"statsInfo":{"6":{"qty":4,"alloc":10000,"socketMult":0}},"popularity":8,"icon":"inv_misc_cape_11","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Spirit Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Back</td></tr></table><!--rf--><span><!--amr-->32 Armor</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">56</span></div></td></tr></table>"}
+{
+  "id": 4792,
+  "name": "Spirit Cloak",
+  "icon": "inv_misc_cape_11",
+  "popularity": 6,
+  "armor": 32,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "CLOAKS",
+  "type": "BACK",
+  "stats": {
+    "spirit": 4
+  },
+  "sourceType": "VENDOR"
+}

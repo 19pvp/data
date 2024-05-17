@@ -1,1 +1,18 @@
-{"appearances":{"0":[18650,""]},"armor":611,"classs":4,"displayid":18650,"flags2":24576,"id":2021,"level":21,"name":"Green Carapace Shield","quality":2,"reqlevel":16,"slot":14,"slotbak":14,"source":[2],"sourcemore":[{"n":"Green Recluse","t":1,"ti":569,"z":10}],"subclass":6,"firstseenpatch":0,"avgbuyout":4000,"blockamount":219,"dura":65,"sellprice":1025,"sheathtype":4,"statsInfo":{"55":{"qty":4,"alloc":10000,"socketMult":0}},"popularity":5,"icon":"inv_misc_monsterspidercarapace_01","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Green Carapace Shield</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->611 Armor</span><br>219 Block<!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span> <span class=\"moneycopper\">25</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Green Recluse</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 1.19%</div></td></tr></table>"}
+{
+  "id": 2021,
+  "name": "Green Carapace Shield",
+  "icon": "inv_misc_monsterspidercarapace_01",
+  "popularity": 5,
+  "armor": 611,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "SHIELDS",
+  "type": "SHIELD",
+  "stats": {
+    "natureResistance": 4
+  },
+  "sourceType": "DROP",
+  "sourceId": 569,
+  "sourceName": "Green Recluse",
+  "sourceZone": 10
+}

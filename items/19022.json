@@ -1,0 +1,21 @@
+{
+  "id": 19022,
+  "name": "Nat Pagle's Extreme Angler FC-5000",
+  "icon": "inv_fishingpole_01",
+  "dmgMin": 93,
+  "dmgMax": 140,
+  "speed": 3,
+  "dps": 38.83,
+  "popularity": 56,
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "FISHING_POLE",
+  "type": "TWO_HAND",
+  "stats": {},
+  "sourceType": "QUEST",
+  "sourceZone": 47,
+  "equip": {
+    "spell": 7826,
+    "text": "Fishing skill increased by 20."
+  }
+}

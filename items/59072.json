@@ -1,1 +1,20 @@
-{"appearances":{"0":[6210,"inv_bracer_02"]},"armor":63,"classs":4,"displayid":6210,"flags2":24576,"id":59072,"level":20,"name":"Addled Blotter Bracers","quality":2,"reqlevel":18,"side":1,"slot":9,"slotbak":9,"source":[4],"sourcemore":[{"c":11,"c2":0,"n":"Drungeld Glowerglare","t":5,"ti":25727}],"subclass":3,"firstseenpatch":0,"dura":35,"hitrtng":2,"sellprice":437,"sta":2,"str":2,"statsInfo":{"4":{"qty":2,"alloc":5259,"socketMult":0},"7":{"qty":2,"alloc":5259,"socketMult":0},"31":{"qty":2,"alloc":5258,"socketMult":0}},"popularity":15,"icon":"inv_bracer_30a","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Addled Blotter Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->63 Armor</span><br><span><!--stat4-->+2 Strength</span><br><span><!--stat7-->+2 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Improves hit rating by <!--rtg31-->2.</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">37</span></div></td></tr></table><!--i?59072:1:85:18-->"}
+{
+  "id": 59072,
+  "name": "Addled Blotter Bracers",
+  "icon": "inv_bracer_30a",
+  "popularity": 10,
+  "armor": 63,
+  "side": "ALLIANCE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "MAIL",
+  "type": "WRISTS",
+  "stats": {
+    "hit": 2,
+    "strength": 2,
+    "stamina": 2
+  },
+  "sourceType": "QUEST",
+  "sourceId": 25727,
+  "sourceName": "Drungeld Glowerglare"
+}

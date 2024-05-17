@@ -1,1 +1,23 @@
-{"appearances":{"0":[6567,"inv_hammer_16"]},"classs":2,"displayid":6567,"dps":5.94,"flags2":24576,"id":53407,"level":11,"name":"Chopped Off Ancient Limb","quality":2,"reqlevel":9,"side":2,"slot":13,"slotbak":13,"source":[4],"sourcemore":[{"c":16,"c2":1,"n":"Arborcide","t":5,"ti":14155}],"speed":1.6,"subclass":4,"firstseenpatch":0,"critstrkrtng":1,"dmgmax1":13,"dmgmin1":6,"dmgrange":0.6,"dmgtype1":0,"dura":40,"int":1,"mledmgmax":13,"mledmgmin":6,"mledps":5.94,"mlespeed":1.6,"sellprice":311,"sheathtype":3,"sta":1,"statsInfo":{"5":{"qty":1,"alloc":5259,"socketMult":0},"7":{"qty":1,"alloc":5259,"socketMult":0},"32":{"qty":1,"alloc":5258,"socketMult":0}},"popularity":27,"icon":"inv_staff_17","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Chopped Off Ancient Limb</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->6 - 13 Damage</span></td>\n    <th>Speed <!--spd-->1.60</th>\n</tr></table><!--dps-->(5.94 damage per second)<br><span><!--stat7-->+1 Stamina</span><br><span><!--stat5-->+1 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Improves critical strike rating by <!--rtg32-->1.</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">11</span></div></td></tr></table><!--i?53407:1:85:9-->"}
+{
+  "id": 53407,
+  "name": "Chopped Off Ancient Limb",
+  "icon": "inv_staff_17",
+  "dmgMin": 6,
+  "dmgMax": 13,
+  "speed": 1.6,
+  "dps": 5.94,
+  "popularity": 17,
+  "side": "HORDE",
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "ONE_HANDED_MACE",
+  "type": "ONE_HAND",
+  "stats": {
+    "crit": 1,
+    "stamina": 1,
+    "intellect": 1
+  },
+  "sourceType": "QUEST",
+  "sourceId": 14155,
+  "sourceName": "Arborcide"
+}

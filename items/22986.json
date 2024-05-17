@@ -1,1 +1,18 @@
-{"appearances":{"0":[12718,""]},"armor":46,"classs":4,"displayid":12718,"flags2":24576,"id":22986,"level":15,"name":"Apothecary's Robe","quality":2,"reqlevel":10,"slot":5,"slotbak":20,"source":[2,5],"sourcemore":[{"bd":1,"dd":-1,"n":"Landslide","t":1,"ti":12203,"z":2100},{"bd":1,"n":"Provisioner Vredigar","t":1,"ti":16528,"z":3433}],"subclass":1,"firstseenpatch":0,"buyprice":1364,"dura":85,"int":4,"reqfaction":922,"reqrep":6,"sellprice":272,"statsInfo":{"5":{"qty":4,"alloc":10000,"socketMult":0}},"popularity":16,"icon":"inv_chest_cloth_19","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Apothecary's Robe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->15</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->46 Armor</span><br><span><!--stat5-->+4 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->10<br>Requires <a href=\"/cata/faction=922/tranquillien\" class=\"q1\">Tranquillien</a> - Revered<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">72</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Landslide</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 2.99%</div></td></tr></table>"}
+{
+  "id": 22986,
+  "name": "Apothecary's Robe",
+  "icon": "inv_chest_cloth_19",
+  "popularity": 16,
+  "armor": 46,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "CLOTH",
+  "type": "CHEST",
+  "stats": {
+    "intellect": 4
+  },
+  "sourceType": "DROP",
+  "sourceId": 12203,
+  "sourceName": "Landslide",
+  "sourceZone": 2100
+}

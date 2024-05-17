@@ -1,1 +1,21 @@
-{"appearances":{"0":[68549,"inv_weapon_crossbow_04"]},"classs":2,"displayid":68549,"dps":7.14,"flags2":24576,"id":57166,"level":10,"name":"Advanced Night Web Crossbow","quality":2,"reqlevel":7,"side":2,"slot":15,"slotbak":26,"source":[4],"sourcemore":[{"c":85,"c2":0,"n":"A Little Oomph","t":5,"ti":25013}],"speed":2.8,"subclass":18,"firstseenpatch":0,"agi":1,"dmgmax1":26,"dmgmin1":14,"dmgrange":0.6,"dmgtype1":0,"dura":35,"rgddmgmax":26,"rgddmgmin":14,"rgddps":7.14,"rgdspeed":2.8,"sellprice":177,"statsInfo":{"3":{"qty":1,"alloc":10000,"socketMult":0}},"popularity":5,"icon":"inv_weapon_crossbow_02","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Advanced Night Web Crossbow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:18--><span class=\"q1\">Crossbow</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->14 - 26 Damage</span></td>\n    <th>Speed <!--spd-->2.80</th>\n</tr></table><!--dps-->(7.14 damage per second)<br><span><!--stat3-->+1 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">77</span></div></td></tr></table>"}
+{
+  "id": 57166,
+  "name": "Advanced Night Web Crossbow",
+  "icon": "inv_weapon_crossbow_02",
+  "dmgMin": 14,
+  "dmgMax": 26,
+  "speed": 2.8,
+  "dps": 7.14,
+  "popularity": 5,
+  "side": "HORDE",
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "CROSSBOW",
+  "type": "RANGED",
+  "stats": {
+    "agility": 1
+  },
+  "sourceType": "QUEST",
+  "sourceId": 25013,
+  "sourceName": "A Little Oomph"
+}

@@ -1,1 +1,22 @@
-{"appearances":{"0":[5208,"inv_mace_15"]},"classs":2,"displayid":5208,"dps":10,"flags2":24576,"id":52640,"level":20,"name":"Grove Keeper's Branch","quality":2,"reqlevel":17,"side":1,"slot":13,"slotbak":13,"source":[4],"sourcemore":[{"c":148,"c2":1,"n":"The Tides Turn Against Us","t":5,"ti":13898}],"speed":2.5,"subclass":4,"firstseenpatch":0,"dmgmax1":33,"dmgmin1":17,"dmgrange":0.6,"dmgtype1":0,"dura":55,"mledmgmax":33,"mledmgmin":17,"mledps":10,"mlespeed":2.5,"sellprice":1467,"sheathtype":3,"sta":2,"str":2,"statsInfo":{"4":{"qty":2,"alloc":5066,"socketMult":0},"7":{"qty":2,"alloc":7601,"socketMult":0}},"popularity":23,"icon":"inv_mace_05","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Grove Keeper's Branch</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->17 - 33 Damage</span></td>\n    <th>Speed <!--spd-->2.50</th>\n</tr></table><!--dps-->(10.00 damage per second)<br><span><!--stat4-->+2 Strength</span><br><span><!--stat7-->+2 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">14</span> <span class=\"moneycopper\">67</span></div></td></tr></table>"}
+{
+  "id": 52640,
+  "name": "Grove Keeper's Branch",
+  "icon": "inv_mace_05",
+  "dmgMin": 17,
+  "dmgMax": 33,
+  "speed": 2.5,
+  "dps": 10,
+  "popularity": 23,
+  "side": "ALLIANCE",
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "ONE_HANDED_MACE",
+  "type": "ONE_HAND",
+  "stats": {
+    "strength": 2,
+    "stamina": 2
+  },
+  "sourceType": "QUEST",
+  "sourceId": 13898,
+  "sourceName": "The Tides Turn Against Us"
+}

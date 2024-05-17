@@ -1,1 +1,19 @@
-{"appearances":{"0":[12559,"inv_chest_chain"]},"armor":114,"classs":4,"displayid":12559,"flags2":24576,"id":62865,"level":15,"name":"Emberstone Breastplate","quality":2,"reqlevel":12,"side":2,"slot":5,"slotbak":5,"source":[4],"sourcemore":[{"c":4706,"c2":0,"n":"Fall Back!","t":5,"ti":27405}],"subclass":3,"firstseenpatch":0,"dura":85,"sellprice":421,"sta":3,"str":2,"statsInfo":{"4":{"qty":2,"alloc":5066,"socketMult":0},"7":{"qty":3,"alloc":7601,"socketMult":0}},"popularity":20,"icon":"inv_chest_chain_06","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Emberstone Breastplate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->15</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->114 Armor</span><br><span><!--stat4-->+2 Strength</span><br><span><!--stat7-->+3 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">21</span></div></td></tr></table>"}
+{
+  "id": 62865,
+  "name": "Emberstone Breastplate",
+  "icon": "inv_chest_chain_06",
+  "popularity": 20,
+  "armor": 114,
+  "side": "HORDE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "MAIL",
+  "type": "CHEST",
+  "stats": {
+    "strength": 2,
+    "stamina": 3
+  },
+  "sourceType": "QUEST",
+  "sourceId": 27405,
+  "sourceName": "Fall Back!"
+}

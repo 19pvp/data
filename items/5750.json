@@ -1,1 +1,19 @@
-{"appearances":{"0":[4342,"inv_belt_06"]},"armor":90,"classs":4,"displayid":4342,"flags2":24576,"id":5750,"level":23,"name":"Warchief's Girdle","quality":2,"reqlevel":18,"slot":6,"slotbak":6,"source":[2],"sourcemore":[{"n":"Ma'ruk Wyrmscale","t":1,"ti":2090,"z":11}],"subclass":3,"firstseenpatch":0,"avgbuyout":6843,"dura":35,"sellprice":641,"sta":2,"str":5,"statsInfo":{"4":{"qty":5,"alloc":0,"socketMult":0},"7":{"qty":2,"alloc":0,"socketMult":0}},"popularity":11,"icon":"inv_belt_03","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Warchief's Girdle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->90 Armor</span><br><span><!--stat4-->+5 Strength</span><br><span><!--stat7-->+2 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">41</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ma'ruk Wyrmscale</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 70.07%</div></td></tr></table>"}
+{
+  "id": 5750,
+  "name": "Warchief's Girdle",
+  "icon": "inv_belt_03",
+  "popularity": 9,
+  "armor": 90,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "MAIL",
+  "type": "WAIST",
+  "stats": {
+    "strength": 5,
+    "stamina": 2
+  },
+  "sourceType": "DROP",
+  "sourceId": 2090,
+  "sourceName": "Ma'ruk Wyrmscale",
+  "sourceZone": 11
+}

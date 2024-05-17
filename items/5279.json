@@ -1,1 +1,21 @@
-{"appearances":{"0":[6469,""]},"classs":2,"displayid":6469,"dps":9.64,"flags2":24576,"id":5279,"level":20,"name":"Harpy Skinner","quality":2,"reqlevel":12,"side":2,"slot":13,"slotbak":13,"source":[4],"sourcemore":[{"c":17,"c2":1,"n":"Serena Bloodfeather","t":5,"ti":876}],"speed":1.4,"subclass":15,"firstseenpatch":0,"agi":3,"dmgmax1":18,"dmgmin1":9,"dmgrange":0.6,"dmgtype1":0,"dura":40,"mledmgmax":18,"mledmgmin":9,"mledps":9.64,"mlespeed":1.4,"sellprice":1437,"sheathtype":3,"statsInfo":{"3":{"qty":3,"alloc":10000,"socketMult":0}},"popularity":7,"icon":"inv_weapon_shortblade_14","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Harpy Skinner</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->9 - 18 Damage</span></td>\n    <th>Speed <!--spd-->1.40</th>\n</tr></table><!--dps-->(9.64 damage per second)<br><span><!--stat3-->+3 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">14</span> <span class=\"moneycopper\">37</span></div></td></tr></table>"}
+{
+  "id": 5279,
+  "name": "Harpy Skinner",
+  "icon": "inv_weapon_shortblade_14",
+  "dmgMin": 9,
+  "dmgMax": 18,
+  "speed": 1.4,
+  "dps": 9.64,
+  "popularity": 9,
+  "side": "HORDE",
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "DAGGER",
+  "type": "ONE_HAND",
+  "stats": {
+    "agility": 3
+  },
+  "sourceType": "QUEST",
+  "sourceId": 876,
+  "sourceName": "Serena Bloodfeather"
+}

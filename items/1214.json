@@ -1,1 +1,19 @@
-{"appearances":{"0":[19625,""]},"classs":2,"displayid":19625,"dps":8.54,"flags2":24576,"id":1214,"level":17,"name":"Gnoll Punisher","quality":2,"reqlevel":12,"slot":13,"slotbak":13,"source":[2],"sourcemore":[{"z":44}],"speed":2.4,"subclass":4,"firstseenpatch":0,"avgbuyout":1859,"dmgmax1":27,"dmgmin1":14,"dmgrange":0.6,"dmgtype1":0,"dura":50,"mledmgmax":27,"mledmgmin":14,"mledps":8.54,"mlespeed":2.4,"sellprice":930,"sheathtype":3,"str":2,"statsInfo":{"4":{"qty":2,"alloc":10000,"socketMult":0}},"popularity":42,"icon":"inv_hammer_09","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Gnoll Punisher</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->17</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->14 - 27 Damage</span></td>\n    <th>Speed <!--spd-->2.40</th>\n</tr></table><!--dps-->(8.54 damage per second)<br><span><!--stat4-->+2 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->12<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">30</span></div></td></tr></table>"}
+{
+  "id": 1214,
+  "name": "Gnoll Punisher",
+  "icon": "inv_hammer_09",
+  "dmgMin": 14,
+  "dmgMax": 27,
+  "speed": 2.4,
+  "dps": 8.54,
+  "popularity": 27,
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "ONE_HANDED_MACE",
+  "type": "ONE_HAND",
+  "stats": {
+    "strength": 2
+  },
+  "sourceType": "DROP",
+  "sourceZone": 44
+}

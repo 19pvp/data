@@ -1,1 +1,19 @@
-{"appearances":{"0":[4014,""]},"armor":66,"classs":4,"displayid":4014,"flags2":24576,"id":10402,"level":20,"name":"Blackened Defias Boots","quality":3,"reqlevel":15,"slot":8,"slotbak":8,"source":[2],"sourcemore":[{"dd":-1,"n":"Defias Strip Miner","t":1,"ti":4416,"z":1581}],"subclass":2,"firstseenpatch":0,"agi":6,"avgbuyout":8774,"dura":50,"itemset":161,"sellprice":611,"sta":4,"statsInfo":{"3":{"qty":6,"alloc":7601,"socketMult":0},"7":{"qty":4,"alloc":5066,"socketMult":0}},"popularity":40,"icon":"inv_boots_05","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Blackened Defias Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->66 Armor</span><br><span><!--stat3-->+6 Agility</span><br><span><!--stat7-->+4 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<br><!--rr--><!--itemEffects:0--><br /><span class=\"q\"><a href=\"/cata/item-set=161/defias-leather\" class=\"q\">Defias Leather</a> (0/5)</span><div class=\"q0 indent\"><span><!--si10399--><a href=\"/cata/item=10399/blackened-defias-armor\">Blackened Defias Armor</a></span><br /><span><!--si10403--><a href=\"/cata/item=10403/blackened-defias-belt\">Blackened Defias Belt</a></span><br /><span><!--si10402--><a href=\"/cata/item=10402/blackened-defias-boots\">Blackened Defias Boots</a></span><br /><span><!--si10401--><a href=\"/cata/item=10401/blackened-defias-gloves\">Blackened Defias Gloves</a></span><br /><span><!--si10400--><a href=\"/cata/item=10400/blackened-defias-leggings\">Blackened Defias Leggings</a></span></div><br /><span class=\"q0\"><span>(2) Set : <a href=\"/cata/spell=41731/increased-armor-10\">+10 Armor.</a></span><br /><span>(3) Set : <a href=\"/cata/spell=41732/increased-arcane-resist-05\">+5 Arcane Resistance.</a></span><br /><span>(4) Set : <a href=\"/cata/spell=41730/expertise-rating\">Increases expertise rating by 2.</a></span><br /><span>(5) Set : <a href=\"/cata/spell=41733/attack-power-10\">Increases Agility by 5.</a></span></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">11</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Defias Strip Miner</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 2.73%</div></td></tr></table>"}
+{
+  "id": 10402,
+  "name": "Blackened Defias Boots",
+  "icon": "inv_boots_05",
+  "popularity": 37,
+  "armor": 66,
+  "class": "ARMOR",
+  "quality": "RARE",
+  "subclass": "LEATHER",
+  "type": "FEET",
+  "stats": {
+    "agility": 6,
+    "stamina": 4
+  },
+  "sourceType": "DROP",
+  "sourceId": 4416,
+  "sourceName": "Defias Strip Miner",
+  "sourceZone": 1581
+}

@@ -1,1 +1,16 @@
-{"appearances":{"0":[20401,""]},"classs":2,"commondrop":true,"displayid":20401,"dps":12.6,"flags2":24576,"id":4575,"level":19,"name":"Medicine Staff","quality":2,"reqlevel":14,"slot":17,"slotbak":17,"source":[2,16],"speed":2.5,"subclass":10,"firstseenpatch":0,"avgbuyout":6304,"dmgmax1":38,"dmgmin1":25,"dmgrange":0.4,"dmgtype1":0,"dura":65,"mledmgmax":38,"mledmgmin":25,"mledps":12.6,"mlespeed":2.5,"sellprice":1487,"sheathtype":2,"statsInfo":[],"popularity":10,"icon":"inv_staff_31","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Medicine Staff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->19</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->25 - 38 Damage</span></td>\n    <th>Speed <!--spd-->2.50</th>\n</tr></table><!--dps-->(12.60 damage per second)<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->14<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">14</span> <span class=\"moneycopper\">87</span></div></td></tr></table>"}
+{
+  "id": 4575,
+  "name": "Medicine Staff",
+  "icon": "inv_staff_31",
+  "dmgMin": 25,
+  "dmgMax": 38,
+  "speed": 2.5,
+  "dps": 12.6,
+  "popularity": 10,
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "STAFF",
+  "type": "TWO_HAND",
+  "stats": {},
+  "sourceType": "DROP"
+}

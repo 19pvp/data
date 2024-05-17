@@ -1,1 +1,18 @@
-{"appearances":{"0":[19538,""]},"classs":2,"displayid":19538,"dps":11.79,"flags2":24576,"id":4777,"level":18,"name":"Ironwood Maul","quality":2,"reqlevel":13,"slot":17,"slotbak":17,"source":[5],"speed":2.8,"subclass":5,"firstseenpatch":0,"avgbuyout":16729,"buyprice":7040,"dmgmax1":40,"dmgmin1":26,"dmgrange":0.4,"dmgtype1":0,"dura":60,"mledmgmax":40,"mledmgmin":26,"mledps":11.79,"mlespeed":2.8,"sellprice":1408,"sheathtype":1,"sta":5,"statsInfo":{"7":{"qty":5,"alloc":10000,"socketMult":0}},"popularity":22,"icon":"inv_hammer_16","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Ironwood Maul</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->18</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->26 - 40 Damage</span></td>\n    <th>Speed <!--spd-->2.80</th>\n</tr></table><!--dps-->(11.79 damage per second)<br><span><!--stat7-->+5 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->13<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">14</span> <span class=\"moneycopper\">8</span></div></td></tr></table>"}
+{
+  "id": 4777,
+  "name": "Ironwood Maul",
+  "icon": "inv_hammer_16",
+  "dmgMin": 26,
+  "dmgMax": 40,
+  "speed": 2.8,
+  "dps": 11.79,
+  "popularity": 22,
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "TWO_HANDED_MACE",
+  "type": "TWO_HAND",
+  "stats": {
+    "stamina": 5
+  },
+  "sourceType": "VENDOR"
+}

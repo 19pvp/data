@@ -1,1 +1,23 @@
-{"appearances":{"0":[68341,""]},"classs":2,"displayid":68341,"dps":2.5,"flags2":2121728,"id":56836,"level":5,"name":"Overflowing Purple Brewfest Stein","quality":3,"reqlevel":1,"side":2,"slot":13,"slotbak":13,"source":[4],"sourcemore":[{"c":-370,"c2":9,"n":"A New Supplier of Souvenirs","t":5,"ti":29396}],"speed":2.5,"subclass":14,"firstseenpatch":0,"cooldown":30000,"dmgmax1":10,"dmgmin1":2.5,"dmgrange":0.6,"dmgtype1":0,"dura":25,"maxcount":1,"mledmgmax":10,"mledmgmin":2.5,"mledps":2.5,"mlespeed":2.5,"sheathtype":7,"statsInfo":[],"popularity":5,"icon":"inv_misc_beer_08","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Overflowing Purple Brewfest Stein</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->5</span><!--bo--><br>Binds when picked up<br>Unique<table width=\"100%\"><tr><td>One-Hand</td></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->3 - 10 Damage</span></td>\n    <th>Speed <!--spd-->2.50</th>\n</tr></table><!--dps-->(2.60 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Use: <a href=\"/cata/spell=101582/enjoying-a-cold-one\" class=\"q2\">A weak alcoholic beverage.</a> (30 Sec Cooldown)</span><!--itemEffects:1--><br><span class=\"q\">&quot;Now you can celebrate Brewfest all year long!&quot;</span></td></tr></table>"}
+{
+  "id": 56836,
+  "name": "Overflowing Purple Brewfest Stein",
+  "icon": "inv_misc_beer_08",
+  "dmgMin": 2.5,
+  "dmgMax": 10,
+  "speed": 2.5,
+  "dps": 2.5,
+  "popularity": 5,
+  "side": "HORDE",
+  "class": "WEAPON",
+  "quality": "RARE",
+  "subclass": "MISCELLANEOUS",
+  "type": "ONE_HAND",
+  "stats": {},
+  "sourceType": "QUEST",
+  "sourceId": 29396,
+  "sourceName": "A New Supplier of Souvenirs",
+  "use": {
+    "spell": 101582,
+    "text": "A weak alcoholic beverage. (30 Sec Cooldown)"
+  }
+}

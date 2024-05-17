@@ -1,1 +1,18 @@
-{"appearances":{"0":[70260,""]},"armor":18,"classs":4,"displayid":70260,"flags2":24576,"id":68756,"level":11,"name":"Imbued Simple Cape","quality":2,"reqlevel":6,"slot":16,"slotbak":16,"source":[2],"sourcemore":[{"n":"The Rake","t":1,"ti":5807,"z":215}],"subclass":-6,"firstseenpatch":0,"sellprice":94,"sta":1,"statsInfo":{"7":{"qty":1,"alloc":10000,"socketMult":0}},"popularity":21,"icon":"inv_misc_cape_22","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Imbued Simple Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Back</td></tr></table><!--rf--><span><!--amr-->18 Armor</span><br><span><!--stat7-->+1 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->6<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">94</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: The Rake</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 0.10%</div></td></tr></table>"}
+{
+  "id": 68756,
+  "name": "Imbued Simple Cape",
+  "icon": "inv_misc_cape_22",
+  "popularity": 21,
+  "armor": 18,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "CLOAKS",
+  "type": "BACK",
+  "stats": {
+    "stamina": 1
+  },
+  "sourceType": "DROP",
+  "sourceId": 5807,
+  "sourceName": "The Rake",
+  "sourceZone": 215
+}

@@ -1,1 +1,21 @@
-{"appearances":{"0":[77093,""]},"classs":2,"displayid":77093,"dps":6.52,"flags2":24576,"id":66660,"level":9,"name":"Hammer of Controlled Fury","quality":2,"reqlevel":5,"side":1,"slot":17,"slotbak":17,"source":[4],"sourcemore":[{"c":4714,"c2":11,"n":"Neither Human Nor Beast","t":5,"ti":24593}],"speed":3.3,"subclass":5,"firstseenpatch":0,"dmgmax1":26,"dmgmin1":17,"dmgrange":0.4,"dmgtype1":0,"dura":40,"mledmgmax":26,"mledmgmin":17,"mledps":6.52,"mlespeed":3.3,"sellprice":224,"sheathtype":1,"str":1,"statsInfo":{"4":{"qty":1,"alloc":10000,"socketMult":0}},"popularity":20,"icon":"inv_mace_19","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Hammer of Controlled Fury</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->9</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->17 - 26 Damage</span></td>\n    <th>Speed <!--spd-->3.30</th>\n</tr></table><!--dps-->(6.52 damage per second)<br><span><!--stat4-->+1 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">24</span></div></td></tr></table>"}
+{
+  "id": 66660,
+  "name": "Hammer of Controlled Fury",
+  "icon": "inv_mace_19",
+  "dmgMin": 17,
+  "dmgMax": 26,
+  "speed": 3.3,
+  "dps": 6.52,
+  "popularity": 20,
+  "side": "ALLIANCE",
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "TWO_HANDED_MACE",
+  "type": "TWO_HAND",
+  "stats": {
+    "strength": 1
+  },
+  "sourceType": "QUEST",
+  "sourceId": 24593,
+  "sourceName": "Neither Human Nor Beast"
+}

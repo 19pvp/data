@@ -1,1 +1,19 @@
-{"appearances":{"0":[10724,"inv_pants_07"]},"armor":77,"classs":4,"displayid":10724,"flags2":24576,"id":65690,"level":20,"name":"Slaver's Leggings","quality":2,"reqlevel":19,"side":2,"slot":7,"slotbak":7,"source":[4],"sourcemore":[{"c":267,"c2":0,"n":"Human Infestation","t":5,"ti":28138}],"subclass":2,"firstseenpatch":0,"agi":5,"dura":70,"sellprice":724,"sta":3,"statsInfo":{"3":{"qty":5,"alloc":7601,"socketMult":0},"7":{"qty":3,"alloc":5066,"socketMult":0}},"popularity":6,"icon":"inv_pants_leather_14","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Slaver's Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->77 Armor</span><br><span><!--stat3-->+5 Agility</span><br><span><!--stat7-->+3 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">24</span></div></td></tr></table>"}
+{
+  "id": 65690,
+  "name": "Slaver's Leggings",
+  "icon": "inv_pants_leather_14",
+  "popularity": 6,
+  "armor": 77,
+  "side": "HORDE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "LEATHER",
+  "type": "LEGS",
+  "stats": {
+    "agility": 5,
+    "stamina": 3
+  },
+  "sourceType": "QUEST",
+  "sourceId": 28138,
+  "sourceName": "Human Infestation"
+}

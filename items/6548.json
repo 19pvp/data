@@ -1,1 +1,13 @@
-{"appearances":{"0":[12053,""]},"armor":67,"classs":4,"displayid":12053,"flags2":24576,"id":6548,"level":16,"name":"Soldier's Girdle","quality":2,"reqlevel":11,"slot":6,"slotbak":6,"source":[2,16],"subclass":3,"firstseenpatch":0,"avgbuyout":2800,"dura":30,"sellprice":233,"statsInfo":[],"popularity":25,"icon":"inv_belt_25","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Soldier's Girdle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->16</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->67 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->11<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">33</span></div></td></tr></table>"}
+{
+  "id": 6548,
+  "name": "Soldier's Girdle",
+  "icon": "inv_belt_25",
+  "popularity": 25,
+  "armor": 67,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "MAIL",
+  "type": "WAIST",
+  "stats": {},
+  "sourceType": "DROP"
+}

@@ -1,1 +1,19 @@
-{"appearances":{"0":[14843,""]},"armor":60,"classs":4,"displayid":14843,"flags2":24576,"id":1944,"level":20,"name":"Metalworking Gloves","quality":3,"reqlevel":15,"slot":10,"slotbak":10,"source":[2],"sourcemore":[{"dd":-1,"n":"Goblin Craftsman","t":1,"ti":1731,"z":1581}],"subclass":2,"firstseenpatch":0,"agi":6,"avgbuyout":1697,"dura":40,"sellprice":411,"sta":4,"statsInfo":{"3":{"qty":6,"alloc":7601,"socketMult":0},"7":{"qty":4,"alloc":5066,"socketMult":0}},"popularity":19,"icon":"inv_gauntlets_04","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Metalworking Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->60 Armor</span><br><span><!--stat3-->+6 Agility</span><br><span><!--stat7-->+4 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">11</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Goblin Craftsman</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 5.12%</div></td></tr></table>"}
+{
+  "id": 1944,
+  "name": "Metalworking Gloves",
+  "icon": "inv_gauntlets_04",
+  "popularity": 16,
+  "armor": 60,
+  "class": "ARMOR",
+  "quality": "RARE",
+  "subclass": "LEATHER",
+  "type": "HANDS",
+  "stats": {
+    "agility": 6,
+    "stamina": 4
+  },
+  "sourceType": "DROP",
+  "sourceId": 1731,
+  "sourceName": "Goblin Craftsman",
+  "sourceZone": 1581
+}

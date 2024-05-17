@@ -1,1 +1,20 @@
-{"appearances":{"0":[12053,"inv_belt_25"]},"armor":74,"classs":4,"displayid":12053,"flags2":24576,"id":66040,"level":16,"name":"Searing Belt","quality":3,"reqlevel":13,"side":2,"slot":6,"slotbak":6,"source":[4],"sourcemore":[{"c":2437,"c2":2,"n":"Taragaman the Hungerer","t":5,"ti":26858}],"subclass":3,"firstseenpatch":0,"dura":35,"int":3,"sellprice":280,"spi":3,"sta":4,"statsInfo":{"5":{"qty":3,"alloc":4444,"socketMult":0},"6":{"qty":3,"alloc":4444,"socketMult":0},"7":{"qty":4,"alloc":6667,"socketMult":0}},"popularity":5,"icon":"inv_belt_45a","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Searing Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->16</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->74 Armor</span><br><span><!--stat7-->+4 Stamina</span><br><span><!--stat5-->+3 Intellect</span><br><span><!--stat6-->+3 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">80</span></div></td></tr></table>"}
+{
+  "id": 66040,
+  "name": "Searing Belt",
+  "icon": "inv_belt_45a",
+  "popularity": 5,
+  "armor": 74,
+  "side": "HORDE",
+  "class": "ARMOR",
+  "quality": "RARE",
+  "subclass": "MAIL",
+  "type": "WAIST",
+  "stats": {
+    "stamina": 4,
+    "intellect": 3,
+    "spirit": 3
+  },
+  "sourceType": "QUEST",
+  "sourceId": 26858,
+  "sourceName": "Taragaman the Hungerer"
+}

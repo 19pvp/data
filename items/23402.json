@@ -1,1 +1,21 @@
-{"appearances":{"0":[13848,"inv_weapon_shortblade_14"]},"classs":2,"displayid":13848,"dps":7.06,"flags2":24576,"id":23402,"level":14,"name":"Arcanist's Dagger","quality":2,"reqlevel":9,"side":2,"slot":13,"slotbak":13,"source":[4],"sourcemore":[{"c":3433,"c2":0,"n":"Windrunner Village","t":5,"ti":9140}],"speed":1.7,"subclass":15,"firstseenpatch":0,"dmgmax1":16,"dmgmin1":8,"dmgrange":0.6,"dmgtype1":0,"dura":35,"int":1,"mledmgmax":16,"mledmgmin":8,"mledps":7.06,"mlespeed":1.7,"sellprice":577,"sheathtype":3,"statsInfo":{"5":{"qty":1,"alloc":10000,"socketMult":0}},"popularity":14,"icon":"inv_weapon_shortblade_05","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Arcanist's Dagger</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->14</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->8 - 16 Damage</span></td>\n    <th>Speed <!--spd-->1.70</th>\n</tr></table><!--dps-->(7.06 damage per second)<br><span><!--stat5-->+1 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">77</span></div></td></tr></table>"}
+{
+  "id": 23402,
+  "name": "Arcanist's Dagger",
+  "icon": "inv_weapon_shortblade_05",
+  "dmgMin": 8,
+  "dmgMax": 16,
+  "speed": 1.7,
+  "dps": 7.06,
+  "popularity": 14,
+  "side": "HORDE",
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "DAGGER",
+  "type": "ONE_HAND",
+  "stats": {
+    "intellect": 1
+  },
+  "sourceType": "QUEST",
+  "sourceId": 9140,
+  "sourceName": "Windrunner Village"
+}

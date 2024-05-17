@@ -1,1 +1,19 @@
-{"appearances":{"0":[11226,"inv_gauntlets_17"]},"armor":30,"classs":4,"displayid":11226,"flags2":24576,"id":60692,"level":16,"name":"Breadwinner's Gloves","quality":2,"reqlevel":14,"side":1,"slot":10,"slotbak":10,"source":[4],"sourcemore":[{"c":44,"c2":0,"n":"Like a Fart in the Wind","t":5,"ti":26513}],"subclass":1,"firstseenpatch":0,"dura":30,"int":2,"sellprice":169,"sta":2,"statsInfo":{"5":{"qty":2,"alloc":5066,"socketMult":0},"7":{"qty":2,"alloc":7601,"socketMult":0}},"popularity":20,"icon":"inv_gauntlets_15","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Breadwinner's Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->16</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->30 Armor</span><br><span><!--stat7-->+2 Stamina</span><br><span><!--stat5-->+2 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">69</span></div></td></tr></table>"}
+{
+  "id": 60692,
+  "name": "Breadwinner's Gloves",
+  "icon": "inv_gauntlets_15",
+  "popularity": 6,
+  "armor": 30,
+  "side": "ALLIANCE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "CLOTH",
+  "type": "HANDS",
+  "stats": {
+    "stamina": 2,
+    "intellect": 2
+  },
+  "sourceType": "QUEST",
+  "sourceId": 26513,
+  "sourceName": "Like a Fart in the Wind"
+}

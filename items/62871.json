@@ -1,1 +1,19 @@
-{"appearances":{"0":[27974,""]},"armor":23,"classs":4,"displayid":27974,"flags2":24576,"id":62871,"level":15,"name":"War Blood Cloak","quality":2,"reqlevel":12,"side":2,"slot":16,"slotbak":16,"source":[4],"sourcemore":[{"c":4706,"c2":0,"n":"Vengeance for Our Soldiers","t":5,"ti":27360}],"subclass":-6,"firstseenpatch":0,"sellprice":215,"sta":1,"str":1,"statsInfo":{"4":{"qty":1,"alloc":6666,"socketMult":0},"7":{"qty":1,"alloc":6667,"socketMult":0}},"popularity":4,"icon":"inv_misc_cape_22","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">War Blood Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->15</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Back</td></tr></table><!--rf--><span><!--amr-->23 Armor</span><br><span><!--stat4-->+1 Strength</span><br><span><!--stat7-->+1 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">15</span></div></td></tr></table>"}
+{
+  "id": 62871,
+  "name": "War Blood Cloak",
+  "icon": "inv_misc_cape_22",
+  "popularity": 4,
+  "armor": 23,
+  "side": "HORDE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "CLOAKS",
+  "type": "BACK",
+  "stats": {
+    "strength": 1,
+    "stamina": 1
+  },
+  "sourceType": "QUEST",
+  "sourceId": 27360,
+  "sourceName": "Vengeance for Our Soldiers"
+}

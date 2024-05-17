@@ -1,1 +1,25 @@
-{"appearances":{"0":[20418,""]},"classs":2,"displayid":20418,"dps":17.5,"flags2":24576,"id":1933,"level":20,"name":"Staff of Conjuring","quality":3,"reqlevel":15,"slot":17,"slotbak":17,"source":[2],"sourcemore":[{"n":"Defias Conjurer","t":1,"ti":619,"z":40}],"speed":3,"subclass":10,"firstseenpatch":0,"avgbuyout":9900,"cooldown":300000,"dmgmax1":63,"dmgmin1":42,"dmgrange":0.4,"dmgtype1":0,"dura":75,"int":7,"mledmgmax":63,"mledmgmin":42,"mledps":17.5,"mlespeed":3,"sellprice":2186,"sheathtype":2,"statsInfo":{"5":{"qty":7,"alloc":6666,"socketMult":0}},"popularity":15,"icon":"inv_staff_13","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Staff of Conjuring</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->42 - 63 Damage</span></td>\n    <th>Speed <!--spd-->3.00</th>\n</tr></table><!--dps-->(17.50 damage per second)<br><span><!--stat5-->+7 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<br><!--rr--><span class=\"q2\">Use: <a href=\"/cata/spell=8736/conjure-food\" class=\"q2\">Conjures food to eat.</a> (5 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">21</span> <span class=\"moneycopper\">86</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Defias Conjurer</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 5.74%</div></td></tr></table>"}
+{
+  "id": 1933,
+  "name": "Staff of Conjuring",
+  "icon": "inv_staff_13",
+  "dmgMin": 42,
+  "dmgMax": 63,
+  "speed": 3,
+  "dps": 17.5,
+  "popularity": 11,
+  "class": "WEAPON",
+  "quality": "RARE",
+  "subclass": "STAFF",
+  "type": "TWO_HAND",
+  "stats": {
+    "intellect": 7
+  },
+  "sourceType": "DROP",
+  "sourceId": 619,
+  "sourceName": "Defias Conjurer",
+  "sourceZone": 40,
+  "use": {
+    "spell": 8736,
+    "text": "Conjures food to eat. (5 Min Cooldown)"
+  }
+}

@@ -1,1 +1,13 @@
-{"appearances":{"0":[7458,""]},"armor":38,"classs":4,"displayid":7458,"flags2":24576,"id":14174,"level":19,"name":"Buccaneer's Boots","quality":2,"reqlevel":14,"slot":8,"slotbak":8,"source":[2,16],"subclass":1,"firstseenpatch":0,"avgbuyout":3270,"dmgrange":0.2,"dura":45,"sellprice":368,"statsInfo":[],"popularity":15,"icon":"inv_boots_05","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Buccaneer's Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->19</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->38 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->14<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">68</span></div></td></tr></table>"}
+{
+  "id": 14174,
+  "name": "Buccaneer's Boots",
+  "icon": "inv_boots_05",
+  "popularity": 12,
+  "armor": 38,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "CLOTH",
+  "type": "FEET",
+  "stats": {},
+  "sourceType": "DROP"
+}

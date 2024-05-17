@@ -1,1 +1,19 @@
-{"appearances":{"0":[6223,"inv_belt_04"]},"armor":33,"classs":4,"displayid":6223,"flags2":24576,"id":59543,"level":12,"name":"Pigman Belt","quality":2,"reqlevel":9,"side":2,"slot":6,"slotbak":6,"source":[4],"sourcemore":[{"c":17,"c2":1,"n":"The Far Watch Offensive","t":5,"ti":872}],"subclass":2,"firstseenpatch":0,"agi":1,"dura":25,"sellprice":100,"sta":1,"statsInfo":{"3":{"qty":1,"alloc":6666,"socketMult":0},"7":{"qty":1,"alloc":6667,"socketMult":0}},"popularity":13,"icon":"inv_belt_05","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Pigman Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->12</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->33 Armor</span><br><span><!--stat3-->+1 Agility</span><br><span><!--stat7-->+1 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span></div></td></tr></table>"}
+{
+  "id": 59543,
+  "name": "Pigman Belt",
+  "icon": "inv_belt_05",
+  "popularity": 13,
+  "armor": 33,
+  "side": "HORDE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "LEATHER",
+  "type": "WAIST",
+  "stats": {
+    "agility": 1,
+    "stamina": 1
+  },
+  "sourceType": "QUEST",
+  "sourceId": 872,
+  "sourceName": "The Far Watch Offensive"
+}

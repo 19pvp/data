@@ -1,1 +1,19 @@
-{"appearances":{"0":[37490,"inv_chest_chain_06"]},"armor":150,"armorbonus":30,"classs":4,"displayid":37490,"flags2":24576,"id":26030,"level":16,"name":"Maatparm's Fungus Lined Hauberk","quality":2,"reqlevel":15,"side":1,"slot":5,"slotbak":5,"source":[4],"sourcemore":[{"c":3525,"c2":1,"n":"Ysera's Tears","t":5,"ti":9649}],"subclass":3,"firstseenpatch":0,"dmgrange":0.2,"dura":85,"sellprice":507,"sta":3,"str":2,"statsInfo":{"4":{"qty":2,"alloc":0,"socketMult":0},"7":{"qty":3,"alloc":0,"socketMult":0}},"popularity":7,"icon":"inv_chest_plate05","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Maatparm's Fungus Lined Hauberk</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->16</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span class=\"q2 tip\" data-simple-tooltip=\"&lt;span class=&quot;q&quot;&gt;Has 30 bonus armor.&lt;/span&gt;\"><!--amr-->150 Armor</span><br><span><!--stat4-->+2 Strength</span><br><span><!--stat7-->+3 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">7</span></div></td></tr></table>"}
+{
+  "id": 26030,
+  "name": "Maatparm's Fungus Lined Hauberk",
+  "icon": "inv_chest_plate05",
+  "popularity": 7,
+  "armor": 150,
+  "side": "ALLIANCE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "MAIL",
+  "type": "CHEST",
+  "stats": {
+    "strength": 2,
+    "stamina": 3
+  },
+  "sourceType": "QUEST",
+  "sourceId": 9649,
+  "sourceName": "Ysera's Tears"
+}

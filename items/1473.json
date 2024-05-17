@@ -1,1 +1,21 @@
-{"appearances":{"0":[20402,""]},"classs":2,"displayid":20402,"dps":12.58,"flags2":24576,"id":1473,"level":19,"name":"Riverside Staff","quality":2,"reqlevel":14,"slot":17,"slotbak":17,"source":[2],"sourcemore":[{"n":"Murloc Tidecaller","t":1,"ti":545,"z":44}],"speed":3.1,"subclass":10,"firstseenpatch":0,"avgbuyout":32065,"dmgmax1":47,"dmgmin1":31,"dmgrange":0.4,"dmgtype1":0,"dura":65,"mledmgmax":47,"mledmgmin":31,"mledps":12.58,"mlespeed":3.1,"sellprice":1497,"sheathtype":2,"spi":6,"statsInfo":{"6":{"qty":6,"alloc":10000,"socketMult":0}},"popularity":20,"icon":"inv_staff_08","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Riverside Staff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->19</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->31 - 47 Damage</span></td>\n    <th>Speed <!--spd-->3.10</th>\n</tr></table><!--dps-->(12.58 damage per second)<br><span><!--stat6-->+6 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->14<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">14</span> <span class=\"moneycopper\">97</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Murloc Tidecaller</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 0.85%</div></td></tr></table>"}
+{
+  "id": 1473,
+  "name": "Riverside Staff",
+  "icon": "inv_staff_08",
+  "dmgMin": 31,
+  "dmgMax": 47,
+  "speed": 3.1,
+  "dps": 12.58,
+  "popularity": 20,
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "STAFF",
+  "type": "TWO_HAND",
+  "stats": {
+    "spirit": 6
+  },
+  "sourceType": "DROP",
+  "sourceId": 545,
+  "sourceName": "Murloc Tidecaller",
+  "sourceZone": 44
+}

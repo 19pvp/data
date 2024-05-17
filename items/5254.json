@@ -1,1 +1,17 @@
-{"appearances":{"0":[5849,""]},"armor":75,"classs":4,"displayid":5849,"flags2":24576,"id":5254,"level":21,"name":"Rugged Spaulders","quality":3,"reqlevel":16,"slot":3,"slotbak":3,"source":[2],"sourcemore":[{"bd":1,"dd":-1,"z":209}],"subclass":2,"firstseenpatch":0,"agi":6,"dura":70,"sellprice":710,"sta":4,"statsInfo":{"3":{"qty":6,"alloc":7601,"socketMult":0},"7":{"qty":4,"alloc":5066,"socketMult":0}},"popularity":10,"icon":"inv_shoulder_08","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Rugged Spaulders</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->75 Armor</span><br><span><!--stat3-->+6 Agility</span><br><span><!--stat7-->+4 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">10</span></div></td></tr></table>"}
+{
+  "id": 5254,
+  "name": "Rugged Spaulders",
+  "icon": "inv_shoulder_08",
+  "popularity": 15,
+  "armor": 75,
+  "class": "ARMOR",
+  "quality": "RARE",
+  "subclass": "LEATHER",
+  "type": "SHOULDERS",
+  "stats": {
+    "agility": 6,
+    "stamina": 4
+  },
+  "sourceType": "DROP",
+  "sourceZone": 209
+}

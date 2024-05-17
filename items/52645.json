@@ -1,1 +1,22 @@
-{"appearances":{"0":[20605,"inv_weapon_shortblade_15"]},"classs":2,"displayid":20605,"dps":7.5,"flags2":24576,"id":52645,"level":15,"name":"Whiteclaw Dagger","quality":2,"reqlevel":10,"side":1,"slot":13,"slotbak":13,"source":[4],"sourcemore":[{"c":148,"c2":1,"n":"Remembrance of Auberdine","t":5,"ti":13570}],"speed":1.8,"subclass":15,"firstseenpatch":0,"agi":1,"dmgmax1":18,"dmgmin1":9,"dmgrange":0.6,"dmgtype1":0,"dura":35,"mledmgmax":18,"mledmgmin":9,"mledps":7.5,"mlespeed":1.8,"sellprice":742,"sheathtype":3,"sta":1,"statsInfo":{"3":{"qty":1,"alloc":6666,"socketMult":0},"7":{"qty":1,"alloc":6667,"socketMult":0}},"popularity":21,"icon":"inv_weapon_shortblade_02","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Whiteclaw Dagger</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->15</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->9 - 18 Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(7.50 damage per second)<br><span><!--stat3-->+1 Agility</span><br><span><!--stat7-->+1 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">42</span></div></td></tr></table>"}
+{
+  "id": 52645,
+  "name": "Whiteclaw Dagger",
+  "icon": "inv_weapon_shortblade_02",
+  "dmgMin": 9,
+  "dmgMax": 18,
+  "speed": 1.8,
+  "dps": 7.5,
+  "popularity": 11,
+  "side": "ALLIANCE",
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "DAGGER",
+  "type": "ONE_HAND",
+  "stats": {
+    "agility": 1,
+    "stamina": 1
+  },
+  "sourceType": "QUEST",
+  "sourceId": 13570,
+  "sourceName": "Remembrance of Auberdine"
+}

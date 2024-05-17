@@ -1,1 +1,20 @@
-{"appearances":{"0":[60361,""]},"armor":0,"classs":4,"displayid":60361,"flags2":24576,"id":46874,"level":1,"name":"Argent Crusader's Tabard","quality":3,"slot":19,"slotbak":19,"source":[5],"sourcemore":[{"n":"Dame Evniki Kapsalis","t":1,"ti":34885,"z":210}],"subclass":-7,"firstseenpatch":0,"cooldown":1800000,"statsInfo":[],"popularity":150,"icon":"inv_shirt_guildtabard_01","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Argent Crusader's Tabard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Tabard</td><th><!--scstart4:-7--><span class=\"q1\"></span><!--scend--></th></tr></table><!--rf--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Use: <a href=\"/cata/spell=66238/teleport-argent-tournament\" class=\"q2\">Teleports the caster to the Argent Tournament Grounds.</a> (30 Min Cooldown)</span><!--itemEffects:1--></td></tr></table>"}
+{
+  "id": 46874,
+  "name": "Argent Crusader's Tabard",
+  "icon": "inv_shirt_guildtabard_01",
+  "popularity": 169,
+  "armor": 0,
+  "class": "ARMOR",
+  "quality": "RARE",
+  "subclass": "TABARDS",
+  "type": "TABARD",
+  "stats": {},
+  "sourceType": "VENDOR",
+  "sourceId": 34885,
+  "sourceName": "Dame Evniki Kapsalis",
+  "sourceZone": 210,
+  "use": {
+    "spell": 66238,
+    "text": "Teleports the caster to the Argent Tournament Grounds. (30 Min Cooldown)"
+  }
+}

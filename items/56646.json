@@ -1,1 +1,22 @@
-{"appearances":{"0":[5165,""]},"classs":2,"displayid":5165,"dps":10.58,"flags2":24576,"id":56646,"level":21,"name":"Shredder Blade","quality":2,"reqlevel":19,"side":1,"slot":13,"slotbak":13,"source":[4],"sourcemore":[{"c":331,"c2":1,"n":"Explosives Shredding","t":5,"ti":13698}],"speed":2.6,"subclass":7,"firstseenpatch":0,"agi":2,"dmgmax1":36,"dmgmin1":19,"dmgrange":0.6,"dmgtype1":0,"dura":60,"mledmgmax":36,"mledmgmin":19,"mledps":10.58,"mlespeed":2.6,"sellprice":1676,"sheathtype":3,"sta":2,"statsInfo":{"3":{"qty":2,"alloc":5376,"socketMult":0},"7":{"qty":2,"alloc":7424,"socketMult":0}},"popularity":7,"icon":"inv_sword_24","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Shredder Blade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:7--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->19 - 36 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(10.58 damage per second)<br><span><!--stat3-->+2 Agility</span><br><span><!--stat7-->+2 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">16</span> <span class=\"moneycopper\">76</span></div></td></tr></table>"}
+{
+  "id": 56646,
+  "name": "Shredder Blade",
+  "icon": "inv_sword_24",
+  "dmgMin": 19,
+  "dmgMax": 36,
+  "speed": 2.6,
+  "dps": 10.58,
+  "popularity": 7,
+  "side": "ALLIANCE",
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "ONE_HANDED_SWORD",
+  "type": "ONE_HAND",
+  "stats": {
+    "agility": 2,
+    "stamina": 2
+  },
+  "sourceType": "QUEST",
+  "sourceId": 13698,
+  "sourceName": "Explosives Shredding"
+}

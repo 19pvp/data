@@ -1,1 +1,21 @@
-{"appearances":{"0":[6106,""]},"classs":2,"displayid":6106,"dps":8.13,"flags2":24576,"id":62838,"level":11,"name":"Nub's Wand","quality":2,"reqlevel":9,"side":2,"slot":15,"slotbak":26,"source":[4],"sourcemore":[{"c":130,"c2":0,"n":"The Gilneas Liberation Front","t":5,"ti":26989}],"speed":1.6,"subclass":19,"firstseenpatch":0,"dmgrange":0.6,"dura":30,"int":1,"sellprice":245,"statsInfo":{"5":{"qty":1,"alloc":10000,"socketMult":0}},"popularity":5,"icon":"inv_wand_02","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Nub's Wand</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->9 - 17 Fire Damage</span></td>\n    <th>Speed <!--spd-->1.60</th>\n</tr></table><!--dps-->(8.13 damage per second)<br><span><!--stat5-->+1 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">45</span></div></td></tr></table>"}
+{
+  "id": 62838,
+  "name": "Nub's Wand",
+  "icon": "inv_wand_02",
+  "dmgMin": 9,
+  "dmgMax": 17,
+  "speed": 1.6,
+  "dps": 8.13,
+  "popularity": 3,
+  "side": "HORDE",
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "WAND",
+  "type": "RANGED",
+  "stats": {
+    "intellect": 1
+  },
+  "sourceType": "QUEST",
+  "sourceId": 26989,
+  "sourceName": "The Gilneas Liberation Front"
+}

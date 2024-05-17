@@ -1,1 +1,17 @@
-{"appearances":{"0":[28648,""]},"armor":60,"classs":4,"displayid":28648,"flags2":24576,"id":12987,"level":22,"name":"Darkweave Breeches","quality":3,"reqlevel":17,"slot":7,"slotbak":7,"source":[2],"subclass":1,"firstseenpatch":0,"avgbuyout":145000,"dura":90,"int":7,"sellprice":906,"spi":6,"sta":4,"statsInfo":{"5":{"qty":7,"alloc":5833,"socketMult":0},"6":{"qty":6,"alloc":5000,"socketMult":0},"7":{"qty":4,"alloc":3333,"socketMult":0}},"popularity":21,"icon":"inv_pants_06","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Darkweave Breeches</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->60 Armor</span><br><span><!--stat7-->+4 Stamina</span><br><span><!--stat5-->+7 Intellect</span><br><span><!--stat6-->+6 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->17<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">6</span></div></td></tr></table>"}
+{
+  "id": 12987,
+  "name": "Darkweave Breeches",
+  "icon": "inv_pants_06",
+  "popularity": 8,
+  "armor": 60,
+  "class": "ARMOR",
+  "quality": "RARE",
+  "subclass": "CLOTH",
+  "type": "LEGS",
+  "stats": {
+    "stamina": 4,
+    "intellect": 7,
+    "spirit": 6
+  },
+  "sourceType": "DROP"
+}

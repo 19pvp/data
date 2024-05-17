@@ -1,1 +1,17 @@
-{"appearances":{"0":[29792,""]},"armor":0,"classs":4,"displayid":29792,"flags2":159744,"heirloombonuses":[0,0,0,0],"id":48691,"level":1,"name":"Tattered Dreadmist Robe","quality":7,"reqlevel":1,"slot":5,"slotbak":20,"source":[5],"subclass":1,"firstseenpatch":0,"dbcFlags":1048584,"dmgrange":0.2,"scadist":336,"statsInfo":[],"popularity":168,"icon":"inv_chest_cloth_49","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q7\">Tattered Dreadmist Robe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><br>Binds to account<!--ue--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\"><!--asc1-->Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->729 Armor</span><br><span><!--stat7-->+103 Stamina</span><br><span><!--stat5-->+68 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires level <!--minlvl-->1 to <!--maxlvl-->80 (<!--lvl-->80)<br><!--rr--><span class=\"q2\">Equip: Improves critical strike rating by <!--rtg32-->68.</span><br><span class=\"q2\">Equip: <a href=\"/cata/spell=57353/heirloom-experience-bonus-10\" class=\"q2\">Experience gained is increased by 10%.</a></span><!--itemEffects:1--></td></tr></table><!--i?48691:1:80:80:336:0-->"}
+{
+  "id": 48691,
+  "name": "Tattered Dreadmist Robe",
+  "icon": "inv_chest_cloth_49",
+  "popularity": 168,
+  "armor": 0,
+  "class": "ARMOR",
+  "quality": "HEIRLOOM",
+  "subclass": "CLOTH",
+  "type": "CHEST",
+  "stats": {
+    "crit": 6,
+    "stamina": 10,
+    "intellect": 6
+  },
+  "sourceType": "VENDOR"
+}

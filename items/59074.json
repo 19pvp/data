@@ -1,1 +1,18 @@
-{"appearances":{"0":[8410,"inv_bracer_09"]},"armor":38,"classs":4,"displayid":8410,"flags2":24576,"id":59074,"level":20,"name":"Topsoil Bracers","quality":2,"reqlevel":18,"side":1,"slot":9,"slotbak":9,"source":[4],"sourcemore":[{"c":11,"c2":0,"n":"Sedimentary, My Dear","t":5,"ti":25722}],"subclass":2,"firstseenpatch":0,"dura":35,"int":3,"sellprice":367,"statsInfo":{"5":{"qty":3,"alloc":10000,"socketMult":0}},"popularity":20,"icon":"inv_bracer_03","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Topsoil Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->38 Armor</span><br><span><!--stat5-->+3 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">67</span></div></td></tr></table>"}
+{
+  "id": 59074,
+  "name": "Topsoil Bracers",
+  "icon": "inv_bracer_03",
+  "popularity": 20,
+  "armor": 38,
+  "side": "ALLIANCE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "LEATHER",
+  "type": "WRISTS",
+  "stats": {
+    "intellect": 3
+  },
+  "sourceType": "QUEST",
+  "sourceId": 25722,
+  "sourceName": "Sedimentary, My Dear"
+}

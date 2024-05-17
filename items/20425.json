@@ -1,1 +1,24 @@
-{"appearances":{"0":[15430,""]},"classs":2,"displayid":15430,"dps":19.66,"flags2":24577,"id":20425,"level":23,"name":"Advisor's Gnarled Staff","quality":3,"reqlevel":18,"side":2,"slot":17,"slotbak":17,"source":[5],"sourcemore":[{"n":"Kelm Hargunth","t":1,"ti":14754,"z":17}],"speed":2.9,"subclass":10,"firstseenpatch":0,"buyprice":16433,"dmgmax1":69,"dmgmin1":45,"dmgrange":0.4,"dmgtype1":0,"dura":80,"int":4,"mledmgmax":69,"mledmgmin":45,"mledps":19.66,"mlespeed":2.9,"sellprice":3286,"sheathtype":2,"spi":8,"sta":8,"statsInfo":{"5":{"qty":4,"alloc":3333,"socketMult":0},"6":{"qty":8,"alloc":6667,"socketMult":0},"7":{"qty":8,"alloc":6667,"socketMult":0}},"popularity":14,"icon":"inv_staff_25","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Advisor's Gnarled Staff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->45 - 69 Damage</span></td>\n    <th>Speed <!--spd-->2.90</th>\n</tr></table><!--dps-->(19.66 damage per second)<br><span><!--stat7-->+8 Stamina</span><br><span><!--stat5-->+4 Intellect</span><br><span><!--stat6-->+8 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">32</span> <span class=\"moneycopper\">86</span></div></td></tr></table>"}
+{
+  "id": 20425,
+  "name": "Advisor's Gnarled Staff",
+  "icon": "inv_staff_25",
+  "dmgMin": 45,
+  "dmgMax": 69,
+  "speed": 2.9,
+  "dps": 19.66,
+  "popularity": 14,
+  "side": "HORDE",
+  "class": "WEAPON",
+  "quality": "RARE",
+  "subclass": "STAFF",
+  "type": "TWO_HAND",
+  "stats": {
+    "stamina": 8,
+    "intellect": 4,
+    "spirit": 8
+  },
+  "sourceType": "VENDOR",
+  "sourceId": 14754,
+  "sourceName": "Kelm Hargunth",
+  "sourceZone": 17
+}

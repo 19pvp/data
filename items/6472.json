@@ -1,1 +1,23 @@
-{"appearances":{"0":[11958,""]},"classs":2,"displayid":11958,"dps":14.04,"flags2":24576,"id":6472,"level":21,"name":"Stinging Viper","quality":3,"reqlevel":16,"slot":13,"slotbak":13,"source":[2],"sourcemore":[{"bd":1,"dd":-1,"n":"Lord Pythas","t":1,"ti":3670,"z":718}],"speed":2.6,"subclass":4,"firstseenpatch":0,"dmgmax1":48,"dmgmin1":25,"dmgrange":0.6,"dmgtype1":0,"dura":70,"mledmgmax":48,"mledmgmin":25,"mledps":14.04,"mlespeed":2.6,"sellprice":2055,"sheathtype":3,"statsInfo":[],"popularity":12,"icon":"inv_wand_10","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Stinging Viper</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->25 - 48 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(14.04 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<br><!--rr--><span class=\"q2\">Chance on hit: <a href=\"/cata/spell=18197/poison\" class=\"q2\">Poisons target for 7 Nature damage every 3 sec for 15 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">20</span> <span class=\"moneycopper\">55</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Lord Pythas</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 30.49%</div></td></tr></table>"}
+{
+  "id": 6472,
+  "name": "Stinging Viper",
+  "icon": "inv_wand_10",
+  "dmgMin": 25,
+  "dmgMax": 48,
+  "speed": 2.6,
+  "dps": 14.04,
+  "popularity": 12,
+  "class": "WEAPON",
+  "quality": "RARE",
+  "subclass": "ONE_HANDED_MACE",
+  "type": "ONE_HAND",
+  "stats": {},
+  "sourceType": "DROP",
+  "sourceId": 3670,
+  "sourceName": "Lord Pythas",
+  "sourceZone": 718,
+  "chanceOnHit": {
+    "spell": 18197,
+    "text": "Poisons target for 7 Nature damage every 3 sec for 15 sec."
+  }
+}

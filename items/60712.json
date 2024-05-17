@@ -1,1 +1,18 @@
-{"appearances":{"0":[1965,"inv_bracer_03"]},"armor":35,"classs":4,"displayid":1965,"flags2":24576,"id":60712,"level":18,"name":"Exterminator's Armbands","quality":2,"reqlevel":16,"side":1,"slot":9,"slotbak":9,"source":[4],"sourcemore":[{"c":44,"c2":0,"n":"Detonation","t":5,"ti":26668}],"subclass":2,"firstseenpatch":0,"dura":30,"int":3,"sellprice":280,"statsInfo":{"5":{"qty":3,"alloc":10000,"socketMult":0}},"popularity":19,"icon":"inv_bracer_02","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Exterminator's Armbands</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->18</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->35 Armor</span><br><span><!--stat5-->+3 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">80</span></div></td></tr></table>"}
+{
+  "id": 60712,
+  "name": "Exterminator's Armbands",
+  "icon": "inv_bracer_02",
+  "popularity": 4,
+  "armor": 35,
+  "side": "ALLIANCE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "LEATHER",
+  "type": "WRISTS",
+  "stats": {
+    "intellect": 3
+  },
+  "sourceType": "QUEST",
+  "sourceId": 26668,
+  "sourceName": "Detonation"
+}

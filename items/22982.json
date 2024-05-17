@@ -1,1 +1,22 @@
-{"appearances":{"0":[20674,""]},"classs":2,"displayid":20674,"dps":18.24,"flags2":24576,"id":22982,"level":21,"name":"Farstrider's Longbow","quality":3,"reqlevel":15,"slot":15,"slotbak":15,"source":[2,4],"sourcemore":[{"bd":1,"dd":-1,"n":"Rotgrip","t":1,"ti":13596,"z":2100},{"c":3433,"c2":0,"n":"The Traitor's Destruction","t":5,"ti":9167}],"speed":1.7,"subclass":2,"firstseenpatch":0,"agi":3,"dmgmax1":41,"dmgmin1":21,"dmgrange":0.6,"dmgtype1":2,"dura":60,"rgddmgmax":41,"rgddmgmin":21,"rgddps":18.24,"rgdspeed":1.7,"sellprice":1507,"sta":3,"statsInfo":{"3":{"qty":3,"alloc":6667,"socketMult":0},"7":{"qty":3,"alloc":6666,"socketMult":0}},"popularity":19,"icon":"inv_weapon_bow_07","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Farstrider's Longbow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:2--><span class=\"q1\">Bow</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->21 - 41 Damage</span></td>\n    <th>Speed <!--spd-->1.70</th>\n</tr></table><!--dps-->(18.24 damage per second)<br><span><!--stat3-->+3 Agility</span><br><span><!--stat7-->+3 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">15</span> <span class=\"moneycopper\">7</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Rotgrip</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 3.00%</div></td></tr></table>"}
+{
+  "id": 22982,
+  "name": "Farstrider's Longbow",
+  "icon": "inv_weapon_bow_07",
+  "dmgMin": 21,
+  "dmgMax": 41,
+  "speed": 1.7,
+  "dps": 18.24,
+  "popularity": 14,
+  "class": "WEAPON",
+  "quality": "RARE",
+  "subclass": "BOW",
+  "type": "RANGED",
+  "stats": {
+    "agility": 3,
+    "stamina": 3
+  },
+  "sourceType": "DROP",
+  "sourceId": 13596,
+  "sourceName": "Rotgrip",
+  "sourceZone": 2100
+}

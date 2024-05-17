@@ -1,1 +1,23 @@
-{"appearances":{"0":[70918,""]},"classs":2,"displayid":70918,"dps":17.5,"flags2":24576,"id":60727,"level":20,"name":"Keeshan's Bow","quality":3,"reqlevel":17,"side":1,"slot":15,"slotbak":15,"source":[4],"sourcemore":[{"c":44,"c2":0,"n":"Triumphant Return","t":5,"ti":26726}],"speed":2.8,"subclass":2,"firstseenpatch":0,"dmgmax1":64,"dmgmin1":34,"dmgrange":0.6,"dmgtype1":0,"dura":60,"hitrtng":1,"rgddmgmax":64,"rgddmgmin":34,"rgddps":17.5,"rgdspeed":2.8,"sellprice":1312,"sta":2,"str":1,"statsInfo":{"4":{"qty":1,"alloc":4444,"socketMult":0},"7":{"qty":2,"alloc":6667,"socketMult":0},"31":{"qty":1,"alloc":4444,"socketMult":0}},"popularity":12,"icon":"inv_weapon_bow_57","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Keeshan's Bow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:2--><span class=\"q1\">Bow</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->34 - 64 Damage</span></td>\n    <th>Speed <!--spd-->2.80</th>\n</tr></table><!--dps-->(17.50 damage per second)<br><span><!--stat4-->+1 Strength</span><br><span><!--stat7-->+2 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Improves hit rating by <!--rtg31-->1.</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">13</span> <span class=\"moneycopper\">12</span></div></td></tr></table><!--i?60727:1:85:17-->"}
+{
+  "id": 60727,
+  "name": "Keeshan's Bow",
+  "icon": "inv_weapon_bow_57",
+  "dmgMin": 34,
+  "dmgMax": 64,
+  "speed": 2.8,
+  "dps": 17.5,
+  "popularity": 19,
+  "side": "ALLIANCE",
+  "class": "WEAPON",
+  "quality": "RARE",
+  "subclass": "BOW",
+  "type": "RANGED",
+  "stats": {
+    "hit": 1,
+    "strength": 1,
+    "stamina": 2
+  },
+  "sourceType": "QUEST",
+  "sourceId": 26726,
+  "sourceName": "Triumphant Return"
+}

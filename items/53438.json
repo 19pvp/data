@@ -1,1 +1,18 @@
-{"appearances":{"0":[12299,"inv_gauntlets_09"]},"armor":79,"classs":4,"displayid":12299,"flags2":24576,"id":53438,"level":17,"name":"Scalding Gloves","quality":2,"reqlevel":15,"side":2,"slot":10,"slotbak":10,"source":[4],"sourcemore":[{"c":16,"c2":1,"n":"Full of Hot Water","t":5,"ti":14324}],"subclass":3,"firstseenpatch":0,"dura":30,"sellprice":268,"sta":3,"statsInfo":{"7":{"qty":3,"alloc":10000,"socketMult":0}},"popularity":6,"icon":"inv_gauntlets_10","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Scalding Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->17</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->79 Armor</span><br><span><!--stat7-->+3 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><span class=\"q\">&quot;Ouch.&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">68</span></div></td></tr></table>"}
+{
+  "id": 53438,
+  "name": "Scalding Gloves",
+  "icon": "inv_gauntlets_10",
+  "popularity": 5,
+  "armor": 79,
+  "side": "HORDE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "MAIL",
+  "type": "HANDS",
+  "stats": {
+    "stamina": 3
+  },
+  "sourceType": "QUEST",
+  "sourceId": 14324,
+  "sourceName": "Full of Hot Water"
+}

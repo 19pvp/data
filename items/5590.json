@@ -1,1 +1,18 @@
-{"appearances":{"0":[12549,"inv_bracer_13"]},"armor":15,"classs":4,"displayid":12549,"flags2":24576,"id":5590,"level":10,"name":"Cord Bracers","quality":2,"reqlevel":7,"side":1,"slot":9,"slotbak":9,"source":[4],"sourcemore":[{"c":141,"c2":1,"n":"Mist","t":5,"ti":938}],"subclass":1,"firstseenpatch":0,"dura":25,"sellprice":46,"sta":1,"statsInfo":{"7":{"qty":1,"alloc":10000,"socketMult":0}},"popularity":5,"icon":"inv_bracer_73","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Cord Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->15 Armor</span><br><span><!--stat7-->+1 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">46</span></div></td></tr></table>"}
+{
+  "id": 5590,
+  "name": "Cord Bracers",
+  "icon": "inv_bracer_73",
+  "popularity": 5,
+  "armor": 15,
+  "side": "ALLIANCE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "CLOTH",
+  "type": "WRISTS",
+  "stats": {
+    "stamina": 1
+  },
+  "sourceType": "QUEST",
+  "sourceId": 938,
+  "sourceName": "Mist"
+}

@@ -1,1 +1,13 @@
-{"appearances":{"0":[18701,""]},"armor":658,"classs":4,"displayid":18701,"flags2":24576,"id":6572,"level":23,"name":"Defender Shield","quality":2,"reqlevel":18,"slot":14,"slotbak":14,"source":[2],"subclass":6,"firstseenpatch":0,"avgbuyout":5241,"blockamount":220,"dura":70,"sellprice":1323,"sheathtype":4,"statsInfo":[],"popularity":6,"icon":"inv_shield_06","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Defender Shield</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->658 Armor</span><br>220 Block<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">13</span> <span class=\"moneycopper\">23</span></div></td></tr></table>"}
+{
+  "id": 6572,
+  "name": "Defender Shield",
+  "icon": "inv_shield_06",
+  "popularity": 6,
+  "armor": 658,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "SHIELDS",
+  "type": "SHIELD",
+  "stats": {},
+  "sourceType": "DROP"
+}

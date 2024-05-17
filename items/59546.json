@@ -1,1 +1,18 @@
-{"appearances":{"0":[3767,"inv_bracer_12"]},"armor":47,"classs":4,"displayid":3767,"flags2":24576,"id":59546,"level":14,"name":"Ointment-Coated Bracers","quality":2,"reqlevel":10,"side":2,"slot":9,"slotbak":9,"source":[4],"sourcemore":[{"c":17,"c2":1,"n":"In Fungus We Trust","t":5,"ti":13998}],"subclass":3,"firstseenpatch":0,"dura":25,"sellprice":182,"str":2,"statsInfo":{"4":{"qty":2,"alloc":10000,"socketMult":0}},"popularity":6,"icon":"inv_bracer_27a","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Ointment-Coated Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->14</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->47 Armor</span><br><span><!--stat4-->+2 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">82</span></div></td></tr></table>"}
+{
+  "id": 59546,
+  "name": "Ointment-Coated Bracers",
+  "icon": "inv_bracer_27a",
+  "popularity": 6,
+  "armor": 47,
+  "side": "HORDE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "MAIL",
+  "type": "WRISTS",
+  "stats": {
+    "strength": 2
+  },
+  "sourceType": "QUEST",
+  "sourceId": 13998,
+  "sourceName": "In Fungus We Trust"
+}

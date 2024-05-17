@@ -1,1 +1,19 @@
-{"appearances":{"0":[2916,""]},"armor":541,"classs":4,"displayid":2916,"flags2":24576,"id":4290,"level":18,"name":"Dust Bowl","quality":2,"reqlevel":13,"slot":14,"slotbak":14,"source":[2],"sourcemore":[{"n":"Unbound Cyclone","t":1,"ti":832,"z":40}],"subclass":6,"firstseenpatch":0,"avgbuyout":1616,"blockamount":218,"dura":60,"hitrtng":2,"sellprice":715,"sheathtype":4,"str":2,"statsInfo":{"4":{"qty":2,"alloc":6667,"socketMult":0},"31":{"qty":2,"alloc":6667,"socketMult":0}},"popularity":7,"icon":"inv_shield_09","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Dust Bowl</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->18</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->541 Armor</span><br>218 Block<br><span><!--stat4-->+2 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->13<br><!--rr--><span class=\"q2\">Equip: Improves hit rating by <!--rtg31-->2.</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">15</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Unbound Cyclone</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 1.46%</div></td></tr></table><!--i?4290:1:85:13-->"}
+{
+  "id": 4290,
+  "name": "Dust Bowl",
+  "icon": "inv_shield_09",
+  "popularity": 7,
+  "armor": 541,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "SHIELDS",
+  "type": "SHIELD",
+  "stats": {
+    "hit": 2,
+    "strength": 2
+  },
+  "sourceType": "DROP",
+  "sourceId": 832,
+  "sourceName": "Unbound Cyclone",
+  "sourceZone": 40
+}

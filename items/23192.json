@@ -1,1 +1,16 @@
-{"appearances":{"0":[3865,"inv_banner_02"]},"armor":0,"classs":4,"displayid":3865,"flags2":24576,"id":23192,"level":1,"name":"Tabard of the Scarlet Crusade","quality":2,"slot":19,"slotbak":19,"source":[2],"sourcemore":[{"dd":-1,"n":"Scarlet Trainee","t":1,"ti":6575,"z":796}],"subclass":-7,"firstseenpatch":0,"maxcount":1,"sellprice":7143,"statsInfo":[],"popularity":139,"icon":"inv_misc_cape_18","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Tabard of the Scarlet Crusade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><br>Binds when picked up<br>Unique<table width=\"100%\"><tr><td>Tabard</td><th><!--scstart4:-7--><span class=\"q1\"></span><!--scend--></th></tr></table><!--rf--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">71</span> <span class=\"moneycopper\">43</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Scarlet Trainee</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 2.49%</div></td></tr></table>"}
+{
+  "id": 23192,
+  "name": "Tabard of the Scarlet Crusade",
+  "icon": "inv_misc_cape_18",
+  "popularity": 110,
+  "armor": 0,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "TABARDS",
+  "type": "TABARD",
+  "stats": {},
+  "sourceType": "DROP",
+  "sourceId": 6575,
+  "sourceName": "Scarlet Trainee",
+  "sourceZone": 796
+}

@@ -1,1 +1,16 @@
-{"appearances":{"0":[8478,""]},"classs":2,"commondrop":true,"displayid":8478,"dps":5.83,"flags2":24576,"id":4561,"level":11,"name":"Scalping Tomahawk","quality":2,"reqlevel":6,"slot":21,"slotbak":21,"source":[2,16],"speed":1.8,"subclass":0,"firstseenpatch":0,"avgbuyout":1599,"dmgmax1":14,"dmgmin1":7,"dmgrange":0.6,"dmgtype1":0,"dura":40,"mledmgmax":14,"mledmgmin":7,"mledps":5.83,"mlespeed":1.8,"sellprice":309,"sheathtype":3,"statsInfo":[],"popularity":7,"icon":"inv_axe_19","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Scalping Tomahawk</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->7 - 14 Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(5.83 damage per second)<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->6<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">9</span></div></td></tr></table>"}
+{
+  "id": 4561,
+  "name": "Scalping Tomahawk",
+  "icon": "inv_axe_19",
+  "dmgMin": 7,
+  "dmgMax": 14,
+  "speed": 1.8,
+  "dps": 5.83,
+  "popularity": 7,
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "ONE_HANDED_AXE",
+  "type": "MAIN_HAND",
+  "stats": {},
+  "sourceType": "DROP"
+}

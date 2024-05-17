@@ -1,1 +1,19 @@
-{"appearances":{"0":[73953,""]},"armor":106,"classs":4,"displayid":73953,"flags2":24576,"id":56728,"level":22,"name":"Bloodtaint Boots","quality":2,"reqlevel":19,"side":2,"slot":8,"slotbak":8,"source":[4],"sourcemore":[{"c":331,"c2":1,"n":"Pierce Their Heart!","t":5,"ti":13805}],"subclass":3,"firstseenpatch":0,"dura":50,"int":2,"sellprice":814,"sta":2,"statsInfo":{"5":{"qty":2,"alloc":4767,"socketMult":0},"7":{"qty":2,"alloc":3899,"socketMult":0}},"popularity":20,"icon":"inv_boots_chain_03","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Bloodtaint Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->106 Armor</span><br><span><!--stat7-->+2 Stamina</span><br><span><!--stat5-->+2 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">14</span></div></td></tr></table>"}
+{
+  "id": 56728,
+  "name": "Bloodtaint Boots",
+  "icon": "inv_boots_chain_03",
+  "popularity": 20,
+  "armor": 106,
+  "side": "HORDE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "MAIL",
+  "type": "FEET",
+  "stats": {
+    "stamina": 2,
+    "intellect": 2
+  },
+  "sourceType": "QUEST",
+  "sourceId": 13805,
+  "sourceName": "Pierce Their Heart!"
+}

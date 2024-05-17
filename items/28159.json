@@ -1,1 +1,19 @@
-{"appearances":{"0":[28046,""]},"armor":48,"classs":4,"displayid":28046,"flags2":24576,"id":28159,"level":17,"name":"Undertaker's Gloves","quality":2,"reqlevel":14,"side":2,"slot":10,"slotbak":10,"source":[4],"sourcemore":[{"c":3433,"c2":0,"n":"Troll Juju","t":5,"ti":9199}],"subclass":2,"firstseenpatch":0,"agi":2,"dmgrange":0.2,"dura":30,"sellprice":244,"sta":2,"statsInfo":{"3":{"qty":2,"alloc":6667,"socketMult":0},"7":{"qty":2,"alloc":6667,"socketMult":0}},"popularity":9,"icon":"inv_gauntlets_05","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Undertaker's Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->17</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->48 Armor</span><br><span><!--stat3-->+2 Agility</span><br><span><!--stat7-->+2 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">44</span></div></td></tr></table>"}
+{
+  "id": 28159,
+  "name": "Undertaker's Gloves",
+  "icon": "inv_gauntlets_05",
+  "popularity": 8,
+  "armor": 48,
+  "side": "HORDE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "LEATHER",
+  "type": "HANDS",
+  "stats": {
+    "agility": 2,
+    "stamina": 2
+  },
+  "sourceType": "QUEST",
+  "sourceId": 9199,
+  "sourceName": "Troll Juju"
+}

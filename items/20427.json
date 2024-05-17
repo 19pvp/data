@@ -1,1 +1,21 @@
-{"appearances":{"0":[27974,"inv_misc_cape_22"]},"armor":35,"classs":4,"displayid":27974,"flags2":24577,"id":20427,"level":23,"name":"Battle Healer's Cloak","quality":3,"reqlevel":18,"side":2,"slot":16,"slotbak":16,"source":[5],"sourcemore":[{"n":"Kelm Hargunth","t":1,"ti":14754,"z":17}],"subclass":-6,"firstseenpatch":0,"buyprice":3971,"int":4,"sellprice":794,"spi":2,"sta":4,"statsInfo":{"5":{"qty":4,"alloc":5714,"socketMult":0},"6":{"qty":2,"alloc":2857,"socketMult":0},"7":{"qty":4,"alloc":5714,"socketMult":0}},"popularity":8,"icon":"inv_misc_cape_18","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Battle Healer's Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Back</td></tr></table><!--rf--><span><!--amr-->35 Armor</span><br><span><!--stat7-->+4 Stamina</span><br><span><!--stat5-->+4 Intellect</span><br><span><!--stat6-->+2 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">94</span></div></td></tr></table>"}
+{
+  "id": 20427,
+  "name": "Battle Healer's Cloak",
+  "icon": "inv_misc_cape_18",
+  "popularity": 10,
+  "armor": 35,
+  "side": "HORDE",
+  "class": "ARMOR",
+  "quality": "RARE",
+  "subclass": "CLOAKS",
+  "type": "BACK",
+  "stats": {
+    "stamina": 4,
+    "intellect": 4,
+    "spirit": 2
+  },
+  "sourceType": "VENDOR",
+  "sourceId": 14754,
+  "sourceName": "Kelm Hargunth",
+  "sourceZone": 17
+}

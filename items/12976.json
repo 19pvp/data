@@ -1,1 +1,19 @@
-{"appearances":{"0":[8272,""]},"classs":2,"displayid":8272,"dps":13.46,"flags2":24576,"id":12976,"level":20,"name":"Ironpatch Blade","quality":3,"reqlevel":15,"slot":13,"slotbak":13,"source":[2],"speed":2.6,"subclass":7,"firstseenpatch":0,"avgbuyout":78210,"dmgmax1":46,"dmgmin1":24,"dmgrange":0.6,"dmgtype1":0,"dura":65,"mledmgmax":46,"mledmgmin":24,"mledps":13.46,"mlespeed":2.6,"sellprice":1770,"sheathtype":3,"sta":2,"str":4,"statsInfo":{"4":{"qty":4,"alloc":0,"socketMult":0},"7":{"qty":2,"alloc":0,"socketMult":0}},"popularity":17,"icon":"inv_sword_26","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Ironpatch Blade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:7--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->24 - 46 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(13.46 damage per second)<br><span><!--stat4-->+4 Strength</span><br><span><!--stat7-->+2 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">70</span></div></td></tr></table>"}
+{
+  "id": 12976,
+  "name": "Ironpatch Blade",
+  "icon": "inv_sword_26",
+  "dmgMin": 24,
+  "dmgMax": 46,
+  "speed": 2.6,
+  "dps": 13.46,
+  "popularity": 17,
+  "class": "WEAPON",
+  "quality": "RARE",
+  "subclass": "ONE_HANDED_SWORD",
+  "type": "ONE_HAND",
+  "stats": {
+    "strength": 4,
+    "stamina": 2
+  },
+  "sourceType": "DROP"
+}

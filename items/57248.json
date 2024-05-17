@@ -1,1 +1,21 @@
-{"appearances":{"0":[1627,"inv_sword_04"]},"classs":2,"displayid":1627,"dps":7.1,"flags2":24576,"id":57248,"level":10,"name":"Well-Used Greatsword","quality":2,"reqlevel":7,"side":1,"slot":17,"slotbak":17,"source":[4],"sourcemore":[{"c":12,"c2":0,"n":"Bounty on Murlocs","t":5,"ti":46}],"speed":3.1,"subclass":8,"firstseenpatch":0,"dmgmax1":27,"dmgmin1":17,"dmgrange":0.4,"dmgtype1":0,"dura":45,"mledmgmax":27,"mledmgmin":17,"mledps":7.1,"mlespeed":3.1,"sellprice":306,"sheathtype":1,"str":1,"statsInfo":{"4":{"qty":1,"alloc":10000,"socketMult":0}},"popularity":20,"icon":"inv_sword_06","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Well-Used Greatsword</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:8--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->17 - 27 Damage</span></td>\n    <th>Speed <!--spd-->3.10</th>\n</tr></table><!--dps-->(7.10 damage per second)<br><span><!--stat4-->+1 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">6</span></div></td></tr></table>"}
+{
+  "id": 57248,
+  "name": "Well-Used Greatsword",
+  "icon": "inv_sword_06",
+  "dmgMin": 17,
+  "dmgMax": 27,
+  "speed": 3.1,
+  "dps": 7.1,
+  "popularity": 20,
+  "side": "ALLIANCE",
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "TWO_HANDED_SWORD",
+  "type": "TWO_HAND",
+  "stats": {
+    "strength": 1
+  },
+  "sourceType": "QUEST",
+  "sourceId": 46,
+  "sourceName": "Bounty on Murlocs"
+}

@@ -1,1 +1,19 @@
-{"appearances":{"0":[20425,""]},"classs":2,"displayid":20425,"dps":5.25,"flags2":24576,"id":7298,"level":10,"name":"Blade of Cunning","quality":2,"reqclass":8,"reqlevel":10,"side":1,"slot":13,"slotbak":13,"source":[4],"speed":2,"subclass":15,"firstseenpatch":0,"agi":1,"classes":8,"dmgmax1":14,"dmgmin1":7,"dmgrange":0.6,"dmgtype1":0,"dura":25,"maxcount":1,"mledmgmax":14,"mledmgmin":7,"mledps":5.25,"mlespeed":2,"sellprice":230,"sheathtype":3,"statsInfo":{"3":{"qty":1,"alloc":10000,"socketMult":0}},"popularity":10,"icon":"inv_weapon_shortblade_26","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Blade of Cunning</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><br>Binds when picked up<br>Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->7 - 14 Damage</span></td>\n    <th>Speed <!--spd-->2.00</th>\n</tr></table><!--dps-->(5.25 damage per second)<br><span><!--stat3-->+1 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 25 / 25<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/cata/class=4/rogue\" class=\"c4\">Rogue</a></div></td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">30</span></div></td></tr></table>"}
+{
+  "id": 7298,
+  "name": "Blade of Cunning",
+  "icon": "inv_weapon_shortblade_26",
+  "dmgMin": 7,
+  "dmgMax": 14,
+  "speed": 2,
+  "dps": 5.25,
+  "popularity": 8,
+  "side": "ALLIANCE",
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "DAGGER",
+  "type": "ONE_HAND",
+  "stats": {
+    "agility": 1
+  },
+  "sourceType": "QUEST"
+}

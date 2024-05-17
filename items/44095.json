@@ -1,1 +1,22 @@
-{"appearances":{"0":[20298,""]},"classs":2,"displayid":20298,"dps":0.14,"flags2":159744,"heirloombonuses":[0,0,0,0],"id":44095,"level":1,"name":"Grand Staff of Jordan","quality":7,"reqlevel":80,"slot":17,"slotbak":17,"source":[5],"sourcemore":[{"z":4197}],"speed":3.7,"subclass":10,"firstseenpatch":0,"dbcFlags":36872,"dmgrange":0.4,"mledps":0.14,"mlespeed":3.7,"scadist":296,"sheathtype":2,"statsInfo":[],"popularity":117,"icon":"inv_staff_13","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q7\">Grand Staff of Jordan</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><br>Binds to account<!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->461 - 693 Damage</span></td>\n    <th>Speed <!--spd-->3.70</th>\n</tr></table><!--dps-->(156.00 damage per second)<br><span><!--stat7-->+103 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires level <!--minlvl-->1 to <!--maxlvl-->80 (<!--lvl-->80)<br><!--rr--><span class=\"q2\">Equip: Improves hit rating by <!--rtg31-->68.</span><br><span class=\"q2\">Equip: Improves your resilience rating by <!--rtg35-->68.</span><br><span class=\"q2\">Equip: Increases spell power by <!--rtg45-->395.</span><!--itemEffects:1--></td></tr></table><!--i?44095:1:80:80:296:0-->"}
+{
+  "id": 44095,
+  "name": "Grand Staff of Jordan",
+  "icon": "inv_staff_13",
+  "dmgMin": 58,
+  "dmgMax": 87,
+  "speed": 3.7,
+  "dps": 19.59,
+  "popularity": 117,
+  "class": "WEAPON",
+  "quality": "HEIRLOOM",
+  "subclass": "STAFF",
+  "type": "TWO_HAND",
+  "stats": {
+    "hit": 6,
+    "resilience": 6,
+    "spellPower": 39,
+    "stamina": 10
+  },
+  "sourceType": "VENDOR",
+  "sourceZone": 4197
+}

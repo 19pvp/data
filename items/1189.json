@@ -1,1 +1,18 @@
-{"armor":0,"classs":4,"flags2":24576,"id":1189,"level":20,"name":"Overseer's Ring","quality":2,"reqlevel":15,"slot":11,"slotbak":11,"source":[2],"sourcemore":[{"n":"Riverpaw Overseer","t":1,"ti":125,"z":40}],"subclass":-2,"firstseenpatch":0,"avgbuyout":4500,"sellprice":625,"str":3,"statsInfo":{"4":{"qty":3,"alloc":10000,"socketMult":0}},"popularity":21,"icon":"inv_jewelry_ring_03","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Overseer's Ring</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br>Binds when equipped<br>Unique-Equipped<table width=\"100%\"><tr><td>Finger</td><th><!--scstart4:-2--><span class=\"q1\"></span><!--scend--></th></tr></table><!--rf--><span><!--stat4-->+3 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">25</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Riverpaw Overseer</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 0.52%</div></td></tr></table>"}
+{
+  "id": 1189,
+  "name": "Overseer's Ring",
+  "icon": "inv_jewelry_ring_03",
+  "popularity": 6,
+  "armor": 0,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "RINGS",
+  "type": "FINGER",
+  "stats": {
+    "strength": 3
+  },
+  "sourceType": "DROP",
+  "sourceId": 125,
+  "sourceName": "Riverpaw Overseer",
+  "sourceZone": 40
+}

@@ -1,1 +1,19 @@
-{"appearances":{"0":[8372,""]},"armor":58,"classs":4,"displayid":8372,"flags2":24576,"id":26025,"level":19,"name":"Technician's Boots","quality":2,"reqlevel":15,"side":1,"slot":8,"slotbak":8,"source":[4],"sourcemore":[{"c":3525,"c2":1,"n":"Galaen's Fate","t":5,"ti":9579}],"subclass":2,"firstseenpatch":0,"agi":3,"dmgrange":0.2,"dura":45,"sellprice":473,"sta":3,"statsInfo":{"3":{"qty":3,"alloc":7500,"socketMult":0},"7":{"qty":3,"alloc":7500,"socketMult":0}},"popularity":11,"icon":"inv_boots_08","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Technician's Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->19</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->58 Armor</span><br><span><!--stat3-->+3 Agility</span><br><span><!--stat7-->+3 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">73</span></div></td></tr></table>"}
+{
+  "id": 26025,
+  "name": "Technician's Boots",
+  "icon": "inv_boots_08",
+  "popularity": 11,
+  "armor": 58,
+  "side": "ALLIANCE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "LEATHER",
+  "type": "FEET",
+  "stats": {
+    "agility": 3,
+    "stamina": 3
+  },
+  "sourceType": "QUEST",
+  "sourceId": 9579,
+  "sourceName": "Galaen's Fate"
+}

@@ -1,1 +1,19 @@
-{"appearances":{"0":[14652,""]},"armor":16,"classs":4,"displayid":14652,"flags2":24576,"id":53434,"level":11,"name":"Refleshified Bracers","quality":2,"reqlevel":9,"side":2,"slot":9,"slotbak":9,"source":[4],"sourcemore":[{"c":16,"c2":1,"n":"Refleshification","t":5,"ti":14194}],"subclass":1,"firstseenpatch":0,"dura":25,"int":1,"sellprice":65,"sta":1,"statsInfo":{"5":{"qty":1,"alloc":6336,"socketMult":0},"7":{"qty":1,"alloc":6864,"socketMult":0}},"popularity":19,"icon":"inv_bracer_07","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Refleshified Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->16 Armor</span><br><span><!--stat7-->+1 Stamina</span><br><span><!--stat5-->+1 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><span class=\"q\">&quot;Ick.&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">65</span></div></td></tr></table>"}
+{
+  "id": 53434,
+  "name": "Refleshified Bracers",
+  "icon": "inv_bracer_07",
+  "popularity": 6,
+  "armor": 16,
+  "side": "HORDE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "CLOTH",
+  "type": "WRISTS",
+  "stats": {
+    "stamina": 1,
+    "intellect": 1
+  },
+  "sourceType": "QUEST",
+  "sourceId": 14194,
+  "sourceName": "Refleshification"
+}

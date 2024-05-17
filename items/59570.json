@@ -1,1 +1,18 @@
-{"appearances":{"0":[11226,"inv_gauntlets_17"]},"armor":30,"classs":4,"displayid":11226,"flags2":24576,"id":59570,"level":16,"name":"Bargain Gloves","quality":2,"reqlevel":10,"side":2,"slot":10,"slotbak":10,"source":[4],"sourcemore":[{"z":17}],"subclass":1,"firstseenpatch":0,"critstrkrtng":2,"dura":30,"sellprice":158,"sta":2,"statsInfo":{"7":{"qty":2,"alloc":6667,"socketMult":0},"32":{"qty":2,"alloc":6666,"socketMult":0}},"popularity":18,"icon":"inv_gauntlets_15","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Bargain Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->16</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->30 Armor</span><br><span><!--stat7-->+2 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Improves critical strike rating by <!--rtg32-->2.</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">58</span></div></td></tr></table><!--i?59570:1:85:10-->"}
+{
+  "id": 59570,
+  "name": "Bargain Gloves",
+  "icon": "inv_gauntlets_15",
+  "popularity": 18,
+  "armor": 30,
+  "side": "HORDE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "CLOTH",
+  "type": "HANDS",
+  "stats": {
+    "crit": 2,
+    "stamina": 2
+  },
+  "sourceType": "QUEST",
+  "sourceZone": 17
+}

@@ -1,1 +1,23 @@
-{"appearances":{"0":[2711,"inv_weapon_shortblade_05"]},"classs":2,"displayid":2711,"dps":15.29,"flags2":24578,"id":20443,"level":23,"name":"Sentinel's Blade","quality":3,"reqlevel":18,"side":1,"slot":13,"slotbak":13,"source":[5],"sourcemore":[{"n":"Illiyana Moonblaze","t":1,"ti":14753,"z":331}],"speed":1.7,"subclass":15,"firstseenpatch":0,"agi":4,"buyprice":13050,"dmgmax1":34,"dmgmin1":18,"dmgrange":0.6,"dmgtype1":0,"dura":55,"mledmgmax":34,"mledmgmin":18,"mledps":15.29,"mlespeed":1.7,"sellprice":2610,"sheathtype":3,"sta":2,"statsInfo":{"3":{"qty":4,"alloc":8000,"socketMult":0},"7":{"qty":2,"alloc":4000,"socketMult":0}},"popularity":18,"icon":"inv_weapon_shortblade_14","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Sentinel's Blade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br>Binds when picked up<br>Unique-Equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->18 - 34 Damage</span></td>\n    <th>Speed <!--spd-->1.70</th>\n</tr></table><!--dps-->(15.29 damage per second)<br><span><!--stat3-->+4 Agility</span><br><span><!--stat7-->+2 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">26</span> <span class=\"moneycopper\">10</span></div></td></tr></table>"}
+{
+  "id": 20443,
+  "name": "Sentinel's Blade",
+  "icon": "inv_weapon_shortblade_14",
+  "dmgMin": 18,
+  "dmgMax": 34,
+  "speed": 1.7,
+  "dps": 15.29,
+  "popularity": 10,
+  "side": "ALLIANCE",
+  "class": "WEAPON",
+  "quality": "RARE",
+  "subclass": "DAGGER",
+  "type": "ONE_HAND",
+  "stats": {
+    "agility": 4,
+    "stamina": 2
+  },
+  "sourceType": "VENDOR",
+  "sourceId": 14753,
+  "sourceName": "Illiyana Moonblaze",
+  "sourceZone": 331
+}

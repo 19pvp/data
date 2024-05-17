@@ -1,1 +1,20 @@
-{"appearances":{"0":[11172,""]},"armor":37,"classs":4,"displayid":11172,"flags2":24576,"id":6392,"level":21,"name":"Belt of Arugal","quality":3,"reqlevel":16,"slot":6,"slotbak":6,"source":[2],"sourcemore":[{"bd":1,"dd":-1,"n":"Archmage Arugal","t":1,"ti":4275,"z":209}],"subclass":1,"firstseenpatch":0,"dura":40,"int":4,"sellprice":401,"spi":4,"sta":5,"statsInfo":{"5":{"qty":4,"alloc":4444,"socketMult":0},"6":{"qty":4,"alloc":4444,"socketMult":0},"7":{"qty":5,"alloc":6666,"socketMult":0}},"popularity":11,"icon":"inv_belt_10","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Belt of Arugal</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->37 Armor</span><br><span><!--stat7-->+5 Stamina</span><br><span><!--stat5-->+4 Intellect</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">1</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Archmage Arugal</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 34.86%</div></td></tr></table>"}
+{
+  "id": 6392,
+  "name": "Belt of Arugal",
+  "icon": "inv_belt_10",
+  "popularity": 16,
+  "armor": 37,
+  "class": "ARMOR",
+  "quality": "RARE",
+  "subclass": "CLOTH",
+  "type": "WAIST",
+  "stats": {
+    "stamina": 5,
+    "intellect": 4,
+    "spirit": 4
+  },
+  "sourceType": "DROP",
+  "sourceId": 4275,
+  "sourceName": "Archmage Arugal",
+  "sourceZone": 209
+}

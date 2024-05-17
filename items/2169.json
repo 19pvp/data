@@ -1,1 +1,19 @@
-{"appearances":{"0":[2707,""]},"classs":2,"displayid":2707,"dps":13.57,"flags2":24576,"id":2169,"level":20,"name":"Buzzer Blade","quality":3,"reqlevel":15,"slot":13,"slotbak":13,"source":[2],"sourcemore":[{"dd":-1,"z":1581}],"speed":1.4,"subclass":15,"firstseenpatch":0,"critstrkrtng":5,"dmgmax1":25,"dmgmin1":13,"dmgrange":0.6,"dmgtype1":0,"dura":45,"mledmgmax":25,"mledmgmin":13,"mledps":13.57,"mlespeed":1.4,"sellprice":1640,"sheathtype":3,"statsInfo":{"32":{"qty":5,"alloc":10000,"socketMult":0}},"popularity":22,"icon":"inv_weapon_shortblade_05","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Buzzer Blade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->13 - 25 Damage</span></td>\n    <th>Speed <!--spd-->1.40</th>\n</tr></table><!--dps-->(13.57 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<br><!--rr--><span class=\"q2\">Equip: Improves critical strike rating by <!--rtg32-->5.</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">16</span> <span class=\"moneycopper\">40</span></div></td></tr></table><!--i?2169:1:85:15-->"}
+{
+  "id": 2169,
+  "name": "Buzzer Blade",
+  "icon": "inv_weapon_shortblade_05",
+  "dmgMin": 13,
+  "dmgMax": 25,
+  "speed": 1.4,
+  "dps": 13.57,
+  "popularity": 14,
+  "class": "WEAPON",
+  "quality": "RARE",
+  "subclass": "DAGGER",
+  "type": "ONE_HAND",
+  "stats": {
+    "crit": 5
+  },
+  "sourceType": "DROP",
+  "sourceZone": 1581
+}

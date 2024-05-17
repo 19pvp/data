@@ -1,1 +1,18 @@
-{"appearances":{"0":[4921,""]},"armor":43,"classs":4,"displayid":4921,"flags2":24576,"id":4660,"level":20,"name":"Walking Boots","quality":3,"reqlevel":15,"slot":8,"slotbak":8,"source":[2],"sourcemore":[{"n":"Marisa du'Paige","t":1,"ti":599}],"subclass":1,"firstseenpatch":0,"avgbuyout":3899,"critstrkrtng":5,"dura":50,"int":5,"sellprice":515,"statsInfo":{"5":{"qty":5,"alloc":6666,"socketMult":0},"32":{"qty":5,"alloc":6666,"socketMult":0}},"popularity":9,"icon":"inv_boots_06","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Walking Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->43 Armor</span><br><span><!--stat5-->+5 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<br><!--rr--><span class=\"q2\">Equip: Improves critical strike rating by <!--rtg32-->5.</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">15</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Marisa du'Paige</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 72.47%</div></td></tr></table><!--i?4660:1:85:15-->"}
+{
+  "id": 4660,
+  "name": "Walking Boots",
+  "icon": "inv_boots_06",
+  "popularity": 3,
+  "armor": 43,
+  "class": "ARMOR",
+  "quality": "RARE",
+  "subclass": "CLOTH",
+  "type": "FEET",
+  "stats": {
+    "crit": 5,
+    "intellect": 5
+  },
+  "sourceType": "DROP",
+  "sourceId": 599,
+  "sourceName": "Marisa du'Paige"
+}

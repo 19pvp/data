@@ -1,1 +1,19 @@
-{"appearances":{"0":[4954,""]},"armor":38,"classs":4,"displayid":4954,"flags2":24576,"id":4785,"level":24,"name":"Brimstone Belt","quality":2,"reqlevel":19,"slot":6,"slotbak":6,"source":[2],"sourcemore":[{"dd":-1,"n":"Digger Flameforge","t":1,"ti":5849,"z":17}],"subclass":1,"firstseenpatch":0,"avgbuyout":20000,"dura":35,"int":5,"sellprice":469,"sta":3,"statsInfo":{"5":{"qty":5,"alloc":8333,"socketMult":0},"7":{"qty":3,"alloc":5000,"socketMult":0}},"popularity":9,"icon":"inv_belt_02","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Brimstone Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->24</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->38 Armor</span><br><span><!--stat7-->+3 Stamina</span><br><span><!--stat5-->+5 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->19<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">69</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Digger Flameforge</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 24.78%</div></td></tr></table>"}
+{
+  "id": 4785,
+  "name": "Brimstone Belt",
+  "icon": "inv_belt_02",
+  "popularity": 8,
+  "armor": 38,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "CLOTH",
+  "type": "WAIST",
+  "stats": {
+    "stamina": 3,
+    "intellect": 5
+  },
+  "sourceType": "DROP",
+  "sourceId": 5849,
+  "sourceName": "Digger Flameforge",
+  "sourceZone": 17
+}

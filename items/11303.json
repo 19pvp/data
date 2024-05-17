@@ -1,1 +1,16 @@
-{"appearances":{"0":[8104,"inv_weapon_bow_05"]},"classs":2,"displayid":8104,"dps":10.59,"flags2":24576,"id":11303,"level":16,"name":"Fine Shortbow","quality":2,"reqlevel":11,"slot":15,"slotbak":15,"source":[5],"speed":1.7,"subclass":2,"firstseenpatch":0,"avgbuyout":16000,"buyprice":3185,"dmgmax1":24,"dmgmin1":12,"dmgrange":0.6,"dmgtype1":2,"dura":40,"rgddmgmax":24,"rgddmgmin":12,"rgddps":10.59,"rgdspeed":1.7,"sellprice":637,"statsInfo":[],"popularity":12,"icon":"inv_weapon_bow_07","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Fine Shortbow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->16</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:2--><span class=\"q1\">Bow</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->12 - 24 Damage</span></td>\n    <th>Speed <!--spd-->1.70</th>\n</tr></table><!--dps-->(10.59 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->11<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">37</span></div></td></tr></table>"}
+{
+  "id": 11303,
+  "name": "Fine Shortbow",
+  "icon": "inv_weapon_bow_07",
+  "dmgMin": 12,
+  "dmgMax": 24,
+  "speed": 1.7,
+  "dps": 10.59,
+  "popularity": 12,
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "BOW",
+  "type": "RANGED",
+  "stats": {},
+  "sourceType": "VENDOR"
+}

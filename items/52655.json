@@ -1,1 +1,19 @@
-{"appearances":{"0":[18814,"inv_shield_06"]},"armor":645,"classs":4,"displayid":18814,"flags2":24576,"id":52655,"level":19,"name":"Darkshore Warder's Shield","quality":3,"reqlevel":17,"side":1,"slot":14,"slotbak":14,"source":[4],"sourcemore":[{"c":148,"c2":1,"n":"The Battle for Darkshore","t":5,"ti":13897}],"subclass":6,"firstseenpatch":0,"dura":75,"sellprice":962,"sheathtype":4,"sta":5,"str":3,"statsInfo":{"4":{"qty":3,"alloc":5066,"socketMult":0},"7":{"qty":5,"alloc":7601,"socketMult":0}},"popularity":18,"icon":"inv_shield_32","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Darkshore Warder's Shield</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->19</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->645 Armor</span><br><span><!--stat4-->+3 Strength</span><br><span><!--stat7-->+5 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">62</span></div></td></tr></table>"}
+{
+  "id": 52655,
+  "name": "Darkshore Warder's Shield",
+  "icon": "inv_shield_32",
+  "popularity": 9,
+  "armor": 645,
+  "side": "ALLIANCE",
+  "class": "ARMOR",
+  "quality": "RARE",
+  "subclass": "SHIELDS",
+  "type": "SHIELD",
+  "stats": {
+    "strength": 3,
+    "stamina": 5
+  },
+  "sourceType": "QUEST",
+  "sourceId": 13897,
+  "sourceName": "The Battle for Darkshore"
+}

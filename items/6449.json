@@ -1,1 +1,19 @@
-{"appearances":{"0":[23029,"inv_helmet_48"]},"armor":34,"classs":4,"displayid":23029,"flags2":24576,"id":6449,"level":22,"name":"Glowing Lizardscale Cloak","quality":3,"reqlevel":17,"slot":16,"slotbak":16,"source":[2],"sourcemore":[{"bd":1,"dd":-1,"n":"Skum","t":1,"ti":3674,"z":718}],"subclass":-6,"firstseenpatch":0,"agi":6,"dmgrange":0.2,"sellprice":701,"sta":2,"statsInfo":{"3":{"qty":6,"alloc":8571,"socketMult":0},"7":{"qty":2,"alloc":2857,"socketMult":0}},"popularity":8,"icon":"inv_chest_cloth_15","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Glowing Lizardscale Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Back</td></tr></table><!--rf--><span><!--amr-->34 Armor</span><br><span><!--stat3-->+6 Agility</span><br><span><!--stat7-->+2 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->17<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">1</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Skum</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 46.24%</div></td></tr></table>"}
+{
+  "id": 6449,
+  "name": "Glowing Lizardscale Cloak",
+  "icon": "inv_chest_cloth_15",
+  "popularity": 3,
+  "armor": 34,
+  "class": "ARMOR",
+  "quality": "RARE",
+  "subclass": "CLOAKS",
+  "type": "BACK",
+  "stats": {
+    "agility": 6,
+    "stamina": 2
+  },
+  "sourceType": "DROP",
+  "sourceId": 3674,
+  "sourceName": "Skum",
+  "sourceZone": 718
+}

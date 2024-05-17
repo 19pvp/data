@@ -1,1 +1,13 @@
-{"appearances":{"0":[7533,""]},"armor":32,"classs":4,"displayid":7533,"flags2":24576,"id":14090,"level":11,"name":"Beaded Britches","quality":2,"reqlevel":6,"slot":7,"slotbak":7,"source":[2],"subclass":1,"firstseenpatch":0,"avgbuyout":1897,"dura":55,"sellprice":119,"statsInfo":[],"popularity":7,"icon":"inv_pants_02","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Beaded Britches</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->32 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->6<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">19</span></div></td></tr></table>"}
+{
+  "id": 14090,
+  "name": "Beaded Britches",
+  "icon": "inv_pants_02",
+  "popularity": 5,
+  "armor": 32,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "CLOTH",
+  "type": "LEGS",
+  "stats": {},
+  "sourceType": "DROP"
+}

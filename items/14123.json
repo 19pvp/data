@@ -1,1 +1,13 @@
-{"appearances":{"0":[70260,"inv_misc_cape_22"]},"armor":25,"classs":4,"displayid":70260,"flags2":24576,"id":14123,"level":17,"name":"Ritual Cape","quality":2,"reqlevel":12,"slot":16,"slotbak":16,"source":[2],"subclass":-6,"firstseenpatch":0,"avgbuyout":2100,"sellprice":287,"statsInfo":[],"popularity":19,"icon":"inv_misc_cape_14","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Ritual Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->17</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Back</td></tr></table><!--rf--><span><!--amr-->25 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->12<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">87</span></div></td></tr></table>"}
+{
+  "id": 14123,
+  "name": "Ritual Cape",
+  "icon": "inv_misc_cape_14",
+  "popularity": 19,
+  "armor": 25,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "CLOAKS",
+  "type": "BACK",
+  "stats": {},
+  "sourceType": "DROP"
+}

@@ -1,1 +1,18 @@
-{"appearances":{"0":[28477,"inv_belt_25"]},"armor":35,"classs":4,"displayid":28477,"flags2":24576,"id":59083,"level":22,"name":"Sash of the Blind Princess","quality":2,"reqlevel":19,"side":1,"slot":6,"slotbak":6,"source":[4],"sourcemore":[{"c":11,"c2":0,"n":"Return the Statuette","t":5,"ti":25805}],"subclass":1,"firstseenpatch":0,"dura":35,"sellprice":363,"sta":5,"statsInfo":{"7":{"qty":5,"alloc":10000,"socketMult":0}},"popularity":4,"icon":"inv_belt_17","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Sash of the Blind Princess</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->35 Armor</span><br><span><!--stat7-->+5 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">63</span></div></td></tr></table>"}
+{
+  "id": 59083,
+  "name": "Sash of the Blind Princess",
+  "icon": "inv_belt_17",
+  "popularity": 4,
+  "armor": 35,
+  "side": "ALLIANCE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "CLOTH",
+  "type": "WAIST",
+  "stats": {
+    "stamina": 5
+  },
+  "sourceType": "QUEST",
+  "sourceId": 25805,
+  "sourceName": "Return the Statuette"
+}

@@ -1,1 +1,20 @@
-{"appearances":{"0":[12693,""]},"armor":66,"classs":4,"displayid":12693,"flags2":24576,"id":6465,"level":21,"name":"Robe of the Moccasin","quality":3,"reqlevel":16,"slot":5,"slotbak":20,"source":[2],"sourcemore":[{"bd":1,"dd":-1,"n":"Lord Cobrahn","t":1,"ti":3669,"z":718}],"subclass":1,"firstseenpatch":0,"dura":110,"int":6,"sellprice":802,"spi":6,"sta":6,"statsInfo":{"5":{"qty":6,"alloc":5259,"socketMult":0},"6":{"qty":6,"alloc":5259,"socketMult":0},"7":{"qty":6,"alloc":5259,"socketMult":0}},"popularity":8,"icon":"inv_chest_cloth_36","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Robe of the Moccasin</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->66 Armor</span><br><span><!--stat7-->+6 Stamina</span><br><span><!--stat5-->+6 Intellect</span><br><span><!--stat6-->+6 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 110 / 110</td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">2</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Lord Cobrahn</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 54.14%</div></td></tr></table>"}
+{
+  "id": 6465,
+  "name": "Robe of the Moccasin",
+  "icon": "inv_chest_cloth_36",
+  "popularity": 14,
+  "armor": 66,
+  "class": "ARMOR",
+  "quality": "RARE",
+  "subclass": "CLOTH",
+  "type": "CHEST",
+  "stats": {
+    "stamina": 6,
+    "intellect": 6,
+    "spirit": 6
+  },
+  "sourceType": "DROP",
+  "sourceId": 3669,
+  "sourceName": "Lord Cobrahn",
+  "sourceZone": 718
+}

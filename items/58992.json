@@ -1,1 +1,20 @@
-{"appearances":{"0":[10150,"inv_chest_leather_10"]},"armor":59,"classs":4,"displayid":10150,"flags2":24576,"id":58992,"level":12,"name":"Uncovered Breastplate","quality":2,"reqlevel":8,"side":1,"slot":5,"slotbak":5,"source":[4],"sourcemore":[{"c":38,"c2":0,"n":"Heartfelt Appreciation","t":5,"ti":13661}],"subclass":2,"firstseenpatch":0,"agi":1,"critstrkrtng":1,"dura":75,"sellprice":196,"sta":1,"statsInfo":{"3":{"qty":1,"alloc":5259,"socketMult":0},"7":{"qty":1,"alloc":5259,"socketMult":0},"32":{"qty":1,"alloc":5258,"socketMult":0}},"popularity":9,"icon":"inv_chest_leather_07","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Uncovered Breastplate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->12</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->59 Armor</span><br><span><!--stat3-->+1 Agility</span><br><span><!--stat7-->+1 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Improves critical strike rating by <!--rtg32-->1.</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">96</span></div></td></tr></table><!--i?58992:1:85:8-->"}
+{
+  "id": 58992,
+  "name": "Uncovered Breastplate",
+  "icon": "inv_chest_leather_07",
+  "popularity": 9,
+  "armor": 59,
+  "side": "ALLIANCE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "LEATHER",
+  "type": "CHEST",
+  "stats": {
+    "crit": 1,
+    "agility": 1,
+    "stamina": 1
+  },
+  "sourceType": "QUEST",
+  "sourceId": 13661,
+  "sourceName": "Heartfelt Appreciation"
+}

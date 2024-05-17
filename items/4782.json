@@ -1,1 +1,17 @@
-{"appearances":{"0":[16812,""]},"armor":53,"classs":4,"displayid":16812,"flags2":24576,"id":4782,"level":18,"name":"Solstice Robe","quality":2,"reqlevel":13,"slot":5,"slotbak":20,"source":[5],"subclass":1,"firstseenpatch":0,"avgbuyout":5844,"buyprice":2077,"dura":90,"int":1,"sellprice":415,"spi":5,"sta":1,"statsInfo":{"5":{"qty":1,"alloc":2000,"socketMult":0},"6":{"qty":5,"alloc":10000,"socketMult":0},"7":{"qty":1,"alloc":2000,"socketMult":0}},"popularity":11,"icon":"inv_chest_cloth_17","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Solstice Robe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->18</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->53 Armor</span><br><span><!--stat7-->+1 Stamina</span><br><span><!--stat5-->+1 Intellect</span><br><span><!--stat6-->+5 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->13<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">15</span></div></td></tr></table>"}
+{
+  "id": 4782,
+  "name": "Solstice Robe",
+  "icon": "inv_chest_cloth_17",
+  "popularity": 10,
+  "armor": 53,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "CLOTH",
+  "type": "CHEST",
+  "stats": {
+    "stamina": 1,
+    "intellect": 1,
+    "spirit": 5
+  },
+  "sourceType": "VENDOR"
+}

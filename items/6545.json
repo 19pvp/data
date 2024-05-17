@@ -1,1 +1,13 @@
-{"appearances":{"0":[12165,""]},"armor":131,"classs":4,"displayid":12165,"flags2":24576,"id":6545,"level":18,"name":"Soldier's Armor","quality":2,"reqlevel":13,"slot":5,"slotbak":5,"source":[2,16],"subclass":3,"firstseenpatch":0,"avgbuyout":2998,"dura":90,"sellprice":676,"statsInfo":[],"popularity":15,"icon":"inv_chest_chain_16","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Soldier's Armor</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->18</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->131 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->13<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">76</span></div></td></tr></table>"}
+{
+  "id": 6545,
+  "name": "Soldier's Armor",
+  "icon": "inv_chest_chain_16",
+  "popularity": 11,
+  "armor": 131,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "MAIL",
+  "type": "CHEST",
+  "stats": {},
+  "sourceType": "DROP"
+}

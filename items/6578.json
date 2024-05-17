@@ -1,1 +1,13 @@
-{"appearances":{"0":[12453,""]},"armor":140,"classs":4,"displayid":12453,"flags2":24576,"id":6578,"level":23,"name":"Defender Leggings","quality":2,"reqlevel":18,"slot":7,"slotbak":7,"source":[2,16],"subclass":3,"firstseenpatch":0,"avgbuyout":4900,"dmgrange":0.2,"dura":75,"sellprice":1303,"statsInfo":[],"popularity":14,"icon":"inv_pants_03","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Defender Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->140 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">13</span> <span class=\"moneycopper\">3</span></div></td></tr></table>"}
+{
+  "id": 6578,
+  "name": "Defender Leggings",
+  "icon": "inv_pants_03",
+  "popularity": 11,
+  "armor": 140,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "MAIL",
+  "type": "LEGS",
+  "stats": {},
+  "sourceType": "DROP"
+}

@@ -1,1 +1,19 @@
-{"appearances":{"0":[3767,"inv_bracer_12"]},"armor":45,"classs":4,"displayid":3767,"flags2":24576,"id":53432,"level":13,"name":"Pricey Bracers","quality":2,"reqlevel":10,"side":2,"slot":9,"slotbak":9,"source":[4],"sourcemore":[{"c":16,"c2":1,"n":"Profitability Scouting","t":5,"ti":24452}],"subclass":3,"firstseenpatch":0,"dura":25,"sellprice":152,"sta":1,"str":1,"statsInfo":{"4":{"qty":1,"alloc":6666,"socketMult":0},"7":{"qty":1,"alloc":6667,"socketMult":0}},"popularity":20,"icon":"inv_bracer_27a","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Pricey Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->13</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->45 Armor</span><br><span><!--stat4-->+1 Strength</span><br><span><!--stat7-->+1 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">52</span></div></td></tr></table>"}
+{
+  "id": 53432,
+  "name": "Pricey Bracers",
+  "icon": "inv_bracer_27a",
+  "popularity": 5,
+  "armor": 45,
+  "side": "HORDE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "MAIL",
+  "type": "WRISTS",
+  "stats": {
+    "strength": 1,
+    "stamina": 1
+  },
+  "sourceType": "QUEST",
+  "sourceId": 24452,
+  "sourceName": "Profitability Scouting"
+}

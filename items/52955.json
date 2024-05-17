@@ -1,1 +1,18 @@
-{"appearances":{"0":[2208,"inv_shield_10"]},"armor":285,"classs":4,"displayid":2208,"flags2":24576,"id":52955,"level":8,"name":"Town-In-A-Box Lid Fragment","quality":2,"reqlevel":1,"side":2,"slot":14,"slotbak":14,"source":[4],"sourcemore":[{"c":4720,"c2":11,"n":"Town-In-A-Box: Under Attack","t":5,"ti":24901}],"subclass":6,"firstseenpatch":0,"blockamount":214,"dura":40,"int":1,"sellprice":84,"sheathtype":4,"statsInfo":{"5":{"qty":1,"alloc":10000,"socketMult":0}},"popularity":21,"icon":"inv_shield_09","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Town-In-A-Box Lid Fragment</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->8</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->285 Armor</span><br>214 Block<br><span><!--stat5-->+1 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">84</span></div></td></tr></table>"}
+{
+  "id": 52955,
+  "name": "Town-In-A-Box Lid Fragment",
+  "icon": "inv_shield_09",
+  "popularity": 13,
+  "armor": 285,
+  "side": "HORDE",
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "SHIELDS",
+  "type": "SHIELD",
+  "stats": {
+    "intellect": 1
+  },
+  "sourceType": "QUEST",
+  "sourceId": 24901,
+  "sourceName": "Town-In-A-Box: Under Attack"
+}

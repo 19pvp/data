@@ -1,1 +1,21 @@
-{"appearances":{"0":[6470,""]},"classs":2,"displayid":6470,"dps":8.67,"flags2":24576,"id":820,"level":17,"name":"Slicer Blade","quality":2,"reqlevel":12,"slot":13,"slotbak":13,"source":[2],"sourcemore":[{"n":"Harvest Reaper","t":1,"ti":115,"z":40}],"speed":1.5,"subclass":15,"firstseenpatch":0,"agi":2,"avgbuyout":4400,"dmgmax1":17,"dmgmin1":9,"dmgrange":0.6,"dmgtype1":0,"dura":35,"mledmgmax":17,"mledmgmin":9,"mledps":8.67,"mlespeed":1.5,"sellprice":947,"sheathtype":3,"statsInfo":{"3":{"qty":2,"alloc":10000,"socketMult":0}},"popularity":19,"icon":"inv_weapon_shortblade_01","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Slicer Blade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->17</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->9 - 17 Damage</span></td>\n    <th>Speed <!--spd-->1.50</th>\n</tr></table><!--dps-->(8.67 damage per second)<br><span><!--stat3-->+2 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->12<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">47</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Harvest Reaper</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 1.38%</div></td></tr></table>"}
+{
+  "id": 820,
+  "name": "Slicer Blade",
+  "icon": "inv_weapon_shortblade_01",
+  "dmgMin": 9,
+  "dmgMax": 17,
+  "speed": 1.5,
+  "dps": 8.67,
+  "popularity": 19,
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "DAGGER",
+  "type": "ONE_HAND",
+  "stats": {
+    "agility": 2
+  },
+  "sourceType": "DROP",
+  "sourceId": 115,
+  "sourceName": "Harvest Reaper",
+  "sourceZone": 40
+}

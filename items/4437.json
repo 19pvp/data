@@ -1,1 +1,21 @@
-{"appearances":{"0":[20390,""]},"classs":2,"displayid":20390,"dps":13.09,"flags2":24576,"id":4437,"level":20,"name":"Channeler's Staff","quality":2,"reqlevel":15,"slot":17,"slotbak":17,"source":[2],"sourcemore":[{"dd":-1,"n":"Ambermill Spellscribe","t":1,"ti":1920,"z":130}],"speed":3.4,"subclass":10,"firstseenpatch":0,"avgbuyout":150000,"dmgmax1":54,"dmgmin1":35,"dmgrange":0.4,"dmgtype1":0,"dura":65,"int":6,"mledmgmax":54,"mledmgmin":35,"mledps":13.09,"mlespeed":3.4,"sellprice":1855,"sheathtype":2,"statsInfo":{"5":{"qty":6,"alloc":10000,"socketMult":0}},"popularity":21,"icon":"inv_staff_14","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Channeler's Staff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->35 - 54 Damage</span></td>\n    <th>Speed <!--spd-->3.40</th>\n</tr></table><!--dps-->(13.09 damage per second)<br><span><!--stat5-->+6 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">18</span> <span class=\"moneycopper\">55</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ambermill Spellscribe</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 22.07%</div></td></tr></table>"}
+{
+  "id": 4437,
+  "name": "Channeler's Staff",
+  "icon": "inv_staff_14",
+  "dmgMin": 35,
+  "dmgMax": 54,
+  "speed": 3.4,
+  "dps": 13.09,
+  "popularity": 22,
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "STAFF",
+  "type": "TWO_HAND",
+  "stats": {
+    "intellect": 6
+  },
+  "sourceType": "DROP",
+  "sourceId": 1920,
+  "sourceName": "Ambermill Spellscribe",
+  "sourceZone": 130
+}

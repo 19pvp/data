@@ -1,1 +1,19 @@
-{"appearances":{"0":[7531,"inv_weapon_rifle_01"]},"classs":2,"displayid":7531,"dps":13.04,"flags2":24576,"id":5309,"level":20,"name":"Privateer Musket","quality":2,"reqlevel":13,"side":2,"slot":15,"slotbak":26,"source":[4],"sourcemore":[{"c":17,"c2":1,"n":"A Captain's Vengeance","t":5,"ti":891}],"speed":2.3,"subclass":3,"firstseenpatch":0,"dmgmax1":39,"dmgmin1":21,"dmgrange":0.6,"dmgtype1":3,"dura":50,"rgddmgmax":39,"rgddmgmin":21,"rgddps":13.04,"rgdspeed":2.3,"sellprice":1038,"statsInfo":[],"popularity":9,"icon":"inv_weapon_rifle_04","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Privateer Musket</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:3--><span class=\"q1\">Gun</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->21 - 39 Damage</span></td>\n    <th>Speed <!--spd-->2.30</th>\n</tr></table><!--dps-->(13.04 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span> <span class=\"moneycopper\">38</span></div></td></tr></table>"}
+{
+  "id": 5309,
+  "name": "Privateer Musket",
+  "icon": "inv_weapon_rifle_04",
+  "dmgMin": 21,
+  "dmgMax": 39,
+  "speed": 2.3,
+  "dps": 13.04,
+  "popularity": 7,
+  "side": "HORDE",
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "GUN",
+  "type": "RANGED",
+  "stats": {},
+  "sourceType": "QUEST",
+  "sourceId": 891,
+  "sourceName": "A Captain's Vengeance"
+}

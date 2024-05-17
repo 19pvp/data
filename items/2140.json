@@ -1,1 +1,16 @@
-{"appearances":{"0":[2706,""]},"classs":2,"commondrop":true,"displayid":2706,"dps":5.94,"flags2":24576,"id":2140,"level":11,"name":"Carving Knife","quality":2,"reqlevel":6,"slot":13,"slotbak":13,"source":[2,16],"speed":1.6,"subclass":15,"firstseenpatch":0,"avgbuyout":2265,"dmgmax1":13,"dmgmin1":6,"dmgrange":0.6,"dmgtype1":0,"dura":30,"mledmgmax":13,"mledmgmin":6,"mledps":5.94,"mlespeed":1.6,"sellprice":323,"sheathtype":3,"statsInfo":[],"popularity":12,"icon":"inv_weapon_shortblade_01","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Carving Knife</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->6 - 13 Damage</span></td>\n    <th>Speed <!--spd-->1.60</th>\n</tr></table><!--dps-->(5.94 damage per second)<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->6<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">23</span></div></td></tr></table>"}
+{
+  "id": 2140,
+  "name": "Carving Knife",
+  "icon": "inv_weapon_shortblade_01",
+  "dmgMin": 6,
+  "dmgMax": 13,
+  "speed": 1.6,
+  "dps": 5.94,
+  "popularity": 12,
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "DAGGER",
+  "type": "ONE_HAND",
+  "stats": {},
+  "sourceType": "DROP"
+}

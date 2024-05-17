@@ -1,1 +1,22 @@
-{"appearances":{"0":[67909,""]},"classs":2,"displayid":67909,"dps":5,"flags2":24576,"id":52952,"level":9,"name":"The Hammer","quality":2,"reqlevel":1,"side":2,"slot":13,"slotbak":13,"source":[4],"sourcemore":[{"c":4720,"c2":11,"n":"A Goblin in Shark's Clothing","t":5,"ti":24817}],"speed":2.4,"subclass":4,"firstseenpatch":0,"agi":1,"dmgmax1":16,"dmgmin1":8,"dmgrange":0.6,"dmgtype1":0,"dura":35,"mledmgmax":16,"mledmgmin":8,"mledps":5,"mlespeed":2.4,"sellprice":182,"sheathtype":3,"sta":1,"statsInfo":{"3":{"qty":1,"alloc":6667,"socketMult":0},"7":{"qty":1,"alloc":6667,"socketMult":0}},"popularity":19,"icon":"inv_hammer_20","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">The Hammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->9</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->8 - 16 Damage</span></td>\n    <th>Speed <!--spd-->2.40</th>\n</tr></table><!--dps-->(5.00 damage per second)<br><span><!--stat3-->+1 Agility</span><br><span><!--stat7-->+1 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">82</span></div></td></tr></table>"}
+{
+  "id": 52952,
+  "name": "The Hammer",
+  "icon": "inv_hammer_20",
+  "dmgMin": 8,
+  "dmgMax": 16,
+  "speed": 2.4,
+  "dps": 5,
+  "popularity": 7,
+  "side": "HORDE",
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "ONE_HANDED_MACE",
+  "type": "ONE_HAND",
+  "stats": {
+    "agility": 1,
+    "stamina": 1
+  },
+  "sourceType": "QUEST",
+  "sourceId": 24817,
+  "sourceName": "A Goblin in Shark's Clothing"
+}

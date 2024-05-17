@@ -1,1 +1,19 @@
-{"appearances":{"0":[12652,""]},"armor":66,"classs":4,"displayid":12652,"flags2":24576,"id":6226,"level":21,"name":"Bloody Apron","quality":3,"reqlevel":16,"slot":5,"slotbak":20,"source":[2],"sourcemore":[{"bd":1,"dd":-1,"n":"Razorclaw the Butcher","t":1,"ti":3886,"z":209}],"subclass":1,"firstseenpatch":0,"dura":110,"int":8,"sellprice":822,"sta":6,"statsInfo":{"5":{"qty":8,"alloc":7601,"socketMult":0},"7":{"qty":6,"alloc":5066,"socketMult":0}},"popularity":11,"icon":"inv_chest_cloth_24","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Bloody Apron</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->66 Armor</span><br><span><!--stat7-->+6 Stamina</span><br><span><!--stat5-->+8 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 110 / 110</td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">22</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Razorclaw the Butcher</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 42.61%</div></td></tr></table>"}
+{
+  "id": 6226,
+  "name": "Bloody Apron",
+  "icon": "inv_chest_cloth_24",
+  "popularity": 8,
+  "armor": 66,
+  "class": "ARMOR",
+  "quality": "RARE",
+  "subclass": "CLOTH",
+  "type": "CHEST",
+  "stats": {
+    "stamina": 6,
+    "intellect": 8
+  },
+  "sourceType": "DROP",
+  "sourceId": 3886,
+  "sourceName": "Razorclaw the Butcher",
+  "sourceZone": 209
+}

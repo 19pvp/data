@@ -1,1 +1,13 @@
-{"appearances":{"0":[18661,""]},"armor":364,"classs":4,"displayid":18661,"flags2":24576,"id":7108,"level":11,"name":"Infantry Shield","quality":2,"reqlevel":6,"slot":14,"slotbak":14,"source":[2,16],"subclass":6,"firstseenpatch":0,"avgbuyout":1861,"blockamount":215,"dura":45,"sellprice":209,"sheathtype":4,"statsInfo":[],"popularity":9,"icon":"inv_shield_09","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Infantry Shield</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->364 Armor</span><br>215 Block<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->6<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">9</span></div></td></tr></table>"}
+{
+  "id": 7108,
+  "name": "Infantry Shield",
+  "icon": "inv_shield_09",
+  "popularity": 9,
+  "armor": 364,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "SHIELDS",
+  "type": "SHIELD",
+  "stats": {},
+  "sourceType": "DROP"
+}

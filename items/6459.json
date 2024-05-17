@@ -1,1 +1,19 @@
-{"appearances":{"0":[11935,""]},"armor":113,"classs":4,"displayid":11935,"flags2":24576,"id":6459,"level":21,"name":"Savage Trodders","quality":3,"reqlevel":16,"slot":8,"slotbak":8,"source":[2],"sourcemore":[{"bd":1,"dd":-1,"n":"Lord Serpentis","t":1,"ti":3673,"z":718}],"subclass":3,"firstseenpatch":0,"dura":60,"sellprice":863,"sta":5,"str":5,"statsInfo":{"4":{"qty":5,"alloc":6666,"socketMult":0},"7":{"qty":5,"alloc":6666,"socketMult":0}},"popularity":17,"icon":"inv_boots_01","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Savage Trodders</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->113 Armor</span><br><span><!--stat4-->+5 Strength</span><br><span><!--stat7-->+5 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">63</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Lord Serpentis</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 24.00%</div></td></tr></table>"}
+{
+  "id": 6459,
+  "name": "Savage Trodders",
+  "icon": "inv_boots_01",
+  "popularity": 17,
+  "armor": 113,
+  "class": "ARMOR",
+  "quality": "RARE",
+  "subclass": "MAIL",
+  "type": "FEET",
+  "stats": {
+    "strength": 5,
+    "stamina": 5
+  },
+  "sourceType": "DROP",
+  "sourceId": 3673,
+  "sourceName": "Lord Serpentis",
+  "sourceZone": 718
+}

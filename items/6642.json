@@ -1,1 +1,18 @@
-{"appearances":{"0":[12295,"inv_chest_chain_06"]},"armor":164,"classs":4,"displayid":12295,"flags2":24576,"id":6642,"level":21,"name":"Phantom Armor","quality":3,"reqlevel":16,"slot":5,"slotbak":5,"source":[2],"sourcemore":[{"bd":1,"dd":-1,"z":209}],"subclass":3,"firstseenpatch":0,"critstrkrtng":5,"dura":110,"sellprice":1133,"sta":7,"str":5,"statsInfo":{"4":{"qty":5,"alloc":4444,"socketMult":0},"7":{"qty":7,"alloc":6666,"socketMult":0},"32":{"qty":5,"alloc":4444,"socketMult":0}},"popularity":32,"icon":"inv_chest_chain_05","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Phantom Armor</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->164 Armor</span><br><span><!--stat4-->+5 Strength</span><br><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 110 / 110</td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<br><!--rr--><span class=\"q2\">Equip: Improves critical strike rating by <!--rtg32-->5.</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">11</span> <span class=\"moneycopper\">33</span></div></td></tr></table><!--i?6642:1:85:16-->"}
+{
+  "id": 6642,
+  "name": "Phantom Armor",
+  "icon": "inv_chest_chain_05",
+  "popularity": 22,
+  "armor": 164,
+  "class": "ARMOR",
+  "quality": "RARE",
+  "subclass": "MAIL",
+  "type": "CHEST",
+  "stats": {
+    "crit": 5,
+    "strength": 5,
+    "stamina": 7
+  },
+  "sourceType": "DROP",
+  "sourceZone": 209
+}

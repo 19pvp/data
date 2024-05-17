@@ -1,1 +1,15 @@
-{"appearances":{"0":[27072,"inv_misc_cape_05"]},"armor":16,"classs":4,"displayid":27072,"flags2":24576,"id":68743,"level":9,"name":"Imbued Infantry Cloak","quality":2,"reqlevel":4,"slot":16,"slotbak":16,"source":[2],"subclass":-6,"firstseenpatch":0,"avgbuyout":5300,"sellprice":53,"str":1,"statsInfo":{"4":{"qty":1,"alloc":10000,"socketMult":0}},"popularity":19,"icon":"inv_misc_cape_11","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Imbued Infantry Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->9</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Back</td></tr></table><!--rf--><span><!--amr-->16 Armor</span><br><span><!--stat4-->+1 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->4<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">53</span></div></td></tr></table>"}
+{
+  "id": 68743,
+  "name": "Imbued Infantry Cloak",
+  "icon": "inv_misc_cape_11",
+  "popularity": 19,
+  "armor": 16,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "CLOAKS",
+  "type": "BACK",
+  "stats": {
+    "strength": 1
+  },
+  "sourceType": "DROP"
+}

@@ -1,1 +1,23 @@
-{"appearances":{"0":[20382,""]},"classs":2,"displayid":20382,"dps":15.15,"flags2":24576,"id":880,"level":23,"name":"Staff of Horrors","quality":2,"reqlevel":18,"slot":17,"slotbak":17,"source":[2],"sourcemore":[{"n":"Rotting Horror","t":1,"ti":202,"z":10}],"speed":3.4,"subclass":10,"firstseenpatch":0,"avgbuyout":3500,"dmgmax1":62,"dmgmin1":41,"dmgrange":0.4,"dmgtype1":0,"dura":70,"mledmgmax":62,"mledmgmin":41,"mledps":15.15,"mlespeed":3.4,"sellprice":2692,"sheathtype":2,"statsInfo":[],"popularity":27,"icon":"inv_staff_25","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Staff of Horrors</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->41 - 62 Damage</span></td>\n    <th>Speed <!--spd-->3.40</th>\n</tr></table><!--dps-->(15.15 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<br><!--rr--><span class=\"q2\">Chance on hit: <a href=\"/cata/spell=8552/curse-of-weakness\" class=\"q2\">Damage caused by the target is reduced by 5 for 2 min.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">26</span> <span class=\"moneycopper\">92</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Rotting Horror</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 1.61%</div></td></tr></table>"}
+{
+  "id": 880,
+  "name": "Staff of Horrors",
+  "icon": "inv_staff_25",
+  "dmgMin": 41,
+  "dmgMax": 62,
+  "speed": 3.4,
+  "dps": 15.15,
+  "popularity": 34,
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "STAFF",
+  "type": "TWO_HAND",
+  "stats": {},
+  "sourceType": "DROP",
+  "sourceId": 202,
+  "sourceName": "Rotting Horror",
+  "sourceZone": 10,
+  "chanceOnHit": {
+    "spell": 8552,
+    "text": "Damage caused by the target is reduced by 5 for 2 min."
+  }
+}

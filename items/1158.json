@@ -1,1 +1,21 @@
-{"appearances":{"0":[19643,""]},"classs":2,"displayid":19643,"dps":5.37,"flags2":24576,"id":1158,"level":10,"name":"Solid Metal Club","quality":2,"reqlevel":7,"side":1,"slot":21,"slotbak":21,"source":[4],"sourcemore":[{"c":12,"c2":0,"n":"Bounty on Murlocs","t":5,"ti":46}],"speed":2.7,"subclass":4,"firstseenpatch":0,"dmgmax1":19,"dmgmin1":10,"dmgrange":0.6,"dmgtype1":0,"dura":40,"int":1,"mledmgmax":19,"mledmgmin":10,"mledps":5.37,"mlespeed":2.7,"sellprice":244,"sheathtype":3,"statsInfo":{"5":{"qty":1,"alloc":10000,"socketMult":0}},"popularity":22,"icon":"inv_mace_01","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Solid Metal Club</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->10 - 19 Damage</span></td>\n    <th>Speed <!--spd-->2.70</th>\n</tr></table><!--dps-->(5.37 damage per second)<br><span><!--stat5-->+1 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">44</span></div></td></tr></table>"}
+{
+  "id": 1158,
+  "name": "Solid Metal Club",
+  "icon": "inv_mace_01",
+  "dmgMin": 10,
+  "dmgMax": 19,
+  "speed": 2.7,
+  "dps": 5.37,
+  "popularity": 22,
+  "side": "ALLIANCE",
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "ONE_HANDED_MACE",
+  "type": "MAIN_HAND",
+  "stats": {
+    "intellect": 1
+  },
+  "sourceType": "QUEST",
+  "sourceId": 46,
+  "sourceName": "Bounty on Murlocs"
+}

@@ -1,1 +1,23 @@
-{"armor":0,"classs":4,"flags2":159745,"heirloombonuses":[0,0,0,0],"id":44097,"level":1,"name":"Inherited Insignia of the Horde","quality":7,"reqlevel":80,"reqrace":946,"side":2,"slot":12,"slotbak":12,"source":[5],"sourcemore":[{"n":"Stone Guard Mukar","t":1,"ti":32296,"z":4197}],"subclass":-4,"firstseenpatch":0,"cooldown":300000,"dbcFlags":2,"maxcount":1,"races":946,"scadist":298,"statsInfo":[],"popularity":34,"icon":"inv_jewelry_trinketpvp_02","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q7\">Inherited Insignia of the Horde</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><br>Binds to account<br>Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"><!--asc-4--></span><!--scend--></th></tr></table><!--rf--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-races\">Requires any Horde race</div></td></tr></table><table><tr><td>Requires level <!--minlvl-->1 to <!--maxlvl-->80 (<!--lvl-->80)<br><!--rr--><span class=\"q2\">Equip: Improves your resilience rating by <!--rtg35-->64.</span><br><span class=\"q2\">Use: <a href=\"/cata/spell=42292/pvp-trinket\" class=\"q2\">Removes all movement impairing effects and all effects which cause loss of control of your character.</a> (5 Min Cooldown)</span><!--itemEffects:1--></td></tr></table><!--i?44097:1:80:80:298:0-->"}
+{
+  "id": 44097,
+  "name": "Inherited Insignia of the Horde",
+  "icon": "inv_jewelry_trinketpvp_02",
+  "popularity": 34,
+  "armor": 0,
+  "side": "HORDE",
+  "class": "ARMOR",
+  "quality": "HEIRLOOM",
+  "subclass": "TRINKETS",
+  "type": "TRINKET",
+  "stats": {
+    "resilience": 6
+  },
+  "sourceType": "VENDOR",
+  "sourceId": 32296,
+  "sourceName": "Stone Guard Mukar",
+  "sourceZone": 4197,
+  "use": {
+    "spell": 42292,
+    "text": "Removes all movement impairing effects and all effects which cause loss of control of your character. (5 Min Cooldown)"
+  }
+}

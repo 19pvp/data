@@ -1,1 +1,21 @@
-{"appearances":{"0":[36960,""]},"classs":2,"displayid":36960,"dps":10.21,"flags2":24576,"id":23410,"level":20,"name":"Well Crafted Sword","quality":2,"reqlevel":9,"side":2,"slot":13,"slotbak":13,"source":[4],"sourcemore":[{"c":3433,"c2":0,"n":"Bring Me Kel'gash's Head!","t":5,"ti":9215}],"speed":2.4,"subclass":7,"firstseenpatch":0,"dmgmax1":32,"dmgmin1":17,"dmgrange":0.6,"dmgtype1":0,"dura":55,"mledmgmax":32,"mledmgmin":17,"mledps":10.21,"mlespeed":2.4,"sellprice":1435,"sheathtype":3,"str":3,"statsInfo":{"4":{"qty":3,"alloc":10000,"socketMult":0}},"popularity":15,"icon":"inv_sword_05","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Well Crafted Sword</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:7--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->17 - 32 Damage</span></td>\n    <th>Speed <!--spd-->2.40</th>\n</tr></table><!--dps-->(10.21 damage per second)<br><span><!--stat4-->+3 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">14</span> <span class=\"moneycopper\">35</span></div></td></tr></table>"}
+{
+  "id": 23410,
+  "name": "Well Crafted Sword",
+  "icon": "inv_sword_05",
+  "dmgMin": 17,
+  "dmgMax": 32,
+  "speed": 2.4,
+  "dps": 10.21,
+  "popularity": 23,
+  "side": "HORDE",
+  "class": "WEAPON",
+  "quality": "UNCOMMON",
+  "subclass": "ONE_HANDED_SWORD",
+  "type": "ONE_HAND",
+  "stats": {
+    "strength": 3
+  },
+  "sourceType": "QUEST",
+  "sourceId": 9215,
+  "sourceName": "Bring Me Kel'gash's Head!"
+}

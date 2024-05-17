@@ -1,1 +1,20 @@
-{"appearances":{"0":[25150,""]},"armor":58,"classs":4,"displayid":25150,"flags2":24576,"id":66011,"level":21,"name":"Godfrey's Britches","quality":3,"reqlevel":16,"side":2,"slot":7,"slotbak":7,"source":[4],"sourcemore":[{"c":209,"c2":2,"n":"Sweet, Merciless Revenge","t":5,"ti":27998}],"subclass":1,"firstseenpatch":0,"critstrkrtng":5,"dura":80,"int":5,"sellprice":805,"sta":7,"statsInfo":{"5":{"qty":5,"alloc":4444,"socketMult":0},"7":{"qty":7,"alloc":6667,"socketMult":0},"32":{"qty":5,"alloc":4444,"socketMult":0}},"popularity":16,"icon":"inv_pants_08","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q3\">Godfrey's Britches</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><br>Binds when picked up<!--ue--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->58 Armor</span><br><span><!--stat7-->+7 Stamina</span><br><span><!--stat5-->+5 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Improves critical strike rating by <!--rtg32-->5.</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">5</span></div></td></tr></table><!--i?66011:1:85:16-->"}
+{
+  "id": 66011,
+  "name": "Godfrey's Britches",
+  "icon": "inv_pants_08",
+  "popularity": 16,
+  "armor": 58,
+  "side": "HORDE",
+  "class": "ARMOR",
+  "quality": "RARE",
+  "subclass": "CLOTH",
+  "type": "LEGS",
+  "stats": {
+    "crit": 5,
+    "stamina": 7,
+    "intellect": 5
+  },
+  "sourceType": "QUEST",
+  "sourceId": 27998,
+  "sourceName": "Sweet, Merciless Revenge"
+}

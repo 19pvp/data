@@ -1,1 +1,15 @@
-{"appearances":{"0":[3749,"inv_boots_09"]},"armor":60,"classs":4,"displayid":3749,"flags2":24576,"id":4788,"level":20,"name":"Agile Boots","quality":2,"reqlevel":15,"slot":8,"slotbak":8,"source":[5],"subclass":2,"firstseenpatch":0,"agi":5,"avgbuyout":10441,"buyprice":2634,"dura":45,"sellprice":526,"statsInfo":{"3":{"qty":5,"alloc":10000,"socketMult":0}},"popularity":19,"icon":"inv_boots_05","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Agile Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->60 Armor</span><br><span><!--stat3-->+5 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">26</span></div></td></tr></table>"}
+{
+  "id": 4788,
+  "name": "Agile Boots",
+  "icon": "inv_boots_05",
+  "popularity": 19,
+  "armor": 60,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "LEATHER",
+  "type": "FEET",
+  "stats": {
+    "agility": 5
+  },
+  "sourceType": "VENDOR"
+}

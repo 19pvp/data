@@ -1,1 +1,13 @@
-{"appearances":{"0":[25938,""]},"armor":24,"classs":4,"displayid":25938,"flags2":24576,"id":9786,"level":16,"name":"Raider's Cloak","quality":2,"reqlevel":11,"slot":16,"slotbak":16,"source":[2,16],"subclass":-6,"firstseenpatch":0,"avgbuyout":2132,"sellprice":234,"statsInfo":[],"popularity":7,"icon":"inv_misc_cape_18","screenshot":{},"attainable":0,"displayName":"","qualityTier":0,"tooltip":"<table><tr><td><!--nstart--><b class=\"q2\">Raider's Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->16</span><!--bo--><br>Binds when equipped<!--ue--><table width=\"100%\"><tr><td>Back</td></tr></table><!--rf--><span><!--amr-->24 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->11<br><!--rr--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">34</span></div></td></tr></table>"}
+{
+  "id": 9786,
+  "name": "Raider's Cloak",
+  "icon": "inv_misc_cape_18",
+  "popularity": 15,
+  "armor": 24,
+  "class": "ARMOR",
+  "quality": "UNCOMMON",
+  "subclass": "CLOAKS",
+  "type": "BACK",
+  "stats": {},
+  "sourceType": "DROP"
+}
