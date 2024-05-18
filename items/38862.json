@@ -1,0 +1,16 @@
+{
+	"id": 38862,
+	"name": "Enchant Boots - Greater Stamina",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 5,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 20020,
+	"sourceName": "Enchant Boots - Greater Stamina",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 20020,
+		"text": "Permanently enchant boots to increase Stamina by 7."
+	}
+}

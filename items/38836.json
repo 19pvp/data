@@ -1,0 +1,16 @@
+{
+	"id": 38836,
+	"name": "Enchant Gloves - Strength",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 21,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13887,
+	"sourceName": "Enchant Gloves - Strength",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13887,
+		"text": "Permanently enchant gloves to grant +5 Strength."
+	}
+}

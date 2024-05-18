@@ -1,0 +1,16 @@
+{
+	"id": 38870,
+	"name": "Enchant Weapon - Superior Striking",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 21,
+	"class": "CONSUMABLE",
+	"quality": "RARE",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 20031,
+	"sourceName": "Enchant Weapon - Superior Striking",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 20031,
+		"text": "Permanently enchant a melee weapon to increase its damage by 5."
+	}
+}

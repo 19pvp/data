@@ -1,0 +1,9 @@
+{
+	"id": "49042",
+	"icon": "ability_hunter_rapidregeneration",
+	"quality": "COMMON",
+	"use": {
+		"spell": 67923,
+		"text": "Call in an artillery strike at the target area. (15 Sec Cooldown)"
+	}
+}

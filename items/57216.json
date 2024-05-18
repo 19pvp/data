@@ -1,0 +1,9 @@
+{
+	"id": "57216",
+	"icon": "inv_hammer_15",
+	"dmgMin": 5,
+	"dmgMax": 9,
+	"speed": 3.3,
+	"dps": 2.12,
+	"quality": "COMMON"
+}

@@ -1,0 +1,16 @@
+{
+	"id": 38793,
+	"name": "Enchant Bracer - Lesser Stamina",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 6,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13501,
+	"sourceName": "Enchant Bracer - Lesser Stamina",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13501,
+		"text": "Permanently enchant a bracer so it increases the wearer's Stamina by 3."
+	}
+}

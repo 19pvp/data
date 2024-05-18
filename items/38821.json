@@ -1,0 +1,16 @@
+{
+	"id": 38821,
+	"name": "Enchant Weapon - Striking",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 19,
+	"class": "CONSUMABLE",
+	"quality": "RARE",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13693,
+	"sourceName": "Enchant Weapon - Striking",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13693,
+		"text": "Permanently enchant a melee weapon to do 3 additional points of damage."
+	}
+}

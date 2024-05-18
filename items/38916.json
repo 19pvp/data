@@ -1,0 +1,9 @@
+{
+	"id": 38916,
+	"name": "Enchant Weapon - Major Spirit",
+	"icon": "inv_scroll_03",
+	"popularity": 47,
+	"class": "CONSUMABLE",
+	"quality": "RARE",
+	"subclass": "ITEM_ENHANCEMENT"
+}

@@ -1,0 +1,10 @@
+{
+	"id": "2701",
+	"icon": "inv_scroll_03",
+	"quality": "COMMON",
+	"use": {
+		"spell": 5006,
+		"text": "Restores 552 health over 24 sec. Must remain seated while eating. If you spend at least 10 seconds eating you will become well fed and gain 6 Stamina and Spirit for 15 min."
+	},
+	"info": "Requires Lean Wolf Flank(2)"
+}

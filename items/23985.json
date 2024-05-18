@@ -1,0 +1,6 @@
+{
+	"id": "23985",
+	"icon": "inv_datacrystal03",
+	"quality": "COMMON",
+	"use": { "spell": 30845, "text": "Increases Stamina by 5. Lasts 30 mins." }
+}

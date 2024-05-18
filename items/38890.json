@@ -1,0 +1,16 @@
+{
+	"id": 38890,
+	"name": "Enchant Gloves - Superior Agility",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 11,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 25080,
+	"sourceName": "Enchant Gloves - Superior Agility",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 25080,
+		"text": "Permanently enchant gloves to increase Agility by 15."
+	}
+}

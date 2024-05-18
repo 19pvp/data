@@ -1,0 +1,16 @@
+{
+	"id": 38876,
+	"name": "Enchant Weapon - Winter's Might",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 7,
+	"class": "CONSUMABLE",
+	"quality": "RARE",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 21931,
+	"sourceName": "Enchant Weapon - Winter's Might",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 21931,
+		"text": "Permanently enchant a melee weapon to increase Frost spell power by 7."
+	}
+}

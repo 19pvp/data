@@ -1,0 +1,16 @@
+{
+	"id": 38774,
+	"name": "Enchant Bracer - Minor Spirit",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 6,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 7766,
+	"sourceName": "Enchant Bracer - Minor Spirit",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 7766,
+		"text": "Permanently enchant bracers to increase Spirit by 1."
+	}
+}

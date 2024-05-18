@@ -1,0 +1,9 @@
+{
+	"id": "62909",
+	"icon": "inv_misc_food_122_steak",
+	"quality": "COMMON",
+	"use": {
+		"spell": 434,
+		"text": "Restores 243.6 health over 21 sec. Must remain seated while eating."
+	}
+}

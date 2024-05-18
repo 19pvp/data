@@ -1,0 +1,16 @@
+{
+	"id": 38813,
+	"name": "Enchant Weapon - Lesser Beastslayer",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 10,
+	"class": "CONSUMABLE",
+	"quality": "RARE",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13653,
+	"sourceName": "Enchant Weapon - Lesser Beastslayer",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13653,
+		"text": "Permanently enchant a melee weapon to increase its damage to beasts by 6."
+	}
+}

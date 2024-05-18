@@ -1,0 +1,16 @@
+{
+	"id": 23530,
+	"name": "Felsteel Shield Spike",
+	"icon": "inv_misc_armorkit_27",
+	"popularity": 15,
+	"class": "CONSUMABLE",
+	"quality": "UNCOMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 29657,
+	"sourceName": "Felsteel Shield Spike",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 29454,
+		"text": "Attaches a Felsteel Spike to your shield that deals 26-38 damage every time you block with it."
+	}
+}

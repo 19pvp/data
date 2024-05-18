@@ -1,0 +1,11 @@
+{
+	"id": "1434",
+	"icon": "inv_misc_candle_03",
+	"speed": 2,
+	"armor": -50,
+	"quality": "COMMON",
+	"use": {
+		"spell": 13424,
+		"text": "Decrease the armor of the target by 50 for 30 sec. While affected, the target cannot stealth or turn invisible. (1 Min Cooldown)"
+	}
+}

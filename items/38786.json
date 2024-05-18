@@ -1,0 +1,16 @@
+{
+	"id": 38786,
+	"name": "Enchant Boots - Minor Agility",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 6,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 7867,
+	"sourceName": "Enchant Boots - Minor Agility",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 7867,
+		"text": "Permanently enchant boots to increase Agility by 1."
+	}
+}

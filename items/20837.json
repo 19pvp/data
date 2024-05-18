@@ -1,0 +1,9 @@
+{
+	"id": "20837",
+	"icon": "inv_axe_01",
+	"dmgMin": 5,
+	"dmgMax": 9,
+	"speed": 3.5,
+	"dps": 2,
+	"quality": "COMMON"
+}

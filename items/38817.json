@@ -1,0 +1,16 @@
+{
+	"id": 38817,
+	"name": "Enchant Bracer - Strength",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 15,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13661,
+	"sourceName": "Enchant Bracer - Strength",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13661,
+		"text": "Permanently enchants bracers to give +5 Strength."
+	}
+}

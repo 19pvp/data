@@ -1,0 +1,17 @@
+{
+	"id": 38775,
+	"name": "Enchant Cloak - Minor Protection",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 8,
+	"armor": 10,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 7771,
+	"sourceName": "Enchant Cloak - Minor Protection",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 7771,
+		"text": "Enchant a cloak to provide 10 additional points of armor."
+	}
+}

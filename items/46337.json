@@ -1,0 +1,10 @@
+{
+	"id": "46337",
+	"icon": "inv_fishingpole_02",
+	"dmgMin": 13,
+	"dmgMax": 21,
+	"speed": 3,
+	"dps": 5.67,
+	"quality": "COMMON",
+	"equip": { "spell": 15956, "text": "Fishing skill increased by 3." }
+}

@@ -1,0 +1,17 @@
+{
+	"id": 38791,
+	"name": "Enchant Shield - Lesser Protection",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 13,
+	"armor": 30,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13464,
+	"sourceName": "Enchant Shield - Lesser Protection",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13464,
+		"text": "Permanently enchant a shield to increase armor by 30."
+	}
+}

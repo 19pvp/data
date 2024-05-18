@@ -1,0 +1,16 @@
+{
+	"id": 38839,
+	"name": "Enchant Shield - Greater Spirit",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 24,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13905,
+	"sourceName": "Enchant Shield - Greater Spirit",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13905,
+		"text": "Permanently enchant a shield to give +7 Spirit."
+	}
+}

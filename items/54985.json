@@ -1,0 +1,9 @@
+{
+	"id": "54985",
+	"icon": "inv_mace_02",
+	"dmgMin": 7,
+	"dmgMax": 11,
+	"speed": 3.3,
+	"dps": 2.73,
+	"quality": "COMMON"
+}

@@ -8,7 +8,6 @@
 	"quality": "UNCOMMON",
 	"subclass": "OFF_HAND_FRILLS",
 	"type": "HELD_IN_OFF_HAND",
-	"stats": {},
 	"source": "DROP",
 	"use": {
 		"spell": 27571,

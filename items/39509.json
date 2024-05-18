@@ -8,7 +8,6 @@
 	"quality": "UNCOMMON",
 	"subclass": "LEATHER",
 	"type": "CHEST",
-	"stats": {},
 	"rand": {
 		"of Agility": { "id": 132, "chance": 22.5, "stats": { "Agility": 6 } },
 		"of the Tiger": {

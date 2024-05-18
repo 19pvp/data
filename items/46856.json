@@ -1,0 +1,6 @@
+{
+	"id": "46856",
+	"icon": "inv_misc_key_12",
+	"quality": "COMMON",
+	"use": { "spell": 66393, "text": "Get in your hot rod! (5 Sec Cooldown)" }
+}

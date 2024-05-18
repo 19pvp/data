@@ -1,0 +1,16 @@
+{
+	"id": 4406,
+	"name": "Standard Scope",
+	"icon": "inv_misc_spyglass_02",
+	"popularity": 14,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 3978,
+	"sourceName": "Standard Scope",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 3975,
+		"text": "Attaches a permanent scope to a bow or gun that increases its damage by 2."
+	}
+}

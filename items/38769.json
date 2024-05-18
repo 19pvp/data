@@ -1,0 +1,16 @@
+{
+	"id": 38769,
+	"name": "Enchant Chest - Minor Mana",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 8,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 7443,
+	"sourceName": "Enchant Chest - Minor Mana",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 7443,
+		"text": "Permanently enchant chest armor to increase mana by 5."
+	}
+}

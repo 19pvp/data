@@ -1,0 +1,16 @@
+{
+	"id": 38818,
+	"name": "Enchant Chest - Greater Mana",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 6,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13663,
+	"sourceName": "Enchant Chest - Greater Mana",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13663,
+		"text": "Permanently enchant a piece of chest armor to give +50 mana."
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 38869,
+	"name": "Enchant 2H Weapon - Superior Impact",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 19,
+	"class": "CONSUMABLE",
+	"quality": "RARE",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 20030,
+	"sourceName": "Enchant 2H Weapon - Superior Impact",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 20030,
+		"text": "Permanently enchant a two-handed melee weapon to increase its damage by 9."
+	}
+}

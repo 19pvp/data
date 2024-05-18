@@ -1,0 +1,9 @@
+{
+	"id": "6635",
+	"icon": "inv_potion_12",
+	"quality": "COMMON",
+	"use": {
+		"spell": 8202,
+		"text": "Allows the shaman to see elemental spirits."
+	}
+}

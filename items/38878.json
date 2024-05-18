@@ -1,0 +1,16 @@
+{
+	"id": 38878,
+	"name": "Enchant Weapon - Healing Power",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 10,
+	"class": "CONSUMABLE",
+	"quality": "RARE",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 22750,
+	"sourceName": "Enchant Weapon - Healing Power",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 22750,
+		"text": "Permanently enchant a melee weapon to increase spell power by 29."
+	}
+}

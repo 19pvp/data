@@ -1,0 +1,16 @@
+{
+	"id": 38875,
+	"name": "Enchant 2H Weapon - Major Intellect",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 40,
+	"class": "CONSUMABLE",
+	"quality": "RARE",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 20036,
+	"sourceName": "Enchant 2H Weapon - Major Intellect",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 20036,
+		"text": "Permanently enchant a two-handed melee weapon to increase Intellect by 9."
+	}
+}

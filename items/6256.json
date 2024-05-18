@@ -1,0 +1,9 @@
+{
+	"id": "6256",
+	"icon": "inv_fishingpole_02",
+	"dmgMin": 2,
+	"dmgMax": 4,
+	"speed": 3,
+	"dps": 1,
+	"quality": "COMMON"
+}

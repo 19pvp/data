@@ -8,7 +8,6 @@
 	"quality": "UNCOMMON",
 	"subclass": "CLOTH",
 	"type": "CHEST",
-	"stats": {},
 	"rand": {
 		"of Spirit": { "id": 134, "chance": 19.8, "stats": { "Spirit": 6 } },
 		"of the Elder": {

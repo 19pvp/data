@@ -11,7 +11,6 @@
 	"quality": "UNCOMMON",
 	"subclass": "STAFF",
 	"type": "TWO_HAND",
-	"stats": {},
 	"rand": {
 		"of Intellect": { "id": 94, "chance": 12.1, "stats": { "Intellect": 4 } },
 		"of the Owl": {

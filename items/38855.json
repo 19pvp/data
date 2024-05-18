@@ -1,0 +1,16 @@
+{
+	"id": 38855,
+	"name": "Enchant Bracer - Superior Stamina",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 11,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 20011,
+	"sourceName": "Enchant Bracer - Superior Stamina",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 20011,
+		"text": "Permanently enchant bracers to increase Stamina by 9."
+	}
+}

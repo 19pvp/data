@@ -1,0 +1,9 @@
+{
+	"id": "2454",
+	"icon": "inv_potion_56",
+	"quality": "COMMON",
+	"use": {
+		"spell": 2367,
+		"text": "Increases your Strength by 4 for 1 hour. Battle Elixir. (3 Sec Cooldown)"
+	}
+}

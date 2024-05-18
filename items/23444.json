@@ -1,0 +1,9 @@
+{
+	"id": "23444",
+	"icon": "inv_potion_10",
+	"quality": "COMMON",
+	"use": {
+		"spell": 29348,
+		"text": "Increases the player's maximum health by 27 for 15 min. Guardian Elixir. (3 Sec Cooldown)"
+	}
+}

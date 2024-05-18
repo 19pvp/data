@@ -1,0 +1,16 @@
+{
+	"id": 38843,
+	"name": "Enchant Shield - Frost Resistance",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 21,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13933,
+	"sourceName": "Enchant Shield - Frost Resistance",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13933,
+		"text": "Permanently enchant a shield to increase Frost resistance by 8."
+	}
+}

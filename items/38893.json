@@ -1,0 +1,16 @@
+{
+	"id": 38893,
+	"name": "Enchant Cloak - Stealth",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 15,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 25083,
+	"sourceName": "Enchant Cloak - Stealth",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 25083,
+		"text": "Permanently enchant a cloak to increase Agility and dodge rating by 8."
+	}
+}

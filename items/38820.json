@@ -1,0 +1,16 @@
+{
+	"id": 38820,
+	"name": "Enchant Shield - Lesser Parry",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 21,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13689,
+	"sourceName": "Enchant Shield - Lesser Parry",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13689,
+		"text": "Permanently enchant a shield to increase parry rating by 10."
+	}
+}

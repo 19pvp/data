@@ -1,0 +1,6 @@
+{
+	"id": "2455",
+	"icon": "inv_potion_70",
+	"quality": "COMMON",
+	"use": { "spell": 437, "text": "Restores 140 to 180 mana. (1 Min Cooldown)" }
+}

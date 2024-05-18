@@ -1,0 +1,16 @@
+{
+	"id": 38881,
+	"name": "Enchant Bracer - Mana Regeneration",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 19,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 23801,
+	"sourceName": "Enchant Bracer - Mana Regeneration",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 23801,
+		"text": "Permanently enchant bracers to increase Spirit by 9."
+	}
+}

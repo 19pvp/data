@@ -1,0 +1,16 @@
+{
+	"id": 38811,
+	"name": "Enchant Bracer - Lesser Dodge",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 5,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13646,
+	"sourceName": "Enchant Bracer - Lesser Dodge",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13646,
+		"text": "Permanently enchant bracers to increase dodge rating by 3."
+	}
+}

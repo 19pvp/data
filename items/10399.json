@@ -13,5 +13,7 @@
 	"sourceId": 639,
 	"sourceName": "Edwin VanCleef",
 	"sourceZone": 1581,
-	"sourceType": "NPC"
+	"sourceType": "NPC",
+	"info": "Blackened Defias ArmorBlackened Defias BeltBlackened Defias BootsBlackened Defias GlovesBlackened Defias Leggings",
+	"<span>(2)Set ": { "spell": 41731, "text": "+10 Armor.(3) Set" }
 }

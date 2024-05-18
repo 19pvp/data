@@ -1,0 +1,9 @@
+{
+	"id": "3080",
+	"icon": "inv_misc_candle_01",
+	"quality": "COMMON",
+	"use": {
+		"spell": 73287,
+		"text": "Places the Candle of Beckoning on Lillith's Dinner Table."
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 38894,
+	"name": "Enchant Cloak - Subtlety",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 8,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 25084,
+	"sourceName": "Enchant Cloak - Subtlety",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 25084,
+		"text": "Permanently enchant a cloak to decrease threat from all attacks and spells by 2%."
+	}
+}

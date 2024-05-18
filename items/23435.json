@@ -1,0 +1,6 @@
+{
+	"id": "23435",
+	"icon": "inv_misc_food_10",
+	"quality": "COMMON",
+	"use": { "spell": 29335, "text": "Increases dodge rating by 20 for 1 hour." }
+}

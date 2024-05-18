@@ -1,0 +1,17 @@
+{
+	"id": 38806,
+	"name": "Enchant Cloak - Defense",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 35,
+	"armor": 30,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13635,
+	"sourceName": "Enchant Cloak - Defense",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13635,
+		"text": "Permanently enchant a cloak to give 30 additional armor."
+	}
+}

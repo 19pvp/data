@@ -1,0 +1,16 @@
+{
+	"id": 38819,
+	"name": "Enchant Boots - Lesser Spirit",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 36,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13687,
+	"sourceName": "Enchant Boots - Lesser Spirit",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13687,
+		"text": "Permanently enchant boots to increase Spirit by 3."
+	}
+}

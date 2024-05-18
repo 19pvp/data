@@ -1,0 +1,16 @@
+{
+	"id": 38826,
+	"name": "Enchant Cloak - Resistance",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 3,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13794,
+	"sourceName": "Enchant Cloak - Resistance",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13794,
+		"text": "Permanently enchant a cloak to give 3 to all resistances."
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 38801,
+	"name": "Enchant Gloves - Herbalism",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 12,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13617,
+	"sourceName": "Enchant Gloves - Herbalism",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13617,
+		"text": "Permanently enchant gloves to increase herbalism skill by 2."
+	}
+}

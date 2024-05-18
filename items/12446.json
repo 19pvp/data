@@ -1,0 +1,9 @@
+{
+	"id": "12446",
+	"icon": "inv_weapon_rifle_07",
+	"dmgMin": 4,
+	"dmgMax": 8,
+	"speed": 2.7,
+	"dps": 2.22,
+	"quality": "COMMON"
+}

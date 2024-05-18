@@ -1,0 +1,16 @@
+{
+	"id": 38787,
+	"name": "Enchant Shield - Minor Stamina",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 7,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13378,
+	"sourceName": "Enchant Shield - Minor Stamina",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13378,
+		"text": "Permanently enchant a shield so that it increases the Stamina of the bearer by 1."
+	}
+}

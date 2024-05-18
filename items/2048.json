@@ -1,0 +1,9 @@
+{
+	"id": "2048",
+	"icon": "inv_hammer_20",
+	"dmgMin": 2,
+	"dmgMax": 5,
+	"speed": 2.1,
+	"dps": 1.67,
+	"quality": "COMMON"
+}

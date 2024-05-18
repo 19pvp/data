@@ -8,6 +8,7 @@
 	"quality": "UNCOMMON",
 	"subclass": "MISC",
 	"type": "HEAD",
-	"stats": {},
-	"source": "DROP"
+	"source": "DROP",
+	"info": "Winter Garb (0/3)",
+	"<span>(3)Set ": { "spell": 55000, "text": "Full Winter Garb" }
 }

@@ -1,0 +1,16 @@
+{
+	"id": 38803,
+	"name": "Enchant Bracer - Lesser Intellect",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 20,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13622,
+	"sourceName": "Enchant Bracer - Lesser Intellect",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13622,
+		"text": "Permanently enchant a bracer so it increases the wearer's Intellect by 3."
+	}
+}

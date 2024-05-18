@@ -1,0 +1,10 @@
+{
+	"id": "53057",
+	"icon": "inv_helmet_29",
+	"armor": 44,
+	"quality": "COMMON",
+	"use": {
+		"spell": 74589,
+		"text": "Relive your days as an apprentice. (30 Min Cooldown)"
+	}
+}

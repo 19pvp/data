@@ -1,0 +1,6 @@
+{
+	"id": "2723",
+	"icon": "inv_drink_10",
+	"quality": "COMMON",
+	"use": { "spell": 11007, "text": "A fairly weak alcoholic beverage." }
+}

@@ -1,0 +1,9 @@
+{
+	"id": "24072",
+	"icon": "inv_misc_food_10",
+	"quality": "COMMON",
+	"use": {
+		"spell": 434,
+		"text": "Restores 243.6 health over 21 sec. Must remain seated while eating."
+	}
+}

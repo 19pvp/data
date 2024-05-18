@@ -1,0 +1,6 @@
+{
+	"id": "62908",
+	"icon": "inv_drink_18",
+	"quality": "COMMON",
+	"use": { "spell": 11008, "text": "A typical alcoholic beverage." }
+}

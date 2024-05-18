@@ -1,0 +1,18 @@
+{
+	"id": 18850,
+	"name": "Insignia of the Horde",
+	"icon": "inv_jewelry_trinketpvp_02",
+	"popularity": 21,
+	"armor": 0,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "TRINKETS",
+	"type": "TRINKET",
+	"source": "VENDOR",
+	"sourceZone": 1637,
+	"use": {
+		"spell": 42292,
+		"text": "Removes all movement impairing effects and all effects which cause loss of control of your character. (5 Min Cooldown)"
+	}
+}

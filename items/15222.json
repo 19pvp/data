@@ -11,7 +11,6 @@
 	"quality": "UNCOMMON",
 	"subclass": "ONE_HANDED_MACE",
 	"type": "MAIN_HAND",
-	"stats": {},
 	"rand": {
 		"of Power": { "id": 1549, "chance": 30.3, "stats": { "Attack Power": 6 } },
 		"of Strength": { "id": 24, "chance": 20.6, "stats": { "Strength": 3 } },

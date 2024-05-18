@@ -1,0 +1,9 @@
+{
+	"id": "159",
+	"icon": "inv_drink_07",
+	"quality": "COMMON",
+	"use": {
+		"spell": 430,
+		"text": "Restores 151 mana over 18 sec. Must remain seated while drinking."
+	}
+}

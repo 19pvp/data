@@ -1,0 +1,16 @@
+{
+	"id": 38779,
+	"name": "Enchant Weapon - Minor Beastslayer",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 23,
+	"class": "CONSUMABLE",
+	"quality": "RARE",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 7786,
+	"sourceName": "Enchant Weapon - Minor Beastslayer",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 7786,
+		"text": "Permanently enchant a Melee Weapon to do 2 additional points of damage to beasts."
+	}
+}

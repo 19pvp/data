@@ -1,0 +1,9 @@
+{
+	"id": "24448",
+	"icon": "inv_sword_draenei_01",
+	"dmgMin": 6,
+	"dmgMax": 12,
+	"speed": 2.1,
+	"dps": 4.29,
+	"quality": "COMMON"
+}

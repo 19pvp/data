@@ -1,0 +1,9 @@
+{
+	"id": "53388",
+	"icon": "inv_weapon_bow_05",
+	"dmgMin": 6,
+	"dmgMax": 12,
+	"speed": 2.8,
+	"dps": 3.21,
+	"quality": "COMMON"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "52930",
+	"icon": "inv_weapon_shortblade_10",
+	"dmgMin": 3,
+	"dmgMax": 7,
+	"speed": 1.5,
+	"dps": 3.33,
+	"quality": "COMMON"
+}

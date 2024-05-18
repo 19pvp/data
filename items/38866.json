@@ -1,0 +1,16 @@
+{
+	"id": 38866,
+	"name": "Enchant Chest - Major Health",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 17,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 20026,
+	"sourceName": "Enchant Chest - Major Health",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 20026,
+		"text": "Permanently enchant chest armor to increase health by 100."
+	}
+}

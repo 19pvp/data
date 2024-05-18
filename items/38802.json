@@ -1,0 +1,16 @@
+{
+	"id": 38802,
+	"name": "Enchant Gloves - Fishing",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 35,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13620,
+	"sourceName": "Enchant Gloves - Fishing",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13620,
+		"text": "Permanently enchant gloves to increase fishing skill by 2."
+	}
+}

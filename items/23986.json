@@ -1,0 +1,6 @@
+{
+	"id": "23986",
+	"icon": "inv_datacrystal01",
+	"quality": "COMMON",
+	"use": { "spell": 30847, "text": "Increases Intellect by 5. Lasts 30 mins." }
+}

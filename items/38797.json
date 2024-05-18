@@ -1,0 +1,16 @@
+{
+	"id": 38797,
+	"name": "Enchant Bracer - Lesser Strength",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 20,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13536,
+	"sourceName": "Enchant Bracer - Lesser Strength",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13536,
+		"text": "Permanently enchant bracers to increase Strength by 3."
+	}
+}

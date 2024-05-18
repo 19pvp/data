@@ -1,0 +1,16 @@
+{
+	"id": 38807,
+	"name": "Enchant Boots - Lesser Agility",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 20,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13637,
+	"sourceName": "Enchant Boots - Lesser Agility",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13637,
+		"text": "Permanently enchant boots to give +3 Agility."
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 38828,
+	"name": "Enchant Shield - Stamina",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 24,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13817,
+	"sourceName": "Enchant Shield - Stamina",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13817,
+		"text": "Permanently enchant a shield to increase Stamina by 5."
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"id": "54213",
+	"icon": "inv_potion_95",
+	"quality": "COMMON",
+	"use": {
+		"spell": 2379,
+		"text": "Increases run speed by 50% for 15 sec. (1 Min Cooldown)"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"id": "5342",
+	"icon": "inv_drink_04",
+	"quality": "COMMON",
+	"use": {
+		"spell": 6114,
+		"text": "Increases your Intellect by 4 and decreases your Stamina by 5 for 5 min."
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 38814,
+	"name": "Enchant Weapon - Lesser Elemental Slayer",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 21,
+	"class": "CONSUMABLE",
+	"quality": "RARE",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13655,
+	"sourceName": "Enchant Weapon - Lesser Elemental Slayer",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13655,
+		"text": "Permanently enchant a melee weapon to increase its damage to elementals by 6."
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"id": "23989",
+	"icon": "inv_datacrystal12",
+	"quality": "COMMON",
+	"use": {
+		"spell": 30848,
+		"text": "Increases attack power by 10. Lasts 30 mins."
+	}
+}

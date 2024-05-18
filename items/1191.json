@@ -1,0 +1,9 @@
+{
+	"id": "1191",
+	"icon": "inv_misc_ammo_bullet_01",
+	"quality": "COMMON",
+	"use": {
+		"spell": 5917,
+		"text": "Decreases target's chance to hit by 25% for 10 sec. (1 Min Cooldown)"
+	}
+}

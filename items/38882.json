@@ -1,0 +1,16 @@
+{
+	"id": 38882,
+	"name": "Enchant Bracer - Healing Power",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 9,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 23802,
+	"sourceName": "Enchant Bracer - Healing Power",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 23802,
+		"text": "Permanently enchant bracers to increase spell power by 15."
+	}
+}

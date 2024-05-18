@@ -1,0 +1,10 @@
+{
+	"id": "46325",
+	"icon": "ability_druid_forceofnature",
+	"quality": "COMMON",
+	"use": {
+		"spell": 65046,
+		"text": "Teaches you how to summon and dismiss this companion."
+	},
+	"info": "Right Click to summon and dismiss Withers."
+}

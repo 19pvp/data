@@ -1,0 +1,9 @@
+{
+	"id": "858",
+	"icon": "inv_potion_50",
+	"quality": "COMMON",
+	"use": {
+		"spell": 440,
+		"text": "Restores 140 to 180 health. (1 Min Cooldown)"
+	}
+}

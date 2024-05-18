@@ -1,0 +1,9 @@
+{
+	"id": "3382",
+	"icon": "inv_potion_77",
+	"quality": "COMMON",
+	"use": {
+		"spell": 3219,
+		"text": "Regenerate 2 health every 5 sec for 1 hour. Guardian Elixir. (3 Sec Cooldown)"
+	}
+}

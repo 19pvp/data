@@ -1,0 +1,9 @@
+{
+	"id": "5218",
+	"icon": "inv_misc_organ_01",
+	"quality": "COMMON",
+	"use": {
+		"spell": 5666,
+		"text": "Summons a Timberling to protect you for 20 min."
+	}
+}

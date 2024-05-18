@@ -1,0 +1,9 @@
+{
+	"id": "6372",
+	"icon": "inv_potion_13",
+	"quality": "COMMON",
+	"use": {
+		"spell": 7840,
+		"text": "Increases swim speed by 100% for 20 sec. (1 Min Cooldown)"
+	}
+}

@@ -11,7 +11,6 @@
 	"quality": "UNCOMMON",
 	"subclass": "ONE_HANDED_AXE",
 	"type": "MAIN_HAND",
-	"stats": {},
 	"rand": {
 		"of Agility": { "id": 14, "chance": 29.6, "stats": { "Agility": 1 } },
 		"of Stamina": { "id": 15, "chance": 28.1, "stats": { "Stamina": 1 } },

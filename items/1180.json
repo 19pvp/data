@@ -1,0 +1,9 @@
+{
+	"id": "1180",
+	"icon": "inv_scroll_07",
+	"quality": "COMMON",
+	"use": {
+		"spell": 8099,
+		"text": "Increases the target's Stamina by 3 for 30 min. This effect counts as a Guardian Elixir."
+	}
+}

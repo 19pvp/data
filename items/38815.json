@@ -1,0 +1,16 @@
+{
+	"id": 38815,
+	"name": "Enchant Cloak - Fire Resistance",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 37,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13657,
+	"sourceName": "Enchant Cloak - Fire Resistance",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13657,
+		"text": "Permanently enchant a cloak to give 7 Fire Resistance."
+	}
+}

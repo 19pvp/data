@@ -1,0 +1,10 @@
+{
+	"id": "72045",
+	"icon": "achievement_pvp_h_16",
+	"quality": "COMMON",
+	"use": {
+		"spell": 101989,
+		"text": "Teaches you how to summon this companion."
+	},
+	"info": "Right click to summon and dismiss your Horde balloon."
+}

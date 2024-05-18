@@ -1,0 +1,16 @@
+{
+	"id": 38852,
+	"name": "Enchant Bracer - Greater Intellect",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 13,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 20008,
+	"sourceName": "Enchant Bracer - Greater Intellect",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 20008,
+		"text": "Permanently enchant bracers to increase Intellect by 7."
+	}
+}

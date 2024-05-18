@@ -1,0 +1,16 @@
+{
+	"id": 38891,
+	"name": "Enchant Cloak - Greater Fire Resistance",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 7,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 25081,
+	"sourceName": "Enchant Cloak - Greater Fire Resistance",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 25081,
+		"text": "Permanently enchant a cloak to increase fire resistance by 15."
+	}
+}

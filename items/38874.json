@@ -1,0 +1,16 @@
+{
+	"id": 38874,
+	"name": "Enchant 2H Weapon - Major Spirit",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 15,
+	"class": "CONSUMABLE",
+	"quality": "RARE",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 20035,
+	"sourceName": "Enchant 2H Weapon - Major Spirit",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 20035,
+		"text": "Permanently enchant a two-handed melee weapon to increase Spirit by 9."
+	}
+}

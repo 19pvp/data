@@ -1,0 +1,16 @@
+{
+	"id": 45628,
+	"name": "Enchant Boots - Lesser Accuracy",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 8,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 63746,
+	"sourceName": "Enchant Boots - Lesser Accuracy",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 63746,
+		"text": "Permanently enchant boots to increase your hit rating by 5."
+	}
+}

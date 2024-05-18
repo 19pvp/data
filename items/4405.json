@@ -1,0 +1,16 @@
+{
+	"id": 4405,
+	"name": "Crude Scope",
+	"icon": "inv_misc_spyglass_02",
+	"popularity": 5,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 3977,
+	"sourceName": "Crude Scope",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 3974,
+		"text": "Attaches a permanent scope to a bow or gun that increases its damage by 1."
+	}
+}

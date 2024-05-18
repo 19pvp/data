@@ -1,0 +1,16 @@
+{
+	"id": 38831,
+	"name": "Enchant Gloves - Advanced Mining",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 27,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13841,
+	"sourceName": "Enchant Gloves - Advanced Mining",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13841,
+		"text": "Permanently enchant gloves to increase mining skill by 5."
+	}
+}

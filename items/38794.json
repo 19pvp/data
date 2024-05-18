@@ -1,0 +1,16 @@
+{
+	"id": 38794,
+	"name": "Enchant Weapon - Lesser Striking",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 11,
+	"class": "CONSUMABLE",
+	"quality": "RARE",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13503,
+	"sourceName": "Enchant Weapon - Lesser Striking",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13503,
+		"text": "Permanently enchant a melee weapon to do 2 additional points of damage."
+	}
+}

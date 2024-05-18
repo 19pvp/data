@@ -1,0 +1,16 @@
+{
+	"id": 38770,
+	"name": "Enchant Cloak - Minor Resistance",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 22,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 7454,
+	"sourceName": "Enchant Cloak - Minor Resistance",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 7454,
+		"text": "Permanently enchant a cloak so that it increases the resistance to all schools of magic by 1."
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"id": "23247",
+	"icon": "inv_summerfest_fireflower",
+	"quality": "COMMON",
+	"use": {
+		"spell": 28806,
+		"text": "Right Click near a Fire Festival Bonfire to receive the Fire Festival Fury buff, or to reignite an extinguished bonfire. These are also used as currency at Midsummer Suppliers and Merchants."
+	}
+}

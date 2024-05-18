@@ -1,0 +1,16 @@
+{
+	"id": 38847,
+	"name": "Enchant Chest - Stats",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 9,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13941,
+	"sourceName": "Enchant Chest - Stats",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13941,
+		"text": "Permanently enchant a piece of chest armor to grant +3 to all stats."
+	}
+}

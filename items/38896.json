@@ -1,0 +1,16 @@
+{
+	"id": 38896,
+	"name": "Enchant 2H Weapon - Agility",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 13,
+	"class": "CONSUMABLE",
+	"quality": "RARE",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 27837,
+	"sourceName": "Enchant 2H Weapon - Agility",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 27837,
+		"text": "Permanently enchant a two-handed melee weapon to increase Agility by 25."
+	}
+}

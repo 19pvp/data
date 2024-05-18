@@ -1,0 +1,16 @@
+{
+	"id": 38780,
+	"name": "Enchant Weapon - Minor Striking",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 3,
+	"class": "CONSUMABLE",
+	"quality": "RARE",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 7788,
+	"sourceName": "Enchant Weapon - Minor Striking",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 7788,
+		"text": "Permanently enchant a melee weapon to do 1 additional point of damage."
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 38829,
+	"name": "Enchant Bracer - Intellect",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 33,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13822,
+	"sourceName": "Enchant Bracer - Intellect",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13822,
+		"text": "Permanently enchants bracers to give +5 Intellect."
+	}
+}

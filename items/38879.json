@@ -1,0 +1,16 @@
+{
+	"id": 38879,
+	"name": "Enchant Weapon - Strength",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 21,
+	"class": "CONSUMABLE",
+	"quality": "RARE",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 23799,
+	"sourceName": "Enchant Weapon - Strength",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 23799,
+		"text": "Permanently enchant a melee weapon to increase Strength by 15."
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 38830,
+	"name": "Enchant Boots - Stamina",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 17,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13836,
+	"sourceName": "Enchant Boots - Stamina",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13836,
+		"text": "Permanently enchant boots to give +5 Stamina."
+	}
+}

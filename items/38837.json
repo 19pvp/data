@@ -1,0 +1,16 @@
+{
+	"id": 38837,
+	"name": "Enchant Boots - Minor Speed",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 32,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13890,
+	"sourceName": "Enchant Boots - Minor Speed",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13890,
+		"text": "Permanently enchant boots to give a slight movement speed increase."
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 38832,
+	"name": "Enchant Bracer - Greater Spirit",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 6,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13846,
+	"sourceName": "Enchant Bracer - Greater Spirit",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13846,
+		"text": "Permanently enchant bracers to increase Spirit by 7."
+	}
+}

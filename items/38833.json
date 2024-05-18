@@ -1,0 +1,16 @@
+{
+	"id": 38833,
+	"name": "Enchant Chest - Superior Health",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 11,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13858,
+	"sourceName": "Enchant Chest - Superior Health",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13858,
+		"text": "Permanently enchant a piece of chest armor to grant +50 health."
+	}
+}

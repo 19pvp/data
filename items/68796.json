@@ -1,0 +1,13 @@
+{
+	"id": 68796,
+	"name": "Reinforced Fishing Line",
+	"icon": "inv_fabric_mageweave_02",
+	"popularity": 6,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"use": {
+		"spell": 96286,
+		"text": "Replaces the fishing line on your fishing pole with something slightly stronger, permanently increasing Fishing skill by 1."
+	}
+}

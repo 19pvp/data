@@ -1,0 +1,16 @@
+{
+	"id": 38824,
+	"name": "Enchant Chest - Lesser Stats",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 24,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13700,
+	"sourceName": "Enchant Chest - Lesser Stats",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13700,
+		"text": "Permanently enchant a piece of chest armor to grant +2 to all stats."
+	}
+}

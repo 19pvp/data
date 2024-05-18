@@ -1,0 +1,16 @@
+{
+	"id": 38767,
+	"name": "Enchant Chest - Minor Absorption",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 5,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 7426,
+	"sourceName": "Enchant Chest - Minor Absorption",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 7426,
+		"text": "Enchant a piece of chest armor so it has a 2% chance per hit of giving you 10 points of damage absorption."
+	}
+}

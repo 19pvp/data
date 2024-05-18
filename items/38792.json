@@ -1,0 +1,16 @@
+{
+	"id": 38792,
+	"name": "Enchant Shield - Lesser Spirit",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 24,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13485,
+	"sourceName": "Enchant Shield - Lesser Spirit",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13485,
+		"text": "Permanently enchant a shield to give 3 spirit."
+	}
+}

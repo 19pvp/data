@@ -1,0 +1,16 @@
+{
+	"id": 38884,
+	"name": "Enchant Weapon - Mighty Intellect",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 38,
+	"class": "CONSUMABLE",
+	"quality": "RARE",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 23804,
+	"sourceName": "Enchant Weapon - Mighty Intellect",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 23804,
+		"text": "Permanently enchant a melee weapon to increase Intellect by 22."
+	}
+}

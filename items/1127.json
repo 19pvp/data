@@ -1,0 +1,9 @@
+{
+	"id": "1127",
+	"icon": "inv_misc_ammo_bullet_01",
+	"quality": "COMMON",
+	"use": {
+		"spell": 2120,
+		"text": "Calls down a pillar of fire, burning all enemies within the area for 637 Fire damage and an additional 396 Fire damage over 8 sec. (1 Min Cooldown)"
+	}
+}

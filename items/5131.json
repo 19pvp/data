@@ -1,0 +1,10 @@
+{
+	"id": "5131",
+	"icon": "inv_scroll_05",
+	"quality": "COMMON",
+	"use": {
+		"spell": 5265,
+		"text": "Learn how to disguise yourself as a Stonesplinter Trogg."
+	},
+	"info": "Disguise yourself as a Stonesplinter Trogg."
+}

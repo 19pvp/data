@@ -1,0 +1,16 @@
+{
+	"id": 38816,
+	"name": "Enchant Shield - Spirit",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 22,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13659,
+	"sourceName": "Enchant Shield - Spirit",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13659,
+		"text": "Permanently enchant a shield to give 5 Spirit."
+	}
+}

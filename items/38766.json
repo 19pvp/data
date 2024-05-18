@@ -1,0 +1,16 @@
+{
+	"id": 38766,
+	"name": "Enchant Chest - Minor Health",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 5,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 7420,
+	"sourceName": "Enchant Chest - Minor Health",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 7420,
+		"text": "Permanently enchant a piece of chest armor so that it increases the health of the wearer by 5."
+	}
+}

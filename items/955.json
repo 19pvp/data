@@ -1,0 +1,9 @@
+{
+	"id": "955",
+	"icon": "inv_scroll_01",
+	"quality": "COMMON",
+	"use": {
+		"spell": 8096,
+		"text": "Increases the target's Intellect by 3 for 30 min. This effect counts as a Battle Elixir."
+	}
+}

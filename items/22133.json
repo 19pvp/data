@@ -1,0 +1,9 @@
+{
+	"id": "22133",
+	"icon": "inv_misc_gift_02",
+	"quality": "COMMON",
+	"use": {
+		"spell": 27667,
+		"text": "Combines a Darnassus Gift Collection, Ironforge Gift Collection and Stormwind Gift Collection into an Alliance Gift Collection."
+	}
+}

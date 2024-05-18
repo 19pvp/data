@@ -1,0 +1,16 @@
+{
+	"id": 38809,
+	"name": "Enchant Bracer - Spirit",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 8,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13642,
+	"sourceName": "Enchant Bracer - Spirit",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13642,
+		"text": "Permanently enchants bracers to give +5 Spirit."
+	}
+}

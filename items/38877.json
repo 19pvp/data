@@ -1,0 +1,16 @@
+{
+	"id": 38877,
+	"name": "Enchant Weapon - Spellpower",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 8,
+	"class": "CONSUMABLE",
+	"quality": "RARE",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 22749,
+	"sourceName": "Enchant Weapon - Spellpower",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 22749,
+		"text": "Permanently enchant a melee weapon to increase spell power by 30."
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 38805,
+	"name": "Enchant Shield - Lesser Stamina",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 6,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13631,
+	"sourceName": "Enchant Shield - Lesser Stamina",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13631,
+		"text": "Permanently enchant a shield to give 3 Stamina."
+	}
+}

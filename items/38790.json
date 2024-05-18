@@ -1,0 +1,17 @@
+{
+	"id": 38790,
+	"name": "Enchant Cloak - Lesser Protection",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 23,
+	"armor": 20,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13421,
+	"sourceName": "Enchant Cloak - Lesser Protection",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13421,
+		"text": "Permanently enchant a cloak to increase armor by 20."
+	}
+}

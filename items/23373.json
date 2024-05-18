@@ -1,0 +1,9 @@
+{
+	"id": "23373",
+	"icon": "inv_sword_04",
+	"dmgMin": 4,
+	"dmgMax": 8,
+	"speed": 2.1,
+	"dps": 2.86,
+	"quality": "COMMON"
+}

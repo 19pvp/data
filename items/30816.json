@@ -1,0 +1,9 @@
+{
+	"id": "30816",
+	"icon": "inv_misc_food_95_grainbread",
+	"quality": "COMMON",
+	"use": {
+		"spell": 433,
+		"text": "Restores 61.2 health over 18 sec. Must remain seated while eating."
+	}
+}

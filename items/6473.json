@@ -13,5 +13,10 @@
 	"sourceId": 3670,
 	"sourceName": "Lord Pythas",
 	"sourceZone": 718,
-	"sourceType": "NPC"
+	"sourceType": "NPC",
+	"info": "Belt of the FangFootpads of the FangGloves of the FangLeggings of the FangArmor of the Fang",
+	"<span>(2)Set ": {
+		"spell": 41740,
+		"text": "Increases Intellect by 5.(3) Set"
+	}
 }

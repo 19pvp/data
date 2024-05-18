@@ -1,0 +1,16 @@
+{
+	"id": 38679,
+	"name": "Enchant Bracer - Minor Health",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 4,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 7418,
+	"sourceName": "Enchant Bracer - Minor Health",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 7418,
+		"text": "Permanently enchant bracers to increase the health of the wearer by 5."
+	}
+}

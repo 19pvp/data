@@ -1,0 +1,9 @@
+{
+	"id": "3087",
+	"icon": "inv_drink_05",
+	"quality": "COMMON",
+	"use": {
+		"spell": 29236,
+		"text": "Restores 140 to 180 mana. (1 Min Cooldown)"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 38887,
+	"name": "Enchant Gloves - Frost Power",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 6,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 25074,
+	"sourceName": "Enchant Gloves - Frost Power",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 25074,
+		"text": "Permanently enchant gloves to increase Frost spell power by 20."
+	}
+}

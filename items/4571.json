@@ -11,7 +11,6 @@
 	"quality": "UNCOMMON",
 	"subclass": "DAGGER",
 	"type": "ONE_HAND",
-	"stats": {},
 	"rand": {
 		"of Power": { "id": 1548, "chance": 32.4, "stats": { "Attack Power": 4 } },
 		"of Strength": { "id": 23, "chance": 15.2, "stats": { "Strength": 2 } },

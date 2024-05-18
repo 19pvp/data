@@ -1,0 +1,6 @@
+{
+	"id": "49884",
+	"icon": "inv_drink_21",
+	"quality": "COMMON",
+	"use": { "spell": 70478, "text": "Kaja'Cola! It gives you IDEAS! (TM)" }
+}

@@ -1,0 +1,16 @@
+{
+	"id": 38773,
+	"name": "Enchant Chest - Lesser Health",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 20,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 7748,
+	"sourceName": "Enchant Chest - Lesser Health",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 7748,
+		"text": "Permanently enchant a piece of chest armor so that it increases the health of the wearer by 15."
+	}
+}

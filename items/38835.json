@@ -1,0 +1,16 @@
+{
+	"id": 38835,
+	"name": "Enchant Cloak - Lesser Agility",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 8,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13882,
+	"sourceName": "Enchant Cloak - Lesser Agility",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13882,
+		"text": "Permanently enchant a cloak to increase Agility by 3."
+	}
+}

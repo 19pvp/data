@@ -1,0 +1,18 @@
+{
+	"id": 18854,
+	"name": "Insignia of the Alliance",
+	"icon": "inv_jewelry_trinketpvp_01",
+	"popularity": 18,
+	"armor": 0,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "TRINKETS",
+	"type": "TRINKET",
+	"source": "VENDOR",
+	"sourceZone": 1519,
+	"use": {
+		"spell": 42292,
+		"text": "Removes all movement impairing effects and all effects which cause loss of control of your character. (5 Min Cooldown)"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": 38851,
+	"name": "Enchant Gloves - Minor Haste",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 17,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 13948,
+	"sourceName": "Enchant Gloves - Minor Haste",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 13948,
+		"text": "Permanently enchant gloves to increase haste rating by 10."
+	}
+}

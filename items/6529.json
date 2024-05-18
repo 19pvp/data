@@ -1,0 +1,9 @@
+{
+	"id": "6529",
+	"icon": "inv_misc_orb_03",
+	"quality": "COMMON",
+	"use": {
+		"spell": 8087,
+		"text": "When applied to your fishing pole, increases Fishing by 25 for 10 min."
+	}
+}

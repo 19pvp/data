@@ -1,0 +1,17 @@
+{
+	"id": 2313,
+	"name": "Medium Armor Kit",
+	"icon": "inv_misc_armorkit_15",
+	"popularity": 4,
+	"armor": 16,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 2165,
+	"sourceName": "Medium Armor Kit",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 2832,
+		"text": "Permanently increase the armor value of an item worn on the chest, legs, hands or feet by 16."
+	}
+}

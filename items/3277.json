@@ -1,0 +1,9 @@
+{
+	"id": "3277",
+	"icon": "inv_staff_02",
+	"dmgMin": 6,
+	"dmgMax": 9,
+	"speed": 2.9,
+	"dps": 2.59,
+	"quality": "COMMON"
+}

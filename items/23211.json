@@ -1,0 +1,6 @@
+{
+	"id": "23211",
+	"icon": "inv_summerfest_smorc",
+	"quality": "COMMON",
+	"use": { "spell": 29334, "text": "Increases spell power by 44 for 1 hour." }
+}

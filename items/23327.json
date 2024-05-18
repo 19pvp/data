@@ -1,0 +1,6 @@
+{
+	"id": "23327",
+	"icon": "inv_misc_food_11",
+	"quality": "COMMON",
+	"use": { "spell": 29332, "text": "Increases hit rating by 20 for 1 hour." }
+}

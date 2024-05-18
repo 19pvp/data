@@ -1,0 +1,9 @@
+{
+	"id": "57139",
+	"icon": "inv_weapon_crossbow_01",
+	"dmgMin": 5,
+	"dmgMax": 8,
+	"speed": 2.5,
+	"dps": 2.6,
+	"quality": "COMMON"
+}

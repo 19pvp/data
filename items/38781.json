@@ -1,0 +1,16 @@
+{
+	"id": 38781,
+	"name": "Enchant 2H Weapon - Lesser Intellect",
+	"icon": "inv_misc_enchantedscroll",
+	"popularity": 6,
+	"class": "CONSUMABLE",
+	"quality": "RARE",
+	"subclass": "ITEM_ENHANCEMENT",
+	"sourceId": 7793,
+	"sourceName": "Enchant 2H Weapon - Lesser Intellect",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 7793,
+		"text": "Permanently enchant a two-handed melee weapon to increase Intellect by 3."
+	}
+}

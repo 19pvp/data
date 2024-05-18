@@ -1,0 +1,9 @@
+{
+	"id": "22779",
+	"icon": "inv_potion_13",
+	"quality": "COMMON",
+	"use": {
+		"spell": 28486,
+		"text": "Increases attack power by 30 against undead. Lasts 30 min. (3 Sec Cooldown)"
+	}
+}
