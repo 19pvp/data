@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 13522,
 		"text": "Permanently enchant a cloak to increase shadow resistance by 10."
-	}
+	},
+	"enchant": { "description": "+10 Shadow Resistance", "id": 804 }
 }

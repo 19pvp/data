@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 7426,
 		"text": "Enchant a piece of chest armor so it has a 2% chance per hit of giving you 10 points of damage absorption."
-	}
+	},
+	"enchant": { "description": "Absorption (10)", "id": 44 }
 }

@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 13622,
 		"text": "Permanently enchant a bracer so it increases the wearer's Intellect by 3."
-	}
+	},
+	"enchant": { "description": "+3 Intellect", "id": 723 }
 }

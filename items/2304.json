@@ -13,5 +13,6 @@
 	"use": {
 		"spell": 2831,
 		"text": "Permanently increase the armor value of an item worn on the chest, legs, hands or feet by 8."
-	}
+	},
+	"enchant": { "description": "Reinforced (+8 Armor)", "id": 15 }
 }

@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 13698,
 		"text": "Permanently enchant gloves to increase skinning skill by 5."
-	}
+	},
+	"enchant": { "description": "+5 Skinning", "id": 865 }
 }

@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 13657,
 		"text": "Permanently enchant a cloak to give 7 Fire Resistance."
-	}
+	},
+	"enchant": { "description": "+7 Fire Resistance", "id": 2463 }
 }

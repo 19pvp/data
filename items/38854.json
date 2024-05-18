@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 20010,
 		"text": "Permanently enchant bracers to increase Strength by 9."
-	}
+	},
+	"enchant": { "description": "+9 Strength", "id": 1885 }
 }

@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 20033,
 		"text": "Permanently enchant a melee weapon to often inflict a curse on the target, inflicting Shadow damage and reducing their melee damage."
-	}
+	},
+	"enchant": { "description": "Unholy Weapon", "id": 1899 }
 }

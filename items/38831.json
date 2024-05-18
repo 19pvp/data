@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 13841,
 		"text": "Permanently enchant gloves to increase mining skill by 5."
-	}
+	},
+	"enchant": { "description": "+5 Mining", "id": 906 }
 }

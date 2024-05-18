@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 20026,
 		"text": "Permanently enchant chest armor to increase health by 100."
-	}
+	},
+	"enchant": { "description": "+100 Health", "id": 1892 }
 }

@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 7786,
 		"text": "Permanently enchant a Melee Weapon to do 2 additional points of damage to beasts."
-	}
+	},
+	"enchant": { "description": "+2 Beastslaying", "id": 249 }
 }

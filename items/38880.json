@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 23800,
 		"text": "Permanently enchant a melee weapon to increase Agility by 15."
-	}
+	},
+	"enchant": { "description": "+15 Agility", "id": 2564 }
 }

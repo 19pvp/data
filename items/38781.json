@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 7793,
 		"text": "Permanently enchant a two-handed melee weapon to increase Intellect by 3."
-	}
+	},
+	"enchant": { "description": "+3 Intellect", "id": 723 }
 }

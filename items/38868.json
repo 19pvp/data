@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 20029,
 		"text": "Permanently enchant a melee weapon to often chill the target, reducing their movement and attack speed. Has a reduced effect for players above level 60."
-	}
+	},
+	"enchant": { "description": "Icy Chill", "id": 1894 }
 }

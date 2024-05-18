@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 13933,
 		"text": "Permanently enchant a shield to increase Frost resistance by 8."
-	}
+	},
+	"enchant": { "description": "+8 Frost Resistance", "id": 926 }
 }

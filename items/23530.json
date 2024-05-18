@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 29454,
 		"text": "Attaches a Felsteel Spike to your shield that deals 26-38 damage every time you block with it."
-	}
+	},
+	"enchant": { "description": "Felsteel Spike (26-38)", "id": 2714 }
 }

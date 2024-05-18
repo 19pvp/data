@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 7428,
 		"text": "Permanently enchant bracers to increase dodge rating by 2."
-	}
+	},
+	"enchant": { "description": "+2 Dodge Rating", "id": 924 }
 }

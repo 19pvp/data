@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 13607,
 		"text": "Permanently enchant a piece of chest armor to increase the mana of the wearer by 30."
-	}
+	},
+	"enchant": { "description": "+30 Mana", "id": 843 }
 }

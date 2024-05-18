@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 13637,
 		"text": "Permanently enchant boots to give +3 Agility."
-	}
+	},
+	"enchant": { "description": "+3 Agility", "id": 849 }
 }

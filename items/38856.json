@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 20012,
 		"text": "Permanently enchant gloves to increase Agility by 7."
-	}
+	},
+	"enchant": { "description": "+7 Agility", "id": 1887 }
 }

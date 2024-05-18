@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 13836,
 		"text": "Permanently enchant boots to give +5 Stamina."
-	}
+	},
+	"enchant": { "description": "+5 Stamina", "id": 852 }
 }

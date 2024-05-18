@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 13915,
 		"text": "Permanently enchant a melee weapon to have a chance of stunning and doing additional damage against demons."
-	}
+	},
+	"enchant": { "description": "Demonslaying", "id": 912 }
 }

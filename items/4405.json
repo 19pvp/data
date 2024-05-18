@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 3974,
 		"text": "Attaches a permanent scope to a bow or gun that increases its damage by 1."
-	}
+	},
+	"enchant": { "description": "Scope (+1 Damage)", "id": 30 }
 }

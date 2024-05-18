@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 20014,
 		"text": "Permanently enchant a cloak to increase all resistances by 5."
-	}
+	},
+	"enchant": { "description": "+5 All Resistances", "id": 1888 }
 }

@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 25078,
 		"text": "Permanently enchant gloves to increase fire spell power by 20."
-	}
+	},
+	"enchant": { "description": "+20 Fire Spell Power", "id": 2616 }
 }

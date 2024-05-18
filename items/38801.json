@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 13617,
 		"text": "Permanently enchant gloves to increase herbalism skill by 2."
-	}
+	},
+	"enchant": { "description": "+2 Herbalism", "id": 845 }
 }

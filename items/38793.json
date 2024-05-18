@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 13501,
 		"text": "Permanently enchant a bracer so it increases the wearer's Stamina by 3."
-	}
+	},
+	"enchant": { "description": "+3 Stamina", "id": 724 }
 }

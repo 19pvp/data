@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 25073,
 		"text": "Permanently enchant gloves to increase shadow spell power by 20."
-	}
+	},
+	"enchant": { "description": "+20 Shadow Spell Power", "id": 2614 }
 }

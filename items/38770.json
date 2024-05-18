@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 7454,
 		"text": "Permanently enchant a cloak so that it increases the resistance to all schools of magic by 1."
-	}
+	},
+	"enchant": { "description": "+1 All Resistances", "id": 65 }
 }

@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 64579,
 		"text": "Permanently enchants your weapon to sometimes grant Blood Reserve when striking an enemy or inflicting damage with bleed attacks. When you fall below 35% health, Blood Reserve restores 360 to 440 health. Lasts 20 sec and stacks up to 5 times.This enchantment requires the wielder is at least level 75."
-	}
+	},
+	"enchant": { "description": "Blood Draining", "id": 3870 }
 }

@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 7859,
 		"text": "Permanently enchant bracers to increase Spirit by 3."
-	}
+	},
+	"enchant": { "description": "+3 Spirit", "id": 255 }
 }

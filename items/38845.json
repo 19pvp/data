@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 13937,
 		"text": "Permanently enchant a two-handed melee weapon to do 7 additional points of damage."
-	}
+	},
+	"enchant": { "description": "+7 Weapon Damage", "id": 963 }
 }

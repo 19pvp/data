@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 64441,
 		"text": "Permanently enchants a weapon to sometimes grant Blade Warding when striking an enemy. Blade Warding increases your parry rating by 200 and inflicts 600 to 800 damage on your next parry. Lasts 10 sec.This enchantment requires the wielder is at least level 75."
-	}
+	},
+	"enchant": { "description": "Blade Ward", "id": 3869 }
 }

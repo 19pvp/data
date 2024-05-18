@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 13485,
 		"text": "Permanently enchant a shield to give 3 spirit."
-	}
+	},
+	"enchant": { "description": "+3 Spirit", "id": 255 }
 }

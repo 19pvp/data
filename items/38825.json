@@ -13,5 +13,6 @@
 	"use": {
 		"spell": 13746,
 		"text": "Permanently enchant a cloak to give 50 additional armor."
-	}
+	},
+	"enchant": { "description": "+50 Armor", "id": 884 }
 }

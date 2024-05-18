@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 63746,
 		"text": "Permanently enchant boots to increase your hit rating by 5."
-	}
+	},
+	"enchant": { "description": "+5 Hit Rating", "id": 3858 }
 }

@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 13689,
 		"text": "Permanently enchant a shield to increase parry rating by 10."
-	}
+	},
+	"enchant": { "description": "+10 Parry Rating", "id": 863 }
 }

@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 7443,
 		"text": "Permanently enchant chest armor to increase mana by 5."
-	}
+	},
+	"enchant": { "description": "+5 Mana", "id": 24 }
 }

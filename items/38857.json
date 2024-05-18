@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 20013,
 		"text": "Permanently enchant gloves to increase Strength by 7."
-	}
+	},
+	"enchant": { "description": "+7 Strength", "id": 927 }
 }

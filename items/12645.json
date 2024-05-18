@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 16623,
 		"text": "Attaches a Thorium Spike to your shield that deals damage every time you block with it."
-	}
+	},
+	"enchant": { "description": "Thorium Spike (20-30)", "id": 1704 }
 }

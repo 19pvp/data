@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 25074,
 		"text": "Permanently enchant gloves to increase Frost spell power by 20."
-	}
+	},
+	"enchant": { "description": "+20 Frost Spell Power", "id": 2615 }
 }

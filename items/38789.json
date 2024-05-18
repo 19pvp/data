@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 13419,
 		"text": "Permanently enchant a cloak to increase Agility by 1."
-	}
+	},
+	"enchant": { "description": "+1 Agility", "id": 247 }
 }

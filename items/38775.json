@@ -13,5 +13,6 @@
 	"use": {
 		"spell": 7771,
 		"text": "Enchant a cloak to provide 10 additional points of armor."
-	}
+	},
+	"enchant": { "description": "+10 Armor", "id": 783 }
 }

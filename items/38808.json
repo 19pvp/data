@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 13640,
 		"text": "Permanently enchant a piece of chest armor to give +35 health."
-	}
+	},
+	"enchant": { "description": "+35 Health", "id": 850 }
 }

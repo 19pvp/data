@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 23803,
 		"text": "Permanently enchant a melee weapon to increase Spirit by 20."
-	}
+	},
+	"enchant": { "description": "+20 Spirit", "id": 2567 }
 }

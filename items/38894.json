@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 25084,
 		"text": "Permanently enchant a cloak to decrease threat from all attacks and spells by 2%."
-	}
+	},
+	"enchant": { "description": "2% Reduced Threat", "id": 2621 }
 }

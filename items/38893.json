@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 25083,
 		"text": "Permanently enchant a cloak to increase Agility and dodge rating by 8."
-	}
+	},
+	"enchant": { "description": "+8 Agility and +8 Dodge Rating", "id": 910 }
 }

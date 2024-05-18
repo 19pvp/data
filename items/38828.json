@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 13817,
 		"text": "Permanently enchant a shield to increase Stamina by 5."
-	}
+	},
+	"enchant": { "description": "+5 Stamina", "id": 852 }
 }

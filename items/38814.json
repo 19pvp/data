@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 13655,
 		"text": "Permanently enchant a melee weapon to increase its damage to elementals by 6."
-	}
+	},
+	"enchant": { "description": "+6 Elemental Slayer", "id": 854 }
 }

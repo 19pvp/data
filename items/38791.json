@@ -13,5 +13,6 @@
 	"use": {
 		"spell": 13464,
 		"text": "Permanently enchant a shield to increase armor by 30."
-	}
+	},
+	"enchant": { "description": "+30 Armor", "id": 848 }
 }

@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 7216,
 		"text": "Attaches an Iron Spike to your shield that deals damage every time you block with it."
-	}
+	},
+	"enchant": { "description": "Iron Spike (8-12)", "id": 43 }
 }

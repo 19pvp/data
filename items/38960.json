@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 44506,
 		"text": "Permanently enchant gloves to increase Herbalism, Mining, and Skinning by 5."
-	}
+	},
+	"enchant": { "description": "Gatherer", "id": 3238 }
 }

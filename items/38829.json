@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 13822,
 		"text": "Permanently enchants bracers to give +5 Intellect."
-	}
+	},
+	"enchant": { "description": "+5 Intellect", "id": 905 }
 }

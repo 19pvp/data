@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 23799,
 		"text": "Permanently enchant a melee weapon to increase Strength by 15."
-	}
+	},
+	"enchant": { "description": "+15 Strength", "id": 2563 }
 }

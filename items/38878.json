@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 22750,
 		"text": "Permanently enchant a melee weapon to increase spell power by 29."
-	}
+	},
+	"enchant": { "description": "+29 Spell Power", "id": 2505 }
 }

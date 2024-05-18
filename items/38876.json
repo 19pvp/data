@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 21931,
 		"text": "Permanently enchant a melee weapon to increase Frost spell power by 7."
-	}
+	},
+	"enchant": { "description": "+7 Frost Spell Damage", "id": 2443 }
 }

@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 13890,
 		"text": "Permanently enchant boots to give a slight movement speed increase."
-	}
+	},
+	"enchant": { "description": "Minor Speed Increase", "id": 911 }
 }

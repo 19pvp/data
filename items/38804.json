@@ -12,5 +12,6 @@
 	"use": {
 		"spell": 13626,
 		"text": "Permanently enchant a piece of chest armor to grant +1 to all stats."
-	}
+	},
+	"enchant": { "description": "+1 All Stats", "id": 847 }
 }
