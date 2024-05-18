@@ -1,16 +1,38 @@
 {
-  "id": 4569,
-  "name": "Staunch Hammer",
-  "icon": "inv_hammer_08",
-  "dmgMin": 11,
-  "dmgMax": 21,
-  "speed": 2.2,
-  "dps": 7.27,
-  "popularity": 23,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "ONE_HANDED_MACE",
-  "type": "MAIN_HAND",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 4569,
+	"name": "Staunch Hammer",
+	"icon": "inv_hammer_08",
+	"dmgMin": 11,
+	"dmgMax": 21,
+	"speed": 2.2,
+	"dps": 7.27,
+	"popularity": 23,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "ONE_HANDED_MACE",
+	"type": "MAIN_HAND",
+	"stats": {},
+	"rand": {
+		"of Power": { "id": 1547, "chance": 29.5, "stats": { "Attack Power": 2 } },
+		"of Strength": { "id": 6, "chance": 21.1, "stats": { "Strength": 1 } },
+		"of Stamina": { "id": 15, "chance": 19.3, "stats": { "Stamina": 1 } },
+		"of Intellect": { "id": 5, "chance": 11.5, "stats": { "Intellect": 1 } },
+		"of Nature's Wrath": {
+			"id": 1989,
+			"chance": 4.8,
+			"stats": { "Nature Spell Damage": 1 }
+		},
+		"of Shadow Wrath": {
+			"id": 1837,
+			"chance": 4.7,
+			"stats": { "Shadow Spell Damage": 1 }
+		},
+		"of Healing": { "id": 2027, "chance": 4.7, "stats": { "Spell Power": 1 } },
+		"of Arcane Wrath": {
+			"id": 1799,
+			"chance": 4.6,
+			"stats": { "Arcane Spell Damage": 1 }
+		}
+	},
+	"source": "DROP"
 }

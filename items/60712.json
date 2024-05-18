@@ -1,18 +1,17 @@
 {
-  "id": 60712,
-  "name": "Exterminator's Armbands",
-  "icon": "inv_bracer_02",
-  "popularity": 4,
-  "armor": 35,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26668,
-  "sourceName": "Detonation"
+	"id": 60712,
+	"name": "Exterminator's Armbands",
+	"icon": "inv_bracer_02",
+	"popularity": 4,
+	"armor": 35,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 26668,
+	"sourceName": "Detonation",
+	"sourceType": "QUEST"
 }

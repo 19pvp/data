@@ -1,19 +1,17 @@
 {
-  "id": 52922,
-  "name": "Demolitionist's Boots",
-  "icon": "inv_boots_06",
-  "popularity": 13,
-  "armor": 41,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25207,
-  "sourceName": "Good-bye, Sweet Oil"
+	"id": 52922,
+	"name": "Demolitionist's Boots",
+	"icon": "inv_boots_06",
+	"popularity": 13,
+	"armor": 41,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Agility": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 25207,
+	"sourceName": "Good-bye, Sweet Oil",
+	"sourceType": "QUEST"
 }

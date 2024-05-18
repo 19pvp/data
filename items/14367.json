@@ -1,15 +1,13 @@
 {
-  "id": 14367,
-  "name": "Mystic's Gloves",
-  "icon": "inv_gauntlets_18",
-  "popularity": 6,
-  "armor": 34,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {
-    "spirit": 4
-  },
-  "sourceType": "DROP"
+	"id": 14367,
+	"name": "Mystic's Gloves",
+	"icon": "inv_gauntlets_18",
+	"popularity": 6,
+	"armor": 34,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": { "Spirit": 4 },
+	"source": "DROP"
 }

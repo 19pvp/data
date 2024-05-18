@@ -1,19 +1,17 @@
 {
-  "id": 52616,
-  "name": "Bracers of the Ancient Grove",
-  "icon": "inv_bracer_05",
-  "popularity": 19,
-  "armor": 41,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "agility": 3,
-    "stamina": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13897,
-  "sourceName": "The Battle for Darkshore"
+	"id": 52616,
+	"name": "Bracers of the Ancient Grove",
+	"icon": "inv_bracer_05",
+	"popularity": 19,
+	"armor": 41,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Agility": 3, "Stamina": 5 },
+	"source": "QUEST",
+	"sourceId": 13897,
+	"sourceName": "The Battle for Darkshore",
+	"sourceType": "QUEST"
 }

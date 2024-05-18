@@ -1,23 +1,24 @@
 {
-  "id": 6472,
-  "name": "Stinging Viper",
-  "icon": "inv_wand_10",
-  "dmgMin": 25,
-  "dmgMax": 48,
-  "speed": 2.6,
-  "dps": 14.04,
-  "popularity": 12,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "ONE_HANDED_MACE",
-  "type": "ONE_HAND",
-  "stats": {},
-  "sourceType": "DROP",
-  "sourceId": 3670,
-  "sourceName": "Lord Pythas",
-  "sourceZone": 718,
-  "chanceOnHit": {
-    "spell": 18197,
-    "text": "Poisons target for 7 Nature damage every 3 sec for 15 sec."
-  }
+	"id": 6472,
+	"name": "Stinging Viper",
+	"icon": "inv_wand_10",
+	"dmgMin": 25,
+	"dmgMax": 48,
+	"speed": 2.6,
+	"dps": 14.04,
+	"popularity": 12,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "ONE_HANDED_MACE",
+	"type": "ONE_HAND",
+	"stats": {},
+	"source": "DROP",
+	"sourceId": 3670,
+	"sourceName": "Lord Pythas",
+	"sourceZone": 718,
+	"sourceType": "NPC",
+	"chanceOnHit": {
+		"spell": 18197,
+		"text": "Poisons target for 7 Nature damage every 3 sec for 15 sec."
+	}
 }

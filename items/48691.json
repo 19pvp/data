@@ -1,17 +1,13 @@
 {
-  "id": 48691,
-  "name": "Tattered Dreadmist Robe",
-  "icon": "inv_chest_cloth_49",
-  "popularity": 168,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "crit": 6,
-    "stamina": 10,
-    "intellect": 6
-  },
-  "sourceType": "VENDOR"
+	"id": 48691,
+	"name": "Tattered Dreadmist Robe",
+	"icon": "inv_chest_cloth_49",
+	"popularity": 168,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Critical Strike Rating": 6, "Stamina": 10, "Intellect": 6 },
+	"source": "VENDOR"
 }

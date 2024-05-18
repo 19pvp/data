@@ -1,18 +1,17 @@
 {
-  "id": 62850,
-  "name": "Drunken Style Bracers",
-  "icon": "inv_bracer_02",
-  "popularity": 5,
-  "armor": 27,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27094,
-  "sourceName": "Deeper into Darkness"
+	"id": 62850,
+	"name": "Drunken Style Bracers",
+	"icon": "inv_bracer_02",
+	"popularity": 5,
+	"armor": 27,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 27094,
+	"sourceName": "Deeper into Darkness",
+	"sourceType": "QUEST"
 }

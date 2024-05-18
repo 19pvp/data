@@ -1,13 +1,53 @@
 {
-  "id": 15479,
-  "name": "Charger's Armor",
-  "icon": "inv_chest_chain_16",
-  "popularity": 10,
-  "armor": 91,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 15479,
+	"name": "Charger's Armor",
+	"icon": "inv_chest_chain_16",
+	"popularity": 10,
+	"armor": 91,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1179,
+			"chance": 46.9,
+			"stats": { "Stamina": 1, "Strength": 1 }
+		},
+		"of Stamina": { "id": 19, "chance": 10.2, "stats": { "Stamina": 2 } },
+		"of Strength": { "id": 23, "chance": 8.4, "stats": { "Strength": 2 } },
+		"of the Boar": {
+			"id": 1094,
+			"chance": 6.3,
+			"stats": { "Spirit": 1, "Strength": 1 }
+		},
+		"of the Whale": {
+			"id": 1009,
+			"chance": 5.9,
+			"stats": { "Spirit": 1, "Stamina": 1 }
+		},
+		"of Power": { "id": 1548, "chance": 5.1, "stats": { "Attack Power": 4 } },
+		"of the Eagle": {
+			"id": 839,
+			"chance": 4.9,
+			"stats": { "Intellect": 1, "Stamina": 1 }
+		},
+		"of the Monkey": {
+			"id": 584,
+			"chance": 4.8,
+			"stats": { "Agility": 1, "Stamina": 1 }
+		},
+		"of the Gorilla": {
+			"id": 924,
+			"chance": 4.3,
+			"stats": { "Intellect": 1, "Strength": 1 }
+		},
+		"of the Tiger": {
+			"id": 669,
+			"chance": 3.3,
+			"stats": { "Agility": 1, "Strength": 1 }
+		}
+	},
+	"source": "DROP"
 }

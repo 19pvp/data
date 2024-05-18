@@ -1,16 +1,13 @@
 {
-  "id": 14726,
-  "name": "War Paint Gloves",
-  "icon": "inv_gauntlets_12",
-  "popularity": 6,
-  "armor": 82,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "strength": 3,
-    "stamina": 1
-  },
-  "sourceType": "DROP"
+	"id": 14726,
+	"name": "War Paint Gloves",
+	"icon": "inv_gauntlets_12",
+	"popularity": 6,
+	"armor": 82,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Strength": 3, "Stamina": 1 },
+	"source": "DROP"
 }

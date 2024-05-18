@@ -1,18 +1,16 @@
 {
-  "id": 4778,
-  "name": "Heavy Spiked Mace",
-  "icon": "inv_mace_01",
-  "dmgMin": 34,
-  "dmgMax": 51,
-  "speed": 3.4,
-  "dps": 12.5,
-  "popularity": 7,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "TWO_HANDED_MACE",
-  "type": "TWO_HAND",
-  "stats": {
-    "strength": 6
-  },
-  "sourceType": "VENDOR"
+	"id": 4778,
+	"name": "Heavy Spiked Mace",
+	"icon": "inv_mace_01",
+	"dmgMin": 34,
+	"dmgMax": 51,
+	"speed": 3.4,
+	"dps": 12.5,
+	"popularity": 7,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "TWO_HANDED_MACE",
+	"type": "TWO_HAND",
+	"stats": { "Strength": 6 },
+	"source": "VENDOR"
 }

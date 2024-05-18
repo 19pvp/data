@@ -1,18 +1,16 @@
 {
-  "id": 49543,
-  "name": "Seaworthy Leggings",
-  "icon": "inv_pants_11",
-  "popularity": 21,
-  "armor": 42,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 3,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 895,
-  "sourceName": "WANTED: Cap'n Garvey"
+	"id": 49543,
+	"name": "Seaworthy Leggings",
+	"icon": "inv_pants_11",
+	"popularity": 21,
+	"armor": 42,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Stamina": 3, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 895,
+	"sourceName": "WANTED: Cap'n Garvey",
+	"sourceType": "QUEST"
 }

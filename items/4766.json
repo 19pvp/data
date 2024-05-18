@@ -1,18 +1,16 @@
 {
-  "id": 4766,
-  "name": "Feral Blade",
-  "icon": "inv_sword_24",
-  "dmgMin": 12,
-  "dmgMax": 24,
-  "speed": 2.6,
-  "dps": 6.92,
-  "popularity": 12,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "ONE_HANDED_SWORD",
-  "type": "ONE_HAND",
-  "stats": {
-    "agility": 1
-  },
-  "sourceType": "VENDOR"
+	"id": 4766,
+	"name": "Feral Blade",
+	"icon": "inv_sword_24",
+	"dmgMin": 12,
+	"dmgMax": 24,
+	"speed": 2.6,
+	"dps": 6.92,
+	"popularity": 12,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "ONE_HANDED_SWORD",
+	"type": "ONE_HAND",
+	"stats": { "Agility": 1 },
+	"source": "VENDOR"
 }

@@ -1,17 +1,13 @@
 {
-  "id": 14727,
-  "name": "War Paint Legguards",
-  "icon": "inv_pants_05",
-  "popularity": 6,
-  "armor": 120,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "strength": 3,
-    "agility": 1,
-    "stamina": 4
-  },
-  "sourceType": "DROP"
+	"id": 14727,
+	"name": "War Paint Legguards",
+	"icon": "inv_pants_05",
+	"popularity": 6,
+	"armor": 120,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Strength": 3, "Agility": 1, "Stamina": 4 },
+	"source": "DROP"
 }

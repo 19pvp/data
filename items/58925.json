@@ -1,19 +1,17 @@
 {
-  "id": 58925,
-  "name": "Troublesome Gloves",
-  "icon": "inv_gauntlets_21",
-  "popularity": 5,
-  "armor": 42,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26291,
-  "sourceName": "Big Trouble in Moonbrook"
+	"id": 58925,
+	"name": "Troublesome Gloves",
+	"icon": "inv_gauntlets_21",
+	"popularity": 5,
+	"armor": 42,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Agility": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 26291,
+	"sourceName": "Big Trouble in Moonbrook",
+	"sourceType": "QUEST"
 }

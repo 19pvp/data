@@ -1,19 +1,17 @@
 {
-  "id": 53424,
-  "name": "Kroum's Signet",
-  "icon": "inv_jewelry_ring_11",
-  "popularity": 7,
-  "armor": 0,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "strength": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14477,
-  "sourceName": "Push the Button!"
+	"id": 53424,
+	"name": "Kroum's Signet",
+	"icon": "inv_jewelry_ring_11",
+	"popularity": 7,
+	"armor": 0,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Strength": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 14477,
+	"sourceName": "Push the Button!",
+	"sourceType": "QUEST"
 }

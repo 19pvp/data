@@ -1,18 +1,17 @@
 {
-  "id": 24108,
-  "name": "Ravager Hide Leggings",
-  "icon": "inv_pants_06",
-  "popularity": 15,
-  "armor": 46,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "agility": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9560,
-  "sourceName": "Beasts of the Apocalypse!"
+	"id": 24108,
+	"name": "Ravager Hide Leggings",
+	"icon": "inv_pants_06",
+	"popularity": 15,
+	"armor": 46,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Agility": 1 },
+	"source": "QUEST",
+	"sourceId": 9560,
+	"sourceName": "Beasts of the Apocalypse!",
+	"sourceType": "QUEST"
 }

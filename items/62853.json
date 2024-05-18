@@ -1,19 +1,17 @@
 {
-  "id": 62853,
-  "name": "Blood Offering Platter",
-  "icon": "inv_shield_09",
-  "popularity": 22,
-  "armor": 418,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27232,
-  "sourceName": "The Waters Run Red..."
+	"id": 62853,
+	"name": "Blood Offering Platter",
+	"icon": "inv_shield_09",
+	"popularity": 22,
+	"armor": 418,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 27232,
+	"sourceName": "The Waters Run Red...",
+	"sourceType": "QUEST"
 }

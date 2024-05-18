@@ -1,19 +1,17 @@
 {
-  "id": 60701,
-  "name": "Leverage Bracers",
-  "icon": "inv_bracer_01",
-  "popularity": 6,
-  "armor": 32,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "hit": 1,
-    "agility": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26520,
-  "sourceName": "Saving Foreman Oslow"
+	"id": 60701,
+	"name": "Leverage Bracers",
+	"icon": "inv_bracer_01",
+	"popularity": 6,
+	"armor": 32,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Hit Rating": 1, "Agility": 2 },
+	"source": "QUEST",
+	"sourceId": 26520,
+	"sourceName": "Saving Foreman Oslow",
+	"sourceType": "QUEST"
 }

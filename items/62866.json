@@ -1,19 +1,17 @@
 {
-  "id": 62866,
-  "name": "Cromush's Cloak",
-  "icon": "inv_misc_cape_14",
-  "popularity": 7,
-  "armor": 23,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27322,
-  "sourceName": "Korok the Colossus"
+	"id": 62866,
+	"name": "Cromush's Cloak",
+	"icon": "inv_misc_cape_14",
+	"popularity": 7,
+	"armor": 23,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Agility": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 27322,
+	"sourceName": "Korok the Colossus",
+	"sourceType": "QUEST"
 }

@@ -1,20 +1,17 @@
 {
-  "id": 62895,
-  "name": "Slippers of Unturned Loyalties",
-  "icon": "inv_boots_cloth_04",
-  "popularity": 19,
-  "armor": 43,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOTH",
-  "type": "FEET",
-  "stats": {
-    "hit": 4,
-    "stamina": 5,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27601,
-  "sourceName": "Cities in Dust"
+	"id": 62895,
+	"name": "Slippers of Unturned Loyalties",
+	"icon": "inv_boots_cloth_04",
+	"popularity": 19,
+	"armor": 43,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": { "Hit Rating": 4, "Stamina": 5, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 27601,
+	"sourceName": "Cities in Dust",
+	"sourceType": "QUEST"
 }

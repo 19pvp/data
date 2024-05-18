@@ -1,20 +1,17 @@
 {
-  "id": 66031,
-  "name": "Hide Vest of the Hungerer",
-  "icon": "inv_chest_leather_08",
-  "popularity": 9,
-  "armor": 81,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "crit": 4,
-    "agility": 4,
-    "stamina": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26858,
-  "sourceName": "Taragaman the Hungerer"
+	"id": 66031,
+	"name": "Hide Vest of the Hungerer",
+	"icon": "inv_chest_leather_08",
+	"popularity": 9,
+	"armor": 81,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Critical Strike Rating": 4, "Agility": 4, "Stamina": 5 },
+	"source": "QUEST",
+	"sourceId": 26858,
+	"sourceName": "Taragaman the Hungerer",
+	"sourceType": "QUEST"
 }

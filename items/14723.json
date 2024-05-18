@@ -1,15 +1,13 @@
 {
-  "id": 14723,
-  "name": "War Paint Bindings",
-  "icon": "inv_bracer_06",
-  "popularity": 38,
-  "armor": 55,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WRISTS",
-  "stats": {
-    "stamina": 3
-  },
-  "sourceType": "DROP"
+	"id": 14723,
+	"name": "War Paint Bindings",
+	"icon": "inv_bracer_06",
+	"popularity": 38,
+	"armor": 55,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WRISTS",
+	"stats": { "Stamina": 3 },
+	"source": "DROP"
 }

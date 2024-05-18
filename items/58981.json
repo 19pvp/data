@@ -1,18 +1,17 @@
 {
-  "id": 58981,
-  "name": "Dastardly Bracers",
-  "icon": "inv_bracer_07",
-  "popularity": 6,
-  "armor": 17,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WRISTS",
-  "stats": {
-    "spirit": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 309,
-  "sourceName": "Protecting the Shipment"
+	"id": 58981,
+	"name": "Dastardly Bracers",
+	"icon": "inv_bracer_07",
+	"popularity": 6,
+	"armor": 17,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WRISTS",
+	"stats": { "Spirit": 1 },
+	"source": "QUEST",
+	"sourceId": 309,
+	"sourceName": "Protecting the Shipment",
+	"sourceType": "QUEST"
 }

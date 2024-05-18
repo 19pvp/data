@@ -1,13 +1,47 @@
 {
-  "id": 6539,
-  "name": "Willow Belt",
-  "icon": "inv_belt_05",
-  "popularity": 9,
-  "armor": 27,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 6539,
+	"name": "Willow Belt",
+	"icon": "inv_belt_05",
+	"popularity": 9,
+	"armor": 27,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": {},
+	"rand": {
+		"of the Owl": {
+			"id": 760,
+			"chance": 27,
+			"stats": { "Intellect": 3, "Spirit": 3 }
+		},
+		"of the Whale": {
+			"id": 1015,
+			"chance": 26.8,
+			"stats": { "Spirit": 3, "Stamina": 3 }
+		},
+		"of the Eagle": {
+			"id": 845,
+			"chance": 19,
+			"stats": { "Intellect": 3, "Stamina": 3 }
+		},
+		"of Intellect": { "id": 94, "chance": 11.7, "stats": { "Intellect": 4 } },
+		"of Fiery Wrath": {
+			"id": 1878,
+			"chance": 4.3,
+			"stats": { "Fire Spell Damage": 6 }
+		},
+		"of Healing": { "id": 2030, "chance": 4.2, "stats": { "Spell Power": 5 } },
+		"of the Monkey": {
+			"id": 590,
+			"chance": 3.6,
+			"stats": { "Agility": 3, "Stamina": 3 }
+		},
+		"of the Wolf": {
+			"id": 505,
+			"chance": 3.3,
+			"stats": { "Agility": 3, "Spirit": 3 }
+		}
+	},
+	"source": "DROP"
 }

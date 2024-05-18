@@ -1,13 +1,54 @@
 {
-  "id": 9788,
-  "name": "Raider's Belt",
-  "icon": "inv_belt_11",
-  "popularity": 13,
-  "armor": 74,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 9788,
+	"name": "Raider's Belt",
+	"icon": "inv_belt_11",
+	"popularity": 13,
+	"armor": 74,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1185,
+			"chance": 42,
+			"stats": { "Stamina": 3, "Strength": 3 }
+		},
+		"of Strength": { "id": 97, "chance": 11.6, "stats": { "Strength": 4 } },
+		"of the Whale": {
+			"id": 1015,
+			"chance": 10.4,
+			"stats": { "Spirit": 3, "Stamina": 3 }
+		},
+		"of the Gorilla": {
+			"id": 930,
+			"chance": 7.1,
+			"stats": { "Intellect": 3, "Strength": 3 }
+		},
+		"of the Eagle": {
+			"id": 845,
+			"chance": 7,
+			"stats": { "Intellect": 3, "Stamina": 3 }
+		},
+		"of the Boar": {
+			"id": 1100,
+			"chance": 6.4,
+			"stats": { "Spirit": 3, "Strength": 3 }
+		},
+		"of Power": { "id": 1550, "chance": 5.7, "stats": { "Attack Power": 8 } },
+		"of the Monkey": {
+			"id": 590,
+			"chance": 5.6,
+			"stats": { "Agility": 3, "Stamina": 3 }
+		},
+		"of the Tiger": {
+			"id": 675,
+			"chance": 3.5,
+			"stats": { "Agility": 3, "Strength": 3 }
+		},
+		"of Healing": { "id": 2030, "chance": 0.4, "stats": { "Spell Power": 5 } },
+		"of Intellect": { "id": 94, "chance": 0.2, "stats": { "Intellect": 4 } }
+	},
+	"source": "DROP"
 }

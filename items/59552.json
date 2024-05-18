@@ -1,18 +1,17 @@
 {
-  "id": 59552,
-  "name": "Belt of the Forgotten Pool",
-  "icon": "inv_belt_03",
-  "popularity": 6,
-  "armor": 37,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "intellect": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 850,
-  "sourceName": "Kolkar Leaders"
+	"id": 59552,
+	"name": "Belt of the Forgotten Pool",
+	"icon": "inv_belt_03",
+	"popularity": 6,
+	"armor": 37,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Intellect": 2 },
+	"source": "QUEST",
+	"sourceId": 850,
+	"sourceName": "Kolkar Leaders",
+	"sourceType": "QUEST"
 }

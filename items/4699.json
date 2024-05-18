@@ -1,15 +1,13 @@
 {
-  "id": 4699,
-  "name": "Seer's Belt",
-  "icon": "inv_belt_22",
-  "popularity": 6,
-  "armor": 30,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "intellect": 4
-  },
-  "sourceType": "DROP"
+	"id": 4699,
+	"name": "Seer's Belt",
+	"icon": "inv_belt_22",
+	"popularity": 6,
+	"armor": 30,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Intellect": 4 },
+	"source": "DROP"
 }

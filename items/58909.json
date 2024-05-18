@@ -1,18 +1,17 @@
 {
-  "id": 58909,
-  "name": "Golden Sunshine Cloak",
-  "icon": "inv_misc_cape_06",
-  "popularity": 4,
-  "armor": 19,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26241,
-  "sourceName": "Westfall Stew"
+	"id": 58909,
+	"name": "Golden Sunshine Cloak",
+	"icon": "inv_misc_cape_06",
+	"popularity": 4,
+	"armor": 19,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 26241,
+	"sourceName": "Westfall Stew",
+	"sourceType": "QUEST"
 }

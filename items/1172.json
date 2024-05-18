@@ -1,18 +1,15 @@
 {
-  "id": 1172,
-  "name": "Grayson's Torch",
-  "icon": "inv_torch_lit",
-  "popularity": 14,
-  "armor": 0,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "OFF_HAND_FRILLS",
-  "type": "HELD_IN_OFF_HAND",
-  "stats": {
-    "spirit": 4,
-    "armor": 6
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 40
+	"id": 1172,
+	"name": "Grayson's Torch",
+	"icon": "inv_torch_lit",
+	"popularity": 14,
+	"armor": 0,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "OFF_HAND_FRILLS",
+	"type": "HELD_IN_OFF_HAND",
+	"stats": { "Spirit": 4, "Armor": 6 },
+	"source": "QUEST",
+	"sourceZone": 40
 }

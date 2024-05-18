@@ -1,23 +1,21 @@
 {
-  "id": 4444,
-  "name": "Black Husk Shield",
-  "icon": "inv_misc_monsterspidercarapace_01",
-  "popularity": 10,
-  "armor": 683,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "stamina": 3,
-    "spirit": 4
-  },
-  "sourceType": "DROP",
-  "sourceId": 1112,
-  "sourceName": "Leech Widow",
-  "sourceZone": 11,
-  "use": {
-    "spell": 14253,
-    "text": "Attempts to cure 1 poison effect on the target. (5 Min Cooldown)"
-  }
+	"id": 4444,
+	"name": "Black Husk Shield",
+	"icon": "inv_misc_monsterspidercarapace_01",
+	"popularity": 10,
+	"armor": 683,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Stamina": 3, "Spirit": 4 },
+	"source": "DROP",
+	"sourceId": 1112,
+	"sourceName": "Leech Widow",
+	"sourceZone": 11,
+	"sourceType": "NPC",
+	"use": {
+		"spell": 14253,
+		"text": "Attempts to cure 1 poison effect on the target. (5 Min Cooldown)"
+	}
 }

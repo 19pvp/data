@@ -1,19 +1,17 @@
 {
-  "id": 827,
-  "name": "Wicked Blackjack",
-  "icon": "inv_mace_01",
-  "dmgMin": 14,
-  "dmgMax": 26,
-  "speed": 2.3,
-  "dps": 8.7,
-  "popularity": 35,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "ONE_HANDED_MACE",
-  "type": "ONE_HAND",
-  "stats": {
-    "strength": 2
-  },
-  "sourceType": "DROP",
-  "sourceZone": 40
+	"id": 827,
+	"name": "Wicked Blackjack",
+	"icon": "inv_mace_01",
+	"dmgMin": 14,
+	"dmgMax": 26,
+	"speed": 2.3,
+	"dps": 8.7,
+	"popularity": 35,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "ONE_HANDED_MACE",
+	"type": "ONE_HAND",
+	"stats": { "Strength": 2 },
+	"source": "DROP",
+	"sourceZone": 40
 }

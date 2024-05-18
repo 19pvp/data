@@ -1,19 +1,17 @@
 {
-  "id": 60722,
-  "name": "Bravo Company Mantle",
-  "icon": "inv_shoulder_25",
-  "popularity": 5,
-  "armor": 43,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "SHOULDERS",
-  "stats": {
-    "stamina": 3,
-    "intellect": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26708,
-  "sourceName": "AHHHHHHHHHHHH! AHHHHHHHHH!!!"
+	"id": 60722,
+	"name": "Bravo Company Mantle",
+	"icon": "inv_shoulder_25",
+	"popularity": 5,
+	"armor": 43,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "SHOULDERS",
+	"stats": { "Stamina": 3, "Intellect": 4 },
+	"source": "QUEST",
+	"sourceId": 26708,
+	"sourceName": "AHHHHHHHHHHHH! AHHHHHHHHH!!!",
+	"sourceType": "QUEST"
 }

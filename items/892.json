@@ -1,18 +1,17 @@
 {
-  "id": 892,
-  "name": "Gnoll Casting Gloves",
-  "icon": "inv_gauntlets_04",
-  "popularity": 11,
-  "armor": 39,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {
-    "intellect": 5
-  },
-  "sourceType": "DROP",
-  "sourceId": 1009,
-  "sourceName": "Mosshide Mistweaver",
-  "sourceZone": 11
+	"id": 892,
+	"name": "Gnoll Casting Gloves",
+	"icon": "inv_gauntlets_04",
+	"popularity": 11,
+	"armor": 39,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": { "Intellect": 5 },
+	"source": "DROP",
+	"sourceId": 1009,
+	"sourceName": "Mosshide Mistweaver",
+	"sourceZone": 11,
+	"sourceType": "NPC"
 }

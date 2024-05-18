@@ -1,17 +1,16 @@
 {
-  "id": 5343,
-  "name": "Barkeeper's Cloak",
-  "icon": "inv_misc_cape_03",
-  "popularity": 12,
-  "armor": 26,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 865,
-  "sourceName": "It's Gotta be the Horn"
+	"id": 5343,
+	"name": "Barkeeper's Cloak",
+	"icon": "inv_misc_cape_03",
+	"popularity": 12,
+	"armor": 26,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 865,
+	"sourceName": "It's Gotta be the Horn",
+	"sourceType": "QUEST"
 }

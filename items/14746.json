@@ -1,15 +1,13 @@
 {
-  "id": 14746,
-  "name": "Hulking Belt",
-  "icon": "inv_belt_22",
-  "popularity": 9,
-  "armor": 87,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {
-    "strength": 5
-  },
-  "sourceType": "DROP"
+	"id": 14746,
+	"name": "Hulking Belt",
+	"icon": "inv_belt_22",
+	"popularity": 9,
+	"armor": 87,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": { "Strength": 5 },
+	"source": "DROP"
 }

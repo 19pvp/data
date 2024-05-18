@@ -1,15 +1,13 @@
 {
-  "id": 3653,
-  "name": "Ceremonial Buckler",
-  "icon": "inv_shield_09",
-  "popularity": 4,
-  "armor": 469,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "spirit": 2
-  },
-  "sourceType": "DROP"
+	"id": 3653,
+	"name": "Ceremonial Buckler",
+	"icon": "inv_shield_09",
+	"popularity": 4,
+	"armor": 469,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Spirit": 2 },
+	"source": "DROP"
 }

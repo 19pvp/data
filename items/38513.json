@@ -1,19 +1,17 @@
 {
-  "id": 38513,
-  "name": "Boarhide Leggings",
-  "icon": "inv_pants_12",
-  "popularity": 25,
-  "armor": 58,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "agility": 2,
-    "stamina": 3
-  },
-  "sourceType": "DROP",
-  "sourceId": 100,
-  "sourceName": "Gruff Swiftbite",
-  "sourceZone": 12
+	"id": 38513,
+	"name": "Boarhide Leggings",
+	"icon": "inv_pants_12",
+	"popularity": 25,
+	"armor": 58,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Agility": 2, "Stamina": 3 },
+	"source": "DROP",
+	"sourceId": 100,
+	"sourceName": "Gruff Swiftbite",
+	"sourceZone": 12,
+	"sourceType": "NPC"
 }

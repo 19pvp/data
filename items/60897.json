@@ -1,19 +1,17 @@
 {
-  "id": 60897,
-  "name": "Night Watch Boots",
-  "icon": "inv_boots_chain_07",
-  "popularity": 5,
-  "armor": 102,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "strength": 3,
-    "stamina": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26618,
-  "sourceName": "Wolves at Our Heels"
+	"id": 60897,
+	"name": "Night Watch Boots",
+	"icon": "inv_boots_chain_07",
+	"popularity": 5,
+	"armor": 102,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Strength": 3, "Stamina": 4 },
+	"source": "QUEST",
+	"sourceId": 26618,
+	"sourceName": "Wolves at Our Heels",
+	"sourceType": "QUEST"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 56725,
-  "name": "Belt of Secret Signs",
-  "icon": "inv_belt_41",
-  "popularity": 6,
-  "armor": 53,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 4,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13865,
-  "sourceName": "Wet Work"
+	"id": 56725,
+	"name": "Belt of Secret Signs",
+	"icon": "inv_belt_41",
+	"popularity": 6,
+	"armor": 53,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Stamina": 4, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 13865,
+	"sourceName": "Wet Work",
+	"sourceType": "QUEST"
 }

@@ -1,18 +1,13 @@
 {
-  "id": 61935,
-  "name": "Tarnished Raging Berserker's Helm",
-  "icon": "inv_helmet_25",
-  "popularity": 111,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "MAIL",
-  "type": "HEAD",
-  "stats": {
-    "hit": 4,
-    "haste": 4,
-    "agility": 6,
-    "stamina": 10
-  },
-  "sourceType": "VENDOR"
+	"id": 61935,
+	"name": "Tarnished Raging Berserker's Helm",
+	"icon": "inv_helmet_25",
+	"popularity": 111,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "MAIL",
+	"type": "HEAD",
+	"stats": { "Hit Rating": 4, "Haste Rating": 4, "Agility": 6, "Stamina": 10 },
+	"source": "VENDOR"
 }

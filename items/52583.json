@@ -1,19 +1,17 @@
 {
-  "id": 52583,
-  "name": "Rat Hair Vest",
-  "icon": "inv_chest_cloth_32",
-  "popularity": 12,
-  "armor": 37,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 1,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13554,
-  "sourceName": "A Cure In The Dark"
+	"id": 52583,
+	"name": "Rat Hair Vest",
+	"icon": "inv_chest_cloth_32",
+	"popularity": 12,
+	"armor": 37,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Stamina": 1, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 13554,
+	"sourceName": "A Cure In The Dark",
+	"sourceType": "QUEST"
 }

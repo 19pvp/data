@@ -1,18 +1,17 @@
 {
-  "id": 57213,
-  "name": "Waterbearer's Robes",
-  "icon": "inv_chest_cloth_32",
-  "popularity": 15,
-  "armor": 34,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24524,
-  "sourceName": "Wildmane Cleansing"
+	"id": 57213,
+	"name": "Waterbearer's Robes",
+	"icon": "inv_chest_cloth_32",
+	"popularity": 15,
+	"armor": 34,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 24524,
+	"sourceName": "Wildmane Cleansing",
+	"sourceType": "QUEST"
 }

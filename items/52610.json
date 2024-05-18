@@ -1,19 +1,16 @@
 {
-  "id": 52610,
-  "name": "Strap of the Ancient Horn",
-  "icon": "inv_belt_37b",
-  "popularity": 7,
-  "armor": 49,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 2,
-    "intellect": 2,
-    "spirit": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13900,
-  "sourceName": "The Offering to Azshara"
+	"id": 52610,
+	"name": "Strap of the Ancient Horn",
+	"icon": "inv_belt_37b",
+	"popularity": 7,
+	"armor": 49,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Stamina": 2, "Intellect": 2, "Spirit": 3 },
+	"source": "QUEST",
+	"sourceId": 13900,
+	"sourceName": "The Offering to Azshara",
+	"sourceType": "QUEST"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 62871,
-  "name": "War Blood Cloak",
-  "icon": "inv_misc_cape_22",
-  "popularity": 4,
-  "armor": 23,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27360,
-  "sourceName": "Vengeance for Our Soldiers"
+	"id": 62871,
+	"name": "War Blood Cloak",
+	"icon": "inv_misc_cape_22",
+	"popularity": 4,
+	"armor": 23,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 27360,
+	"sourceName": "Vengeance for Our Soldiers",
+	"sourceType": "QUEST"
 }

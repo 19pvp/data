@@ -1,16 +1,13 @@
 {
-  "id": 14374,
-  "name": "Sanguine Sandals",
-  "icon": "inv_boots_06",
-  "popularity": 4,
-  "armor": 46,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "FEET",
-  "stats": {
-    "stamina": 4,
-    "intellect": 4
-  },
-  "sourceType": "DROP"
+	"id": 14374,
+	"name": "Sanguine Sandals",
+	"icon": "inv_boots_06",
+	"popularity": 4,
+	"armor": 46,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": { "Stamina": 4, "Intellect": 4 },
+	"source": "DROP"
 }

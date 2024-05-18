@@ -1,18 +1,16 @@
 {
-  "id": 49446,
-  "name": "Retainer Vest",
-  "icon": "inv_chest_leather_08",
-  "popularity": 18,
-  "armor": 74,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 3,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 895,
-  "sourceName": "WANTED: Cap'n Garvey"
+	"id": 49446,
+	"name": "Retainer Vest",
+	"icon": "inv_chest_leather_08",
+	"popularity": 18,
+	"armor": 74,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Stamina": 3, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 895,
+	"sourceName": "WANTED: Cap'n Garvey",
+	"sourceType": "QUEST"
 }

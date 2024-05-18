@@ -1,21 +1,20 @@
 {
-  "id": 19024,
-  "name": "Arena Grand Master",
-  "icon": "inv_misc_armorkit_04",
-  "popularity": 56,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "TRINKETS",
-  "type": "TRINKET",
-  "stats": {
-    "stamina": 12
-  },
-  "sourceType": "QUEST",
-  "sourceId": 7838,
-  "sourceName": "Arena Grandmaster",
-  "use": {
-    "spell": 23506,
-    "text": "Absorbs 750 to 1250 damage. Lasts 20 sec. (15 Min Cooldown)"
-  }
+	"id": 19024,
+	"name": "Arena Grand Master",
+	"icon": "inv_misc_armorkit_04",
+	"popularity": 56,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "TRINKETS",
+	"type": "TRINKET",
+	"stats": { "Stamina": 12 },
+	"source": "QUEST",
+	"sourceId": 7838,
+	"sourceName": "Arena Grandmaster",
+	"sourceType": "QUEST",
+	"use": {
+		"spell": 23506,
+		"text": "Absorbs 750 to 1250 damage. Lasts 20 sec. (15 Min Cooldown)"
+	}
 }

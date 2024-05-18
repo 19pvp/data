@@ -1,18 +1,17 @@
 {
-  "id": 54872,
-  "name": "Shackled Bindings",
-  "icon": "inv_pants_08",
-  "popularity": 9,
-  "armor": 46,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "agility": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 937,
-  "sourceName": "The Enchanted Glade"
+	"id": 54872,
+	"name": "Shackled Bindings",
+	"icon": "inv_pants_08",
+	"popularity": 9,
+	"armor": 46,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Agility": 1 },
+	"source": "QUEST",
+	"sourceId": 937,
+	"sourceName": "The Enchanted Glade",
+	"sourceType": "QUEST"
 }

@@ -1,15 +1,13 @@
 {
-  "id": 14370,
-  "name": "Mystic's Woolies",
-  "icon": "inv_pants_02",
-  "popularity": 10,
-  "armor": 48,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "spirit": 6
-  },
-  "sourceType": "DROP"
+	"id": 14370,
+	"name": "Mystic's Woolies",
+	"icon": "inv_pants_02",
+	"popularity": 10,
+	"armor": 48,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Spirit": 6 },
+	"source": "DROP"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 22986,
-  "name": "Apothecary's Robe",
-  "icon": "inv_chest_cloth_19",
-  "popularity": 16,
-  "armor": 46,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "intellect": 4
-  },
-  "sourceType": "DROP",
-  "sourceId": 12203,
-  "sourceName": "Landslide",
-  "sourceZone": 2100
+	"id": 22986,
+	"name": "Apothecary's Robe",
+	"icon": "inv_chest_cloth_19",
+	"popularity": 16,
+	"armor": 46,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Intellect": 4 },
+	"source": "DROP",
+	"sourceId": 12203,
+	"sourceName": "Landslide",
+	"sourceZone": 2100,
+	"sourceType": "NPC"
 }

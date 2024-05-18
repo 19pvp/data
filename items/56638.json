@@ -1,19 +1,17 @@
 {
-  "id": 56638,
-  "name": "Gnarlbark Shoulders",
-  "icon": "inv_shoulder_14",
-  "popularity": 10,
-  "armor": 112,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "SHOULDERS",
-  "stats": {
-    "stamina": 3,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13796,
-  "sourceName": "The Forest Heart"
+	"id": 56638,
+	"name": "Gnarlbark Shoulders",
+	"icon": "inv_shoulder_14",
+	"popularity": 10,
+	"armor": 112,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "SHOULDERS",
+	"stats": { "Stamina": 3, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 13796,
+	"sourceName": "The Forest Heart",
+	"sourceType": "QUEST"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 52916,
-  "name": "Gunner's Gloves",
-  "icon": "inv_gauntlets_24",
-  "popularity": 19,
-  "armor": 35,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 1,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25066,
-  "sourceName": "The Pride of Kezan"
+	"id": 52916,
+	"name": "Gunner's Gloves",
+	"icon": "inv_gauntlets_24",
+	"popularity": 19,
+	"armor": 35,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Stamina": 1, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 25066,
+	"sourceName": "The Pride of Kezan",
+	"sourceType": "QUEST"
 }

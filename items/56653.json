@@ -1,18 +1,17 @@
 {
-  "id": 56653,
-  "name": "Somber Treads",
-  "icon": "inv_boots_03",
-  "popularity": 10,
-  "armor": 65,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "agility": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13644,
-  "sourceName": "That Which Has Risen"
+	"id": 56653,
+	"name": "Somber Treads",
+	"icon": "inv_boots_03",
+	"popularity": 10,
+	"armor": 65,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Agility": 5 },
+	"source": "QUEST",
+	"sourceId": 13644,
+	"sourceName": "That Which Has Risen",
+	"sourceType": "QUEST"
 }

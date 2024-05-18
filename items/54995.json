@@ -1,18 +1,17 @@
 {
-  "id": 54995,
-  "name": "Hailwood Chestpiece",
-  "icon": "inv_chest_mail_16v2",
-  "popularity": 12,
-  "armor": 79,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "strength": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24468,
-  "sourceName": "Stranded at the Marsh"
+	"id": 54995,
+	"name": "Hailwood Chestpiece",
+	"icon": "inv_chest_mail_16v2",
+	"popularity": 12,
+	"armor": 79,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Strength": 1 },
+	"source": "QUEST",
+	"sourceId": 24468,
+	"sourceName": "Stranded at the Marsh",
+	"sourceType": "QUEST"
 }

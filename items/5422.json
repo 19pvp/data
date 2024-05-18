@@ -1,18 +1,16 @@
 {
-  "id": 5422,
-  "name": "Brambleweed Leggings",
-  "icon": "inv_pants_02",
-  "popularity": 8,
-  "armor": 77,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "hit": 4,
-    "agility": 4
-  },
-  "sourceType": "DROP",
-  "sourceId": 3672,
-  "sourceName": "Boahn"
+	"id": 5422,
+	"name": "Brambleweed Leggings",
+	"icon": "inv_pants_02",
+	"popularity": 8,
+	"armor": 77,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Hit Rating": 4, "Agility": 4 },
+	"source": "DROP",
+	"sourceId": 3672,
+	"sourceName": "Boahn",
+	"sourceType": "NPC"
 }

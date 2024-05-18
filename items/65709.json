@@ -1,19 +1,17 @@
 {
-  "id": 65709,
-  "name": "Binding Chains",
-  "icon": "inv_belt_23",
-  "popularity": 4,
-  "armor": 80,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {
-    "strength": 3,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 28138,
-  "sourceName": "Human Infestation"
+	"id": 65709,
+	"name": "Binding Chains",
+	"icon": "inv_belt_23",
+	"popularity": 4,
+	"armor": 80,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": { "Strength": 3, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 28138,
+	"sourceName": "Human Infestation",
+	"sourceType": "QUEST"
 }

@@ -1,19 +1,32 @@
 {
-  "id": 31270,
-  "name": "Banshee Rod",
-  "icon": "inv_wand_12",
-  "dmgMin": 13,
-  "dmgMax": 25,
-  "speed": 1.4,
-  "dps": 13.57,
-  "popularity": 8,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "WAND",
-  "type": "RANGED",
-  "stats": {},
-  "sourceType": "DROP",
-  "sourceId": 22062,
-  "sourceName": "Dr. Whitherlimb",
-  "sourceZone": 3433
+	"id": 31270,
+	"name": "Banshee Rod",
+	"icon": "inv_wand_12",
+	"dmgMin": 13,
+	"dmgMax": 25,
+	"speed": 1.4,
+	"dps": 13.57,
+	"popularity": 8,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "WAND",
+	"type": "RANGED",
+	"stats": {},
+	"rand": {
+		"of the Moon": {
+			"id": -59,
+			"chance": 57.8,
+			"stats": { "Intellect": 1, "Stamina": 1, "Spirit": 1 }
+		},
+		"of the Sun": {
+			"id": -58,
+			"chance": 42.2,
+			"stats": { "Critical Strike Rating": 1, "Stamina": 1, "Intellect": 1 }
+		}
+	},
+	"source": "DROP",
+	"sourceId": 22062,
+	"sourceName": "Dr. Whitherlimb",
+	"sourceZone": 3433,
+	"sourceType": "NPC"
 }

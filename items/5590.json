@@ -1,18 +1,17 @@
 {
-  "id": 5590,
-  "name": "Cord Bracers",
-  "icon": "inv_bracer_73",
-  "popularity": 5,
-  "armor": 15,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WRISTS",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 938,
-  "sourceName": "Mist"
+	"id": 5590,
+	"name": "Cord Bracers",
+	"icon": "inv_bracer_73",
+	"popularity": 5,
+	"armor": 15,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WRISTS",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 938,
+	"sourceName": "Mist",
+	"sourceType": "QUEST"
 }

@@ -1,23 +1,24 @@
 {
-  "id": 56836,
-  "name": "Overflowing Purple Brewfest Stein",
-  "icon": "inv_misc_beer_08",
-  "dmgMin": 2.5,
-  "dmgMax": 10,
-  "speed": 2.5,
-  "dps": 2.5,
-  "popularity": 5,
-  "side": "HORDE",
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "MISCELLANEOUS",
-  "type": "ONE_HAND",
-  "stats": {},
-  "sourceType": "QUEST",
-  "sourceId": 29396,
-  "sourceName": "A New Supplier of Souvenirs",
-  "use": {
-    "spell": 101582,
-    "text": "A weak alcoholic beverage. (30 Sec Cooldown)"
-  }
+	"id": 56836,
+	"name": "Overflowing Purple Brewfest Stein",
+	"icon": "inv_misc_beer_08",
+	"dmgMin": 2.5,
+	"dmgMax": 10,
+	"speed": 2.5,
+	"dps": 2.5,
+	"popularity": 5,
+	"side": "HORDE",
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "MISCELLANEOUS",
+	"type": "ONE_HAND",
+	"stats": {},
+	"source": "QUEST",
+	"sourceId": 29396,
+	"sourceName": "A New Supplier of Souvenirs",
+	"sourceType": "QUEST",
+	"use": {
+		"spell": 101582,
+		"text": "A weak alcoholic beverage. (30 Sec Cooldown)"
+	}
 }

@@ -1,20 +1,17 @@
 {
-  "id": 56652,
-  "name": "Ablution Slippers",
-  "icon": "inv_boots_cloth_04",
-  "popularity": 4,
-  "armor": 43,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "FEET",
-  "stats": {
-    "hit": 2,
-    "stamina": 2,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13644,
-  "sourceName": "That Which Has Risen"
+	"id": 56652,
+	"name": "Ablution Slippers",
+	"icon": "inv_boots_cloth_04",
+	"popularity": 4,
+	"armor": 43,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": { "Hit Rating": 2, "Stamina": 2, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 13644,
+	"sourceName": "That Which Has Risen",
+	"sourceType": "QUEST"
 }

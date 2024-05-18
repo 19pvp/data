@@ -1,19 +1,17 @@
 {
-  "id": 53432,
-  "name": "Pricey Bracers",
-  "icon": "inv_bracer_27a",
-  "popularity": 5,
-  "armor": 45,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WRISTS",
-  "stats": {
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24452,
-  "sourceName": "Profitability Scouting"
+	"id": 53432,
+	"name": "Pricey Bracers",
+	"icon": "inv_bracer_27a",
+	"popularity": 5,
+	"armor": 45,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WRISTS",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 24452,
+	"sourceName": "Profitability Scouting",
+	"sourceType": "QUEST"
 }

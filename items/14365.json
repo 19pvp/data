@@ -1,16 +1,13 @@
 {
-  "id": 14365,
-  "name": "Mystic's Cape",
-  "icon": "inv_misc_cape_16",
-  "popularity": 8,
-  "armor": 23,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "hit": 1,
-    "agility": 1
-  },
-  "sourceType": "DROP"
+	"id": 14365,
+	"name": "Mystic's Cape",
+	"icon": "inv_misc_cape_16",
+	"popularity": 8,
+	"armor": 23,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Hit Rating": 1, "Agility": 1 },
+	"source": "DROP"
 }

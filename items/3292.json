@@ -1,16 +1,13 @@
 {
-  "id": 3292,
-  "name": "Ancestral Tunic",
-  "icon": "inv_shirt_07",
-  "popularity": 4,
-  "armor": 41,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 1,
-    "intellect": 2
-  },
-  "sourceType": "DROP"
+	"id": 3292,
+	"name": "Ancestral Tunic",
+	"icon": "inv_shirt_07",
+	"popularity": 4,
+	"armor": 41,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Stamina": 1, "Intellect": 2 },
+	"source": "DROP"
 }

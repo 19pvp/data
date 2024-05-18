@@ -1,16 +1,53 @@
 {
-  "id": 789,
-  "name": "Stout Battlehammer",
-  "icon": "inv_hammer_08",
-  "dmgMin": 17,
-  "dmgMax": 33,
-  "speed": 2.3,
-  "dps": 10.87,
-  "popularity": 11,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "ONE_HANDED_MACE",
-  "type": "MAIN_HAND",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 789,
+	"name": "Stout Battlehammer",
+	"icon": "inv_hammer_08",
+	"dmgMin": 17,
+	"dmgMax": 33,
+	"speed": 2.3,
+	"dps": 10.87,
+	"popularity": 11,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "ONE_HANDED_MACE",
+	"type": "MAIN_HAND",
+	"stats": {},
+	"rand": {
+		"of the Tiger": {
+			"id": 672,
+			"chance": 22.2,
+			"stats": { "Agility": 2, "Strength": 2 }
+		},
+		"of the Bear": {
+			"id": 1182,
+			"chance": 22.1,
+			"stats": { "Stamina": 2, "Strength": 2 }
+		},
+		"of the Monkey": {
+			"id": 587,
+			"chance": 19.7,
+			"stats": { "Agility": 2, "Stamina": 2 }
+		},
+		"of Power": { "id": 1549, "chance": 12.9, "stats": { "Attack Power": 6 } },
+		"of Intellect": { "id": 26, "chance": 7.5, "stats": { "Intellect": 3 } },
+		"of Stamina": { "id": 22, "chance": 4.5, "stats": { "Stamina": 3 } },
+		"of Strength": { "id": 24, "chance": 4.2, "stats": { "Strength": 3 } },
+		"of Healing": { "id": 2029, "chance": 1.9, "stats": { "Spell Power": 4 } },
+		"of Shadow Wrath": {
+			"id": 1839,
+			"chance": 1.8,
+			"stats": { "Shadow Spell Damage": 4 }
+		},
+		"of Arcane Wrath": {
+			"id": 1801,
+			"chance": 1.7,
+			"stats": { "Arcane Spell Damage": 4 }
+		},
+		"of Nature's Wrath": {
+			"id": 1991,
+			"chance": 1.6,
+			"stats": { "Nature Spell Damage": 4 }
+		}
+	},
+	"source": "DROP"
 }

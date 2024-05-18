@@ -1,16 +1,22 @@
 {
-  "id": 2073,
-  "name": "Dwarven Hatchet",
-  "icon": "inv_axe_04",
-  "dmgMin": 10,
-  "dmgMax": 20,
-  "speed": 2,
-  "dps": 7.5,
-  "popularity": 28,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "ONE_HANDED_AXE",
-  "type": "MAIN_HAND",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 2073,
+	"name": "Dwarven Hatchet",
+	"icon": "inv_axe_04",
+	"dmgMin": 10,
+	"dmgMax": 20,
+	"speed": 2,
+	"dps": 7.5,
+	"popularity": 28,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "ONE_HANDED_AXE",
+	"type": "MAIN_HAND",
+	"stats": {},
+	"rand": {
+		"of Agility": { "id": 14, "chance": 29.6, "stats": { "Agility": 1 } },
+		"of Stamina": { "id": 15, "chance": 28.1, "stats": { "Stamina": 1 } },
+		"of Strength": { "id": 6, "chance": 28, "stats": { "Strength": 1 } },
+		"of Power": { "id": 1547, "chance": 14.3, "stats": { "Attack Power": 2 } }
+	},
+	"source": "DROP"
 }

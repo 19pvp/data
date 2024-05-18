@@ -1,19 +1,17 @@
 {
-  "id": 14147,
-  "name": "Cavedweller Bracers",
-  "icon": "inv_bracer_07",
-  "popularity": 5,
-  "armor": 63,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "MAIL",
-  "type": "WRISTS",
-  "stats": {
-    "strength": 3,
-    "stamina": 3
-  },
-  "sourceType": "DROP",
-  "sourceId": 11518,
-  "sourceName": "Jergosh the Invoker",
-  "sourceZone": 2437
+	"id": 14147,
+	"name": "Cavedweller Bracers",
+	"icon": "inv_bracer_07",
+	"popularity": 5,
+	"armor": 63,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "MAIL",
+	"type": "WRISTS",
+	"stats": { "Strength": 3, "Stamina": 3 },
+	"source": "DROP",
+	"sourceId": 11518,
+	"sourceName": "Jergosh the Invoker",
+	"sourceZone": 2437,
+	"sourceType": "NPC"
 }

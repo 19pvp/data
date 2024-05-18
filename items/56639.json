@@ -1,19 +1,17 @@
 {
-  "id": 56639,
-  "name": "Mourner's Stole",
-  "icon": "inv_shoulder_25",
-  "popularity": 13,
-  "armor": 45,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "SHOULDERS",
-  "stats": {
-    "stamina": 4,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13653,
-  "sourceName": "Crisis at Splintertree"
+	"id": 56639,
+	"name": "Mourner's Stole",
+	"icon": "inv_shoulder_25",
+	"popularity": 13,
+	"armor": 45,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "SHOULDERS",
+	"stats": { "Stamina": 4, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 13653,
+	"sourceName": "Crisis at Splintertree",
+	"sourceType": "QUEST"
 }

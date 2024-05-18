@@ -1,19 +1,17 @@
 {
-  "id": 1215,
-  "name": "Support Girdle",
-  "icon": "inv_belt_09",
-  "popularity": 7,
-  "armor": 53,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "agility": 4,
-    "stamina": 3
-  },
-  "sourceType": "DROP",
-  "sourceId": 1398,
-  "sourceName": "Boss Galgosh",
-  "sourceZone": 38
+	"id": 1215,
+	"name": "Support Girdle",
+	"icon": "inv_belt_09",
+	"popularity": 7,
+	"armor": 53,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Agility": 4, "Stamina": 3 },
+	"source": "DROP",
+	"sourceId": 1398,
+	"sourceName": "Boss Galgosh",
+	"sourceZone": 38,
+	"sourceType": "NPC"
 }

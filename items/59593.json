@@ -1,19 +1,17 @@
 {
-  "id": 59593,
-  "name": "Deathgate Shield",
-  "icon": "inv_shield_07",
-  "popularity": 9,
-  "armor": 672,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "strength": 4,
-    "stamina": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 4021,
-  "sourceName": "Counterattack!"
+	"id": 59593,
+	"name": "Deathgate Shield",
+	"icon": "inv_shield_07",
+	"popularity": 9,
+	"armor": 672,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Strength": 4, "Stamina": 4 },
+	"source": "QUEST",
+	"sourceId": 4021,
+	"sourceName": "Counterattack!",
+	"sourceType": "QUEST"
 }

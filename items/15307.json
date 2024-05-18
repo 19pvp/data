@@ -1,13 +1,50 @@
 {
-  "id": 15307,
-  "name": "Feral Buckler",
-  "icon": "inv_shield_09",
-  "popularity": 18,
-  "armor": 563,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 15307,
+	"name": "Feral Buckler",
+	"icon": "inv_shield_09",
+	"popularity": 18,
+	"armor": 563,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1182,
+			"chance": 17,
+			"stats": { "Stamina": 2, "Strength": 2 }
+		},
+		"of the Monkey": {
+			"id": 587,
+			"chance": 15.1,
+			"stats": { "Agility": 2, "Stamina": 2 }
+		},
+		"of the Tiger": {
+			"id": 672,
+			"chance": 14.5,
+			"stats": { "Agility": 2, "Strength": 2 }
+		},
+		"of the Gorilla": {
+			"id": 927,
+			"chance": 9.8,
+			"stats": { "Intellect": 2, "Strength": 2 }
+		},
+		"of Strength": { "id": 97, "chance": 9.5, "stats": { "Strength": 4 } },
+		"of Agility": { "id": 93, "chance": 9.1, "stats": { "Agility": 4 } },
+		"of the Boar": {
+			"id": 1097,
+			"chance": 9,
+			"stats": { "Spirit": 2, "Strength": 2 }
+		},
+		"of Stamina": { "id": 96, "chance": 8.7, "stats": { "Stamina": 4 } },
+		"of Blocking": {
+			"id": 1652,
+			"chance": 3.6,
+			"stats": { "Block Rating": 5, "Strength": 3 }
+		},
+		"of Defense": { "id": 128, "chance": 2.4, "stats": { "Dodge Rating": 4 } },
+		"of Dodge": { "chance": 1.6, "stats": { "Dodge Rating": 3 } }
+	},
+	"source": "DROP"
 }

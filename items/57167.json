@@ -1,18 +1,17 @@
 {
-  "id": 57167,
-  "name": "Night Web Gloves",
-  "icon": "inv_gauntlets_16",
-  "popularity": 23,
-  "armor": 21,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25013,
-  "sourceName": "A Little Oomph"
+	"id": 57167,
+	"name": "Night Web Gloves",
+	"icon": "inv_gauntlets_16",
+	"popularity": 23,
+	"armor": 21,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 25013,
+	"sourceName": "A Little Oomph",
+	"sourceType": "QUEST"
 }

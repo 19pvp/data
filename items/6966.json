@@ -1,20 +1,19 @@
 {
-  "id": 6966,
-  "name": "Elunite Axe",
-  "icon": "inv_axe_04",
-  "dmgMin": 14,
-  "dmgMax": 28,
-  "speed": 2.7,
-  "dps": 7.78,
-  "popularity": 10,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "ONE_HANDED_AXE",
-  "type": "ONE_HAND",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 1693,
-  "sourceName": "Weapons of Elunite"
+	"id": 6966,
+	"name": "Elunite Axe",
+	"icon": "inv_axe_04",
+	"dmgMin": 14,
+	"dmgMax": 28,
+	"speed": 2.7,
+	"dps": 7.78,
+	"popularity": 10,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "ONE_HANDED_AXE",
+	"type": "ONE_HAND",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 1693,
+	"sourceName": "Weapons of Elunite",
+	"sourceType": "QUEST"
 }

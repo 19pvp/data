@@ -1,17 +1,13 @@
 {
-  "id": 69890,
-  "name": "Burnished Pauldrons of Might",
-  "icon": "inv_shoulder_14",
-  "popularity": 139,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "PLATE",
-  "type": "SHOULDERS",
-  "stats": {
-    "parry": 5,
-    "strength": 5,
-    "stamina": 7
-  },
-  "sourceType": "VENDOR"
+	"id": 69890,
+	"name": "Burnished Pauldrons of Might",
+	"icon": "inv_shoulder_14",
+	"popularity": 139,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "PLATE",
+	"type": "SHOULDERS",
+	"stats": { "Parry Rating": 5, "Strength": 5, "Stamina": 7 },
+	"source": "VENDOR"
 }

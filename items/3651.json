@@ -1,15 +1,13 @@
 {
-  "id": 3651,
-  "name": "Veteran Shield",
-  "icon": "inv_shield_09",
-  "popularity": 29,
-  "armor": 469,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "strength": 2
-  },
-  "sourceType": "DROP"
+	"id": 3651,
+	"name": "Veteran Shield",
+	"icon": "inv_shield_09",
+	"popularity": 29,
+	"armor": 469,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Strength": 2 },
+	"source": "DROP"
 }

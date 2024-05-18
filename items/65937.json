@@ -1,19 +1,16 @@
 {
-  "id": 65937,
-  "name": "Serpentis' Gloves",
-  "icon": "inv_gauntlets_18",
-  "popularity": 7,
-  "armor": 63,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 5,
-    "intellect": 4,
-    "spirit": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26870,
-  "sourceName": "Cleansing the Caverns"
+	"id": 65937,
+	"name": "Serpentis' Gloves",
+	"icon": "inv_gauntlets_18",
+	"popularity": 7,
+	"armor": 63,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Stamina": 5, "Intellect": 4, "Spirit": 4 },
+	"source": "QUEST",
+	"sourceId": 26870,
+	"sourceName": "Cleansing the Caverns",
+	"sourceType": "QUEST"
 }

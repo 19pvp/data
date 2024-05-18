@@ -1,18 +1,17 @@
 {
-  "id": 54871,
-  "name": "Cloudsbreak Gloves",
-  "icon": "inv_gauntlets_24",
-  "popularity": 9,
-  "armor": 33,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 938,
-  "sourceName": "Mist"
+	"id": 54871,
+	"name": "Cloudsbreak Gloves",
+	"icon": "inv_gauntlets_24",
+	"popularity": 9,
+	"armor": 33,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 938,
+	"sourceName": "Mist",
+	"sourceType": "QUEST"
 }

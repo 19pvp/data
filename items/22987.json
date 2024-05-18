@@ -1,18 +1,17 @@
 {
-  "id": 22987,
-  "name": "Deathstalker's Vest",
-  "icon": "inv_chest_leather_01",
-  "popularity": 5,
-  "armor": 70,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "agility": 4
-  },
-  "sourceType": "DROP",
-  "sourceId": 12203,
-  "sourceName": "Landslide",
-  "sourceZone": 2100
+	"id": 22987,
+	"name": "Deathstalker's Vest",
+	"icon": "inv_chest_leather_01",
+	"popularity": 5,
+	"armor": 70,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Agility": 4 },
+	"source": "DROP",
+	"sourceId": 12203,
+	"sourceName": "Landslide",
+	"sourceZone": 2100,
+	"sourceType": "NPC"
 }

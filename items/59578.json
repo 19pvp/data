@@ -1,17 +1,16 @@
 {
-  "id": 59578,
-  "name": "Bracers of Angry Mutterings",
-  "icon": "inv_bracer_13",
-  "popularity": 5,
-  "armor": 23,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WRISTS",
-  "stats": {
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 863,
-  "sourceName": "The Escape"
+	"id": 59578,
+	"name": "Bracers of Angry Mutterings",
+	"icon": "inv_bracer_13",
+	"popularity": 5,
+	"armor": 23,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WRISTS",
+	"stats": { "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 863,
+	"sourceName": "The Escape",
+	"sourceType": "QUEST"
 }

@@ -1,20 +1,17 @@
 {
-  "id": 6392,
-  "name": "Belt of Arugal",
-  "icon": "inv_belt_10",
-  "popularity": 16,
-  "armor": 37,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 5,
-    "intellect": 4,
-    "spirit": 4
-  },
-  "sourceType": "DROP",
-  "sourceId": 4275,
-  "sourceName": "Archmage Arugal",
-  "sourceZone": 209
+	"id": 6392,
+	"name": "Belt of Arugal",
+	"icon": "inv_belt_10",
+	"popularity": 16,
+	"armor": 37,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Stamina": 5, "Intellect": 4, "Spirit": 4 },
+	"source": "DROP",
+	"sourceId": 4275,
+	"sourceName": "Archmage Arugal",
+	"sourceZone": 209,
+	"sourceType": "NPC"
 }

@@ -1,19 +1,19 @@
 {
-  "id": 44107,
-  "name": "Exquisite Sunderseer Mantle",
-  "icon": "inv_shoulder_02",
-  "popularity": 80,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "CLOTH",
-  "type": "SHOULDERS",
-  "stats": {
-    "crit": 3,
-    "resilience": 5,
-    "stamina": 5,
-    "intellect": 5
-  },
-  "sourceType": "VENDOR",
-  "sourceZone": 4197
+	"id": 44107,
+	"name": "Exquisite Sunderseer Mantle",
+	"icon": "inv_shoulder_02",
+	"popularity": 80,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "CLOTH",
+	"type": "SHOULDERS",
+	"stats": {
+		"Critical Strike Rating": 3,
+		"Resilience": 5,
+		"Stamina": 5,
+		"Intellect": 5
+	},
+	"source": "VENDOR",
+	"sourceZone": 4197
 }

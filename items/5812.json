@@ -1,18 +1,15 @@
 {
-  "id": 5812,
-  "name": "Robes of Antiquity",
-  "icon": "inv_chest_cloth_38",
-  "popularity": 11,
-  "armor": 69,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "intellect": 2,
-    "spirit": 8
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 331
+	"id": 5812,
+	"name": "Robes of Antiquity",
+	"icon": "inv_chest_cloth_38",
+	"popularity": 11,
+	"armor": 69,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Intellect": 2, "Spirit": 8 },
+	"source": "QUEST",
+	"sourceZone": 331
 }

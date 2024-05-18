@@ -1,16 +1,13 @@
 {
-  "id": 2977,
-  "name": "Veteran Armor",
-  "icon": "inv_chest_chain_09",
-  "popularity": 11,
-  "armor": 120,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "strength": 3,
-    "stamina": 2
-  },
-  "sourceType": "DROP"
+	"id": 2977,
+	"name": "Veteran Armor",
+	"icon": "inv_chest_chain_09",
+	"popularity": 11,
+	"armor": 120,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Strength": 3, "Stamina": 2 },
+	"source": "DROP"
 }

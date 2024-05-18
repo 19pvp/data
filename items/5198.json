@@ -1,20 +1,17 @@
 {
-  "id": 5198,
-  "name": "Cookie's Stirring Rod",
-  "icon": "inv_staff_02",
-  "dmgMin": 20,
-  "dmgMax": 37,
-  "speed": 1.4,
-  "dps": 20.36,
-  "popularity": 20,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "WAND",
-  "type": "RANGED",
-  "stats": {
-    "crit": 2,
-    "intellect": 2
-  },
-  "sourceType": "DROP",
-  "sourceZone": 1581
+	"id": 5198,
+	"name": "Cookie's Stirring Rod",
+	"icon": "inv_staff_02",
+	"dmgMin": 20,
+	"dmgMax": 37,
+	"speed": 1.4,
+	"dps": 20.36,
+	"popularity": 20,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "WAND",
+	"type": "RANGED",
+	"stats": { "Critical Strike Rating": 2, "Intellect": 2 },
+	"source": "DROP",
+	"sourceZone": 1581
 }

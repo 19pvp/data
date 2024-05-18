@@ -1,20 +1,18 @@
 {
-  "id": 20442,
-  "name": "Scout's Medallion",
-  "icon": "inv_jewelry_necklace_14",
-  "popularity": 28,
-  "armor": 0,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "AMULETS",
-  "type": "NECK",
-  "stats": {
-    "agility": 6,
-    "stamina": 2
-  },
-  "sourceType": "VENDOR",
-  "sourceId": 14754,
-  "sourceName": "Kelm Hargunth",
-  "sourceZone": 17
+	"id": 20442,
+	"name": "Scout's Medallion",
+	"icon": "inv_jewelry_necklace_14",
+	"popularity": 28,
+	"armor": 0,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "AMULETS",
+	"type": "NECK",
+	"stats": { "Agility": 6, "Stamina": 2 },
+	"source": "VENDOR",
+	"sourceId": 14754,
+	"sourceName": "Kelm Hargunth",
+	"sourceZone": 17,
+	"sourceType": "NPC"
 }

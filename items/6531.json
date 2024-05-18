@@ -1,16 +1,13 @@
 {
-  "id": 6531,
-  "name": "Barbaric Cloth Robe",
-  "icon": "inv_chest_cloth_14",
-  "popularity": 6,
-  "armor": 53,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 4,
-    "intellect": 2
-  },
-  "sourceType": "DROP"
+	"id": 6531,
+	"name": "Barbaric Cloth Robe",
+	"icon": "inv_chest_cloth_14",
+	"popularity": 6,
+	"armor": 53,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Stamina": 4, "Intellect": 2 },
+	"source": "DROP"
 }

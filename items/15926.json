@@ -1,15 +1,13 @@
 {
-  "id": 15926,
-  "name": "Spellbinder Orb",
-  "icon": "inv_misc_orb_01",
-  "popularity": 10,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "OFF_HAND_FRILLS",
-  "type": "HELD_IN_OFF_HAND",
-  "stats": {
-    "intellect": 3
-  },
-  "sourceType": "DROP"
+	"id": 15926,
+	"name": "Spellbinder Orb",
+	"icon": "inv_misc_orb_01",
+	"popularity": 10,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "OFF_HAND_FRILLS",
+	"type": "HELD_IN_OFF_HAND",
+	"stats": { "Intellect": 3 },
+	"source": "DROP"
 }

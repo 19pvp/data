@@ -1,16 +1,13 @@
 {
-  "id": 3655,
-  "name": "Burnished Shield",
-  "icon": "inv_shield_03",
-  "popularity": 6,
-  "armor": 611,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "strength": 2,
-    "stamina": 3
-  },
-  "sourceType": "DROP"
+	"id": 3655,
+	"name": "Burnished Shield",
+	"icon": "inv_shield_03",
+	"popularity": 6,
+	"armor": 611,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Strength": 2, "Stamina": 3 },
+	"source": "DROP"
 }

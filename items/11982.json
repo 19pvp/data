@@ -1,13 +1,37 @@
 {
-  "id": 11982,
-  "name": "Viridian Band",
-  "icon": "inv_jewelry_ring_13",
-  "popularity": 19,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 11982,
+	"name": "Viridian Band",
+	"icon": "inv_jewelry_ring_13",
+	"popularity": 19,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": {},
+	"rand": {
+		"of the Owl": {
+			"id": 760,
+			"chance": 29.7,
+			"stats": { "Intellect": 3, "Spirit": 3 }
+		},
+		"of the Eagle": {
+			"id": 845,
+			"chance": 27,
+			"stats": { "Intellect": 3, "Stamina": 3 }
+		},
+		"of the Whale": {
+			"id": 1015,
+			"chance": 23.6,
+			"stats": { "Spirit": 3, "Stamina": 3 }
+		},
+		"of Spirit": { "id": 113, "chance": 9.2, "stats": { "Spirit": 5 } },
+		"of Intellect": { "id": 112, "chance": 7.6, "stats": { "Intellect": 5 } },
+		"of Concentration": {
+			"id": 2070,
+			"chance": 2.8,
+			"stats": { "mana every 5 sec.": 2 }
+		}
+	},
+	"source": "DROP"
 }

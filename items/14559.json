@@ -1,16 +1,13 @@
 {
-  "id": 14559,
-  "name": "Prospector's Sash",
-  "icon": "inv_belt_26",
-  "popularity": 25,
-  "armor": 45,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 3,
-    "spirit": 2
-  },
-  "sourceType": "DROP"
+	"id": 14559,
+	"name": "Prospector's Sash",
+	"icon": "inv_belt_26",
+	"popularity": 25,
+	"armor": 45,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Stamina": 3, "Spirit": 2 },
+	"source": "DROP"
 }

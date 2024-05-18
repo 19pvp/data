@@ -1,20 +1,20 @@
 {
-  "id": 32912,
-  "name": "Yellow Brewfest Stein",
-  "icon": "inv_misc_beer_01",
-  "dmgMin": 2.5,
-  "dmgMax": 10,
-  "speed": 2.5,
-  "dps": 2.5,
-  "popularity": 5,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "MISCELLANEOUS",
-  "type": "ONE_HAND",
-  "stats": {},
-  "sourceType": "QUEST",
-  "use": {
-    "spell": 41920,
-    "text": "Fills your Brewfest Stein at a Brewfest Festive Keg."
-  }
+	"id": 32912,
+	"name": "Yellow Brewfest Stein",
+	"icon": "inv_misc_beer_01",
+	"dmgMin": 2.5,
+	"dmgMax": 10,
+	"speed": 2.5,
+	"dps": 2.5,
+	"popularity": 5,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "MISCELLANEOUS",
+	"type": "ONE_HAND",
+	"stats": {},
+	"source": "QUEST",
+	"use": {
+		"spell": 41920,
+		"text": "Fills your Brewfest Stein at a Brewfest Festive Keg."
+	}
 }

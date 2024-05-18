@@ -1,18 +1,17 @@
 {
-  "id": 5593,
-  "name": "Crag Buckler",
-  "icon": "inv_shield_09",
-  "popularity": 5,
-  "armor": 337,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 938,
-  "sourceName": "Mist"
+	"id": 5593,
+	"name": "Crag Buckler",
+	"icon": "inv_shield_09",
+	"popularity": 5,
+	"armor": 337,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 938,
+	"sourceName": "Mist",
+	"sourceType": "QUEST"
 }

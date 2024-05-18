@@ -1,19 +1,17 @@
 {
-  "id": 58990,
-  "name": "Rugelfuss Bracers",
-  "icon": "inv_bracer_27b",
-  "popularity": 10,
-  "armor": 42,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WRISTS",
-  "stats": {
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26148,
-  "sourceName": "A Decisive Strike"
+	"id": 58990,
+	"name": "Rugelfuss Bracers",
+	"icon": "inv_bracer_27b",
+	"popularity": 10,
+	"armor": 42,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WRISTS",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 26148,
+	"sourceName": "A Decisive Strike",
+	"sourceType": "QUEST"
 }

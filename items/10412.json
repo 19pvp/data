@@ -1,19 +1,17 @@
 {
-  "id": 10412,
-  "name": "Belt of the Fang",
-  "icon": "inv_belt_30",
-  "popularity": 8,
-  "armor": 56,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "agility": 4,
-    "stamina": 6
-  },
-  "sourceType": "DROP",
-  "sourceId": 3671,
-  "sourceName": "Lady Anacondra",
-  "sourceZone": 718
+	"id": 10412,
+	"name": "Belt of the Fang",
+	"icon": "inv_belt_30",
+	"popularity": 8,
+	"armor": 56,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Agility": 4, "Stamina": 6 },
+	"source": "DROP",
+	"sourceId": 3671,
+	"sourceName": "Lady Anacondra",
+	"sourceZone": 718,
+	"sourceType": "NPC"
 }

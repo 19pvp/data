@@ -1,18 +1,17 @@
 {
-  "id": 52953,
-  "name": "Banner Cloak",
-  "icon": "inv_misc_cape_11",
-  "popularity": 18,
-  "armor": 15,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "agility": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24858,
-  "sourceName": "Bilgewater Cartel Represent"
+	"id": 52953,
+	"name": "Banner Cloak",
+	"icon": "inv_misc_cape_11",
+	"popularity": 18,
+	"armor": 15,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Agility": 1 },
+	"source": "QUEST",
+	"sourceId": 24858,
+	"sourceName": "Bilgewater Cartel Represent",
+	"sourceType": "QUEST"
 }

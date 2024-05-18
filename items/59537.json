@@ -1,19 +1,17 @@
 {
-  "id": 59537,
-  "name": "Kranal's Vest",
-  "icon": "inv_chest_leather_08",
-  "popularity": 15,
-  "armor": 59,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 1,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13949,
-  "sourceName": "Crossroads Caravan Pickup"
+	"id": 59537,
+	"name": "Kranal's Vest",
+	"icon": "inv_chest_leather_08",
+	"popularity": 15,
+	"armor": 59,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Stamina": 1, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 13949,
+	"sourceName": "Crossroads Caravan Pickup",
+	"sourceType": "QUEST"
 }

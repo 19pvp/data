@@ -1,18 +1,17 @@
 {
-  "id": 5969,
-  "name": "Regent's Cloak",
-  "icon": "inv_misc_cape_14",
-  "popularity": 8,
-  "armor": 32,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "spirit": 4
-  },
-  "sourceType": "DROP",
-  "sourceId": 2283,
-  "sourceName": "Ravenclaw Regent",
-  "sourceZone": 130
+	"id": 5969,
+	"name": "Regent's Cloak",
+	"icon": "inv_misc_cape_14",
+	"popularity": 8,
+	"armor": 32,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Spirit": 4 },
+	"source": "DROP",
+	"sourceId": 2283,
+	"sourceName": "Ravenclaw Regent",
+	"sourceZone": 130,
+	"sourceType": "NPC"
 }

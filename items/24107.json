@@ -1,18 +1,17 @@
 {
-  "id": 24107,
-  "name": "Ravager Chitin Tunic",
-  "icon": "inv_chest_chain_08",
-  "popularity": 8,
-  "armor": 85,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "strength": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9560,
-  "sourceName": "Beasts of the Apocalypse!"
+	"id": 24107,
+	"name": "Ravager Chitin Tunic",
+	"icon": "inv_chest_chain_08",
+	"popularity": 8,
+	"armor": 85,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Strength": 1 },
+	"source": "QUEST",
+	"sourceId": 9560,
+	"sourceName": "Beasts of the Apocalypse!",
+	"sourceType": "QUEST"
 }

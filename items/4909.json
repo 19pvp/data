@@ -1,16 +1,14 @@
 {
-  "id": 4909,
-  "name": "Kodo Hunter's Leggings",
-  "icon": "inv_pants_02",
-  "popularity": 21,
-  "armor": 61,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "agility": 4
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 215
+	"id": 4909,
+	"name": "Kodo Hunter's Leggings",
+	"icon": "inv_pants_02",
+	"popularity": 21,
+	"armor": 61,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Agility": 4 },
+	"source": "QUEST",
+	"sourceZone": 215
 }

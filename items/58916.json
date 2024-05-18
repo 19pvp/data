@@ -1,18 +1,17 @@
 {
-  "id": 58916,
-  "name": "Chewed Belt",
-  "icon": "inv_belt_04",
-  "popularity": 4,
-  "armor": 35,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26257,
-  "sourceName": "It's Alive!"
+	"id": 58916,
+	"name": "Chewed Belt",
+	"icon": "inv_belt_04",
+	"popularity": 4,
+	"armor": 35,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 26257,
+	"sourceName": "It's Alive!",
+	"sourceType": "QUEST"
 }

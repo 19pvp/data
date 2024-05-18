@@ -1,17 +1,14 @@
 {
-  "id": 1930,
-  "name": "Stonemason Cloak",
-  "icon": "inv_misc_cape_11",
-  "popularity": 22,
-  "armor": 32,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "strength": 3,
-    "stamina": 5
-  },
-  "sourceType": "DROP",
-  "sourceZone": 1581
+	"id": 1930,
+	"name": "Stonemason Cloak",
+	"icon": "inv_misc_cape_11",
+	"popularity": 22,
+	"armor": 32,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Strength": 3, "Stamina": 5 },
+	"source": "DROP",
+	"sourceZone": 1581
 }

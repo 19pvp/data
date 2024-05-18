@@ -1,19 +1,17 @@
 {
-  "id": 53446,
-  "name": "Spring Gadget",
-  "icon": "inv_gizmo_goblingtonkcontroller",
-  "popularity": 17,
-  "armor": 0,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "OFF_HAND_FRILLS",
-  "type": "HELD_IN_OFF_HAND",
-  "stats": {
-    "stamina": 1,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14383,
-  "sourceName": "The Terrible Tinkers of the Ruined Reaches"
+	"id": 53446,
+	"name": "Spring Gadget",
+	"icon": "inv_gizmo_goblingtonkcontroller",
+	"popularity": 17,
+	"armor": 0,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "OFF_HAND_FRILLS",
+	"type": "HELD_IN_OFF_HAND",
+	"stats": { "Stamina": 1, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 14383,
+	"sourceName": "The Terrible Tinkers of the Ruined Reaches",
+	"sourceType": "QUEST"
 }

@@ -1,20 +1,17 @@
 {
-  "id": 53443,
-  "name": "Shield of Talrendis Point",
-  "icon": "inv_shield_09",
-  "popularity": 12,
-  "armor": 672,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "crit": 3,
-    "stamina": 3,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24439,
-  "sourceName": "The Conquest of Azshara"
+	"id": 53443,
+	"name": "Shield of Talrendis Point",
+	"icon": "inv_shield_09",
+	"popularity": 12,
+	"armor": 672,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Critical Strike Rating": 3, "Stamina": 3, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 24439,
+	"sourceName": "The Conquest of Azshara",
+	"sourceType": "QUEST"
 }

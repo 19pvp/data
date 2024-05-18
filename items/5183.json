@@ -1,19 +1,17 @@
 {
-  "id": 5183,
-  "name": "Pulsating Hydra Heart",
-  "icon": "inv_misc_orb_04",
-  "popularity": 17,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "OFF_HAND_FRILLS",
-  "type": "HELD_IN_OFF_HAND",
-  "stats": {
-    "stamina": 2,
-    "intellect": 5
-  },
-  "sourceType": "DROP",
-  "sourceId": 3398,
-  "sourceName": "Gesharahan",
-  "sourceZone": 17
+	"id": 5183,
+	"name": "Pulsating Hydra Heart",
+	"icon": "inv_misc_orb_04",
+	"popularity": 17,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "OFF_HAND_FRILLS",
+	"type": "HELD_IN_OFF_HAND",
+	"stats": { "Stamina": 2, "Intellect": 5 },
+	"source": "DROP",
+	"sourceId": 3398,
+	"sourceName": "Gesharahan",
+	"sourceZone": 17,
+	"sourceType": "NPC"
 }

@@ -1,18 +1,14 @@
 {
-  "id": 6319,
-  "name": "Girdle of the Blindwatcher",
-  "icon": "inv_belt_03",
-  "popularity": 9,
-  "armor": 56,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 4,
-    "intellect": 5,
-    "spirit": 4
-  },
-  "sourceType": "DROP",
-  "sourceZone": 209
+	"id": 6319,
+	"name": "Girdle of the Blindwatcher",
+	"icon": "inv_belt_03",
+	"popularity": 9,
+	"armor": 56,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Stamina": 4, "Intellect": 5, "Spirit": 4 },
+	"source": "DROP",
+	"sourceZone": 209
 }

@@ -1,20 +1,20 @@
 {
-  "id": 12992,
-  "name": "Searing Blade",
-  "icon": "inv_sword_21",
-  "dmgMin": 39,
-  "dmgMax": 59,
-  "speed": 2.5,
-  "dps": 19.6,
-  "popularity": 20,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "TWO_HANDED_SWORD",
-  "type": "TWO_HAND",
-  "stats": {},
-  "sourceType": "DROP",
-  "chanceOnHit": {
-    "spell": 16413,
-    "text": "Hurls a fiery ball that causes 70 Fire damage and an additional 9 damage over 6 sec."
-  }
+	"id": 12992,
+	"name": "Searing Blade",
+	"icon": "inv_sword_21",
+	"dmgMin": 39,
+	"dmgMax": 59,
+	"speed": 2.5,
+	"dps": 19.6,
+	"popularity": 20,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "TWO_HANDED_SWORD",
+	"type": "TWO_HAND",
+	"stats": {},
+	"source": "DROP",
+	"chanceOnHit": {
+		"spell": 16413,
+		"text": "Hurls a fiery ball that causes 70 Fire damage and an additional 9 damage over 6 sec."
+	}
 }

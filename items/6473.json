@@ -1,19 +1,17 @@
 {
-  "id": 6473,
-  "name": "Armor of the Fang",
-  "icon": "inv_shirt_16",
-  "popularity": 19,
-  "armor": 100,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "agility": 8,
-    "stamina": 6
-  },
-  "sourceType": "DROP",
-  "sourceId": 3670,
-  "sourceName": "Lord Pythas",
-  "sourceZone": 718
+	"id": 6473,
+	"name": "Armor of the Fang",
+	"icon": "inv_shirt_16",
+	"popularity": 19,
+	"armor": 100,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Agility": 8, "Stamina": 6 },
+	"source": "DROP",
+	"sourceId": 3670,
+	"sourceName": "Lord Pythas",
+	"sourceZone": 718,
+	"sourceType": "NPC"
 }

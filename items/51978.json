@@ -1,15 +1,40 @@
 {
-  "id": 51978,
-  "name": "Earthbound Girdle",
-  "icon": "inv_belt_26",
-  "popularity": 16,
-  "armor": 106,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {},
-  "sourceType": "DROP",
-  "sourceId": 51999,
-  "sourceName": "Satchel of Helpful Goods"
+	"id": 51978,
+	"name": "Earthbound Girdle",
+	"icon": "inv_belt_26",
+	"popularity": 16,
+	"armor": 106,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1194,
+			"chance": 24.7,
+			"stats": { "Strength": 6, "Stamina": 6 }
+		},
+		"of the Soldier": {
+			"id": -43,
+			"chance": 24,
+			"stats": { "Strength": 5, "Stamina": 5, "Critical Strike Rating": 5 }
+		},
+		"of the Champion": {
+			"id": -45,
+			"chance": 14.1,
+			"stats": { "Strength": 5, "Stamina": 5, "Dodge Rating": 5 }
+		},
+		"of Strength": { "id": 191, "chance": 13.1, "stats": { "Strength": 10 } },
+		"of Stamina": { "id": 186, "chance": 12.6, "stats": { "Stamina": 10 } },
+		"of the Sorcerer": {
+			"id": -36,
+			"chance": 11.5,
+			"stats": { "Stamina": 5, "Intellect": 5, "Haste": 5 }
+		}
+	},
+	"source": "DROP",
+	"sourceId": 51999,
+	"sourceName": "Satchel of Helpful Goods",
+	"sourceType": "ITEM"
 }

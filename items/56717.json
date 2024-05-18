@@ -1,18 +1,17 @@
 {
-  "id": 56717,
-  "name": "Mystlash Bracers",
-  "icon": "inv_bracer_30c",
-  "popularity": 23,
-  "armor": 68,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WRISTS",
-  "stats": {
-    "stamina": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13890,
-  "sourceName": "Keep the Fires Burning"
+	"id": 56717,
+	"name": "Mystlash Bracers",
+	"icon": "inv_bracer_30c",
+	"popularity": 23,
+	"armor": 68,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WRISTS",
+	"stats": { "Stamina": 4 },
+	"source": "QUEST",
+	"sourceId": 13890,
+	"sourceName": "Keep the Fires Burning",
+	"sourceType": "QUEST"
 }

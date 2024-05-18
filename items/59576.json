@@ -1,19 +1,17 @@
 {
-  "id": 59576,
-  "name": "Mutineer's Cloak",
-  "icon": "inv_misc_cape_18",
-  "popularity": 4,
-  "armor": 28,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "strength": 3,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14063,
-  "sourceName": "Mutiny, Mon!"
+	"id": 59576,
+	"name": "Mutineer's Cloak",
+	"icon": "inv_misc_cape_18",
+	"popularity": 4,
+	"armor": 28,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Strength": 3, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 14063,
+	"sourceName": "Mutiny, Mon!",
+	"sourceType": "QUEST"
 }

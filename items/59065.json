@@ -1,19 +1,17 @@
 {
-  "id": 59065,
-  "name": "Sparkproof Gloves",
-  "icon": "inv_gauntlets_18",
-  "popularity": 6,
-  "armor": 55,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "crit": 4,
-    "spirit": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25735,
-  "sourceName": "Incendicite Ore"
+	"id": 59065,
+	"name": "Sparkproof Gloves",
+	"icon": "inv_gauntlets_18",
+	"popularity": 6,
+	"armor": 55,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Critical Strike Rating": 4, "Spirit": 3 },
+	"source": "QUEST",
+	"sourceId": 25735,
+	"sourceName": "Incendicite Ore",
+	"sourceType": "QUEST"
 }

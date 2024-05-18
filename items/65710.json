@@ -1,19 +1,17 @@
 {
-  "id": 65710,
-  "name": "Creeping Boots",
-  "icon": "inv_boots_chain_07",
-  "popularity": 4,
-  "armor": 98,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "strength": 3,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 28114,
-  "sourceName": "Glorious Harvest"
+	"id": 65710,
+	"name": "Creeping Boots",
+	"icon": "inv_boots_chain_07",
+	"popularity": 4,
+	"armor": 98,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Strength": 3, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 28114,
+	"sourceName": "Glorious Harvest",
+	"sourceType": "QUEST"
 }

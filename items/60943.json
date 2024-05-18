@@ -1,18 +1,17 @@
 {
-  "id": 60943,
-  "name": "Signet of the Night Watch",
-  "icon": "inv_jewelry_ring_85",
-  "popularity": 5,
-  "armor": 0,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "dodge": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26686,
-  "sourceName": "Bones That Walk"
+	"id": 60943,
+	"name": "Signet of the Night Watch",
+	"icon": "inv_jewelry_ring_85",
+	"popularity": 5,
+	"armor": 0,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Dodge Rating": 5 },
+	"source": "QUEST",
+	"sourceId": 26686,
+	"sourceName": "Bones That Walk",
+	"sourceType": "QUEST"
 }

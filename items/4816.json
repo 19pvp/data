@@ -1,16 +1,13 @@
 {
-  "id": 4816,
-  "name": "Legionnaire's Leggings",
-  "icon": "inv_pants_03",
-  "popularity": 3,
-  "armor": 145,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "hit": 5,
-    "strength": 5
-  },
-  "sourceType": "VENDOR"
+	"id": 4816,
+	"name": "Legionnaire's Leggings",
+	"icon": "inv_pants_03",
+	"popularity": 3,
+	"armor": 145,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Hit Rating": 5, "Strength": 5 },
+	"source": "VENDOR"
 }

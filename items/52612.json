@@ -1,20 +1,17 @@
 {
-  "id": 52612,
-  "name": "Planter's Gloves",
-  "icon": "inv_gauntlets_05",
-  "popularity": 14,
-  "armor": 50,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "hit": 2,
-    "agility": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13882,
-  "sourceName": "The Seeds of Life"
+	"id": 52612,
+	"name": "Planter's Gloves",
+	"icon": "inv_gauntlets_05",
+	"popularity": 14,
+	"armor": 50,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Hit Rating": 2, "Agility": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 13882,
+	"sourceName": "The Seeds of Life",
+	"sourceType": "QUEST"
 }

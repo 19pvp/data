@@ -1,18 +1,16 @@
 {
-  "id": 52588,
-  "name": "Ritual Stopper's Slippers",
-  "icon": "inv_boots_cloth_05",
-  "popularity": 5,
-  "armor": 39,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "FEET",
-  "stats": {
-    "stamina": 4,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13900,
-  "sourceName": "The Offering to Azshara"
+	"id": 52588,
+	"name": "Ritual Stopper's Slippers",
+	"icon": "inv_boots_cloth_05",
+	"popularity": 5,
+	"armor": 39,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": { "Stamina": 4, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 13900,
+	"sourceName": "The Offering to Azshara",
+	"sourceType": "QUEST"
 }

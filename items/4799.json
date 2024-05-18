@@ -1,15 +1,13 @@
 {
-  "id": 4799,
-  "name": "Antiquated Cloak",
-  "icon": "inv_misc_cape_02",
-  "popularity": 21,
-  "armor": 32,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "spirit": 4
-  },
-  "sourceType": "VENDOR"
+	"id": 4799,
+	"name": "Antiquated Cloak",
+	"icon": "inv_misc_cape_02",
+	"popularity": 21,
+	"armor": 32,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Spirit": 4 },
+	"source": "VENDOR"
 }

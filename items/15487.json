@@ -1,13 +1,53 @@
 {
-  "id": 15487,
-  "name": "War Torn Tunic",
-  "icon": "inv_chest_chain_07",
-  "popularity": 23,
-  "armor": 120,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 15487,
+	"name": "War Torn Tunic",
+	"icon": "inv_chest_chain_07",
+	"popularity": 23,
+	"armor": 120,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1185,
+			"chance": 44.5,
+			"stats": { "Stamina": 3, "Strength": 3 }
+		},
+		"of Stamina": { "id": 114, "chance": 9.6, "stats": { "Stamina": 5 } },
+		"of Strength": { "id": 115, "chance": 9.5, "stats": { "Strength": 5 } },
+		"of the Whale": {
+			"id": 1015,
+			"chance": 6.5,
+			"stats": { "Spirit": 3, "Stamina": 3 }
+		},
+		"of the Boar": {
+			"id": 1100,
+			"chance": 6.4,
+			"stats": { "Spirit": 3, "Strength": 3 }
+		},
+		"of Power": { "id": 1551, "chance": 6.3, "stats": { "Attack Power": 10 } },
+		"of the Gorilla": {
+			"id": 930,
+			"chance": 4.9,
+			"stats": { "Intellect": 3, "Strength": 3 }
+		},
+		"of the Eagle": {
+			"id": 845,
+			"chance": 4.7,
+			"stats": { "Intellect": 3, "Stamina": 3 }
+		},
+		"of the Tiger": {
+			"id": 675,
+			"chance": 4.2,
+			"stats": { "Agility": 3, "Strength": 3 }
+		},
+		"of the Monkey": {
+			"id": 590,
+			"chance": 3.6,
+			"stats": { "Agility": 3, "Stamina": 3 }
+		}
+	},
+	"source": "DROP"
 }

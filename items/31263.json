@@ -1,16 +1,29 @@
 {
-  "id": 31263,
-  "name": "Silvermoon Tunic",
-  "icon": "inv_chest_leather_08",
-  "popularity": 12,
-  "armor": 81,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {},
-  "sourceType": "DROP",
-  "sourceId": 22060,
-  "sourceName": "Fenissa the Assassin",
-  "sourceZone": 3525
+	"id": 31263,
+	"name": "Silvermoon Tunic",
+	"icon": "inv_chest_leather_08",
+	"popularity": 12,
+	"armor": 81,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": {},
+	"rand": {
+		"of the Sun": {
+			"id": -58,
+			"chance": 50.5,
+			"stats": { "Critical Strike Rating": 2, "Stamina": 2, "Intellect": 2 }
+		},
+		"of the Wild": {
+			"id": -60,
+			"chance": 49.5,
+			"stats": { "Agility": 2, "Stamina": 2, "Haste": 2 }
+		}
+	},
+	"source": "DROP",
+	"sourceId": 22060,
+	"sourceName": "Fenissa the Assassin",
+	"sourceZone": 3525,
+	"sourceType": "NPC"
 }

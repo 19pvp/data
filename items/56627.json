@@ -1,20 +1,17 @@
 {
-  "id": 56627,
-  "name": "Labor Camp Frock",
-  "icon": "inv_chest_cloth_01",
-  "popularity": 7,
-  "armor": 60,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "crit": 2,
-    "stamina": 4,
-    "intellect": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13640,
-  "sourceName": "Management Material"
+	"id": 56627,
+	"name": "Labor Camp Frock",
+	"icon": "inv_chest_cloth_01",
+	"popularity": 7,
+	"armor": 60,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Critical Strike Rating": 2, "Stamina": 4, "Intellect": 5 },
+	"source": "QUEST",
+	"sourceId": 13640,
+	"sourceName": "Management Material",
+	"sourceType": "QUEST"
 }

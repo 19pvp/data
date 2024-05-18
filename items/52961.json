@@ -1,19 +1,17 @@
 {
-  "id": 52961,
-  "name": "Gnomish Parachute Scrap",
-  "icon": "inv_misc_cape_11",
-  "popularity": 10,
-  "armor": 18,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25066,
-  "sourceName": "The Pride of Kezan"
+	"id": 52961,
+	"name": "Gnomish Parachute Scrap",
+	"icon": "inv_misc_cape_11",
+	"popularity": 10,
+	"armor": 18,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Agility": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 25066,
+	"sourceName": "The Pride of Kezan",
+	"sourceType": "QUEST"
 }

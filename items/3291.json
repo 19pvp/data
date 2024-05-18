@@ -1,15 +1,13 @@
 {
-  "id": 3291,
-  "name": "Ancestral Woollies",
-  "icon": "inv_pants_wolf",
-  "popularity": 11,
-  "armor": 36,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "spirit": 3
-  },
-  "sourceType": "DROP"
+	"id": 3291,
+	"name": "Ancestral Woollies",
+	"icon": "inv_pants_wolf",
+	"popularity": 11,
+	"armor": 36,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Spirit": 3 },
+	"source": "DROP"
 }

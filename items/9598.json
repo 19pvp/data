@@ -1,18 +1,17 @@
 {
-  "id": 9598,
-  "name": "Sleeping Robes",
-  "icon": "inv_chest_cloth_84",
-  "popularity": 12,
-  "armor": 34,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 2561,
-  "sourceName": "Druid of the Claw"
+	"id": 9598,
+	"name": "Sleeping Robes",
+	"icon": "inv_chest_cloth_84",
+	"popularity": 12,
+	"armor": 34,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 2561,
+	"sourceName": "Druid of the Claw",
+	"sourceType": "QUEST"
 }

@@ -1,18 +1,15 @@
 {
-  "id": 58998,
-  "name": "Trogg Kickers",
-  "icon": "inv_boots_08",
-  "popularity": 26,
-  "armor": 43,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 38
+	"id": 58998,
+	"name": "Trogg Kickers",
+	"icon": "inv_boots_08",
+	"popularity": 26,
+	"armor": 43,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Agility": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceZone": 38
 }

@@ -1,19 +1,16 @@
 {
-  "id": 52630,
-  "name": "Horn Sounder's Bracers",
-  "icon": "inv_bracer_30a",
-  "popularity": 5,
-  "armor": 63,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WRISTS",
-  "stats": {
-    "hit": 1,
-    "strength": 1,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13900,
-  "sourceName": "The Offering to Azshara"
+	"id": 52630,
+	"name": "Horn Sounder's Bracers",
+	"icon": "inv_bracer_30a",
+	"popularity": 5,
+	"armor": 63,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WRISTS",
+	"stats": { "Hit Rating": 1, "Strength": 1, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 13900,
+	"sourceName": "The Offering to Azshara",
+	"sourceType": "QUEST"
 }

@@ -1,20 +1,17 @@
 {
-  "id": 59585,
-  "name": "Lushwater Cloak",
-  "icon": "inv_misc_cape_14",
-  "popularity": 4,
-  "armor": 28,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "hit": 2,
-    "stamina": 2,
-    "intellect": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 852,
-  "sourceName": "Hezrul Bloodmark"
+	"id": 59585,
+	"name": "Lushwater Cloak",
+	"icon": "inv_misc_cape_14",
+	"popularity": 4,
+	"armor": 28,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Hit Rating": 2, "Stamina": 2, "Intellect": 2 },
+	"source": "QUEST",
+	"sourceId": 852,
+	"sourceName": "Hezrul Bloodmark",
+	"sourceType": "QUEST"
 }

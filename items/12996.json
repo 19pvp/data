@@ -1,16 +1,13 @@
 {
-  "id": 12996,
-  "name": "Band of Purification",
-  "icon": "inv_jewelry_ring_31",
-  "popularity": 27,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "stamina": 2,
-    "spirit": 6
-  },
-  "sourceType": "DROP"
+	"id": 12996,
+	"name": "Band of Purification",
+	"icon": "inv_jewelry_ring_31",
+	"popularity": 27,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Stamina": 2, "Spirit": 6 },
+	"source": "DROP"
 }

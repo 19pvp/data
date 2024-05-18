@@ -1,15 +1,13 @@
 {
-  "id": 3202,
-  "name": "Forest Leather Bracers",
-  "icon": "inv_bracer_06",
-  "popularity": 18,
-  "armor": 45,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "agility": 5
-  },
-  "sourceType": "DROP"
+	"id": 3202,
+	"name": "Forest Leather Bracers",
+	"icon": "inv_bracer_06",
+	"popularity": 18,
+	"armor": 45,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Agility": 5 },
+	"source": "DROP"
 }

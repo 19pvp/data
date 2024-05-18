@@ -1,20 +1,17 @@
 {
-  "id": 65673,
-  "name": "Aberrant Vest",
-  "icon": "inv_chest_cloth_08",
-  "popularity": 22,
-  "armor": 91,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "crit": 2,
-    "stamina": 5,
-    "intellect": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 28209,
-  "sourceName": "Freedom for Lydon"
+	"id": 65673,
+	"name": "Aberrant Vest",
+	"icon": "inv_chest_cloth_08",
+	"popularity": 22,
+	"armor": 91,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Critical Strike Rating": 2, "Stamina": 5, "Intellect": 4 },
+	"source": "QUEST",
+	"sourceId": 28209,
+	"sourceName": "Freedom for Lydon",
+	"sourceType": "QUEST"
 }

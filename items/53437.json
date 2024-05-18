@@ -1,19 +1,17 @@
 {
-  "id": 53437,
-  "name": "Salvoblast Tunic",
-  "icon": "inv_chest_chain_09",
-  "popularity": 6,
-  "armor": 102,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "strength": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14471,
-  "sourceName": "First Degree Mortar"
+	"id": 53437,
+	"name": "Salvoblast Tunic",
+	"icon": "inv_chest_chain_09",
+	"popularity": 6,
+	"armor": 102,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Strength": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 14471,
+	"sourceName": "First Degree Mortar",
+	"sourceType": "QUEST"
 }

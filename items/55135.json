@@ -1,17 +1,16 @@
 {
-  "id": 55135,
-  "name": "Tia's Ring",
-  "icon": "inv_jewelry_ring_76",
-  "popularity": 5,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "agility": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13900,
-  "sourceName": "The Offering to Azshara"
+	"id": 55135,
+	"name": "Tia's Ring",
+	"icon": "inv_jewelry_ring_76",
+	"popularity": 5,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Agility": 3 },
+	"source": "QUEST",
+	"sourceId": 13900,
+	"sourceName": "The Offering to Azshara",
+	"sourceType": "QUEST"
 }

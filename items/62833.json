@@ -1,18 +1,17 @@
 {
-  "id": 62833,
-  "name": "Cloak of Courage",
-  "icon": "inv_misc_cape_18",
-  "popularity": 7,
-  "armor": 18,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "strength": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27045,
-  "sourceName": "Waiting to Exsanguinate"
+	"id": 62833,
+	"name": "Cloak of Courage",
+	"icon": "inv_misc_cape_18",
+	"popularity": 7,
+	"armor": 18,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Strength": 1 },
+	"source": "QUEST",
+	"sourceId": 27045,
+	"sourceName": "Waiting to Exsanguinate",
+	"sourceType": "QUEST"
 }

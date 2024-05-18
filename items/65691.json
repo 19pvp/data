@@ -1,19 +1,17 @@
 {
-  "id": 65691,
-  "name": "Floppy Shoulderguards",
-  "icon": "inv_shoulder_13",
-  "popularity": 9,
-  "armor": 66,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "SHOULDERS",
-  "stats": {
-    "agility": 3,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 28154,
-  "sourceName": "Muckgill's Flipper or Something..."
+	"id": 65691,
+	"name": "Floppy Shoulderguards",
+	"icon": "inv_shoulder_13",
+	"popularity": 9,
+	"armor": 66,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "SHOULDERS",
+	"stats": { "Agility": 3, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 28154,
+	"sourceName": "Muckgill's Flipper or Something...",
+	"sourceType": "QUEST"
 }

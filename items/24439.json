@@ -1,19 +1,17 @@
 {
-  "id": 24439,
-  "name": "Savage Leggings",
-  "icon": "inv_pants_02",
-  "popularity": 22,
-  "armor": 49,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9564,
-  "sourceName": "Gurf's Dignity"
+	"id": 24439,
+	"name": "Savage Leggings",
+	"icon": "inv_pants_02",
+	"popularity": 22,
+	"armor": 49,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Agility": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 9564,
+	"sourceName": "Gurf's Dignity",
+	"sourceType": "QUEST"
 }

@@ -1,16 +1,13 @@
 {
-  "id": 2059,
-  "name": "Sentry Cloak",
-  "icon": "inv_misc_cape_04",
-  "popularity": 4,
-  "armor": 37,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "agility": 4,
-    "stamina": 5
-  },
-  "sourceType": "DROP"
+	"id": 2059,
+	"name": "Sentry Cloak",
+	"icon": "inv_misc_cape_04",
+	"popularity": 4,
+	"armor": 37,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Agility": 4, "Stamina": 5 },
+	"source": "DROP"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 60941,
-  "name": "Shoulderwraps of Honor",
-  "icon": "inv_shoulder_02",
-  "popularity": 6,
-  "armor": 54,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "SHOULDERS",
-  "stats": {
-    "stamina": 5,
-    "intellect": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26686,
-  "sourceName": "Bones That Walk"
+	"id": 60941,
+	"name": "Shoulderwraps of Honor",
+	"icon": "inv_shoulder_02",
+	"popularity": 6,
+	"armor": 54,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "SHOULDERS",
+	"stats": { "Stamina": 5, "Intellect": 4 },
+	"source": "QUEST",
+	"sourceId": 26686,
+	"sourceName": "Bones That Walk",
+	"sourceType": "QUEST"
 }

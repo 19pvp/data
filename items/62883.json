@@ -1,19 +1,17 @@
 {
-  "id": 62883,
-  "name": "Inconspicuous Pantaloons",
-  "icon": "inv_pants_11",
-  "popularity": 4,
-  "armor": 46,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 3,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27510,
-  "sourceName": "A Wolf in Bear's Clothing"
+	"id": 62883,
+	"name": "Inconspicuous Pantaloons",
+	"icon": "inv_pants_11",
+	"popularity": 4,
+	"armor": 46,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Stamina": 3, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 27510,
+	"sourceName": "A Wolf in Bear's Clothing",
+	"sourceType": "QUEST"
 }

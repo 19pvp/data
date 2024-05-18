@@ -1,19 +1,17 @@
 {
-  "id": 6180,
-  "name": "Slarkskin",
-  "icon": "inv_chest_chain_12",
-  "popularity": 5,
-  "armor": 114,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "agility": 3,
-    "stamina": 2
-  },
-  "sourceType": "DROP",
-  "sourceId": 519,
-  "sourceName": "Slark",
-  "sourceZone": 40
+	"id": 6180,
+	"name": "Slarkskin",
+	"icon": "inv_chest_chain_12",
+	"popularity": 5,
+	"armor": 114,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Agility": 3, "Stamina": 2 },
+	"source": "DROP",
+	"sourceId": 519,
+	"sourceName": "Slark",
+	"sourceZone": 40,
+	"sourceType": "NPC"
 }

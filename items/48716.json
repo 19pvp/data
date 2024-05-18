@@ -1,21 +1,21 @@
 {
-  "id": 48716,
-  "name": "Venerable Mass of McGowan",
-  "icon": "inv_hammer_17",
-  "dmgMin": 29,
-  "dmgMax": 55,
-  "speed": 2.8,
-  "dps": 15,
-  "popularity": 103,
-  "class": "WEAPON",
-  "quality": "HEIRLOOM",
-  "subclass": "ONE_HANDED_MACE",
-  "type": "ONE_HAND",
-  "stats": {
-    "crit": 2,
-    "haste": 2,
-    "agility": 3,
-    "stamina": 4
-  },
-  "sourceType": "VENDOR"
+	"id": 48716,
+	"name": "Venerable Mass of McGowan",
+	"icon": "inv_hammer_17",
+	"dmgMin": 29,
+	"dmgMax": 55,
+	"speed": 2.8,
+	"dps": 15,
+	"popularity": 103,
+	"class": "WEAPON",
+	"quality": "HEIRLOOM",
+	"subclass": "ONE_HANDED_MACE",
+	"type": "ONE_HAND",
+	"stats": {
+		"Critical Strike Rating": 2,
+		"Haste Rating": 2,
+		"Agility": 3,
+		"Stamina": 4
+	},
+	"source": "VENDOR"
 }

@@ -1,13 +1,40 @@
 {
-  "id": 11967,
-  "name": "Zircon Band",
-  "icon": "inv_jewelry_ring_07",
-  "popularity": 11,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 11967,
+	"name": "Zircon Band",
+	"icon": "inv_jewelry_ring_07",
+	"popularity": 11,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": {},
+	"rand": {
+		"of Nature Resistance": {
+			"id": 1496,
+			"chance": 27.3,
+			"stats": { "Nature Resistance": 6 }
+		},
+		"of Fire Resistance": {
+			"id": 1404,
+			"chance": 26.2,
+			"stats": { "Fire Resistance": 6 }
+		},
+		"of Frost Resistance": {
+			"id": 1358,
+			"chance": 16.1,
+			"stats": { "Frost Resistance": 6 }
+		},
+		"of Shadow Resistance": {
+			"id": 1450,
+			"chance": 15.4,
+			"stats": { "Shadow Resistance": 6 }
+		},
+		"of Arcane Resistance": {
+			"id": 1312,
+			"chance": 14.9,
+			"stats": { "Arcane Resistance": 6 }
+		}
+	},
+	"source": "DROP"
 }

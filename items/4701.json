@@ -1,15 +1,13 @@
 {
-  "id": 4701,
-  "name": "Inscribed Cloak",
-  "icon": "inv_misc_cape_11",
-  "popularity": 5,
-  "armor": 24,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "stamina": 2
-  },
-  "sourceType": "DROP"
+	"id": 4701,
+	"name": "Inscribed Cloak",
+	"icon": "inv_misc_cape_11",
+	"popularity": 5,
+	"armor": 24,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Stamina": 2 },
+	"source": "DROP"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 52614,
-  "name": "Thessera's Gift",
-  "icon": "inv_gauntlets_21",
-  "popularity": 7,
-  "armor": 48,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 2,
-    "intellect": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13587,
-  "sourceName": "The Waking Nightmare"
+	"id": 52614,
+	"name": "Thessera's Gift",
+	"icon": "inv_gauntlets_21",
+	"popularity": 7,
+	"armor": 48,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Stamina": 2, "Intellect": 2 },
+	"source": "QUEST",
+	"sourceId": 13587,
+	"sourceName": "The Waking Nightmare",
+	"sourceType": "QUEST"
 }

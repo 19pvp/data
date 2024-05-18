@@ -1,16 +1,13 @@
 {
-  "id": 14722,
-  "name": "War Paint Anklewraps",
-  "icon": "inv_boots_06",
-  "popularity": 13,
-  "armor": 86,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "strength": 2,
-    "stamina": 2
-  },
-  "sourceType": "DROP"
+	"id": 14722,
+	"name": "War Paint Anklewraps",
+	"icon": "inv_boots_06",
+	"popularity": 13,
+	"armor": 86,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Strength": 2, "Stamina": 2 },
+	"source": "DROP"
 }

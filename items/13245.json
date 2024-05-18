@@ -1,19 +1,17 @@
 {
-  "id": 13245,
-  "name": "Kresh's Back",
-  "icon": "inv_shield_18",
-  "popularity": 9,
-  "armor": 700,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "dodge": 5,
-    "stamina": 3
-  },
-  "sourceType": "DROP",
-  "sourceId": 3653,
-  "sourceName": "Kresh",
-  "sourceZone": 718
+	"id": 13245,
+	"name": "Kresh's Back",
+	"icon": "inv_shield_18",
+	"popularity": 9,
+	"armor": 700,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Dodge Rating": 5, "Stamina": 3 },
+	"source": "DROP",
+	"sourceId": 3653,
+	"sourceName": "Kresh",
+	"sourceZone": 718,
+	"sourceType": "NPC"
 }

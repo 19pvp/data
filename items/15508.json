@@ -1,13 +1,56 @@
 {
-  "id": 15508,
-  "name": "Grunt's Cape",
-  "icon": "inv_misc_cape_14",
-  "popularity": 20,
-  "armor": 28,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 15508,
+	"name": "Grunt's Cape",
+	"icon": "inv_misc_cape_14",
+	"popularity": 20,
+	"armor": 28,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1182,
+			"chance": 45.8,
+			"stats": { "Stamina": 2, "Strength": 2 }
+		},
+		"of Strength": { "id": 97, "chance": 8.8, "stats": { "Strength": 4 } },
+		"of Stamina": { "id": 96, "chance": 8.5, "stats": { "Stamina": 4 } },
+		"of the Whale": {
+			"id": 1012,
+			"chance": 6.1,
+			"stats": { "Spirit": 2, "Stamina": 2 }
+		},
+		"of the Boar": {
+			"id": 1097,
+			"chance": 5.9,
+			"stats": { "Spirit": 2, "Strength": 2 }
+		},
+		"of Defense": { "id": 128, "chance": 5, "stats": { "Dodge Rating": 4 } },
+		"of the Eagle": {
+			"id": 842,
+			"chance": 4.4,
+			"stats": { "Intellect": 2, "Stamina": 2 }
+		},
+		"of the Gorilla": {
+			"id": 927,
+			"chance": 4.3,
+			"stats": { "Intellect": 2, "Strength": 2 }
+		},
+		"of Dodge": { "chance": 3.7, "stats": { "Dodge Rating": 3 } },
+		"of the Monkey": {
+			"id": 587,
+			"chance": 3.4,
+			"stats": { "Agility": 2, "Stamina": 2 }
+		},
+		"of the Tiger": {
+			"id": 672,
+			"chance": 3.4,
+			"stats": { "Agility": 2, "Strength": 2 }
+		},
+		"of Healing": { "id": 2030, "chance": 0.6, "stats": { "Spell Power": 5 } },
+		"of Intellect": { "id": 26, "chance": 0.2, "stats": { "Intellect": 3 } }
+	},
+	"source": "DROP"
 }

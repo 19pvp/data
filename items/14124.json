@@ -1,13 +1,48 @@
 {
-  "id": 14124,
-  "name": "Ritual Gloves",
-  "icon": "inv_gauntlets_18",
-  "popularity": 10,
-  "armor": 36,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 14124,
+	"name": "Ritual Gloves",
+	"icon": "inv_gauntlets_18",
+	"popularity": 10,
+	"armor": 36,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": {},
+	"rand": {
+		"of the Owl": {
+			"id": 760,
+			"chance": 26.6,
+			"stats": { "Intellect": 3, "Spirit": 3 }
+		},
+		"of the Eagle": {
+			"id": 845,
+			"chance": 25.3,
+			"stats": { "Intellect": 3, "Stamina": 3 }
+		},
+		"of the Whale": {
+			"id": 1015,
+			"chance": 19.9,
+			"stats": { "Spirit": 3, "Stamina": 3 }
+		},
+		"of Spirit": { "id": 113, "chance": 8, "stats": { "Spirit": 5 } },
+		"of Intellect": { "id": 112, "chance": 5.6, "stats": { "Intellect": 5 } },
+		"of Healing": { "id": 2031, "chance": 3.7, "stats": { "Spell Power": 6 } },
+		"of Fiery Wrath": {
+			"id": 1879,
+			"chance": 3.7,
+			"stats": { "Fire Spell Damage": 7 }
+		},
+		"of the Monkey": {
+			"id": 590,
+			"chance": 3.6,
+			"stats": { "Agility": 3, "Stamina": 3 }
+		},
+		"of the Falcon": {
+			"id": 234,
+			"chance": 3.5,
+			"stats": { "Agility": 3, "Intellect": 3 }
+		}
+	},
+	"source": "DROP"
 }

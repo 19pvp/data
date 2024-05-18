@@ -1,23 +1,21 @@
 {
-  "id": 3194,
-  "name": "Black Malice",
-  "icon": "inv_mace_01",
-  "dmgMin": 48,
-  "dmgMax": 73,
-  "speed": 3.3,
-  "dps": 18.33,
-  "popularity": 17,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "TWO_HANDED_MACE",
-  "type": "TWO_HAND",
-  "stats": {
-    "strength": 6
-  },
-  "sourceType": "DROP",
-  "sourceZone": 209,
-  "chanceOnHit": {
-    "spell": 18205,
-    "text": "Sends a shadowy bolt at the enemy causing 55 to 85 Shadow damage."
-  }
+	"id": 3194,
+	"name": "Black Malice",
+	"icon": "inv_mace_01",
+	"dmgMin": 48,
+	"dmgMax": 73,
+	"speed": 3.3,
+	"dps": 18.33,
+	"popularity": 17,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "TWO_HANDED_MACE",
+	"type": "TWO_HAND",
+	"stats": { "Strength": 6 },
+	"source": "DROP",
+	"sourceZone": 209,
+	"chanceOnHit": {
+		"spell": 18205,
+		"text": "Sends a shadowy bolt at the enemy causing 55 to 85 Shadow damage."
+	}
 }

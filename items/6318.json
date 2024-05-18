@@ -1,21 +1,17 @@
 {
-  "id": 6318,
-  "name": "Odo's Ley Staff",
-  "icon": "inv_staff_27",
-  "dmgMin": 42,
-  "dmgMax": 64,
-  "speed": 2.9,
-  "dps": 18.28,
-  "popularity": 13,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "STAFF",
-  "type": "TWO_HAND",
-  "stats": {
-    "stamina": 4,
-    "intellect": 7,
-    "spirit": 6
-  },
-  "sourceType": "DROP",
-  "sourceZone": 209
+	"id": 6318,
+	"name": "Odo's Ley Staff",
+	"icon": "inv_staff_27",
+	"dmgMin": 42,
+	"dmgMax": 64,
+	"speed": 2.9,
+	"dps": 18.28,
+	"popularity": 13,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "STAFF",
+	"type": "TWO_HAND",
+	"stats": { "Stamina": 4, "Intellect": 7, "Spirit": 6 },
+	"source": "DROP",
+	"sourceZone": 209
 }

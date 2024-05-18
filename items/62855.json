@@ -1,19 +1,17 @@
 {
-  "id": 62855,
-  "name": "Britches of Desperate Measures",
-  "icon": "inv_pants_06",
-  "popularity": 5,
-  "armor": 55,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "agility": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27195,
-  "sourceName": "Nowhere to Run"
+	"id": 62855,
+	"name": "Britches of Desperate Measures",
+	"icon": "inv_pants_06",
+	"popularity": 5,
+	"armor": 55,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Agility": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 27195,
+	"sourceName": "Nowhere to Run",
+	"sourceType": "QUEST"
 }

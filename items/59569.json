@@ -1,19 +1,15 @@
 {
-  "id": 59569,
-  "name": "Clean Room Boots",
-  "icon": "inv_boots_04",
-  "popularity": 18,
-  "armor": 51,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "crit": 2,
-    "agility": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 17
+	"id": 59569,
+	"name": "Clean Room Boots",
+	"icon": "inv_boots_04",
+	"popularity": 18,
+	"armor": 51,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Critical Strike Rating": 2, "Agility": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceZone": 17
 }

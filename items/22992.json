@@ -1,19 +1,17 @@
 {
-  "id": 22992,
-  "name": "Bogwalker Boots",
-  "icon": "inv_boots_04",
-  "popularity": 3,
-  "armor": 48,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "agility": 2,
-    "stamina": 1
-  },
-  "sourceType": "DROP",
-  "sourceId": 12237,
-  "sourceName": "Meshlok the Harvester",
-  "sourceZone": 2100
+	"id": 22992,
+	"name": "Bogwalker Boots",
+	"icon": "inv_boots_04",
+	"popularity": 3,
+	"armor": 48,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Agility": 2, "Stamina": 1 },
+	"source": "DROP",
+	"sourceId": 12237,
+	"sourceName": "Meshlok the Harvester",
+	"sourceZone": 2100,
+	"sourceType": "NPC"
 }

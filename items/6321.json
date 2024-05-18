@@ -1,19 +1,17 @@
 {
-  "id": 6321,
-  "name": "Silverlaine's Family Seal",
-  "icon": "inv_belt_29",
-  "popularity": 7,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "strength": 5,
-    "stamina": 3
-  },
-  "sourceType": "DROP",
-  "sourceId": 3887,
-  "sourceName": "Baron Silverlaine",
-  "sourceZone": 209
+	"id": 6321,
+	"name": "Silverlaine's Family Seal",
+	"icon": "inv_belt_29",
+	"popularity": 7,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Strength": 5, "Stamina": 3 },
+	"source": "DROP",
+	"sourceId": 3887,
+	"sourceName": "Baron Silverlaine",
+	"sourceZone": 209,
+	"sourceType": "NPC"
 }

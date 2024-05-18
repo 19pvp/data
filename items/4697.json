@@ -1,16 +1,13 @@
 {
-  "id": 4697,
-  "name": "Burnished Girdle",
-  "icon": "inv_belt_34",
-  "popularity": 8,
-  "armor": 80,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {
-    "strength": 4,
-    "stamina": 2
-  },
-  "sourceType": "DROP"
+	"id": 4697,
+	"name": "Burnished Girdle",
+	"icon": "inv_belt_34",
+	"popularity": 8,
+	"armor": 80,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": { "Strength": 4, "Stamina": 2 },
+	"source": "DROP"
 }

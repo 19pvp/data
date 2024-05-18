@@ -1,18 +1,17 @@
 {
-  "id": 57575,
-  "name": "Belt of Dark Schemes",
-  "icon": "inv_belt_25",
-  "popularity": 7,
-  "armor": 19,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25997,
-  "sourceName": "Dark Iron Scheming"
+	"id": 57575,
+	"name": "Belt of Dark Schemes",
+	"icon": "inv_belt_25",
+	"popularity": 7,
+	"armor": 19,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 25997,
+	"sourceName": "Dark Iron Scheming",
+	"sourceType": "QUEST"
 }

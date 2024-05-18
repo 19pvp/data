@@ -1,19 +1,17 @@
 {
-  "id": 52659,
-  "name": "Cover of Leaves",
-  "icon": "inv_misc_cape_11",
-  "popularity": 10,
-  "armor": 21,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13507,
-  "sourceName": "Denying Manpower"
+	"id": 52659,
+	"name": "Cover of Leaves",
+	"icon": "inv_misc_cape_11",
+	"popularity": 10,
+	"armor": 21,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Agility": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 13507,
+	"sourceName": "Denying Manpower",
+	"sourceType": "QUEST"
 }

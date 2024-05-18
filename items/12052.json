@@ -1,16 +1,13 @@
 {
-  "id": 12052,
-  "name": "Ring of the Moon",
-  "icon": "inv_jewelry_ring_05",
-  "popularity": 5,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "strength": 1,
-    "stamina": 3
-  },
-  "sourceType": "DROP"
+	"id": 12052,
+	"name": "Ring of the Moon",
+	"icon": "inv_jewelry_ring_05",
+	"popularity": 5,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Strength": 1, "Stamina": 3 },
+	"source": "DROP"
 }

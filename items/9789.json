@@ -1,13 +1,54 @@
 {
-  "id": 9789,
-  "name": "Raider's Legguards",
-  "icon": "inv_pants_03",
-  "popularity": 11,
-  "armor": 120,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 9789,
+	"name": "Raider's Legguards",
+	"icon": "inv_pants_03",
+	"popularity": 11,
+	"armor": 120,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1188,
+			"chance": 45.1,
+			"stats": { "Stamina": 4, "Strength": 4 }
+		},
+		"of the Whale": {
+			"id": 1018,
+			"chance": 11.5,
+			"stats": { "Spirit": 4, "Stamina": 4 }
+		},
+		"of Strength": { "id": 155, "chance": 9.3, "stats": { "Strength": 7 } },
+		"of the Eagle": {
+			"id": 848,
+			"chance": 7.7,
+			"stats": { "Intellect": 4, "Stamina": 4 }
+		},
+		"of the Boar": {
+			"id": 1103,
+			"chance": 6.7,
+			"stats": { "Spirit": 4, "Strength": 4 }
+		},
+		"of the Monkey": {
+			"id": 593,
+			"chance": 5.9,
+			"stats": { "Agility": 4, "Stamina": 4 }
+		},
+		"of Power": { "id": 1553, "chance": 5.4, "stats": { "Attack Power": 14 } },
+		"of the Gorilla": {
+			"id": 933,
+			"chance": 4.7,
+			"stats": { "Intellect": 4, "Strength": 4 }
+		},
+		"of the Tiger": {
+			"id": 678,
+			"chance": 3.3,
+			"stats": { "Agility": 4, "Strength": 4 }
+		},
+		"of Healing": { "id": 2033, "chance": 0.5, "stats": { "Spell Power": 8 } },
+		"of Intellect": { "id": 133, "chance": 0.1, "stats": { "Intellect": 6 } }
+	},
+	"source": "DROP"
 }

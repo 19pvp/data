@@ -1,13 +1,54 @@
 {
-  "id": 15503,
-  "name": "Outrunner's Legguards",
-  "icon": "inv_pants_03",
-  "popularity": 17,
-  "armor": 135,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 15503,
+	"name": "Outrunner's Legguards",
+	"icon": "inv_pants_03",
+	"popularity": 17,
+	"armor": 135,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1191,
+			"chance": 40.5,
+			"stats": { "Stamina": 5, "Strength": 5 }
+		},
+		"of the Whale": {
+			"id": 1021,
+			"chance": 15.9,
+			"stats": { "Spirit": 5, "Stamina": 5 }
+		},
+		"of the Boar": {
+			"id": 1106,
+			"chance": 8.8,
+			"stats": { "Spirit": 5, "Strength": 5 }
+		},
+		"of Strength": { "id": 189, "chance": 8.5, "stats": { "Strength": 8 } },
+		"of Power": { "id": 1554, "chance": 8, "stats": { "Attack Power": 16 } },
+		"of the Eagle": {
+			"id": 851,
+			"chance": 6.7,
+			"stats": { "Intellect": 5, "Stamina": 5 }
+		},
+		"of the Monkey": {
+			"id": 596,
+			"chance": 4.6,
+			"stats": { "Agility": 5, "Stamina": 5 }
+		},
+		"of the Gorilla": {
+			"id": 936,
+			"chance": 3.6,
+			"stats": { "Intellect": 5, "Strength": 5 }
+		},
+		"of the Tiger": {
+			"id": 681,
+			"chance": 3,
+			"stats": { "Agility": 5, "Strength": 5 }
+		},
+		"of Healing": { "chance": 0.3, "stats": { "Spell Power": 9 } },
+		"of Intellect": { "id": 152, "chance": 0.2, "stats": { "Intellect": 7 } }
+	},
+	"source": "DROP"
 }

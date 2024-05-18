@@ -1,18 +1,17 @@
 {
-  "id": 62851,
-  "name": "Rear Guard Britches",
-  "icon": "inv_pants_mail_04",
-  "popularity": 7,
-  "armor": 90,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27094,
-  "sourceName": "Deeper into Darkness"
+	"id": 62851,
+	"name": "Rear Guard Britches",
+	"icon": "inv_pants_mail_04",
+	"popularity": 7,
+	"armor": 90,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 27094,
+	"sourceName": "Deeper into Darkness",
+	"sourceType": "QUEST"
 }

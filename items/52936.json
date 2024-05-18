@@ -1,19 +1,17 @@
 {
-  "id": 52936,
-  "name": "S.B.R.B. Prototype 3",
-  "icon": "inv_boots_mail_11v2",
-  "popularity": 27,
-  "armor": 55,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24942,
-  "sourceName": "Zombies vs. Super Booster Rocket Boots"
+	"id": 52936,
+	"name": "S.B.R.B. Prototype 3",
+	"icon": "inv_boots_mail_11v2",
+	"popularity": 27,
+	"armor": 55,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 24942,
+	"sourceName": "Zombies vs. Super Booster Rocket Boots",
+	"sourceType": "QUEST"
 }

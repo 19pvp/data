@@ -1,19 +1,16 @@
 {
-  "id": 65911,
-  "name": "Anacondra's Robe",
-  "icon": "inv_chest_cloth_03",
-  "popularity": 31,
-  "armor": 66,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "crit": 5,
-    "stamina": 7,
-    "intellect": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26870,
-  "sourceName": "Cleansing the Caverns"
+	"id": 65911,
+	"name": "Anacondra's Robe",
+	"icon": "inv_chest_cloth_03",
+	"popularity": 31,
+	"armor": 66,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Critical Strike Rating": 5, "Stamina": 7, "Intellect": 5 },
+	"source": "QUEST",
+	"sourceId": 26870,
+	"sourceName": "Cleansing the Caverns",
+	"sourceType": "QUEST"
 }

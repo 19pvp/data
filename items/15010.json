@@ -1,13 +1,55 @@
 {
-  "id": 15010,
-  "name": "Primal Wraps",
-  "icon": "inv_chest_leather_04",
-  "popularity": 13,
-  "armor": 56,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 15010,
+	"name": "Primal Wraps",
+	"icon": "inv_chest_leather_04",
+	"popularity": 13,
+	"armor": 56,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": {},
+	"rand": {
+		"of the Monkey": {
+			"id": 584,
+			"chance": 17.9,
+			"stats": { "Agility": 1, "Stamina": 1 }
+		},
+		"of the Whale": {
+			"id": 1009,
+			"chance": 14.7,
+			"stats": { "Spirit": 1, "Stamina": 1 }
+		},
+		"of the Owl": {
+			"id": 754,
+			"chance": 11.4,
+			"stats": { "Intellect": 1, "Spirit": 1 }
+		},
+		"of the Eagle": {
+			"id": 839,
+			"chance": 10.1,
+			"stats": { "Intellect": 1, "Stamina": 1 }
+		},
+		"of Agility": { "id": 17, "chance": 9.3, "stats": { "Agility": 2 } },
+		"of Stamina": { "id": 19, "chance": 8.2, "stats": { "Stamina": 2 } },
+		"of Intellect": { "id": 25, "chance": 7, "stats": { "Intellect": 2 } },
+		"of Spirit": { "id": 27, "chance": 6.5, "stats": { "Spirit": 2 } },
+		"of the Falcon": {
+			"id": 227,
+			"chance": 5.8,
+			"stats": { "Agility": 1, "Intellect": 1 }
+		},
+		"of the Wolf": {
+			"id": 228,
+			"chance": 4.3,
+			"stats": { "Agility": 1, "Spirit": 1 }
+		},
+		"of Power": { "id": 1548, "chance": 3.2, "stats": { "Attack Power": 4 } },
+		"of Nature's Wrath": {
+			"id": 1990,
+			"chance": 1.6,
+			"stats": { "Nature Spell Damage": 3 }
+		}
+	},
+	"source": "DROP"
 }

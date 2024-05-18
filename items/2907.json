@@ -1,20 +1,19 @@
 {
-  "id": 2907,
-  "name": "Dwarven Tree Chopper",
-  "icon": "inv_throwingaxe_01",
-  "dmgMin": 34,
-  "dmgMax": 52,
-  "speed": 3.3,
-  "dps": 13.03,
-  "popularity": 6,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "TWO_HANDED_AXE",
-  "type": "TWO_HAND",
-  "stats": {
-    "expertise": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 283,
-  "sourceName": "A Dark Threat Looms"
+	"id": 2907,
+	"name": "Dwarven Tree Chopper",
+	"icon": "inv_throwingaxe_01",
+	"dmgMin": 34,
+	"dmgMax": 52,
+	"speed": 3.3,
+	"dps": 13.03,
+	"popularity": 6,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "TWO_HANDED_AXE",
+	"type": "TWO_HAND",
+	"stats": { "Expertise Rating": 4 },
+	"source": "QUEST",
+	"sourceId": 283,
+	"sourceName": "A Dark Threat Looms",
+	"sourceType": "QUEST"
 }

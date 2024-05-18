@@ -1,19 +1,17 @@
 {
-  "id": 65690,
-  "name": "Slaver's Leggings",
-  "icon": "inv_pants_leather_14",
-  "popularity": 6,
-  "armor": 77,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "agility": 5,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 28138,
-  "sourceName": "Human Infestation"
+	"id": 65690,
+	"name": "Slaver's Leggings",
+	"icon": "inv_pants_leather_14",
+	"popularity": 6,
+	"armor": 77,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Agility": 5, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 28138,
+	"sourceName": "Human Infestation",
+	"sourceType": "QUEST"
 }

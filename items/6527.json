@@ -1,16 +1,13 @@
 {
-  "id": 6527,
-  "name": "Ancestral Robe",
-  "icon": "inv_chest_cloth_13",
-  "popularity": 3,
-  "armor": 41,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 1,
-    "intellect": 2
-  },
-  "sourceType": "DROP"
+	"id": 6527,
+	"name": "Ancestral Robe",
+	"icon": "inv_chest_cloth_13",
+	"popularity": 3,
+	"armor": 41,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Stamina": 1, "Intellect": 2 },
+	"source": "DROP"
 }

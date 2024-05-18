@@ -1,16 +1,13 @@
 {
-  "id": 3288,
-  "name": "Tribal Vest",
-  "icon": "inv_chest_cloth_16",
-  "popularity": 12,
-  "armor": 63,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "agility": 2,
-    "stamina": 1
-  },
-  "sourceType": "DROP"
+	"id": 3288,
+	"name": "Tribal Vest",
+	"icon": "inv_chest_cloth_16",
+	"popularity": 12,
+	"armor": 63,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Agility": 2, "Stamina": 1 },
+	"source": "DROP"
 }

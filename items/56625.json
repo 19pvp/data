@@ -1,18 +1,15 @@
 {
-  "id": 56625,
-  "name": "Broadleaf Mantle",
-  "icon": "inv_shoulder_12",
-  "popularity": 14,
-  "armor": 68,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "SHOULDERS",
-  "stats": {
-    "stamina": 3,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 331
+	"id": 56625,
+	"name": "Broadleaf Mantle",
+	"icon": "inv_shoulder_12",
+	"popularity": 14,
+	"armor": 68,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "SHOULDERS",
+	"stats": { "Stamina": 3, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceZone": 331
 }

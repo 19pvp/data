@@ -1,13 +1,53 @@
 {
-  "id": 9767,
-  "name": "Greenweave Sandals",
-  "icon": "inv_boots_03",
-  "popularity": 7,
-  "armor": 44,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "FEET",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 9767,
+	"name": "Greenweave Sandals",
+	"icon": "inv_boots_03",
+	"popularity": 7,
+	"armor": 44,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": {},
+	"rand": {
+		"of the Owl": {
+			"id": 763,
+			"chance": 26,
+			"stats": { "Intellect": 4, "Spirit": 4 }
+		},
+		"of the Eagle": {
+			"id": 848,
+			"chance": 17.5,
+			"stats": { "Intellect": 4, "Stamina": 4 }
+		},
+		"of the Whale": {
+			"id": 1018,
+			"chance": 17.4,
+			"stats": { "Spirit": 4, "Stamina": 4 }
+		},
+		"of Intellect": { "id": 133, "chance": 9.4, "stats": { "Intellect": 6 } },
+		"of the Falcon": {
+			"id": 248,
+			"chance": 8.1,
+			"stats": { "Agility": 4, "Intellect": 4 }
+		},
+		"of Spirit": { "id": 134, "chance": 7.9, "stats": { "Spirit": 6 } },
+		"of Stamina": { "id": 135, "chance": 5.8, "stats": { "Stamina": 6 } },
+		"of Arcane Wrath": {
+			"id": 1804,
+			"chance": 2.7,
+			"stats": { "Arcane Spell Damage": 9 }
+		},
+		"of Frozen Wrath": {
+			"id": 1956,
+			"chance": 2.7,
+			"stats": { "Frost Spell Damage": 9 }
+		},
+		"of Shadow Wrath": {
+			"id": 1842,
+			"chance": 2.5,
+			"stats": { "Shadow Spell Damage": 9 }
+		}
+	},
+	"source": "DROP"
 }

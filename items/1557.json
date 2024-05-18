@@ -1,17 +1,15 @@
 {
-  "id": 1557,
-  "name": "Buckler of the Seas",
-  "icon": "inv_shield_09",
-  "popularity": 40,
-  "armor": 587,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "spirit": 3
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 40
+	"id": 1557,
+	"name": "Buckler of the Seas",
+	"icon": "inv_shield_09",
+	"popularity": 40,
+	"armor": 587,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Spirit": 3 },
+	"source": "QUEST",
+	"sourceZone": 40
 }

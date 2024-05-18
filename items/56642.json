@@ -1,18 +1,15 @@
 {
-  "id": 56642,
-  "name": "Starwhisper Monnions",
-  "icon": "inv_shoulder_13",
-  "popularity": 14,
-  "armor": 68,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "SHOULDERS",
-  "stats": {
-    "agility": 3,
-    "stamina": 4
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 331
+	"id": 56642,
+	"name": "Starwhisper Monnions",
+	"icon": "inv_shoulder_13",
+	"popularity": 14,
+	"armor": 68,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "SHOULDERS",
+	"stats": { "Agility": 3, "Stamina": 4 },
+	"source": "QUEST",
+	"sourceZone": 331
 }

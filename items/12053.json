@@ -1,16 +1,13 @@
 {
-  "id": 12053,
-  "name": "Volcanic Rock Ring",
-  "icon": "inv_jewelry_ring_01",
-  "popularity": 10,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "stamina": 1,
-    "intellect": 3
-  },
-  "sourceType": "DROP"
+	"id": 12053,
+	"name": "Volcanic Rock Ring",
+	"icon": "inv_jewelry_ring_01",
+	"popularity": 10,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Stamina": 1, "Intellect": 3 },
+	"source": "DROP"
 }

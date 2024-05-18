@@ -1,19 +1,17 @@
 {
-  "id": 14149,
-  "name": "Subterranean Cape",
-  "icon": "inv_misc_cape_18",
-  "popularity": 10,
-  "armor": 29,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "strength": 4,
-    "agility": 4
-  },
-  "sourceType": "DROP",
-  "sourceId": 11520,
-  "sourceName": "Taragaman the Hungerer",
-  "sourceZone": 2437
+	"id": 14149,
+	"name": "Subterranean Cape",
+	"icon": "inv_misc_cape_18",
+	"popularity": 10,
+	"armor": 29,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Strength": 4, "Agility": 4 },
+	"source": "DROP",
+	"sourceId": 11520,
+	"sourceName": "Taragaman the Hungerer",
+	"sourceZone": 2437,
+	"sourceType": "NPC"
 }

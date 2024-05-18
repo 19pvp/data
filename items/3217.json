@@ -1,19 +1,17 @@
 {
-  "id": 3217,
-  "name": "Foreman Belt",
-  "icon": "inv_belt_23",
-  "popularity": 6,
-  "armor": 26,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 2,
-    "spirit": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 309,
-  "sourceName": "Protecting the Shipment"
+	"id": 3217,
+	"name": "Foreman Belt",
+	"icon": "inv_belt_23",
+	"popularity": 6,
+	"armor": 26,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Stamina": 2, "Spirit": 2 },
+	"source": "QUEST",
+	"sourceId": 309,
+	"sourceName": "Protecting the Shipment",
+	"sourceType": "QUEST"
 }

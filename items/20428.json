@@ -1,21 +1,18 @@
 {
-  "id": 20428,
-  "name": "Caretaker's Cape",
-  "icon": "inv_misc_cape_13",
-  "popularity": 7,
-  "armor": 35,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "stamina": 4,
-    "intellect": 4,
-    "spirit": 2
-  },
-  "sourceType": "VENDOR",
-  "sourceId": 14753,
-  "sourceName": "Illiyana Moonblaze",
-  "sourceZone": 331
+	"id": 20428,
+	"name": "Caretaker's Cape",
+	"icon": "inv_misc_cape_13",
+	"popularity": 7,
+	"armor": 35,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Stamina": 4, "Intellect": 4, "Spirit": 2 },
+	"source": "VENDOR",
+	"sourceId": 14753,
+	"sourceName": "Illiyana Moonblaze",
+	"sourceZone": 331,
+	"sourceType": "NPC"
 }

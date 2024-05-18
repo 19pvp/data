@@ -1,17 +1,15 @@
 {
-  "id": 60690,
-  "name": "Doody Boots",
-  "icon": "inv_boots_06",
-  "popularity": 18,
-  "armor": 48,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 44
+	"id": 60690,
+	"name": "Doody Boots",
+	"icon": "inv_boots_06",
+	"popularity": 18,
+	"armor": 48,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Intellect": 3 },
+	"source": "QUEST",
+	"sourceZone": 44
 }

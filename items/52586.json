@@ -1,19 +1,17 @@
 {
-  "id": 52586,
-  "name": "Archaeologist's Dungarees",
-  "icon": "inv_pants_11",
-  "popularity": 12,
-  "armor": 40,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 3,
-    "intellect": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13605,
-  "sourceName": "The Last Refugee"
+	"id": 52586,
+	"name": "Archaeologist's Dungarees",
+	"icon": "inv_pants_11",
+	"popularity": 12,
+	"armor": 40,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Stamina": 3, "Intellect": 2 },
+	"source": "QUEST",
+	"sourceId": 13605,
+	"sourceName": "The Last Refugee",
+	"sourceType": "QUEST"
 }

@@ -1,17 +1,15 @@
 {
-  "id": 57566,
-  "name": "Siege Engineer's Belt",
-  "icon": "inv_belt_05",
-  "popularity": 26,
-  "armor": 29,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 1
+	"id": 57566,
+	"name": "Siege Engineer's Belt",
+	"icon": "inv_belt_05",
+	"popularity": 26,
+	"armor": 29,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceZone": 1
 }

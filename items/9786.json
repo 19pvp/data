@@ -1,13 +1,56 @@
 {
-  "id": 9786,
-  "name": "Raider's Cloak",
-  "icon": "inv_misc_cape_18",
-  "popularity": 15,
-  "armor": 24,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 9786,
+	"name": "Raider's Cloak",
+	"icon": "inv_misc_cape_18",
+	"popularity": 15,
+	"armor": 24,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1182,
+			"chance": 40.4,
+			"stats": { "Stamina": 2, "Strength": 2 }
+		},
+		"of the Boar": {
+			"id": 1097,
+			"chance": 9.4,
+			"stats": { "Spirit": 2, "Strength": 2 }
+		},
+		"of Stamina": { "id": 22, "chance": 8.9, "stats": { "Stamina": 3 } },
+		"of Strength": { "id": 24, "chance": 8.7, "stats": { "Strength": 3 } },
+		"of the Whale": {
+			"id": 1012,
+			"chance": 5.8,
+			"stats": { "Spirit": 2, "Stamina": 2 }
+		},
+		"of Dodge": { "chance": 5.5, "stats": { "Dodge Rating": 2 } },
+		"of Defense": { "id": 89, "chance": 5.1, "stats": { "Dodge Rating": 3 } },
+		"of the Eagle": {
+			"id": 842,
+			"chance": 4.3,
+			"stats": { "Intellect": 2, "Stamina": 2 }
+		},
+		"of the Gorilla": {
+			"id": 927,
+			"chance": 4.2,
+			"stats": { "Intellect": 2, "Strength": 2 }
+		},
+		"of the Tiger": {
+			"id": 672,
+			"chance": 3.4,
+			"stats": { "Agility": 2, "Strength": 2 }
+		},
+		"of the Monkey": {
+			"id": 587,
+			"chance": 3.1,
+			"stats": { "Agility": 2, "Stamina": 2 }
+		},
+		"of Healing": { "id": 2029, "chance": 0.6, "stats": { "Spell Power": 4 } },
+		"of Intellect": { "id": 25, "chance": 0.5, "stats": { "Intellect": 2 } }
+	},
+	"source": "DROP"
 }

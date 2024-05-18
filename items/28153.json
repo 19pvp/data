@@ -1,18 +1,17 @@
 {
-  "id": 28153,
-  "name": "Farstrider's Shield",
-  "icon": "inv_shield_04",
-  "popularity": 7,
-  "armor": 391,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9146,
-  "sourceName": "Report to Captain Helios"
+	"id": 28153,
+	"name": "Farstrider's Shield",
+	"icon": "inv_shield_04",
+	"popularity": 7,
+	"armor": 391,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 9146,
+	"sourceName": "Report to Captain Helios",
+	"sourceType": "QUEST"
 }

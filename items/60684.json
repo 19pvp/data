@@ -1,18 +1,17 @@
 {
-  "id": 60684,
-  "name": "Royal Guard Breastplate",
-  "icon": "inv_chest_chain_06",
-  "popularity": 14,
-  "armor": 114,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "strength": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26504,
-  "sourceName": "Wanted: Redridge Gnolls"
+	"id": 60684,
+	"name": "Royal Guard Breastplate",
+	"icon": "inv_chest_chain_06",
+	"popularity": 14,
+	"armor": 114,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Strength": 4 },
+	"source": "QUEST",
+	"sourceId": 26504,
+	"sourceName": "Wanted: Redridge Gnolls",
+	"sourceType": "QUEST"
 }

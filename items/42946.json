@@ -1,20 +1,16 @@
 {
-  "id": 42946,
-  "name": "Charmed Ancient Bone Bow",
-  "icon": "inv_weapon_bow_08",
-  "dmgMin": 38,
-  "dmgMax": 71,
-  "speed": 2.8,
-  "dps": 19.46,
-  "popularity": 117,
-  "class": "WEAPON",
-  "quality": "HEIRLOOM",
-  "subclass": "BOW",
-  "type": "RANGED",
-  "stats": {
-    "crit": 1,
-    "hit": 1,
-    "agility": 2
-  },
-  "sourceType": "VENDOR"
+	"id": 42946,
+	"name": "Charmed Ancient Bone Bow",
+	"icon": "inv_weapon_bow_08",
+	"dmgMin": 38,
+	"dmgMax": 71,
+	"speed": 2.8,
+	"dps": 19.46,
+	"popularity": 117,
+	"class": "WEAPON",
+	"quality": "HEIRLOOM",
+	"subclass": "BOW",
+	"type": "RANGED",
+	"stats": { "Critical Strike Rating": 1, "Hit Rating": 1, "Agility": 2 },
+	"source": "VENDOR"
 }

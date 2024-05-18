@@ -1,19 +1,17 @@
 {
-  "id": 1469,
-  "name": "Scimitar of Atun",
-  "icon": "inv_sword_24",
-  "dmgMin": 17,
-  "dmgMax": 33,
-  "speed": 2.6,
-  "dps": 9.62,
-  "popularity": 7,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "ONE_HANDED_SWORD",
-  "type": "ONE_HAND",
-  "stats": {
-    "agility": 2
-  },
-  "sourceType": "DROP",
-  "sourceZone": 44
+	"id": 1469,
+	"name": "Scimitar of Atun",
+	"icon": "inv_sword_24",
+	"dmgMin": 17,
+	"dmgMax": 33,
+	"speed": 2.6,
+	"dps": 9.62,
+	"popularity": 7,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "ONE_HANDED_SWORD",
+	"type": "ONE_HAND",
+	"stats": { "Agility": 2 },
+	"source": "DROP",
+	"sourceZone": 44
 }

@@ -1,18 +1,17 @@
 {
-  "id": 58904,
-  "name": "Wax Catcher",
-  "icon": "inv_shield_09",
-  "popularity": 4,
-  "armor": 364,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26229,
-  "sourceName": "\"I TAKE Candle!\""
+	"id": 58904,
+	"name": "Wax Catcher",
+	"icon": "inv_shield_09",
+	"popularity": 4,
+	"armor": 364,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 26229,
+	"sourceName": "\"I TAKE Candle!\"",
+	"sourceType": "QUEST"
 }

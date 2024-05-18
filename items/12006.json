@@ -1,13 +1,41 @@
 {
-  "id": 12006,
-  "name": "Meadow Ring",
-  "icon": "inv_jewelry_ring_12",
-  "popularity": 8,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 12006,
+	"name": "Meadow Ring",
+	"icon": "inv_jewelry_ring_12",
+	"popularity": 8,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": {},
+	"rand": {
+		"of the Wolf": {
+			"id": 505,
+			"chance": 32.7,
+			"stats": { "Agility": 3, "Spirit": 3 }
+		},
+		"of the Monkey": {
+			"id": 590,
+			"chance": 28.5,
+			"stats": { "Agility": 3, "Stamina": 3 }
+		},
+		"of the Tiger": {
+			"id": 675,
+			"chance": 16.6,
+			"stats": { "Agility": 3, "Strength": 3 }
+		},
+		"of the Falcon": {
+			"id": 234,
+			"chance": 9.4,
+			"stats": { "Agility": 3, "Intellect": 3 }
+		},
+		"of Agility": { "id": 111, "chance": 7.6, "stats": { "Agility": 5 } },
+		"of Eluding": {
+			"id": 1748,
+			"chance": 5.1,
+			"stats": { "Dodge Rating": 12, "Agility": 1 }
+		}
+	},
+	"source": "DROP"
 }

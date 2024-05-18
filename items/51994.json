@@ -1,15 +1,64 @@
 {
-  "id": 51994,
-  "name": "Tumultuous Cloak",
-  "icon": "inv_misc_cape_03",
-  "popularity": 38,
-  "armor": 38,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {},
-  "sourceType": "DROP",
-  "sourceId": 51999,
-  "sourceName": "Satchel of Helpful Goods"
+	"id": 51994,
+	"name": "Tumultuous Cloak",
+	"icon": "inv_misc_cape_03",
+	"popularity": 38,
+	"armor": 38,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": {},
+	"rand": {
+		"of the Bandit": {
+			"id": -40,
+			"chance": 14.7,
+			"stats": { "Agility": 4, "Stamina": 4, "Critical Strike Rating": 4 }
+		},
+		"of the Monkey": {
+			"id": 596,
+			"chance": 14.7,
+			"stats": { "Agility": 5, "Stamina": 5 }
+		},
+		"of the Soldier": {
+			"id": -43,
+			"chance": 14.4,
+			"stats": { "Strength": 4, "Stamina": 4, "Critical Strike Rating": 4 }
+		},
+		"of the Sorcerer": {
+			"id": -36,
+			"chance": 8.6,
+			"stats": { "Stamina": 4, "Intellect": 4, "Haste": 4 }
+		},
+		"of the Elder": {
+			"id": -42,
+			"chance": 8.4,
+			"stats": { "Stamina": 4, "Intellect": 4, "Spirit": 4 }
+		},
+		"of the Moon": {
+			"id": -59,
+			"chance": 8,
+			"stats": { "Intellect": 4, "Stamina": 2, "Spirit": 4 }
+		},
+		"of the Bear": {
+			"id": 1191,
+			"chance": 7.9,
+			"stats": { "Strength": 5, "Stamina": 5 }
+		},
+		"of the Champion": {
+			"id": -45,
+			"chance": 7.8,
+			"stats": { "Strength": 4, "Stamina": 4, "Dodge Rating": 4 }
+		},
+		"of Stamina": { "id": 184, "chance": 7.8, "stats": { "Stamina": 8 } },
+		"of the Battle": {
+			"id": -56,
+			"chance": 7.6,
+			"stats": { "Strength": 5, "Stamina": 3, "Critical Strike Rating": 2 }
+		}
+	},
+	"source": "DROP",
+	"sourceId": 51999,
+	"sourceName": "Satchel of Helpful Goods",
+	"sourceType": "ITEM"
 }

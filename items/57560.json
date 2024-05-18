@@ -1,17 +1,15 @@
 {
-  "id": 57560,
-  "name": "Mangy Claw Mitts",
-  "icon": "inv_gauntlets_16",
-  "popularity": 6,
-  "armor": 21,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 1
+	"id": 57560,
+	"name": "Mangy Claw Mitts",
+	"icon": "inv_gauntlets_16",
+	"popularity": 6,
+	"armor": 21,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceZone": 1
 }

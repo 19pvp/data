@@ -1,16 +1,13 @@
 {
-  "id": 4708,
-  "name": "Bright Belt",
-  "icon": "inv_belt_11",
-  "popularity": 8,
-  "armor": 38,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 4,
-    "intellect": 4
-  },
-  "sourceType": "DROP"
+	"id": 4708,
+	"name": "Bright Belt",
+	"icon": "inv_belt_11",
+	"popularity": 8,
+	"armor": 38,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Stamina": 4, "Intellect": 4 },
+	"source": "DROP"
 }

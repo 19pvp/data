@@ -1,19 +1,17 @@
 {
-  "id": 53435,
-  "name": "Restored Mennaran Mail",
-  "icon": "inv_pants_mail_05",
-  "popularity": 8,
-  "armor": 85,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14216,
-  "sourceName": "Mystery of the Sarcen Stone"
+	"id": 53435,
+	"name": "Restored Mennaran Mail",
+	"icon": "inv_pants_mail_05",
+	"popularity": 8,
+	"armor": 85,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 14216,
+	"sourceName": "Mystery of the Sarcen Stone",
+	"sourceType": "QUEST"
 }

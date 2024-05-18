@@ -1,18 +1,17 @@
 {
-  "id": 57211,
-  "name": "Leggings of Brown Grass",
-  "icon": "inv_pants_01",
-  "popularity": 4,
-  "armor": 30,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 744,
-  "sourceName": "Preparation for Ceremony"
+	"id": 57211,
+	"name": "Leggings of Brown Grass",
+	"icon": "inv_pants_01",
+	"popularity": 4,
+	"armor": 30,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 744,
+	"sourceName": "Preparation for Ceremony",
+	"sourceType": "QUEST"
 }

@@ -1,21 +1,17 @@
 {
-  "id": 19972,
-  "name": "Lucky Fishing Hat",
-  "icon": "inv_helmet_31",
-  "popularity": 43,
-  "armor": 84,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "HEAD",
-  "stats": {
-    "stamina": 15
-  },
-  "sourceType": "QUEST",
-  "sourceId": 8221,
-  "sourceName": "Rare Fish - Keefer's Angelfish",
-  "equip": {
-    "spell": 7823,
-    "text": "Fishing skill increased by 5."
-  }
+	"id": 19972,
+	"name": "Lucky Fishing Hat",
+	"icon": "inv_helmet_31",
+	"popularity": 43,
+	"armor": 84,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HEAD",
+	"stats": { "Stamina": 15 },
+	"source": "QUEST",
+	"sourceId": 8221,
+	"sourceName": "Rare Fish - Keefer's Angelfish",
+	"sourceType": "QUEST",
+	"equip": { "spell": 7823, "text": "Fishing skill increased by 5." }
 }

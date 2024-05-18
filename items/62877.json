@@ -1,19 +1,17 @@
 {
-  "id": 62877,
-  "name": "Forsaken Ball",
-  "icon": "inv_misc_orb_01",
-  "popularity": 15,
-  "armor": 0,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "OFF_HAND_FRILLS",
-  "type": "HELD_IN_OFF_HAND",
-  "stats": {
-    "stamina": 2,
-    "intellect": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27478,
-  "sourceName": "Relios the Relic Keeper"
+	"id": 62877,
+	"name": "Forsaken Ball",
+	"icon": "inv_misc_orb_01",
+	"popularity": 15,
+	"armor": 0,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "OFF_HAND_FRILLS",
+	"type": "HELD_IN_OFF_HAND",
+	"stats": { "Stamina": 2, "Intellect": 2 },
+	"source": "QUEST",
+	"sourceId": 27478,
+	"sourceName": "Relios the Relic Keeper",
+	"sourceType": "QUEST"
 }

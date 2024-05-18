@@ -1,19 +1,17 @@
 {
-  "id": 42991,
-  "name": "Swift Hand of Justice",
-  "icon": "inv_jewelry_talisman_01",
-  "popularity": 109,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "TRINKETS",
-  "type": "TRINKET",
-  "stats": {
-    "haste": 6
-  },
-  "sourceType": "VENDOR",
-  "equip": {
-    "spell": 59906,
-    "text": "Heals you for 2% of your maximum health whenever you kill a target that yields experience or honor."
-  }
+	"id": 42991,
+	"name": "Swift Hand of Justice",
+	"icon": "inv_jewelry_talisman_01",
+	"popularity": 109,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "TRINKETS",
+	"type": "TRINKET",
+	"stats": { "Haste Rating": 6 },
+	"source": "VENDOR",
+	"equip": {
+		"spell": 59906,
+		"text": "Heals you for 2% of your maximum health whenever you kill a target that yields experience or honor."
+	}
 }

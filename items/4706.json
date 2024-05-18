@@ -1,16 +1,13 @@
 {
-  "id": 4706,
-  "name": "Lambent Scale Cloak",
-  "icon": "inv_misc_cape_06",
-  "popularity": 17,
-  "armor": 33,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "hit": 2,
-    "strength": 4
-  },
-  "sourceType": "DROP"
+	"id": 4706,
+	"name": "Lambent Scale Cloak",
+	"icon": "inv_misc_cape_06",
+	"popularity": 17,
+	"armor": 33,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Hit Rating": 2, "Strength": 4 },
+	"source": "DROP"
 }

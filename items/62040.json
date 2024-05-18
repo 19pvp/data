@@ -1,18 +1,18 @@
 {
-  "id": 62040,
-  "name": "Ancient Bloodmoon Cloak",
-  "icon": "inv_misc_cape_05",
-  "popularity": 348,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "crit": 2,
-    "haste": 2,
-    "stamina": 5,
-    "intellect": 3
-  },
-  "sourceType": "VENDOR"
+	"id": 62040,
+	"name": "Ancient Bloodmoon Cloak",
+	"icon": "inv_misc_cape_05",
+	"popularity": 348,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": {
+		"Critical Strike Rating": 2,
+		"Haste Rating": 2,
+		"Stamina": 5,
+		"Intellect": 3
+	},
+	"source": "VENDOR"
 }

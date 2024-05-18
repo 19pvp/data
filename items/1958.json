@@ -1,21 +1,19 @@
 {
-  "id": 1958,
-  "name": "Petrified Shinbone",
-  "icon": "inv_misc_bone_01",
-  "dmgMin": 22,
-  "dmgMax": 42,
-  "speed": 2.4,
-  "dps": 13.33,
-  "popularity": 14,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "ONE_HANDED_MACE",
-  "type": "ONE_HAND",
-  "stats": {
-    "crit": 3,
-    "stamina": 3
-  },
-  "sourceType": "DROP",
-  "sourceId": 625,
-  "sourceName": "Undead Dynamiter"
+	"id": 1958,
+	"name": "Petrified Shinbone",
+	"icon": "inv_misc_bone_01",
+	"dmgMin": 22,
+	"dmgMax": 42,
+	"speed": 2.4,
+	"dps": 13.33,
+	"popularity": 14,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "ONE_HANDED_MACE",
+	"type": "ONE_HAND",
+	"stats": { "Critical Strike Rating": 3, "Stamina": 3 },
+	"source": "DROP",
+	"sourceId": 625,
+	"sourceName": "Undead Dynamiter",
+	"sourceType": "NPC"
 }

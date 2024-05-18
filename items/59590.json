@@ -1,18 +1,17 @@
 {
-  "id": 59590,
-  "name": "Darsok's Ring",
-  "icon": "inv_jewelry_ring_23",
-  "popularity": 4,
-  "armor": 0,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "strength": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 876,
-  "sourceName": "Serena Bloodfeather"
+	"id": 59590,
+	"name": "Darsok's Ring",
+	"icon": "inv_jewelry_ring_23",
+	"popularity": 4,
+	"armor": 0,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Strength": 3 },
+	"source": "QUEST",
+	"sourceId": 876,
+	"sourceName": "Serena Bloodfeather",
+	"sourceType": "QUEST"
 }

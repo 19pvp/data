@@ -1,16 +1,13 @@
 {
-  "id": 4821,
-  "name": "Bear Buckler",
-  "icon": "inv_shield_09",
-  "popularity": 8,
-  "armor": 658,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "strength": 3,
-    "stamina": 3
-  },
-  "sourceType": "VENDOR"
+	"id": 4821,
+	"name": "Bear Buckler",
+	"icon": "inv_shield_09",
+	"popularity": 8,
+	"armor": 658,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Strength": 3, "Stamina": 3 },
+	"source": "VENDOR"
 }

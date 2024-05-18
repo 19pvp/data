@@ -1,16 +1,13 @@
 {
-  "id": 2991,
-  "name": "Burnished Boots",
-  "icon": "inv_boots_plate_07",
-  "popularity": 7,
-  "armor": 102,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "strength": 2,
-    "stamina": 4
-  },
-  "sourceType": "DROP"
+	"id": 2991,
+	"name": "Burnished Boots",
+	"icon": "inv_boots_plate_07",
+	"popularity": 7,
+	"armor": 102,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Strength": 2, "Stamina": 4 },
+	"source": "DROP"
 }

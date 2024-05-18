@@ -1,18 +1,17 @@
 {
-  "id": 69220,
-  "name": "Nozzlepot's Vest",
-  "icon": "inv_shirt_04",
-  "popularity": 4,
-  "armor": 74,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "intellect": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 29089,
-  "sourceName": "Sludge Beast!"
+	"id": 69220,
+	"name": "Nozzlepot's Vest",
+	"icon": "inv_shirt_04",
+	"popularity": 4,
+	"armor": 74,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Intellect": 4 },
+	"source": "QUEST",
+	"sourceId": 29089,
+	"sourceName": "Sludge Beast!",
+	"sourceType": "QUEST"
 }

@@ -1,20 +1,17 @@
 {
-  "id": 52624,
-  "name": "Fire Stompers",
-  "icon": "inv_boots_chain_08",
-  "popularity": 5,
-  "armor": 94,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "hit": 2,
-    "strength": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13572,
-  "sourceName": "Jadefire Braziers"
+	"id": 52624,
+	"name": "Fire Stompers",
+	"icon": "inv_boots_chain_08",
+	"popularity": 5,
+	"armor": 94,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Hit Rating": 2, "Strength": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 13572,
+	"sourceName": "Jadefire Braziers",
+	"sourceType": "QUEST"
 }

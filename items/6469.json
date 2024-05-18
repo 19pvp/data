@@ -1,23 +1,24 @@
 {
-  "id": 6469,
-  "name": "Venomstrike",
-  "icon": "inv_weapon_bow_10",
-  "dmgMin": 34,
-  "dmgMax": 64,
-  "speed": 2.7,
-  "dps": 18.15,
-  "popularity": 13,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "BOW",
-  "type": "RANGED",
-  "stats": {},
-  "sourceType": "DROP",
-  "sourceId": 3673,
-  "sourceName": "Lord Serpentis",
-  "sourceZone": 718,
-  "equip": {
-    "spell": 29636,
-    "text": "Chance to strike your ranged target with a Venom Shot for 31 to 45 Nature damage."
-  }
+	"id": 6469,
+	"name": "Venomstrike",
+	"icon": "inv_weapon_bow_10",
+	"dmgMin": 34,
+	"dmgMax": 64,
+	"speed": 2.7,
+	"dps": 18.15,
+	"popularity": 13,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "BOW",
+	"type": "RANGED",
+	"stats": {},
+	"source": "DROP",
+	"sourceId": 3673,
+	"sourceName": "Lord Serpentis",
+	"sourceZone": 718,
+	"sourceType": "NPC",
+	"equip": {
+		"spell": 29636,
+		"text": "Chance to strike your ranged target with a Venom Shot for 31 to 45 Nature damage."
+	}
 }

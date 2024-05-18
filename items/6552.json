@@ -1,13 +1,55 @@
 {
-  "id": 6552,
-  "name": "Bard's Tunic",
-  "icon": "inv_shirt_11",
-  "popularity": 12,
-  "armor": 84,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 6552,
+	"name": "Bard's Tunic",
+	"icon": "inv_shirt_11",
+	"popularity": 12,
+	"armor": 84,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": {},
+	"rand": {
+		"of the Monkey": {
+			"id": 593,
+			"chance": 18.8,
+			"stats": { "Agility": 4, "Stamina": 4 }
+		},
+		"of Intellect": { "id": 152, "chance": 11.9, "stats": { "Intellect": 7 } },
+		"of the Owl": {
+			"id": 763,
+			"chance": 11.8,
+			"stats": { "Intellect": 4, "Spirit": 4 }
+		},
+		"of the Whale": {
+			"id": 1018,
+			"chance": 11.3,
+			"stats": { "Spirit": 4, "Stamina": 4 }
+		},
+		"of the Eagle": {
+			"id": 848,
+			"chance": 9.1,
+			"stats": { "Intellect": 4, "Stamina": 4 }
+		},
+		"of Agility": { "id": 151, "chance": 8, "stats": { "Agility": 7 } },
+		"of Stamina": { "id": 154, "chance": 7.7, "stats": { "Stamina": 7 } },
+		"of the Falcon": {
+			"id": 248,
+			"chance": 7.3,
+			"stats": { "Agility": 4, "Intellect": 4 }
+		},
+		"of Spirit": { "id": 153, "chance": 5.7, "stats": { "Spirit": 7 } },
+		"of the Wolf": {
+			"id": 508,
+			"chance": 4.3,
+			"stats": { "Agility": 4, "Spirit": 4 }
+		},
+		"of Power": { "id": 1553, "chance": 3, "stats": { "Attack Power": 14 } },
+		"of Nature's Wrath": {
+			"id": 1995,
+			"chance": 1.1,
+			"stats": { "Nature Spell Damage": 10 }
+		}
+	},
+	"source": "DROP"
 }

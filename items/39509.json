@@ -1,15 +1,35 @@
 {
-  "id": 39509,
-  "name": "Darkmoon Vest",
-  "icon": "inv_chest_leather_01",
-  "popularity": 19,
-  "armor": 88,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {},
-  "sourceType": "QUEST",
-  "sourceId": 12517,
-  "sourceName": "Rogues Deck"
+	"id": 39509,
+	"name": "Darkmoon Vest",
+	"icon": "inv_chest_leather_01",
+	"popularity": 19,
+	"armor": 88,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": {},
+	"rand": {
+		"of Agility": { "id": 132, "chance": 22.5, "stats": { "Agility": 6 } },
+		"of the Tiger": {
+			"id": -14,
+			"chance": 20.7,
+			"stats": { "Agility": 3, "Hit Rating": 3 }
+		},
+		"of Power": { "id": 1549, "chance": 19.1, "stats": { "Attack Power": 6 } },
+		"of the Bandit": {
+			"id": -40,
+			"chance": 19,
+			"stats": { "Agility": 3, "Stamina": 3, "Critical Strike Rating": 3 }
+		},
+		"of the Monkey": {
+			"id": 590,
+			"chance": 18.7,
+			"stats": { "Agility": 3, "Stamina": 3 }
+		}
+	},
+	"source": "QUEST",
+	"sourceId": 12517,
+	"sourceName": "Rogues Deck",
+	"sourceType": "QUEST"
 }

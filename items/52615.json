@@ -1,19 +1,17 @@
 {
-  "id": 52615,
-  "name": "Moonstalker Bracers",
-  "icon": "inv_bracer_04",
-  "popularity": 10,
-  "armor": 24,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13569,
-  "sourceName": "The Ritual Bond"
+	"id": 52615,
+	"name": "Moonstalker Bracers",
+	"icon": "inv_bracer_04",
+	"popularity": 10,
+	"armor": 24,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Agility": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 13569,
+	"sourceName": "The Ritual Bond",
+	"sourceType": "QUEST"
 }

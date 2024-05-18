@@ -1,18 +1,17 @@
 {
-  "id": 26028,
-  "name": "Maatparm's Fungus Lined Bands",
-  "icon": "inv_bracer_12",
-  "popularity": 5,
-  "armor": 27,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9648,
-  "sourceName": "Maatparm Mushroom Menagerie"
+	"id": 26028,
+	"name": "Maatparm's Fungus Lined Bands",
+	"icon": "inv_bracer_12",
+	"popularity": 5,
+	"armor": 27,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 9648,
+	"sourceName": "Maatparm Mushroom Menagerie",
+	"sourceType": "QUEST"
 }

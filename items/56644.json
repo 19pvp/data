@@ -1,19 +1,17 @@
 {
-  "id": 56644,
-  "name": "Gorat's Bequest",
-  "icon": "inv_shoulder_13",
-  "popularity": 14,
-  "armor": 68,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "SHOULDERS",
-  "stats": {
-    "agility": 3,
-    "stamina": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13621,
-  "sourceName": "Gorat's Vengeance"
+	"id": 56644,
+	"name": "Gorat's Bequest",
+	"icon": "inv_shoulder_13",
+	"popularity": 14,
+	"armor": 68,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "SHOULDERS",
+	"stats": { "Agility": 3, "Stamina": 4 },
+	"source": "QUEST",
+	"sourceId": 13621,
+	"sourceName": "Gorat's Vengeance",
+	"sourceType": "QUEST"
 }

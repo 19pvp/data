@@ -1,18 +1,17 @@
 {
-  "id": 59536,
-  "name": "Bloodeye Belt",
-  "icon": "inv_belt_25",
-  "popularity": 3,
-  "armor": 22,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "intellect": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13949,
-  "sourceName": "Crossroads Caravan Pickup"
+	"id": 59536,
+	"name": "Bloodeye Belt",
+	"icon": "inv_belt_25",
+	"popularity": 3,
+	"armor": 22,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Intellect": 2 },
+	"source": "QUEST",
+	"sourceId": 13949,
+	"sourceName": "Crossroads Caravan Pickup",
+	"sourceType": "QUEST"
 }

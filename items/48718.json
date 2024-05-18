@@ -1,25 +1,22 @@
 {
-  "id": 48718,
-  "name": "Repurposed Lava Dredger",
-  "icon": "inv_gizmo_02",
-  "dmgMin": 45,
-  "dmgMax": 68,
-  "speed": 2.9,
-  "dps": 19.48,
-  "popularity": 82,
-  "class": "WEAPON",
-  "quality": "HEIRLOOM",
-  "subclass": "TWO_HANDED_MACE",
-  "type": "TWO_HAND",
-  "stats": {
-    "crit": 4,
-    "haste": 4,
-    "agility": 6,
-    "stamina": 10
-  },
-  "sourceType": "VENDOR",
-  "equip": {
-    "spell": 14595,
-    "text": "+15 Fire Resistance."
-  }
+	"id": 48718,
+	"name": "Repurposed Lava Dredger",
+	"icon": "inv_gizmo_02",
+	"dmgMin": 45,
+	"dmgMax": 68,
+	"speed": 2.9,
+	"dps": 19.48,
+	"popularity": 82,
+	"class": "WEAPON",
+	"quality": "HEIRLOOM",
+	"subclass": "TWO_HANDED_MACE",
+	"type": "TWO_HAND",
+	"stats": {
+		"Critical Strike Rating": 4,
+		"Haste Rating": 4,
+		"Agility": 6,
+		"Stamina": 10
+	},
+	"source": "VENDOR",
+	"equip": { "spell": 14595, "text": "+15 Fire Resistance." }
 }

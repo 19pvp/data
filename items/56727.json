@@ -1,20 +1,17 @@
 {
-  "id": 56727,
-  "name": "Scrupleless Bracers",
-  "icon": "inv_bracer_07",
-  "popularity": 5,
-  "armor": 41,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "hit": 3,
-    "agility": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13805,
-  "sourceName": "Pierce Their Heart!"
+	"id": 56727,
+	"name": "Scrupleless Bracers",
+	"icon": "inv_bracer_07",
+	"popularity": 5,
+	"armor": 41,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Hit Rating": 3, "Agility": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 13805,
+	"sourceName": "Pierce Their Heart!",
+	"sourceType": "QUEST"
 }

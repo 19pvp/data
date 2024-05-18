@@ -1,17 +1,17 @@
 {
-  "id": 22206,
-  "name": "Bouquet of Red Roses",
-  "icon": "inv_rosebouquet01",
-  "popularity": 6,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "OFF_HAND_FRILLS",
-  "type": "HELD_IN_OFF_HAND",
-  "stats": {},
-  "sourceType": "DROP",
-  "use": {
-    "spell": 27571,
-    "text": "Shower a nearby target with a cascade of rose petals! (5 Min Cooldown)"
-  }
+	"id": 22206,
+	"name": "Bouquet of Red Roses",
+	"icon": "inv_rosebouquet01",
+	"popularity": 6,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "OFF_HAND_FRILLS",
+	"type": "HELD_IN_OFF_HAND",
+	"stats": {},
+	"source": "DROP",
+	"use": {
+		"spell": 27571,
+		"text": "Shower a nearby target with a cascade of rose petals! (5 Min Cooldown)"
+	}
 }

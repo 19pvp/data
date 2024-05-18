@@ -1,15 +1,13 @@
 {
-  "id": 68748,
-  "name": "Imbued Disciple's Cloak",
-  "icon": "inv_misc_cape_10",
-  "popularity": 25,
-  "armor": 17,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "DROP"
+	"id": 68748,
+	"name": "Imbued Disciple's Cloak",
+	"icon": "inv_misc_cape_10",
+	"popularity": 25,
+	"armor": 17,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Intellect": 1 },
+	"source": "DROP"
 }

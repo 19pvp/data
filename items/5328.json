@@ -1,19 +1,17 @@
 {
-  "id": 5328,
-  "name": "Cinched Belt",
-  "icon": "inv_belt_03",
-  "popularity": 5,
-  "armor": 64,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {
-    "strength": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 872,
-  "sourceName": "The Far Watch Offensive"
+	"id": 5328,
+	"name": "Cinched Belt",
+	"icon": "inv_belt_03",
+	"popularity": 5,
+	"armor": 64,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": { "Strength": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 872,
+	"sourceName": "The Far Watch Offensive",
+	"sourceType": "QUEST"
 }

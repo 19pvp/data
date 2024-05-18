@@ -1,18 +1,17 @@
 {
-  "id": 54994,
-  "name": "Paramedic Bracers",
-  "icon": "inv_bracer_74v4",
-  "popularity": 5,
-  "armor": 21,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24468,
-  "sourceName": "Stranded at the Marsh"
+	"id": 54994,
+	"name": "Paramedic Bracers",
+	"icon": "inv_bracer_74v4",
+	"popularity": 5,
+	"armor": 21,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 24468,
+	"sourceName": "Stranded at the Marsh",
+	"sourceType": "QUEST"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 56645,
-  "name": "Kadrak's Breastplate",
-  "icon": "inv_chest_chain_17",
-  "popularity": 19,
-  "armor": 149,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "crit": 5,
-    "stamina": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13621,
-  "sourceName": "Gorat's Vengeance"
+	"id": 56645,
+	"name": "Kadrak's Breastplate",
+	"icon": "inv_chest_chain_17",
+	"popularity": 19,
+	"armor": 149,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Critical Strike Rating": 5, "Stamina": 4 },
+	"source": "QUEST",
+	"sourceId": 13621,
+	"sourceName": "Gorat's Vengeance",
+	"sourceType": "QUEST"
 }

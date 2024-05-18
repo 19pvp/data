@@ -1,19 +1,17 @@
 {
-  "id": 57525,
-  "name": "Studded Bearskin Jacket",
-  "icon": "inv_chest_chain_08",
-  "popularity": 3,
-  "armor": 85,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "crit": 1,
-    "strength": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 52,
-  "sourceName": "Protect the Frontier"
+	"id": 57525,
+	"name": "Studded Bearskin Jacket",
+	"icon": "inv_chest_chain_08",
+	"popularity": 3,
+	"armor": 85,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Critical Strike Rating": 1, "Strength": 1 },
+	"source": "QUEST",
+	"sourceId": 52,
+	"sourceName": "Protect the Frontier",
+	"sourceType": "QUEST"
 }

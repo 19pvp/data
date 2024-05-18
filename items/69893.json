@@ -1,20 +1,16 @@
 {
-  "id": 69893,
-  "name": "Bloodsoaked Skullforge Reaver",
-  "icon": "inv_sword_12",
-  "dmgMin": 29,
-  "dmgMax": 55,
-  "speed": 2.8,
-  "dps": 15,
-  "popularity": 109,
-  "class": "WEAPON",
-  "quality": "HEIRLOOM",
-  "subclass": "ONE_HANDED_SWORD",
-  "type": "MAIN_HAND",
-  "stats": {
-    "parry": 3,
-    "strength": 4,
-    "stamina": 4
-  },
-  "sourceType": "VENDOR"
+	"id": 69893,
+	"name": "Bloodsoaked Skullforge Reaver",
+	"icon": "inv_sword_12",
+	"dmgMin": 29,
+	"dmgMax": 55,
+	"speed": 2.8,
+	"dps": 15,
+	"popularity": 109,
+	"class": "WEAPON",
+	"quality": "HEIRLOOM",
+	"subclass": "ONE_HANDED_SWORD",
+	"type": "MAIN_HAND",
+	"stats": { "Parry Rating": 3, "Strength": 4, "Stamina": 4 },
+	"source": "VENDOR"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 3076,
-  "name": "Smoldering Boots",
-  "icon": "inv_boots_09",
-  "popularity": 5,
-  "armor": 44,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "FEET",
-  "stats": {
-    "spirit": 6
-  },
-  "sourceType": "DROP",
-  "sourceId": 1042,
-  "sourceName": "Red Whelp",
-  "sourceZone": 11
+	"id": 3076,
+	"name": "Smoldering Boots",
+	"icon": "inv_boots_09",
+	"popularity": 5,
+	"armor": 44,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": { "Spirit": 6 },
+	"source": "DROP",
+	"sourceId": 1042,
+	"sourceName": "Red Whelp",
+	"sourceZone": 11,
+	"sourceType": "NPC"
 }

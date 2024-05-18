@@ -1,13 +1,61 @@
 {
-  "id": 15331,
-  "name": "Wrangler's Wristbands",
-  "icon": "inv_bracer_06",
-  "popularity": 11,
-  "armor": 43,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 15331,
+	"name": "Wrangler's Wristbands",
+	"icon": "inv_bracer_06",
+	"popularity": 11,
+	"armor": 43,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": {},
+	"rand": {
+		"of the Monkey": {
+			"id": 590,
+			"chance": 31.6,
+			"stats": { "Agility": 3, "Stamina": 3 }
+		},
+		"of the Owl": {
+			"id": 760,
+			"chance": 11.3,
+			"stats": { "Intellect": 3, "Spirit": 3 }
+		},
+		"of the Eagle": {
+			"id": 845,
+			"chance": 8.5,
+			"stats": { "Intellect": 3, "Stamina": 3 }
+		},
+		"of Agility": { "id": 111, "chance": 7.8, "stats": { "Agility": 5 } },
+		"of the Whale": {
+			"id": 1015,
+			"chance": 7.1,
+			"stats": { "Spirit": 3, "Stamina": 3 }
+		},
+		"of Stamina": { "id": 114, "chance": 7, "stats": { "Stamina": 5 } },
+		"of Intellect": { "id": 112, "chance": 6.6, "stats": { "Intellect": 5 } },
+		"of Power": { "id": 1551, "chance": 5.5, "stats": { "Attack Power": 10 } },
+		"of Spirit": { "id": 113, "chance": 5.2, "stats": { "Spirit": 5 } },
+		"of the Falcon": {
+			"id": 234,
+			"chance": 3.7,
+			"stats": { "Agility": 3, "Intellect": 3 }
+		},
+		"of the Wolf": {
+			"id": 505,
+			"chance": 3.3,
+			"stats": { "Agility": 3, "Spirit": 3 }
+		},
+		"of Nature's Wrath": {
+			"id": 1993,
+			"chance": 1.2,
+			"stats": { "Nature Spell Damage": 7 }
+		},
+		"of Healing": { "id": 2031, "chance": 0.7, "stats": { "Spell Power": 6 } },
+		"of Arcane Wrath": {
+			"id": 1803,
+			"chance": 0.6,
+			"stats": { "Arcane Spell Damage": 7 }
+		}
+	},
+	"source": "DROP"
 }

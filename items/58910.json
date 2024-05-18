@@ -1,19 +1,17 @@
 {
-  "id": 58910,
-  "name": "Boiled Boots",
-  "icon": "inv_boots_06",
-  "popularity": 6,
-  "armor": 41,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26241,
-  "sourceName": "Westfall Stew"
+	"id": 58910,
+	"name": "Boiled Boots",
+	"icon": "inv_boots_06",
+	"popularity": 6,
+	"armor": 41,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Agility": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 26241,
+	"sourceName": "Westfall Stew",
+	"sourceType": "QUEST"
 }

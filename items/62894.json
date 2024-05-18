@@ -1,19 +1,17 @@
 {
-  "id": 62894,
-  "name": "Favor of the Dark Lady",
-  "icon": "inv_jewelry_ring_15",
-  "popularity": 20,
-  "armor": 0,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "strength": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27594,
-  "sourceName": "On Her Majesty's Secret Service"
+	"id": 62894,
+	"name": "Favor of the Dark Lady",
+	"icon": "inv_jewelry_ring_15",
+	"popularity": 20,
+	"armor": 0,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Strength": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 27594,
+	"sourceName": "On Her Majesty's Secret Service",
+	"sourceType": "QUEST"
 }

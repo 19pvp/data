@@ -1,13 +1,53 @@
 {
-  "id": 15498,
-  "name": "Outrunner's Slippers",
-  "icon": "inv_boots_05",
-  "popularity": 8,
-  "armor": 98,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 15498,
+	"name": "Outrunner's Slippers",
+	"icon": "inv_boots_05",
+	"popularity": 8,
+	"armor": 98,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1185,
+			"chance": 44.4,
+			"stats": { "Stamina": 3, "Strength": 3 }
+		},
+		"of the Boar": {
+			"id": 1100,
+			"chance": 16.9,
+			"stats": { "Spirit": 3, "Strength": 3 }
+		},
+		"of Stamina": { "id": 114, "chance": 8.4, "stats": { "Stamina": 5 } },
+		"of the Gorilla": {
+			"id": 930,
+			"chance": 6.5,
+			"stats": { "Intellect": 3, "Strength": 3 }
+		},
+		"of the Whale": {
+			"id": 1015,
+			"chance": 5.6,
+			"stats": { "Spirit": 3, "Stamina": 3 }
+		},
+		"of the Tiger": {
+			"id": 675,
+			"chance": 5.1,
+			"stats": { "Agility": 3, "Strength": 3 }
+		},
+		"of the Eagle": {
+			"id": 845,
+			"chance": 4.2,
+			"stats": { "Intellect": 3, "Stamina": 3 }
+		},
+		"of the Monkey": {
+			"id": 590,
+			"chance": 3.6,
+			"stats": { "Agility": 3, "Stamina": 3 }
+		},
+		"of Defense": { "id": 147, "chance": 3.6, "stats": { "Dodge Rating": 5 } },
+		"of Dodge": { "chance": 1.7, "stats": { "Dodge Rating": 5 } }
+	},
+	"source": "DROP"
 }

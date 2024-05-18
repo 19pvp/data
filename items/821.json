@@ -1,19 +1,17 @@
 {
-  "id": 821,
-  "name": "Riverpaw Leather Vest",
-  "icon": "inv_shirt_07",
-  "popularity": 11,
-  "armor": 63,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "agility": 1,
-    "stamina": 2
-  },
-  "sourceType": "DROP",
-  "sourceId": 123,
-  "sourceName": "Riverpaw Mongrel",
-  "sourceZone": 40
+	"id": 821,
+	"name": "Riverpaw Leather Vest",
+	"icon": "inv_shirt_07",
+	"popularity": 11,
+	"armor": 63,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Agility": 1, "Stamina": 2 },
+	"source": "DROP",
+	"sourceId": 123,
+	"sourceName": "Riverpaw Mongrel",
+	"sourceZone": 40,
+	"sourceType": "NPC"
 }

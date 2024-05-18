@@ -1,18 +1,17 @@
 {
-  "id": 6084,
-  "name": "Stormwind Guard Leggings",
-  "icon": "inv_pants_mail_36",
-  "popularity": 4,
-  "armor": 90,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "strength": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 176,
-  "sourceName": "Wanted: \"Hogger\""
+	"id": 6084,
+	"name": "Stormwind Guard Leggings",
+	"icon": "inv_pants_mail_36",
+	"popularity": 4,
+	"armor": 90,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Strength": 3 },
+	"source": "QUEST",
+	"sourceId": 176,
+	"sourceName": "Wanted: \"Hogger\"",
+	"sourceType": "QUEST"
 }

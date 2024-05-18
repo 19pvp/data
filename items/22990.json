@@ -1,18 +1,17 @@
 {
-  "id": 22990,
-  "name": "Tranquillien Champion's Cloak",
-  "icon": "inv_misc_cape_07",
-  "popularity": 25,
-  "armor": 33,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "stamina": 7
-  },
-  "sourceType": "DROP",
-  "sourceId": 12225,
-  "sourceName": "Celebras the Cursed",
-  "sourceZone": 2100
+	"id": 22990,
+	"name": "Tranquillien Champion's Cloak",
+	"icon": "inv_misc_cape_07",
+	"popularity": 25,
+	"armor": 33,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Stamina": 7 },
+	"source": "DROP",
+	"sourceId": 12225,
+	"sourceName": "Celebras the Cursed",
+	"sourceZone": 2100,
+	"sourceType": "NPC"
 }

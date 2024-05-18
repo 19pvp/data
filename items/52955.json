@@ -1,18 +1,17 @@
 {
-  "id": 52955,
-  "name": "Town-In-A-Box Lid Fragment",
-  "icon": "inv_shield_09",
-  "popularity": 13,
-  "armor": 285,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24901,
-  "sourceName": "Town-In-A-Box: Under Attack"
+	"id": 52955,
+	"name": "Town-In-A-Box Lid Fragment",
+	"icon": "inv_shield_09",
+	"popularity": 13,
+	"armor": 285,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 24901,
+	"sourceName": "Town-In-A-Box: Under Attack",
+	"sourceType": "QUEST"
 }

@@ -1,16 +1,13 @@
 {
-  "id": 3211,
-  "name": "Burnished Bracers",
-  "icon": "inv_bracer_01",
-  "popularity": 3,
-  "armor": 60,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WRISTS",
-  "stats": {
-    "strength": 2,
-    "stamina": 2
-  },
-  "sourceType": "DROP"
+	"id": 3211,
+	"name": "Burnished Bracers",
+	"icon": "inv_bracer_01",
+	"popularity": 3,
+	"armor": 60,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WRISTS",
+	"stats": { "Strength": 2, "Stamina": 2 },
+	"source": "DROP"
 }

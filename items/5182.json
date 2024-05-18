@@ -1,23 +1,24 @@
 {
-  "id": 5182,
-  "name": "Shiver Blade",
-  "icon": "inv_sword_26",
-  "dmgMin": 30,
-  "dmgMax": 46,
-  "speed": 2.9,
-  "dps": 13.1,
-  "popularity": 5,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "TWO_HANDED_SWORD",
-  "type": "TWO_HAND",
-  "stats": {},
-  "sourceType": "DROP",
-  "sourceId": 3398,
-  "sourceName": "Gesharahan",
-  "sourceZone": 17,
-  "chanceOnHit": {
-    "spell": 18092,
-    "text": "Blasts a target for 35 Frost damage."
-  }
+	"id": 5182,
+	"name": "Shiver Blade",
+	"icon": "inv_sword_26",
+	"dmgMin": 30,
+	"dmgMax": 46,
+	"speed": 2.9,
+	"dps": 13.1,
+	"popularity": 5,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "TWO_HANDED_SWORD",
+	"type": "TWO_HAND",
+	"stats": {},
+	"source": "DROP",
+	"sourceId": 3398,
+	"sourceName": "Gesharahan",
+	"sourceZone": 17,
+	"sourceType": "NPC",
+	"chanceOnHit": {
+		"spell": 18092,
+		"text": "Blasts a target for 35 Frost damage."
+	}
 }

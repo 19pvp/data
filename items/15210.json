@@ -1,16 +1,21 @@
 {
-  "id": 15210,
-  "name": "Raider Shortsword",
-  "icon": "inv_sword_04",
-  "dmgMin": 11,
-  "dmgMax": 20,
-  "speed": 1.9,
-  "dps": 8.16,
-  "popularity": 8,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "ONE_HANDED_SWORD",
-  "type": "ONE_HAND",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 15210,
+	"name": "Raider Shortsword",
+	"icon": "inv_sword_04",
+	"dmgMin": 11,
+	"dmgMax": 20,
+	"speed": 1.9,
+	"dps": 8.16,
+	"popularity": 8,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "ONE_HANDED_SWORD",
+	"type": "ONE_HAND",
+	"stats": {},
+	"rand": {
+		"of Strength": { "id": 23, "chance": 40.8, "stats": { "Strength": 2 } },
+		"of Stamina": { "id": 19, "chance": 38.3, "stats": { "Stamina": 2 } },
+		"of Power": { "id": 1548, "chance": 21, "stats": { "Attack Power": 4 } }
+	},
+	"source": "DROP"
 }

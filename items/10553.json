@@ -1,18 +1,17 @@
 {
-  "id": 10553,
-  "name": "Foreman Vest",
-  "icon": "inv_shirt_05",
-  "popularity": 16,
-  "armor": 37,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "intellect": 2
-  },
-  "sourceType": "DROP",
-  "sourceId": 8503,
-  "sourceName": "Gibblewilt",
-  "sourceZone": 1
+	"id": 10553,
+	"name": "Foreman Vest",
+	"icon": "inv_shirt_05",
+	"popularity": 16,
+	"armor": 37,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Intellect": 2 },
+	"source": "DROP",
+	"sourceId": 8503,
+	"sourceName": "Gibblewilt",
+	"sourceZone": 1,
+	"sourceType": "NPC"
 }

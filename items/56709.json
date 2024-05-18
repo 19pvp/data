@@ -1,19 +1,17 @@
 {
-  "id": 56709,
-  "name": "Garrosh's Pardon",
-  "icon": "inv_jewelry_ring_03",
-  "popularity": 29,
-  "armor": 0,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "stamina": 5,
-    "intellect": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13842,
-  "sourceName": "Dread Head Redemption"
+	"id": 56709,
+	"name": "Garrosh's Pardon",
+	"icon": "inv_jewelry_ring_03",
+	"popularity": 29,
+	"armor": 0,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Stamina": 5, "Intellect": 5 },
+	"source": "QUEST",
+	"sourceId": 13842,
+	"sourceName": "Dread Head Redemption",
+	"sourceType": "QUEST"
 }

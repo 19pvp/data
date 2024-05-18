@@ -1,17 +1,15 @@
 {
-  "id": 58971,
-  "name": "Mori's Compass",
-  "icon": "inv_misc_orb_01",
-  "popularity": 4,
-  "armor": 0,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "OFF_HAND_FRILLS",
-  "type": "HELD_IN_OFF_HAND",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 1
+	"id": 58971,
+	"name": "Mori's Compass",
+	"icon": "inv_misc_orb_01",
+	"popularity": 4,
+	"armor": 0,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "OFF_HAND_FRILLS",
+	"type": "HELD_IN_OFF_HAND",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceZone": 1
 }

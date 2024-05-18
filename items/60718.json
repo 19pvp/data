@@ -1,19 +1,17 @@
 {
-  "id": 60718,
-  "name": "Shadowhide Boots",
-  "icon": "inv_boots_07",
-  "popularity": 10,
-  "armor": 58,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "agility": 2,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26692,
-  "sourceName": "Shadowhide Extinction"
+	"id": 60718,
+	"name": "Shadowhide Boots",
+	"icon": "inv_boots_07",
+	"popularity": 10,
+	"armor": 58,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Agility": 2, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 26692,
+	"sourceName": "Shadowhide Extinction",
+	"sourceType": "QUEST"
 }

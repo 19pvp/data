@@ -1,18 +1,17 @@
 {
-  "id": 59588,
-  "name": "Cutthroat Band",
-  "icon": "inv_jewelry_ring_21",
-  "popularity": 25,
-  "armor": 0,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "agility": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 876,
-  "sourceName": "Serena Bloodfeather"
+	"id": 59588,
+	"name": "Cutthroat Band",
+	"icon": "inv_jewelry_ring_21",
+	"popularity": 25,
+	"armor": 0,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Agility": 3 },
+	"source": "QUEST",
+	"sourceId": 876,
+	"sourceName": "Serena Bloodfeather",
+	"sourceType": "QUEST"
 }

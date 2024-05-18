@@ -1,20 +1,17 @@
 {
-  "id": 872,
-  "name": "Rockslicer",
-  "icon": "inv_throwingaxe_01",
-  "dmgMin": 47,
-  "dmgMax": 72,
-  "speed": 3.4,
-  "dps": 17.5,
-  "popularity": 30,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "TWO_HANDED_AXE",
-  "type": "TWO_HAND",
-  "stats": {
-    "crit": 7,
-    "agility": 7
-  },
-  "sourceType": "DROP",
-  "sourceZone": 1581
+	"id": 872,
+	"name": "Rockslicer",
+	"icon": "inv_throwingaxe_01",
+	"dmgMin": 47,
+	"dmgMax": 72,
+	"speed": 3.4,
+	"dps": 17.5,
+	"popularity": 30,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "TWO_HANDED_AXE",
+	"type": "TWO_HAND",
+	"stats": { "Critical Strike Rating": 7, "Agility": 7 },
+	"source": "DROP",
+	"sourceZone": 1581
 }

@@ -1,19 +1,17 @@
 {
-  "id": 6632,
-  "name": "Feyscale Cloak",
-  "icon": "inv_misc_cape_02",
-  "popularity": 11,
-  "armor": 32,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "stamina": 4,
-    "intellect": 4
-  },
-  "sourceType": "DROP",
-  "sourceId": 5912,
-  "sourceName": "Deviate Faerie Dragon",
-  "sourceZone": 718
+	"id": 6632,
+	"name": "Feyscale Cloak",
+	"icon": "inv_misc_cape_02",
+	"popularity": 11,
+	"armor": 32,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Stamina": 4, "Intellect": 4 },
+	"source": "DROP",
+	"sourceId": 5912,
+	"sourceName": "Deviate Faerie Dragon",
+	"sourceZone": 718,
+	"sourceType": "NPC"
 }

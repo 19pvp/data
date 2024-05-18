@@ -1,20 +1,17 @@
 {
-  "id": 59077,
-  "name": "Stoutfist Breastplate",
-  "icon": "inv_chest_cloth_45",
-  "popularity": 21,
-  "armor": 91,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "hit": 4,
-    "agility": 4,
-    "stamina": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25780,
-  "sourceName": "Assault on Menethil Keep"
+	"id": 59077,
+	"name": "Stoutfist Breastplate",
+	"icon": "inv_chest_cloth_45",
+	"popularity": 21,
+	"armor": 91,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Hit Rating": 4, "Agility": 4, "Stamina": 4 },
+	"source": "QUEST",
+	"sourceId": 25780,
+	"sourceName": "Assault on Menethil Keep",
+	"sourceType": "QUEST"
 }

@@ -1,18 +1,16 @@
 {
-  "id": 4660,
-  "name": "Walking Boots",
-  "icon": "inv_boots_06",
-  "popularity": 3,
-  "armor": 43,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOTH",
-  "type": "FEET",
-  "stats": {
-    "crit": 5,
-    "intellect": 5
-  },
-  "sourceType": "DROP",
-  "sourceId": 599,
-  "sourceName": "Marisa du'Paige"
+	"id": 4660,
+	"name": "Walking Boots",
+	"icon": "inv_boots_06",
+	"popularity": 3,
+	"armor": 43,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": { "Critical Strike Rating": 5, "Intellect": 5 },
+	"source": "DROP",
+	"sourceId": 599,
+	"sourceName": "Marisa du'Paige",
+	"sourceType": "NPC"
 }

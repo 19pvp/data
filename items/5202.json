@@ -1,17 +1,14 @@
 {
-  "id": 5202,
-  "name": "Corsair's Overshirt",
-  "icon": "inv_shirt_08",
-  "popularity": 58,
-  "armor": 63,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 6,
-    "intellect": 8
-  },
-  "sourceType": "DROP",
-  "sourceZone": 1581
+	"id": 5202,
+	"name": "Corsair's Overshirt",
+	"icon": "inv_shirt_08",
+	"popularity": 58,
+	"armor": 63,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Stamina": 6, "Intellect": 8 },
+	"source": "DROP",
+	"sourceZone": 1581
 }

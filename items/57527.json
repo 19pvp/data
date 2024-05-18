@@ -1,18 +1,17 @@
 {
-  "id": 57527,
-  "name": "Stone Cairne Boots",
-  "icon": "inv_boots_chain_01",
-  "popularity": 23,
-  "armor": 59,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 11,
-  "sourceName": "Riverpaw Gnoll Bounty"
+	"id": 57527,
+	"name": "Stone Cairne Boots",
+	"icon": "inv_boots_chain_01",
+	"popularity": 23,
+	"armor": 59,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 11,
+	"sourceName": "Riverpaw Gnoll Bounty",
+	"sourceType": "QUEST"
 }

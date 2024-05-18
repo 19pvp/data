@@ -1,13 +1,56 @@
 {
-  "id": 9812,
-  "name": "Fortified Cloak",
-  "icon": "inv_misc_cape_14",
-  "popularity": 6,
-  "armor": 31,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 9812,
+	"name": "Fortified Cloak",
+	"icon": "inv_misc_cape_14",
+	"popularity": 6,
+	"armor": 31,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1185,
+			"chance": 51.5,
+			"stats": { "Stamina": 3, "Strength": 3 }
+		},
+		"of Stamina": { "id": 114, "chance": 8.7, "stats": { "Stamina": 5 } },
+		"of Strength": { "id": 115, "chance": 7.6, "stats": { "Strength": 5 } },
+		"of the Boar": {
+			"id": 1100,
+			"chance": 6,
+			"stats": { "Spirit": 3, "Strength": 3 }
+		},
+		"of the Whale": {
+			"id": 1015,
+			"chance": 5.3,
+			"stats": { "Spirit": 3, "Stamina": 3 }
+		},
+		"of Defense": { "id": 147, "chance": 4.3, "stats": { "Dodge Rating": 5 } },
+		"of the Eagle": {
+			"id": 845,
+			"chance": 3.8,
+			"stats": { "Intellect": 3, "Stamina": 3 }
+		},
+		"of the Gorilla": {
+			"id": 930,
+			"chance": 3.7,
+			"stats": { "Intellect": 3, "Strength": 3 }
+		},
+		"of the Monkey": {
+			"id": 590,
+			"chance": 3.1,
+			"stats": { "Agility": 3, "Stamina": 3 }
+		},
+		"of the Tiger": {
+			"id": 675,
+			"chance": 3.1,
+			"stats": { "Agility": 3, "Strength": 3 }
+		},
+		"of Dodge": { "chance": 2.1, "stats": { "Dodge Rating": 4 } },
+		"of Healing": { "id": 2031, "chance": 0.6, "stats": { "Spell Power": 6 } },
+		"of Intellect": { "id": 94, "chance": 0.3, "stats": { "Intellect": 4 } }
+	},
+	"source": "DROP"
 }

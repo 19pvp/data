@@ -1,16 +1,13 @@
 {
-  "id": 3309,
-  "name": "Barbaric Loincloth",
-  "icon": "inv_pants_wolf",
-  "popularity": 23,
-  "armor": 42,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 3,
-    "intellect": 3
-  },
-  "sourceType": "DROP"
+	"id": 3309,
+	"name": "Barbaric Loincloth",
+	"icon": "inv_pants_wolf",
+	"popularity": 23,
+	"armor": 42,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Stamina": 3, "Intellect": 3 },
+	"source": "DROP"
 }

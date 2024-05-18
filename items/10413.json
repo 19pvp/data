@@ -1,19 +1,17 @@
 {
-  "id": 10413,
-  "name": "Gloves of the Fang",
-  "icon": "inv_gauntlets_18",
-  "popularity": 47,
-  "armor": 63,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "agility": 6,
-    "stamina": 4
-  },
-  "sourceType": "DROP",
-  "sourceId": 3840,
-  "sourceName": "Druid of the Fang",
-  "sourceZone": 718
+	"id": 10413,
+	"name": "Gloves of the Fang",
+	"icon": "inv_gauntlets_18",
+	"popularity": 47,
+	"armor": 63,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Agility": 6, "Stamina": 4 },
+	"source": "DROP",
+	"sourceId": 3840,
+	"sourceName": "Druid of the Fang",
+	"sourceZone": 718,
+	"sourceType": "NPC"
 }

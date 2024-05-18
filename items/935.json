@@ -1,18 +1,16 @@
 {
-  "id": 935,
-  "name": "Night Watch Shortsword",
-  "icon": "inv_sword_26",
-  "dmgMin": 24,
-  "dmgMax": 46,
-  "speed": 2.6,
-  "dps": 13.46,
-  "popularity": 13,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "ONE_HANDED_SWORD",
-  "type": "ONE_HAND",
-  "stats": {
-    "stamina": 4
-  },
-  "sourceType": "DROP"
+	"id": 935,
+	"name": "Night Watch Shortsword",
+	"icon": "inv_sword_26",
+	"dmgMin": 24,
+	"dmgMax": 46,
+	"speed": 2.6,
+	"dps": 13.46,
+	"popularity": 13,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "ONE_HANDED_SWORD",
+	"type": "ONE_HAND",
+	"stats": { "Stamina": 4 },
+	"source": "DROP"
 }

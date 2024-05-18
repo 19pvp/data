@@ -1,23 +1,22 @@
 {
-  "id": 44097,
-  "name": "Inherited Insignia of the Horde",
-  "icon": "inv_jewelry_trinketpvp_02",
-  "popularity": 34,
-  "armor": 0,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "TRINKETS",
-  "type": "TRINKET",
-  "stats": {
-    "resilience": 6
-  },
-  "sourceType": "VENDOR",
-  "sourceId": 32296,
-  "sourceName": "Stone Guard Mukar",
-  "sourceZone": 4197,
-  "use": {
-    "spell": 42292,
-    "text": "Removes all movement impairing effects and all effects which cause loss of control of your character. (5 Min Cooldown)"
-  }
+	"id": 44097,
+	"name": "Inherited Insignia of the Horde",
+	"icon": "inv_jewelry_trinketpvp_02",
+	"popularity": 34,
+	"armor": 0,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "TRINKETS",
+	"type": "TRINKET",
+	"stats": { "Resilience": 6 },
+	"source": "VENDOR",
+	"sourceId": 32296,
+	"sourceName": "Stone Guard Mukar",
+	"sourceZone": 4197,
+	"sourceType": "NPC",
+	"use": {
+		"spell": 42292,
+		"text": "Removes all movement impairing effects and all effects which cause loss of control of your character. (5 Min Cooldown)"
+	}
 }

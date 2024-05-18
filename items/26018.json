@@ -1,19 +1,17 @@
 {
-  "id": 26018,
-  "name": "Elekk Handler's Leathers",
-  "icon": "inv_chest_leather_07",
-  "popularity": 4,
-  "armor": 56,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9624,
-  "sourceName": "A Favorite Treat"
+	"id": 26018,
+	"name": "Elekk Handler's Leathers",
+	"icon": "inv_chest_leather_07",
+	"popularity": 4,
+	"armor": 56,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Agility": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 9624,
+	"sourceName": "A Favorite Treat",
+	"sourceType": "QUEST"
 }

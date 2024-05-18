@@ -1,21 +1,18 @@
 {
-  "id": 20431,
-  "name": "Lorekeeper's Ring",
-  "icon": "inv_jewelry_ring_28",
-  "popularity": 11,
-  "armor": 0,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "stamina": 2,
-    "intellect": 4,
-    "spirit": 6
-  },
-  "sourceType": "VENDOR",
-  "sourceId": 14753,
-  "sourceName": "Illiyana Moonblaze",
-  "sourceZone": 331
+	"id": 20431,
+	"name": "Lorekeeper's Ring",
+	"icon": "inv_jewelry_ring_28",
+	"popularity": 11,
+	"armor": 0,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Stamina": 2, "Intellect": 4, "Spirit": 6 },
+	"source": "VENDOR",
+	"sourceId": 14753,
+	"sourceName": "Illiyana Moonblaze",
+	"sourceZone": 331,
+	"sourceType": "NPC"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 57578,
-  "name": "Dark Iron Hobnail Boots",
-  "icon": "inv_boots_chain_01",
-  "popularity": 10,
-  "armor": 59,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25997,
-  "sourceName": "Dark Iron Scheming"
+	"id": 57578,
+	"name": "Dark Iron Hobnail Boots",
+	"icon": "inv_boots_chain_01",
+	"popularity": 10,
+	"armor": 59,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 25997,
+	"sourceName": "Dark Iron Scheming",
+	"sourceType": "QUEST"
 }

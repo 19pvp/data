@@ -1,18 +1,17 @@
 {
-  "id": 69218,
-  "name": "Sludge Fen Cloak",
-  "icon": "inv_misc_cape_14",
-  "popularity": 3,
-  "armor": 24,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "agility": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 29089,
-  "sourceName": "Sludge Beast!"
+	"id": 69218,
+	"name": "Sludge Fen Cloak",
+	"icon": "inv_misc_cape_14",
+	"popularity": 3,
+	"armor": 24,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Agility": 2 },
+	"source": "QUEST",
+	"sourceId": 29089,
+	"sourceName": "Sludge Beast!",
+	"sourceType": "QUEST"
 }

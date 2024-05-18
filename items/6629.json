@@ -1,19 +1,17 @@
 {
-  "id": 6629,
-  "name": "Sporid Cape",
-  "icon": "inv_misc_cape_17",
-  "popularity": 10,
-  "armor": 35,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "stamina": 5,
-    "spirit": 4
-  },
-  "sourceType": "DROP",
-  "sourceId": 5775,
-  "sourceName": "Verdan the Everliving",
-  "sourceZone": 718
+	"id": 6629,
+	"name": "Sporid Cape",
+	"icon": "inv_misc_cape_17",
+	"popularity": 10,
+	"armor": 35,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Stamina": 5, "Spirit": 4 },
+	"source": "DROP",
+	"sourceId": 5775,
+	"sourceName": "Verdan the Everliving",
+	"sourceZone": 718,
+	"sourceType": "NPC"
 }

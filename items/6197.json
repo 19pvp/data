@@ -1,18 +1,17 @@
 {
-  "id": 6197,
-  "name": "Loch Croc Hide Vest",
-  "icon": "inv_chest_wolf",
-  "popularity": 8,
-  "armor": 95,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 7
-  },
-  "sourceType": "DROP",
-  "sourceId": 2476,
-  "sourceName": "Gosh-Haldir",
-  "sourceZone": 38
+	"id": 6197,
+	"name": "Loch Croc Hide Vest",
+	"icon": "inv_chest_wolf",
+	"popularity": 8,
+	"armor": 95,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Stamina": 7 },
+	"source": "DROP",
+	"sourceId": 2476,
+	"sourceName": "Gosh-Haldir",
+	"sourceZone": 38,
+	"sourceType": "NPC"
 }

@@ -1,18 +1,15 @@
 {
-  "id": 60689,
-  "name": "Belt of Unsolvable Problems",
-  "icon": "inv_belt_24",
-  "popularity": 9,
-  "armor": 26,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 2,
-    "intellect": 2
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 44
+	"id": 60689,
+	"name": "Belt of Unsolvable Problems",
+	"icon": "inv_belt_24",
+	"popularity": 9,
+	"armor": 26,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Stamina": 2, "Intellect": 2 },
+	"source": "QUEST",
+	"sourceZone": 44
 }

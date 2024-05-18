@@ -1,18 +1,17 @@
 {
-  "id": 59539,
-  "name": "Mankrik's Old Wedding Garments",
-  "icon": "inv_chest_cloth_32",
-  "popularity": 15,
-  "armor": 39,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "intellect": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 899,
-  "sourceName": "Consumed by Hatred"
+	"id": 59539,
+	"name": "Mankrik's Old Wedding Garments",
+	"icon": "inv_chest_cloth_32",
+	"popularity": 15,
+	"armor": 39,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Intellect": 2 },
+	"source": "QUEST",
+	"sourceId": 899,
+	"sourceName": "Consumed by Hatred",
+	"sourceType": "QUEST"
 }

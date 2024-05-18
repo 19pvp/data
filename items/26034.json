@@ -1,19 +1,17 @@
 {
-  "id": 26034,
-  "name": "Protective Field Gloves",
-  "icon": "inv_gauntlets_29",
-  "popularity": 6,
-  "armor": 64,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9629,
-  "sourceName": "Catch and Release"
+	"id": 26034,
+	"name": "Protective Field Gloves",
+	"icon": "inv_gauntlets_29",
+	"popularity": 6,
+	"armor": 64,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Agility": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 9629,
+	"sourceName": "Catch and Release",
+	"sourceType": "QUEST"
 }

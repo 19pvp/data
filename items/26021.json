@@ -1,19 +1,17 @@
 {
-  "id": 26021,
-  "name": "Vindicator's Leather Chaps",
-  "icon": "inv_pants_07",
-  "popularity": 6,
-  "armor": 67,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "agility": 4,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9711,
-  "sourceName": "Matis the Cruel"
+	"id": 26021,
+	"name": "Vindicator's Leather Chaps",
+	"icon": "inv_pants_07",
+	"popularity": 6,
+	"armor": 67,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Agility": 4, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 9711,
+	"sourceName": "Matis the Cruel",
+	"sourceType": "QUEST"
 }

@@ -1,15 +1,13 @@
 {
-  "id": 68755,
-  "name": "Imbued Disciple's Gloves",
-  "icon": "inv_gauntlets_21",
-  "popularity": 20,
-  "armor": 23,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "DROP"
+	"id": 68755,
+	"name": "Imbued Disciple's Gloves",
+	"icon": "inv_gauntlets_21",
+	"popularity": 20,
+	"armor": 23,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": { "Stamina": 1 },
+	"source": "DROP"
 }

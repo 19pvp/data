@@ -1,16 +1,13 @@
 {
-  "id": 3310,
-  "name": "Barbaric Cloth Vest",
-  "icon": "inv_shirt_07",
-  "popularity": 11,
-  "armor": 53,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 4,
-    "intellect": 2
-  },
-  "sourceType": "DROP"
+	"id": 3310,
+	"name": "Barbaric Cloth Vest",
+	"icon": "inv_shirt_07",
+	"popularity": 11,
+	"armor": 53,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Stamina": 4, "Intellect": 2 },
+	"source": "DROP"
 }

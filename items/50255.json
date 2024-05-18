@@ -1,19 +1,16 @@
 {
-  "id": 50255,
-  "name": "Dread Pirate Ring",
-  "icon": "inv_jewelry_ring_39",
-  "popularity": 164,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "crit": 5,
-    "hit": 2,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24803,
-  "sourceName": "Kalu'ak Fishing Derby"
+	"id": 50255,
+	"name": "Dread Pirate Ring",
+	"icon": "inv_jewelry_ring_39",
+	"popularity": 164,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Critical Strike Rating": 5, "Hit Rating": 2, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 24803,
+	"sourceName": "Kalu'ak Fishing Derby",
+	"sourceType": "QUEST"
 }

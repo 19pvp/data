@@ -1,19 +1,17 @@
 {
-  "id": 53431,
-  "name": "Negotiation Stompers",
-  "icon": "inv_boots_chain_08",
-  "popularity": 5,
-  "armor": 86,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "strength": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14435,
-  "sourceName": "The Blackmaw Doublecross"
+	"id": 53431,
+	"name": "Negotiation Stompers",
+	"icon": "inv_boots_chain_08",
+	"popularity": 5,
+	"armor": 86,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Strength": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 14435,
+	"sourceName": "The Blackmaw Doublecross",
+	"sourceType": "QUEST"
 }

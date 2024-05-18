@@ -1,19 +1,17 @@
 {
-  "id": 56632,
-  "name": "Feero's Pauldrons",
-  "icon": "inv_shoulder_15",
-  "popularity": 5,
-  "armor": 112,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "SHOULDERS",
-  "stats": {
-    "strength": 3,
-    "stamina": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13626,
-  "sourceName": "Respect for the Fallen"
+	"id": 56632,
+	"name": "Feero's Pauldrons",
+	"icon": "inv_shoulder_15",
+	"popularity": 5,
+	"armor": 112,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "SHOULDERS",
+	"stats": { "Strength": 3, "Stamina": 4 },
+	"source": "QUEST",
+	"sourceId": 13626,
+	"sourceName": "Respect for the Fallen",
+	"sourceType": "QUEST"
 }

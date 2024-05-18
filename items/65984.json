@@ -1,20 +1,17 @@
 {
-  "id": 65984,
-  "name": "Breastplate of the Terrible Price",
-  "icon": "inv_chest_chain_12",
-  "popularity": 6,
-  "armor": 164,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 7,
-    "intellect": 5,
-    "spirit": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27968,
-  "sourceName": "Fury of the Pack"
+	"id": 65984,
+	"name": "Breastplate of the Terrible Price",
+	"icon": "inv_chest_chain_12",
+	"popularity": 6,
+	"armor": 164,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Stamina": 7, "Intellect": 5, "Spirit": 5 },
+	"source": "QUEST",
+	"sourceId": 27968,
+	"sourceName": "Fury of the Pack",
+	"sourceType": "QUEST"
 }

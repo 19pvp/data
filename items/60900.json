@@ -1,19 +1,17 @@
 {
-  "id": 60900,
-  "name": "Beggar's Belt",
-  "icon": "inv_belt_37b",
-  "popularity": 4,
-  "armor": 51,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 3,
-    "intellect": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26655,
-  "sourceName": "Deliver the Thread"
+	"id": 60900,
+	"name": "Beggar's Belt",
+	"icon": "inv_belt_37b",
+	"popularity": 4,
+	"armor": 51,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Stamina": 3, "Intellect": 4 },
+	"source": "QUEST",
+	"sourceId": 26655,
+	"sourceName": "Deliver the Thread",
+	"sourceType": "QUEST"
 }

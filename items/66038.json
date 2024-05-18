@@ -1,20 +1,17 @@
 {
-  "id": 66038,
-  "name": "Breastplate of the Terrible Price",
-  "icon": "inv_chest_chain_12",
-  "popularity": 21,
-  "armor": 164,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 7,
-    "intellect": 5,
-    "spirit": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27998,
-  "sourceName": "Sweet, Merciless Revenge"
+	"id": 66038,
+	"name": "Breastplate of the Terrible Price",
+	"icon": "inv_chest_chain_12",
+	"popularity": 21,
+	"armor": 164,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Stamina": 7, "Intellect": 5, "Spirit": 5 },
+	"source": "QUEST",
+	"sourceId": 27998,
+	"sourceName": "Sweet, Merciless Revenge",
+	"sourceType": "QUEST"
 }

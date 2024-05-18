@@ -1,13 +1,60 @@
 {
-  "id": 6557,
-  "name": "Bard's Boots",
-  "icon": "inv_boots_05",
-  "popularity": 23,
-  "armor": 51,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 6557,
+	"name": "Bard's Boots",
+	"icon": "inv_boots_05",
+	"popularity": 23,
+	"armor": 51,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": {},
+	"rand": {
+		"of the Monkey": {
+			"id": 590,
+			"chance": 15.9,
+			"stats": { "Agility": 3, "Stamina": 3 }
+		},
+		"of the Owl": {
+			"id": 760,
+			"chance": 11.7,
+			"stats": { "Intellect": 3, "Spirit": 3 }
+		},
+		"of the Whale": {
+			"id": 1015,
+			"chance": 11,
+			"stats": { "Spirit": 3, "Stamina": 3 }
+		},
+		"of the Eagle": {
+			"id": 845,
+			"chance": 10.5,
+			"stats": { "Intellect": 3, "Stamina": 3 }
+		},
+		"of Agility": { "id": 93, "chance": 9.9, "stats": { "Agility": 4 } },
+		"of the Gorilla": {
+			"id": 930,
+			"chance": 9.8,
+			"stats": { "Intellect": 3, "Strength": 3 }
+		},
+		"of Stamina": { "id": 96, "chance": 9.6, "stats": { "Stamina": 4 } },
+		"of the Falcon": {
+			"id": 234,
+			"chance": 6.2,
+			"stats": { "Agility": 3, "Intellect": 3 }
+		},
+		"of Spirit": { "id": 95, "chance": 4.6, "stats": { "Spirit": 4 } },
+		"of the Wolf": {
+			"id": 505,
+			"chance": 3.8,
+			"stats": { "Agility": 3, "Spirit": 3 }
+		},
+		"of Power": { "id": 1550, "chance": 3.4, "stats": { "Attack Power": 8 } },
+		"of Intellect": { "id": 26, "chance": 2.5, "stats": { "Intellect": 3 } },
+		"of Nature's Wrath": {
+			"id": 1992,
+			"chance": 1.2,
+			"stats": { "Nature Spell Damage": 6 }
+		}
+	},
+	"source": "DROP"
 }

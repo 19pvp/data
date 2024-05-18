@@ -1,18 +1,17 @@
 {
-  "id": 49562,
-  "name": "Durable Drape",
-  "icon": "inv_misc_cape_11",
-  "popularity": 52,
-  "armor": 17,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "strength": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14005,
-  "sourceName": "The Vengeance of Elune"
+	"id": 49562,
+	"name": "Durable Drape",
+	"icon": "inv_misc_cape_11",
+	"popularity": 52,
+	"armor": 17,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Strength": 1 },
+	"source": "QUEST",
+	"sourceId": 14005,
+	"sourceName": "The Vengeance of Elune",
+	"sourceType": "QUEST"
 }

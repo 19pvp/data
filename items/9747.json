@@ -1,13 +1,48 @@
 {
-  "id": 9747,
-  "name": "Simple Britches",
-  "icon": "inv_pants_06",
-  "popularity": 6,
-  "armor": 38,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 9747,
+	"name": "Simple Britches",
+	"icon": "inv_pants_06",
+	"popularity": 6,
+	"armor": 38,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": {},
+	"rand": {
+		"of the Eagle": {
+			"id": 842,
+			"chance": 27.5,
+			"stats": { "Intellect": 2, "Stamina": 2 }
+		},
+		"of the Owl": {
+			"id": 757,
+			"chance": 26.7,
+			"stats": { "Intellect": 2, "Spirit": 2 }
+		},
+		"of the Whale": {
+			"id": 1012,
+			"chance": 17.9,
+			"stats": { "Spirit": 2, "Stamina": 2 }
+		},
+		"of Spirit": { "id": 95, "chance": 10.2, "stats": { "Spirit": 4 } },
+		"of Healing": { "id": 2030, "chance": 3.9, "stats": { "Spell Power": 5 } },
+		"of Intellect": { "id": 26, "chance": 3.8, "stats": { "Intellect": 3 } },
+		"of Fiery Wrath": {
+			"id": 1878,
+			"chance": 3.7,
+			"stats": { "Fire Spell Damage": 6 }
+		},
+		"of the Falcon": {
+			"id": 238,
+			"chance": 3.4,
+			"stats": { "Agility": 2, "Intellect": 2 }
+		},
+		"of the Monkey": {
+			"id": 587,
+			"chance": 3.1,
+			"stats": { "Agility": 2, "Stamina": 2 }
+		}
+	},
+	"source": "DROP"
 }

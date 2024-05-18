@@ -1,19 +1,17 @@
 {
-  "id": 62872,
-  "name": "Cloak of Secret Purpose",
-  "icon": "inv_misc_cape_14",
-  "popularity": 11,
-  "armor": 24,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "stamina": 1,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27438,
-  "sourceName": "The Great Escape"
+	"id": 62872,
+	"name": "Cloak of Secret Purpose",
+	"icon": "inv_misc_cape_14",
+	"popularity": 11,
+	"armor": 24,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Stamina": 1, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 27438,
+	"sourceName": "The Great Escape",
+	"sourceType": "QUEST"
 }

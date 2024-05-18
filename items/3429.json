@@ -1,17 +1,14 @@
 {
-  "id": 3429,
-  "name": "Guardsman Belt",
-  "icon": "inv_belt_04",
-  "popularity": 10,
-  "armor": 57,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "agility": 4,
-    "stamina": 4
-  },
-  "sourceType": "DROP",
-  "sourceZone": 267
+	"id": 3429,
+	"name": "Guardsman Belt",
+	"icon": "inv_belt_04",
+	"popularity": 10,
+	"armor": 57,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Agility": 4, "Stamina": 4 },
+	"source": "DROP",
+	"sourceZone": 267
 }

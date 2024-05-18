@@ -1,13 +1,70 @@
 {
-  "id": 15115,
-  "name": "Rigid Gloves",
-  "icon": "inv_gauntlets_24",
-  "popularity": 7,
-  "armor": 59,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 15115,
+	"name": "Rigid Gloves",
+	"icon": "inv_gauntlets_24",
+	"popularity": 7,
+	"armor": 59,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": {},
+	"rand": {
+		"of the Monkey": {
+			"id": 593,
+			"chance": 26.6,
+			"stats": { "Agility": 4, "Stamina": 4 }
+		},
+		"of the Eagle": {
+			"id": 848,
+			"chance": 13.2,
+			"stats": { "Intellect": 4, "Stamina": 4 }
+		},
+		"of the Owl": {
+			"id": 763,
+			"chance": 13.1,
+			"stats": { "Intellect": 4, "Spirit": 4 }
+		},
+		"of the Falcon": {
+			"id": 248,
+			"chance": 8.9,
+			"stats": { "Agility": 4, "Intellect": 4 }
+		},
+		"of the Whale": {
+			"id": 1018,
+			"chance": 8.4,
+			"stats": { "Spirit": 4, "Stamina": 4 }
+		},
+		"of the Bear": {
+			"id": 1188,
+			"chance": 6.5,
+			"stats": { "Stamina": 4, "Strength": 4 }
+		},
+		"of Spirit": { "id": 134, "chance": 5, "stats": { "Spirit": 6 } },
+		"of the Wolf": {
+			"id": 508,
+			"chance": 4.6,
+			"stats": { "Agility": 4, "Spirit": 4 }
+		},
+		"of the Gorilla": {
+			"id": 933,
+			"chance": 3.4,
+			"stats": { "Intellect": 4, "Strength": 4 }
+		},
+		"of the Tiger": {
+			"id": 678,
+			"chance": 3.2,
+			"stats": { "Agility": 4, "Strength": 4 }
+		},
+		"of Defense": { "id": 1609, "chance": 2.7, "stats": { "Dodge Rating": 6 } },
+		"of Dodge": { "chance": 1.6, "stats": { "Dodge Rating": 5 } },
+		"of Intellect": { "id": 112, "chance": 1.1, "stats": { "Intellect": 5 } },
+		"of Healing": { "id": 2032, "chance": 0.9, "stats": { "Spell Power": 7 } },
+		"of Arcane Wrath": {
+			"id": 1804,
+			"chance": 0.8,
+			"stats": { "Arcane Spell Damage": 9 }
+		}
+	},
+	"source": "DROP"
 }

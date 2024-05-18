@@ -1,20 +1,17 @@
 {
-  "id": 1935,
-  "name": "Assassin's Blade",
-  "icon": "inv_weapon_shortblade_24",
-  "dmgMin": 17,
-  "dmgMax": 33,
-  "speed": 1.8,
-  "dps": 13.89,
-  "popularity": 43,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "DAGGER",
-  "type": "ONE_HAND",
-  "stats": {
-    "hit": 3,
-    "agility": 4
-  },
-  "sourceType": "DROP",
-  "sourceZone": 209
+	"id": 1935,
+	"name": "Assassin's Blade",
+	"icon": "inv_weapon_shortblade_24",
+	"dmgMin": 17,
+	"dmgMax": 33,
+	"speed": 1.8,
+	"dps": 13.89,
+	"popularity": 43,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "DAGGER",
+	"type": "ONE_HAND",
+	"stats": { "Hit Rating": 3, "Agility": 4 },
+	"source": "DROP",
+	"sourceZone": 209
 }

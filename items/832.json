@@ -1,19 +1,17 @@
 {
-  "id": 832,
-  "name": "Silver Defias Belt",
-  "icon": "inv_belt_03",
-  "popularity": 15,
-  "armor": 64,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {
-    "strength": 2,
-    "stamina": 2
-  },
-  "sourceType": "DROP",
-  "sourceId": 121,
-  "sourceName": "Defias Pathstalker",
-  "sourceZone": 40
+	"id": 832,
+	"name": "Silver Defias Belt",
+	"icon": "inv_belt_03",
+	"popularity": 15,
+	"armor": 64,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": { "Strength": 2, "Stamina": 2 },
+	"source": "DROP",
+	"sourceId": 121,
+	"sourceName": "Defias Pathstalker",
+	"sourceZone": 40,
+	"sourceType": "NPC"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 4768,
-  "name": "Adept's Gloves",
-  "icon": "inv_gauntlets_05",
-  "popularity": 10,
-  "armor": 29,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 2,
-    "intellect": 2
-  },
-  "sourceType": "DROP",
-  "sourceId": 3270,
-  "sourceName": "Elder Mystic Razorsnout",
-  "sourceZone": 17
+	"id": 4768,
+	"name": "Adept's Gloves",
+	"icon": "inv_gauntlets_05",
+	"popularity": 10,
+	"armor": 29,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": { "Stamina": 2, "Intellect": 2 },
+	"source": "DROP",
+	"sourceId": 3270,
+	"sourceName": "Elder Mystic Razorsnout",
+	"sourceZone": 17,
+	"sourceType": "NPC"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 26039,
-  "name": "Kessel's Sturdy Riding Handle",
-  "icon": "inv_belt_03",
-  "popularity": 18,
-  "armor": 64,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9666,
-  "sourceName": "Declaration of Power"
+	"id": 26039,
+	"name": "Kessel's Sturdy Riding Handle",
+	"icon": "inv_belt_03",
+	"popularity": 18,
+	"armor": 64,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": { "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 9666,
+	"sourceName": "Declaration of Power",
+	"sourceType": "QUEST"
 }

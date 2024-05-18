@@ -1,16 +1,57 @@
 {
-  "id": 3198,
-  "name": "Battering Hammer",
-  "icon": "inv_hammer_16",
-  "dmgMin": 37,
-  "dmgMax": 57,
-  "speed": 3.1,
-  "dps": 15.16,
-  "popularity": 23,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "TWO_HANDED_MACE",
-  "type": "TWO_HAND",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 3198,
+	"name": "Battering Hammer",
+	"icon": "inv_hammer_16",
+	"dmgMin": 37,
+	"dmgMax": 57,
+	"speed": 3.1,
+	"dps": 15.16,
+	"popularity": 23,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "TWO_HANDED_MACE",
+	"type": "TWO_HAND",
+	"stats": {},
+	"rand": {
+		"of the Eagle": {
+			"id": 851,
+			"chance": 13.9,
+			"stats": { "Intellect": 5, "Stamina": 5 }
+		},
+		"of the Gorilla": {
+			"id": 936,
+			"chance": 13.3,
+			"stats": { "Intellect": 5, "Strength": 5 }
+		},
+		"of the Bear": {
+			"id": 1191,
+			"chance": 11.5,
+			"stats": { "Stamina": 5, "Strength": 5 }
+		},
+		"of the Boar": {
+			"id": 1106,
+			"chance": 11,
+			"stats": { "Spirit": 5, "Strength": 5 }
+		},
+		"of the Tiger": {
+			"id": 681,
+			"chance": 10.4,
+			"stats": { "Agility": 5, "Strength": 5 }
+		},
+		"of the Whale": {
+			"id": 1021,
+			"chance": 10.2,
+			"stats": { "Spirit": 5, "Stamina": 5 }
+		},
+		"of the Monkey": {
+			"id": 596,
+			"chance": 10.1,
+			"stats": { "Agility": 5, "Stamina": 5 }
+		},
+		"of Stamina": { "id": 184, "chance": 5.9, "stats": { "Stamina": 8 } },
+		"of Spirit": { "id": 179, "chance": 5.7, "stats": { "Spirit": 8 } },
+		"of Strength": { "id": 189, "chance": 5.2, "stats": { "Strength": 8 } },
+		"of Power": { "id": 1554, "chance": 2.8, "stats": { "Attack Power": 16 } }
+	},
+	"source": "DROP"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 24349,
-  "name": "Signet Ring of the Hand",
-  "icon": "inv_jewelry_ring_18",
-  "popularity": 6,
-  "armor": 0,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "crit": 2,
-    "attackPower": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9762,
-  "sourceName": "The Unwritten Prophecy"
+	"id": 24349,
+	"name": "Signet Ring of the Hand",
+	"icon": "inv_jewelry_ring_18",
+	"popularity": 6,
+	"armor": 0,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Critical Strike Rating": 2, "Attack Power": 4 },
+	"source": "QUEST",
+	"sourceId": 9762,
+	"sourceName": "The Unwritten Prophecy",
+	"sourceType": "QUEST"
 }

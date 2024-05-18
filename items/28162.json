@@ -1,19 +1,17 @@
 {
-  "id": 28162,
-  "name": "Tranquillien Defender's Girdle",
-  "icon": "inv_belt_03",
-  "popularity": 6,
-  "armor": 71,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {
-    "strength": 2,
-    "stamina": 2
-  },
-  "sourceType": "VENDOR",
-  "sourceId": 16528,
-  "sourceName": "Provisioner Vredigar",
-  "sourceZone": 3433
+	"id": 28162,
+	"name": "Tranquillien Defender's Girdle",
+	"icon": "inv_belt_03",
+	"popularity": 6,
+	"armor": 71,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": { "Strength": 2, "Stamina": 2 },
+	"source": "VENDOR",
+	"sourceId": 16528,
+	"sourceName": "Provisioner Vredigar",
+	"sourceZone": 3433,
+	"sourceType": "NPC"
 }

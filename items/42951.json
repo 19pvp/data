@@ -1,17 +1,13 @@
 {
-  "id": 42951,
-  "name": "Mystical Pauldrons of Elements",
-  "icon": "inv_shoulder_29",
-  "popularity": 70,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "MAIL",
-  "type": "SHOULDERS",
-  "stats": {
-    "crit": 5,
-    "stamina": 7,
-    "intellect": 5
-  },
-  "sourceType": "VENDOR"
+	"id": 42951,
+	"name": "Mystical Pauldrons of Elements",
+	"icon": "inv_shoulder_29",
+	"popularity": 70,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "MAIL",
+	"type": "SHOULDERS",
+	"stats": { "Critical Strike Rating": 5, "Stamina": 7, "Intellect": 5 },
+	"source": "VENDOR"
 }

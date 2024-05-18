@@ -1,18 +1,17 @@
 {
-  "id": 59559,
-  "name": "Bellipotent Gloves",
-  "icon": "inv_gauntlets_11",
-  "popularity": 4,
-  "armor": 75,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14042,
-  "sourceName": "Ammo Kerblammo"
+	"id": 59559,
+	"name": "Bellipotent Gloves",
+	"icon": "inv_gauntlets_11",
+	"popularity": 4,
+	"armor": 75,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 14042,
+	"sourceName": "Ammo Kerblammo",
+	"sourceType": "QUEST"
 }

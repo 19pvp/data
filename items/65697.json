@@ -1,20 +1,17 @@
 {
-  "id": 65697,
-  "name": "Stillwater's Cloak",
-  "icon": "inv_misc_cape_16",
-  "popularity": 9,
-  "armor": 33,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "crit": 3,
-    "agility": 3,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 28237,
-  "sourceName": "A Blight Upon the Land"
+	"id": 65697,
+	"name": "Stillwater's Cloak",
+	"icon": "inv_misc_cape_16",
+	"popularity": 9,
+	"armor": 33,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Critical Strike Rating": 3, "Agility": 3, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 28237,
+	"sourceName": "A Blight Upon the Land",
+	"sourceType": "QUEST"
 }

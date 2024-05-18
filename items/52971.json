@@ -1,19 +1,17 @@
 {
-  "id": 52971,
-  "name": "Igneous Leggings",
-  "icon": "inv_pants_07",
-  "popularity": 25,
-  "armor": 57,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 4,
-    "intellect": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25265,
-  "sourceName": "Victory!"
+	"id": 52971,
+	"name": "Igneous Leggings",
+	"icon": "inv_pants_07",
+	"popularity": 25,
+	"armor": 57,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Stamina": 4, "Intellect": 4 },
+	"source": "QUEST",
+	"sourceId": 25265,
+	"sourceName": "Victory!",
+	"sourceType": "QUEST"
 }

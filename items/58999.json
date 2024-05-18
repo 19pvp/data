@@ -1,18 +1,15 @@
 {
-  "id": 58999,
-  "name": "Thelsamar Breastplate",
-  "icon": "inv_chest_chain_07",
-  "popularity": 7,
-  "armor": 102,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "strength": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 38
+	"id": 58999,
+	"name": "Thelsamar Breastplate",
+	"icon": "inv_chest_chain_07",
+	"popularity": 7,
+	"armor": 102,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Strength": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceZone": 38
 }

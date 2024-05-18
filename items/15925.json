@@ -1,15 +1,13 @@
 {
-  "id": 15925,
-  "name": "Journeyman's Stave",
-  "icon": "inv_staff_20",
-  "popularity": 5,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "OFF_HAND_FRILLS",
-  "type": "HELD_IN_OFF_HAND",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "DROP"
+	"id": 15925,
+	"name": "Journeyman's Stave",
+	"icon": "inv_staff_20",
+	"popularity": 5,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "OFF_HAND_FRILLS",
+	"type": "HELD_IN_OFF_HAND",
+	"stats": { "Stamina": 1 },
+	"source": "DROP"
 }

@@ -1,16 +1,13 @@
 {
-  "id": 15946,
-  "name": "Mystic's Sphere",
-  "icon": "inv_misc_gem_pearl_02",
-  "popularity": 6,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "OFF_HAND_FRILLS",
-  "type": "HELD_IN_OFF_HAND",
-  "stats": {
-    "stamina": 2,
-    "spirit": 3
-  },
-  "sourceType": "DROP"
+	"id": 15946,
+	"name": "Mystic's Sphere",
+	"icon": "inv_misc_gem_pearl_02",
+	"popularity": 6,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "OFF_HAND_FRILLS",
+	"type": "HELD_IN_OFF_HAND",
+	"stats": { "Stamina": 2, "Spirit": 3 },
+	"source": "DROP"
 }

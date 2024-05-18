@@ -1,19 +1,17 @@
 {
-  "id": 2166,
-  "name": "Foreman's Leggings",
-  "icon": "inv_pants_03",
-  "popularity": 15,
-  "armor": 138,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "strength": 7,
-    "stamina": 7
-  },
-  "sourceType": "DROP",
-  "sourceId": 626,
-  "sourceName": "Foreman Thistlenettle",
-  "sourceZone": 40
+	"id": 2166,
+	"name": "Foreman's Leggings",
+	"icon": "inv_pants_03",
+	"popularity": 15,
+	"armor": 138,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Strength": 7, "Stamina": 7 },
+	"source": "DROP",
+	"sourceId": 626,
+	"sourceName": "Foreman Thistlenettle",
+	"sourceZone": 40,
+	"sourceType": "NPC"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 65696,
-  "name": "Awesome Boots",
-  "icon": "inv_boots_09",
-  "popularity": 10,
-  "armor": 63,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "crit": 3,
-    "agility": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 28231,
-  "sourceName": "Do it for Twinkles"
+	"id": 65696,
+	"name": "Awesome Boots",
+	"icon": "inv_boots_09",
+	"popularity": 10,
+	"armor": 63,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Critical Strike Rating": 3, "Agility": 3 },
+	"source": "QUEST",
+	"sourceId": 28231,
+	"sourceName": "Do it for Twinkles",
+	"sourceType": "QUEST"
 }

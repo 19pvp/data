@@ -1,18 +1,17 @@
 {
-  "id": 4861,
-  "name": "Sleek Feathered Tunic",
-  "icon": "inv_chest_fur",
-  "popularity": 5,
-  "armor": 52,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "agility": 1
-  },
-  "sourceType": "DROP",
-  "sourceId": 3068,
-  "sourceName": "Mazzranache",
-  "sourceZone": 215
+	"id": 4861,
+	"name": "Sleek Feathered Tunic",
+	"icon": "inv_chest_fur",
+	"popularity": 5,
+	"armor": 52,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Agility": 1 },
+	"source": "DROP",
+	"sourceId": 3068,
+	"sourceName": "Mazzranache",
+	"sourceZone": 215,
+	"sourceType": "NPC"
 }

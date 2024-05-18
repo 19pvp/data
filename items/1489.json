@@ -1,18 +1,14 @@
 {
-  "id": 1489,
-  "name": "Gloomshroud Armor",
-  "icon": "inv_chest_leather_08",
-  "popularity": 39,
-  "armor": 100,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "crit": 6,
-    "agility": 8,
-    "stamina": 4
-  },
-  "sourceType": "DROP",
-  "sourceZone": 209
+	"id": 1489,
+	"name": "Gloomshroud Armor",
+	"icon": "inv_chest_leather_08",
+	"popularity": 39,
+	"armor": 100,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Critical Strike Rating": 6, "Agility": 8, "Stamina": 4 },
+	"source": "DROP",
+	"sourceZone": 209
 }

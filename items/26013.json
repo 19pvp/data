@@ -1,19 +1,17 @@
 {
-  "id": 26013,
-  "name": "Cincture of Woven Reeds",
-  "icon": "inv_belt_22",
-  "popularity": 5,
-  "armor": 32,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 3,
-    "intellect": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9647,
-  "sourceName": "Culling the Flutterers"
+	"id": 26013,
+	"name": "Cincture of Woven Reeds",
+	"icon": "inv_belt_22",
+	"popularity": 5,
+	"armor": 32,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Stamina": 3, "Intellect": 4 },
+	"source": "QUEST",
+	"sourceId": 9647,
+	"sourceName": "Culling the Flutterers",
+	"sourceType": "QUEST"
 }

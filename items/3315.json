@@ -1,16 +1,13 @@
 {
-  "id": 3315,
-  "name": "Ceremonial Leather Loincloth",
-  "icon": "inv_pants_wolf",
-  "popularity": 68,
-  "armor": 67,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "hit": 3,
-    "agility": 3
-  },
-  "sourceType": "DROP"
+	"id": 3315,
+	"name": "Ceremonial Leather Loincloth",
+	"icon": "inv_pants_wolf",
+	"popularity": 68,
+	"armor": 67,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Hit Rating": 3, "Agility": 3 },
+	"source": "DROP"
 }

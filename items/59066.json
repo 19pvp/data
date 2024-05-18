@@ -1,19 +1,17 @@
 {
-  "id": 59066,
-  "name": "Stabilized Incendicite Legguards",
-  "icon": "inv_pants_mail_07",
-  "popularity": 16,
-  "armor": 125,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "strength": 5,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25735,
-  "sourceName": "Incendicite Ore"
+	"id": 59066,
+	"name": "Stabilized Incendicite Legguards",
+	"icon": "inv_pants_mail_07",
+	"popularity": 16,
+	"armor": 125,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Strength": 5, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 25735,
+	"sourceName": "Incendicite Ore",
+	"sourceType": "QUEST"
 }

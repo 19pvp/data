@@ -1,20 +1,18 @@
 {
-  "id": 52652,
-  "name": "Glowing Murloc Eye",
-  "icon": "inv_misc_eye_01",
-  "speed": 2,
-  "popularity": 8,
-  "armor": 0,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "OFF_HAND_FRILLS",
-  "type": "HELD_IN_OFF_HAND",
-  "stats": {
-    "stamina": 1,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13560,
-  "sourceName": "An Ocean Not So Deep"
+	"id": 52652,
+	"name": "Glowing Murloc Eye",
+	"icon": "inv_misc_eye_01",
+	"speed": 2,
+	"popularity": 8,
+	"armor": 0,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "OFF_HAND_FRILLS",
+	"type": "HELD_IN_OFF_HAND",
+	"stats": { "Stamina": 1, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 13560,
+	"sourceName": "An Ocean Not So Deep",
+	"sourceType": "QUEST"
 }

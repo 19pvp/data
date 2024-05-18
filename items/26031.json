@@ -1,19 +1,17 @@
 {
-  "id": 26031,
-  "name": "Elekk Rider's Mail",
-  "icon": "inv_chest_chain_16",
-  "popularity": 12,
-  "armor": 91,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9624,
-  "sourceName": "A Favorite Treat"
+	"id": 26031,
+	"name": "Elekk Rider's Mail",
+	"icon": "inv_chest_chain_16",
+	"popularity": 12,
+	"armor": 91,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 9624,
+	"sourceName": "A Favorite Treat",
+	"sourceType": "QUEST"
 }

@@ -1,15 +1,13 @@
 {
-  "id": 4781,
-  "name": "Whispering Vest",
-  "icon": "inv_shirt_10",
-  "popularity": 6,
-  "armor": 57,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "spirit": 6
-  },
-  "sourceType": "VENDOR"
+	"id": 4781,
+	"name": "Whispering Vest",
+	"icon": "inv_shirt_10",
+	"popularity": 6,
+	"armor": 57,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Spirit": 6 },
+	"source": "VENDOR"
 }

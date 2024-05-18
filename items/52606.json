@@ -1,20 +1,17 @@
 {
-  "id": 52606,
-  "name": "Blackwood Boots",
-  "icon": "inv_boots_08",
-  "popularity": 37,
-  "armor": 58,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "stamina": 2,
-    "intellect": 2,
-    "spirit": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13546,
-  "sourceName": "The Defiler"
+	"id": 52606,
+	"name": "Blackwood Boots",
+	"icon": "inv_boots_08",
+	"popularity": 37,
+	"armor": 58,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Stamina": 2, "Intellect": 2, "Spirit": 2 },
+	"source": "QUEST",
+	"sourceId": 13546,
+	"sourceName": "The Defiler",
+	"sourceType": "QUEST"
 }

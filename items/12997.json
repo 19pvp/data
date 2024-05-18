@@ -1,16 +1,13 @@
 {
-  "id": 12997,
-  "name": "Redbeard Crest",
-  "icon": "inv_shield_02",
-  "popularity": 7,
-  "armor": 781,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "strength": 6,
-    "stamina": 3
-  },
-  "sourceType": "DROP"
+	"id": 12997,
+	"name": "Redbeard Crest",
+	"icon": "inv_shield_02",
+	"popularity": 7,
+	"armor": 781,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Strength": 6, "Stamina": 3 },
+	"source": "DROP"
 }

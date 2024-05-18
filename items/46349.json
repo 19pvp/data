@@ -1,19 +1,14 @@
 {
-  "id": 46349,
-  "name": "Chef's Hat",
-  "icon": "achievement_profession_chefhat",
-  "popularity": 44,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "MISC",
-  "type": "HEAD",
-  "stats": {
-    "armor": 40
-  },
-  "sourceType": "VENDOR",
-  "equip": {
-    "spell": 67556,
-    "text": "Allows you to cook faster."
-  }
+	"id": 46349,
+	"name": "Chef's Hat",
+	"icon": "achievement_profession_chefhat",
+	"popularity": 44,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "MISC",
+	"type": "HEAD",
+	"stats": { "Armor": 40 },
+	"source": "VENDOR",
+	"equip": { "spell": 67556, "text": "Allows you to cook faster." }
 }

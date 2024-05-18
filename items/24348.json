@@ -1,20 +1,17 @@
 {
-  "id": 24348,
-  "name": "Tunic of the Dragon Slayer",
-  "icon": "inv_chest_chain_16",
-  "popularity": 19,
-  "armor": 131,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "hit": 2,
-    "strength": 3,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9689,
-  "sourceName": "Razormaw"
+	"id": 24348,
+	"name": "Tunic of the Dragon Slayer",
+	"icon": "inv_chest_chain_16",
+	"popularity": 19,
+	"armor": 131,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Hit Rating": 2, "Strength": 3, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 9689,
+	"sourceName": "Razormaw",
+	"sourceType": "QUEST"
 }

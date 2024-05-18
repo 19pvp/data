@@ -1,13 +1,54 @@
 {
-  "id": 9763,
-  "name": "Cadet Leggings",
-  "icon": "inv_pants_10",
-  "popularity": 8,
-  "armor": 95,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 9763,
+	"name": "Cadet Leggings",
+	"icon": "inv_pants_10",
+	"popularity": 8,
+	"armor": 95,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1182,
+			"chance": 42.4,
+			"stats": { "Stamina": 2, "Strength": 2 }
+		},
+		"of Strength": { "id": 97, "chance": 11.5, "stats": { "Strength": 4 } },
+		"of the Whale": {
+			"id": 1012,
+			"chance": 10.7,
+			"stats": { "Spirit": 2, "Stamina": 2 }
+		},
+		"of the Eagle": {
+			"id": 842,
+			"chance": 8.8,
+			"stats": { "Intellect": 2, "Stamina": 2 }
+		},
+		"of the Gorilla": {
+			"id": 927,
+			"chance": 6.1,
+			"stats": { "Intellect": 2, "Strength": 2 }
+		},
+		"of the Boar": {
+			"id": 1097,
+			"chance": 6.1,
+			"stats": { "Spirit": 2, "Strength": 2 }
+		},
+		"of the Monkey": {
+			"id": 587,
+			"chance": 5.4,
+			"stats": { "Agility": 2, "Stamina": 2 }
+		},
+		"of Power": { "id": 1550, "chance": 5.3, "stats": { "Attack Power": 8 } },
+		"of the Tiger": {
+			"id": 672,
+			"chance": 3.4,
+			"stats": { "Agility": 2, "Strength": 2 }
+		},
+		"of Healing": { "id": 2030, "chance": 0.4, "stats": { "Spell Power": 5 } },
+		"of Intellect": { "id": 26, "chance": 0.2, "stats": { "Intellect": 3 } }
+	},
+	"source": "DROP"
 }

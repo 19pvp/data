@@ -1,18 +1,17 @@
 {
-  "id": 27399,
-  "name": "Stillpine Defender",
-  "icon": "inv_shield_09",
-  "popularity": 14,
-  "armor": 391,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9544,
-  "sourceName": "The Prophecy of Akida"
+	"id": 27399,
+	"name": "Stillpine Defender",
+	"icon": "inv_shield_09",
+	"popularity": 14,
+	"armor": 391,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 9544,
+	"sourceName": "The Prophecy of Akida",
+	"sourceType": "QUEST"
 }

@@ -1,17 +1,14 @@
 {
-  "id": 10401,
-  "name": "Blackened Defias Gloves",
-  "icon": "inv_gauntlets_18",
-  "popularity": 43,
-  "armor": 60,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "agility": 4,
-    "stamina": 6
-  },
-  "sourceType": "DROP",
-  "sourceZone": 1581
+	"id": 10401,
+	"name": "Blackened Defias Gloves",
+	"icon": "inv_gauntlets_18",
+	"popularity": 43,
+	"armor": 60,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Agility": 4, "Stamina": 6 },
+	"source": "DROP",
+	"sourceZone": 1581
 }

@@ -1,19 +1,16 @@
 {
-  "id": 65985,
-  "name": "Cleansed Pauldrons",
-  "icon": "inv_shoulder_14",
-  "popularity": 9,
-  "armor": 123,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "MAIL",
-  "type": "SHOULDERS",
-  "stats": {
-    "stamina": 5,
-    "intellect": 4,
-    "spirit": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26870,
-  "sourceName": "Cleansing the Caverns"
+	"id": 65985,
+	"name": "Cleansed Pauldrons",
+	"icon": "inv_shoulder_14",
+	"popularity": 9,
+	"armor": 123,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "MAIL",
+	"type": "SHOULDERS",
+	"stats": { "Stamina": 5, "Intellect": 4, "Spirit": 4 },
+	"source": "QUEST",
+	"sourceId": 26870,
+	"sourceName": "Cleansing the Caverns",
+	"sourceType": "QUEST"
 }

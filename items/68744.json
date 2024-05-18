@@ -1,15 +1,13 @@
 {
-  "id": 68744,
-  "name": "Imbued Pioneer Cloak",
-  "icon": "inv_misc_cape_03",
-  "popularity": 20,
-  "armor": 16,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "agility": 1
-  },
-  "sourceType": "DROP"
+	"id": 68744,
+	"name": "Imbued Pioneer Cloak",
+	"icon": "inv_misc_cape_03",
+	"popularity": 20,
+	"armor": 16,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Agility": 1 },
+	"source": "DROP"
 }

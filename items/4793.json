@@ -1,16 +1,13 @@
 {
-  "id": 4793,
-  "name": "Sylvan Cloak",
-  "icon": "inv_misc_cape_01",
-  "popularity": 6,
-  "armor": 33,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "stamina": 2,
-    "spirit": 4
-  },
-  "sourceType": "VENDOR"
+	"id": 4793,
+	"name": "Sylvan Cloak",
+	"icon": "inv_misc_cape_01",
+	"popularity": 6,
+	"armor": 33,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Stamina": 2, "Spirit": 4 },
+	"source": "VENDOR"
 }

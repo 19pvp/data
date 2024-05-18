@@ -1,19 +1,17 @@
 {
-  "id": 60896,
-  "name": "Night Watch Vest",
-  "icon": "inv_chest_cloth_45",
-  "popularity": 4,
-  "armor": 91,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "agility": 5,
-    "stamina": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26618,
-  "sourceName": "Wolves at Our Heels"
+	"id": 60896,
+	"name": "Night Watch Vest",
+	"icon": "inv_chest_cloth_45",
+	"popularity": 4,
+	"armor": 91,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Agility": 5, "Stamina": 5 },
+	"source": "QUEST",
+	"sourceId": 26618,
+	"sourceName": "Wolves at Our Heels",
+	"sourceType": "QUEST"
 }

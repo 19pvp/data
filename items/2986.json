@@ -1,16 +1,13 @@
 {
-  "id": 2986,
-  "name": "Inscribed Leather Pants",
-  "icon": "inv_pants_02",
-  "popularity": 6,
-  "armor": 77,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 4,
-    "intellect": 4
-  },
-  "sourceType": "DROP"
+	"id": 2986,
+	"name": "Inscribed Leather Pants",
+	"icon": "inv_pants_02",
+	"popularity": 6,
+	"armor": 77,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Stamina": 4, "Intellect": 4 },
+	"source": "DROP"
 }

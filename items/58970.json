@@ -1,17 +1,15 @@
 {
-  "id": 58970,
-  "name": "Mori's Cloak",
-  "icon": "inv_misc_cape_13",
-  "popularity": 4,
-  "armor": 17,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 1
+	"id": 58970,
+	"name": "Mori's Cloak",
+	"icon": "inv_misc_cape_13",
+	"popularity": 4,
+	"armor": 17,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Intellect": 1 },
+	"source": "QUEST",
+	"sourceZone": 1
 }

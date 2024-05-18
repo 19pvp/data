@@ -1,19 +1,17 @@
 {
-  "id": 28161,
-  "name": "Tranquillien Scale Leggings",
-  "icon": "inv_pants_03",
-  "popularity": 9,
-  "armor": 105,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 3,
-    "intellect": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9172,
-  "sourceName": "Report to Magister Kaendris"
+	"id": 28161,
+	"name": "Tranquillien Scale Leggings",
+	"icon": "inv_pants_03",
+	"popularity": 9,
+	"armor": 105,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Stamina": 3, "Intellect": 2 },
+	"source": "QUEST",
+	"sourceId": 9172,
+	"sourceName": "Report to Magister Kaendris",
+	"sourceType": "QUEST"
 }

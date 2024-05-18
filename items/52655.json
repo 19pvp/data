@@ -1,19 +1,17 @@
 {
-  "id": 52655,
-  "name": "Darkshore Warder's Shield",
-  "icon": "inv_shield_32",
-  "popularity": 9,
-  "armor": 645,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "strength": 3,
-    "stamina": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13897,
-  "sourceName": "The Battle for Darkshore"
+	"id": 52655,
+	"name": "Darkshore Warder's Shield",
+	"icon": "inv_shield_32",
+	"popularity": 9,
+	"armor": 645,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Strength": 3, "Stamina": 5 },
+	"source": "QUEST",
+	"sourceId": 13897,
+	"sourceName": "The Battle for Darkshore",
+	"sourceType": "QUEST"
 }

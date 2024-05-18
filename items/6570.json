@@ -1,13 +1,47 @@
 {
-  "id": 6570,
-  "name": "Shimmering Sash",
-  "icon": "inv_belt_25",
-  "popularity": 25,
-  "armor": 35,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 6570,
+	"name": "Shimmering Sash",
+	"icon": "inv_belt_25",
+	"popularity": 25,
+	"armor": 35,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": {},
+	"rand": {
+		"of the Owl": {
+			"id": 763,
+			"chance": 32.3,
+			"stats": { "Intellect": 4, "Spirit": 4 }
+		},
+		"of the Whale": {
+			"id": 1018,
+			"chance": 24.5,
+			"stats": { "Spirit": 4, "Stamina": 4 }
+		},
+		"of Intellect": { "id": 133, "chance": 15.6, "stats": { "Intellect": 6 } },
+		"of the Eagle": {
+			"id": 848,
+			"chance": 14.6,
+			"stats": { "Intellect": 4, "Stamina": 4 }
+		},
+		"of Healing": { "id": 2032, "chance": 3.7, "stats": { "Spell Power": 7 } },
+		"of the Monkey": {
+			"id": 593,
+			"chance": 3.3,
+			"stats": { "Agility": 4, "Stamina": 4 }
+		},
+		"of Fiery Wrath": {
+			"id": 1880,
+			"chance": 3.3,
+			"stats": { "Fire Spell Damage": 9 }
+		},
+		"of the Wolf": {
+			"id": 508,
+			"chance": 2.7,
+			"stats": { "Agility": 4, "Spirit": 4 }
+		}
+	},
+	"source": "DROP"
 }

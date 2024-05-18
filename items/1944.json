@@ -1,19 +1,17 @@
 {
-  "id": 1944,
-  "name": "Metalworking Gloves",
-  "icon": "inv_gauntlets_04",
-  "popularity": 16,
-  "armor": 60,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "agility": 6,
-    "stamina": 4
-  },
-  "sourceType": "DROP",
-  "sourceId": 1731,
-  "sourceName": "Goblin Craftsman",
-  "sourceZone": 1581
+	"id": 1944,
+	"name": "Metalworking Gloves",
+	"icon": "inv_gauntlets_04",
+	"popularity": 16,
+	"armor": 60,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Agility": 6, "Stamina": 4 },
+	"source": "DROP",
+	"sourceId": 1731,
+	"sourceName": "Goblin Craftsman",
+	"sourceZone": 1581,
+	"sourceType": "NPC"
 }

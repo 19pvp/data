@@ -1,16 +1,13 @@
 {
-  "id": 6378,
-  "name": "Seer's Cape",
-  "icon": "inv_misc_cape_05",
-  "popularity": 6,
-  "armor": 25,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "intellect": 2,
-    "spirit": 2
-  },
-  "sourceType": "DROP"
+	"id": 6378,
+	"name": "Seer's Cape",
+	"icon": "inv_misc_cape_05",
+	"popularity": 6,
+	"armor": 25,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Intellect": 2, "Spirit": 2 },
+	"source": "DROP"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 22985,
-  "name": "Suncrown Hauberk",
-  "icon": "inv_chest_chain",
-  "popularity": 10,
-  "armor": 114,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 4
-  },
-  "sourceType": "VENDOR",
-  "sourceId": 16528,
-  "sourceName": "Provisioner Vredigar",
-  "sourceZone": 3433
+	"id": 22985,
+	"name": "Suncrown Hauberk",
+	"icon": "inv_chest_chain",
+	"popularity": 10,
+	"armor": 114,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Stamina": 4 },
+	"source": "VENDOR",
+	"sourceId": 16528,
+	"sourceName": "Provisioner Vredigar",
+	"sourceZone": 3433,
+	"sourceType": "NPC"
 }

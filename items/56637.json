@@ -1,18 +1,17 @@
 {
-  "id": 56637,
-  "name": "Severed Druid's Leggings",
-  "icon": "inv_pants_leather_21",
-  "popularity": 7,
-  "armor": 80,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "intellect": 7
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13796,
-  "sourceName": "The Forest Heart"
+	"id": 56637,
+	"name": "Severed Druid's Leggings",
+	"icon": "inv_pants_leather_21",
+	"popularity": 7,
+	"armor": 80,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Intellect": 7 },
+	"source": "QUEST",
+	"sourceId": 13796,
+	"sourceName": "The Forest Heart",
+	"sourceType": "QUEST"
 }

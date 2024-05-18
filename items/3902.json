@@ -1,21 +1,19 @@
 {
-  "id": 3902,
-  "name": "Staff of Nobles",
-  "icon": "inv_wand_04",
-  "dmgMin": 45,
-  "dmgMax": 68,
-  "speed": 3.2,
-  "dps": 17.66,
-  "popularity": 10,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "STAFF",
-  "type": "TWO_HAND",
-  "stats": {
-    "stamina": 7,
-    "intellect": 7
-  },
-  "sourceType": "DROP",
-  "sourceId": 596,
-  "sourceName": "Brainwashed Noble"
+	"id": 3902,
+	"name": "Staff of Nobles",
+	"icon": "inv_wand_04",
+	"dmgMin": 45,
+	"dmgMax": 68,
+	"speed": 3.2,
+	"dps": 17.66,
+	"popularity": 10,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "STAFF",
+	"type": "TWO_HAND",
+	"stats": { "Stamina": 7, "Intellect": 7 },
+	"source": "DROP",
+	"sourceId": 596,
+	"sourceName": "Brainwashed Noble",
+	"sourceType": "NPC"
 }

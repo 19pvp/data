@@ -1,20 +1,17 @@
 {
-  "id": 5200,
-  "name": "Impaling Harpoon",
-  "icon": "inv_spear_07",
-  "dmgMin": 47,
-  "dmgMax": 72,
-  "speed": 3.4,
-  "dps": 17.5,
-  "popularity": 5,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "POLEARM",
-  "type": "TWO_HAND",
-  "stats": {
-    "agility": 7,
-    "stamina": 7
-  },
-  "sourceType": "DROP",
-  "sourceZone": 1581
+	"id": 5200,
+	"name": "Impaling Harpoon",
+	"icon": "inv_spear_07",
+	"dmgMin": 47,
+	"dmgMax": 72,
+	"speed": 3.4,
+	"dps": 17.5,
+	"popularity": 5,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "POLEARM",
+	"type": "TWO_HAND",
+	"stats": { "Agility": 7, "Stamina": 7 },
+	"source": "DROP",
+	"sourceZone": 1581
 }

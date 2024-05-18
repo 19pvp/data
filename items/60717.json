@@ -1,19 +1,17 @@
 {
-  "id": 60717,
-  "name": "Everstill Breastplate",
-  "icon": "inv_chest_chain_08",
-  "popularity": 10,
-  "armor": 131,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 4,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26637,
-  "sourceName": "Bravo Company Field Kit: Chloroform"
+	"id": 60717,
+	"name": "Everstill Breastplate",
+	"icon": "inv_chest_chain_08",
+	"popularity": 10,
+	"armor": 131,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Stamina": 4, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 26637,
+	"sourceName": "Bravo Company Field Kit: Chloroform",
+	"sourceType": "QUEST"
 }

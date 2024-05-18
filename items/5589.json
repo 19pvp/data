@@ -1,18 +1,17 @@
 {
-  "id": 5589,
-  "name": "Moss-covered Gauntlets",
-  "icon": "inv_gauntlets_105",
-  "popularity": 12,
-  "armor": 53,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "strength": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 2499,
-  "sourceName": "Oakenscowl"
+	"id": 5589,
+	"name": "Moss-covered Gauntlets",
+	"icon": "inv_gauntlets_105",
+	"popularity": 12,
+	"armor": 53,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Strength": 1 },
+	"source": "QUEST",
+	"sourceId": 2499,
+	"sourceName": "Oakenscowl",
+	"sourceType": "QUEST"
 }

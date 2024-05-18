@@ -1,19 +1,17 @@
 {
-  "id": 60682,
-  "name": "Watch Captain's Cloak",
-  "icon": "inv_misc_cape_13",
-  "popularity": 7,
-  "armor": 23,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "agility": 1,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26504,
-  "sourceName": "Wanted: Redridge Gnolls"
+	"id": 60682,
+	"name": "Watch Captain's Cloak",
+	"icon": "inv_misc_cape_13",
+	"popularity": 7,
+	"armor": 23,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Agility": 1, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 26504,
+	"sourceName": "Wanted: Redridge Gnolls",
+	"sourceType": "QUEST"
 }

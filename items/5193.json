@@ -1,17 +1,14 @@
 {
-  "id": 5193,
-  "name": "Cape of the Brotherhood",
-  "icon": "inv_misc_cape_08",
-  "popularity": 8,
-  "armor": 32,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "agility": 5,
-    "stamina": 3
-  },
-  "sourceType": "DROP",
-  "sourceZone": 1581
+	"id": 5193,
+	"name": "Cape of the Brotherhood",
+	"icon": "inv_misc_cape_08",
+	"popularity": 8,
+	"armor": 32,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Agility": 5, "Stamina": 3 },
+	"source": "DROP",
+	"sourceZone": 1581
 }

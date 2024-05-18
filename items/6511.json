@@ -1,15 +1,13 @@
 {
-  "id": 6511,
-  "name": "Journeyman's Robe",
-  "icon": "inv_shirt_08",
-  "popularity": 19,
-  "armor": 37,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "intellect": 2
-  },
-  "sourceType": "DROP"
+	"id": 6511,
+	"name": "Journeyman's Robe",
+	"icon": "inv_shirt_08",
+	"popularity": 19,
+	"armor": 37,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Intellect": 2 },
+	"source": "DROP"
 }

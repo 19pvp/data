@@ -1,18 +1,17 @@
 {
-  "id": 17922,
-  "name": "Lionfur Armor",
-  "icon": "inv_chest_fur",
-  "popularity": 17,
-  "armor": 52,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "DROP",
-  "sourceId": 5807,
-  "sourceName": "The Rake",
-  "sourceZone": 215
+	"id": 17922,
+	"name": "Lionfur Armor",
+	"icon": "inv_chest_fur",
+	"popularity": 17,
+	"armor": 52,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Intellect": 1 },
+	"source": "DROP",
+	"sourceId": 5807,
+	"sourceName": "The Rake",
+	"sourceZone": 215,
+	"sourceType": "NPC"
 }

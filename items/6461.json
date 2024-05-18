@@ -1,19 +1,17 @@
 {
-  "id": 6461,
-  "name": "Slime-Encrusted Pads",
-  "icon": "inv_shoulder_05",
-  "popularity": 6,
-  "armor": 49,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOTH",
-  "type": "SHOULDERS",
-  "stats": {
-    "intellect": 6,
-    "spirit": 4
-  },
-  "sourceType": "DROP",
-  "sourceId": 3654,
-  "sourceName": "Mutanus the Devourer",
-  "sourceZone": 718
+	"id": 6461,
+	"name": "Slime-Encrusted Pads",
+	"icon": "inv_shoulder_05",
+	"popularity": 6,
+	"armor": 49,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "SHOULDERS",
+	"stats": { "Intellect": 6, "Spirit": 4 },
+	"source": "DROP",
+	"sourceId": 3654,
+	"sourceName": "Mutanus the Devourer",
+	"sourceZone": 718,
+	"sourceType": "NPC"
 }

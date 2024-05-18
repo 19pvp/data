@@ -1,18 +1,17 @@
 {
-  "id": 57569,
-  "name": "Stonehallow's Arm Bands",
-  "icon": "inv_bracer_04",
-  "popularity": 4,
-  "armor": 23,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 433,
-  "sourceName": "The Public Servant"
+	"id": 57569,
+	"name": "Stonehallow's Arm Bands",
+	"icon": "inv_bracer_04",
+	"popularity": 4,
+	"armor": 23,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 433,
+	"sourceName": "The Public Servant",
+	"sourceType": "QUEST"
 }

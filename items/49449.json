@@ -1,18 +1,17 @@
 {
-  "id": 49449,
-  "name": "Britches of Turning Fortune",
-  "icon": "inv_pants_02",
-  "popularity": 8,
-  "armor": 46,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14005,
-  "sourceName": "The Vengeance of Elune"
+	"id": 49449,
+	"name": "Britches of Turning Fortune",
+	"icon": "inv_pants_02",
+	"popularity": 8,
+	"armor": 46,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 14005,
+	"sourceName": "The Vengeance of Elune",
+	"sourceType": "QUEST"
 }

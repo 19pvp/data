@@ -1,19 +1,17 @@
 {
-  "id": 28142,
-  "name": "Farstrider's Belt",
-  "icon": "inv_belt_03",
-  "popularity": 7,
-  "armor": 39,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "agility": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9159,
-  "sourceName": "Curbing the Plague"
+	"id": 28142,
+	"name": "Farstrider's Belt",
+	"icon": "inv_belt_03",
+	"popularity": 7,
+	"armor": 39,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Agility": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 9159,
+	"sourceName": "Curbing the Plague",
+	"sourceType": "QUEST"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 53405,
-  "name": "Bulldozer Vest",
-  "icon": "inv_chest_leather_08",
-  "popularity": 12,
-  "armor": 59,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 1,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14423,
-  "sourceName": "Dozercism"
+	"id": 53405,
+	"name": "Bulldozer Vest",
+	"icon": "inv_chest_leather_08",
+	"popularity": 12,
+	"armor": 59,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Stamina": 1, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 14423,
+	"sourceName": "Dozercism",
+	"sourceType": "QUEST"
 }

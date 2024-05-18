@@ -1,20 +1,17 @@
 {
-  "id": 60730,
-  "name": "Bravo Company Signet",
-  "icon": "inv_jewelry_ring_51naxxramas",
-  "popularity": 10,
-  "armor": 0,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "hit": 3,
-    "strength": 3,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26726,
-  "sourceName": "Triumphant Return"
+	"id": 60730,
+	"name": "Bravo Company Signet",
+	"icon": "inv_jewelry_ring_51naxxramas",
+	"popularity": 10,
+	"armor": 0,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Hit Rating": 3, "Strength": 3, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 26726,
+	"sourceName": "Triumphant Return",
+	"sourceType": "QUEST"
 }

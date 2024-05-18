@@ -1,19 +1,16 @@
 {
-  "id": 65961,
-  "name": "Cobrahn's Boots",
-  "icon": "inv_boots_09",
-  "popularity": 27,
-  "armor": 69,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "crit": 4,
-    "agility": 4,
-    "stamina": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26870,
-  "sourceName": "Cleansing the Caverns"
+	"id": 65961,
+	"name": "Cobrahn's Boots",
+	"icon": "inv_boots_09",
+	"popularity": 27,
+	"armor": 69,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Critical Strike Rating": 4, "Agility": 4, "Stamina": 5 },
+	"source": "QUEST",
+	"sourceId": 26870,
+	"sourceName": "Cleansing the Caverns",
+	"sourceType": "QUEST"
 }

@@ -1,22 +1,22 @@
 {
-  "id": 44095,
-  "name": "Grand Staff of Jordan",
-  "icon": "inv_staff_13",
-  "dmgMin": 58,
-  "dmgMax": 87,
-  "speed": 3.7,
-  "dps": 19.59,
-  "popularity": 117,
-  "class": "WEAPON",
-  "quality": "HEIRLOOM",
-  "subclass": "STAFF",
-  "type": "TWO_HAND",
-  "stats": {
-    "hit": 6,
-    "resilience": 6,
-    "spellPower": 39,
-    "stamina": 10
-  },
-  "sourceType": "VENDOR",
-  "sourceZone": 4197
+	"id": 44095,
+	"name": "Grand Staff of Jordan",
+	"icon": "inv_staff_13",
+	"dmgMin": 58,
+	"dmgMax": 87,
+	"speed": 3.7,
+	"dps": 19.59,
+	"popularity": 117,
+	"class": "WEAPON",
+	"quality": "HEIRLOOM",
+	"subclass": "STAFF",
+	"type": "TWO_HAND",
+	"stats": {
+		"Hit Rating": 6,
+		"Resilience": 6,
+		"Spell Power": 39,
+		"Stamina": 10
+	},
+	"source": "VENDOR",
+	"sourceZone": 4197
 }

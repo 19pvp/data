@@ -1,19 +1,17 @@
 {
-  "id": 59075,
-  "name": "Drunkard's Belt",
-  "icon": "inv_belt_23",
-  "popularity": 27,
-  "armor": 80,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {
-    "hit": 3,
-    "strength": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25722,
-  "sourceName": "Sedimentary, My Dear"
+	"id": 59075,
+	"name": "Drunkard's Belt",
+	"icon": "inv_belt_23",
+	"popularity": 27,
+	"armor": 80,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": { "Hit Rating": 3, "Strength": 3 },
+	"source": "QUEST",
+	"sourceId": 25722,
+	"sourceName": "Sedimentary, My Dear",
+	"sourceType": "QUEST"
 }

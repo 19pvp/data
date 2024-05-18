@@ -1,19 +1,17 @@
 {
-  "id": 65983,
-  "name": "Cookie's Table Cloth",
-  "icon": "inv_misc_cape_15",
-  "popularity": 11,
-  "armor": 28,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "agility": 3,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27790,
-  "sourceName": "The Defias Kingpin"
+	"id": 65983,
+	"name": "Cookie's Table Cloth",
+	"icon": "inv_misc_cape_15",
+	"popularity": 11,
+	"armor": 28,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Agility": 3, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 27790,
+	"sourceName": "The Defias Kingpin",
+	"sourceType": "QUEST"
 }

@@ -1,15 +1,13 @@
 {
-  "id": 68757,
-  "name": "Imbued Pioneer Gloves",
-  "icon": "inv_gauntlets_05",
-  "popularity": 6,
-  "armor": 35,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "DROP"
+	"id": 68757,
+	"name": "Imbued Pioneer Gloves",
+	"icon": "inv_gauntlets_05",
+	"popularity": 6,
+	"armor": 35,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Stamina": 1 },
+	"source": "DROP"
 }

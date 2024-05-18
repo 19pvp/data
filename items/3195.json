@@ -1,16 +1,57 @@
 {
-  "id": 3195,
-  "name": "Barbaric Battle Axe",
-  "icon": "inv_axe_10",
-  "dmgMin": 34,
-  "dmgMax": 52,
-  "speed": 3.6,
-  "dps": 11.94,
-  "popularity": 10,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "TWO_HANDED_AXE",
-  "type": "TWO_HAND",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 3195,
+	"name": "Barbaric Battle Axe",
+	"icon": "inv_axe_10",
+	"dmgMin": 34,
+	"dmgMax": 52,
+	"speed": 3.6,
+	"dps": 11.94,
+	"popularity": 10,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "TWO_HANDED_AXE",
+	"type": "TWO_HAND",
+	"stats": {},
+	"rand": {
+		"of the Monkey": {
+			"id": 590,
+			"chance": 12.8,
+			"stats": { "Agility": 3, "Stamina": 3 }
+		},
+		"of the Wolf": {
+			"id": 505,
+			"chance": 11.1,
+			"stats": { "Agility": 3, "Spirit": 3 }
+		},
+		"of the Eagle": {
+			"id": 845,
+			"chance": 10.9,
+			"stats": { "Intellect": 3, "Stamina": 3 }
+		},
+		"of the Bear": {
+			"id": 1185,
+			"chance": 10.8,
+			"stats": { "Stamina": 3, "Strength": 3 }
+		},
+		"of the Whale": {
+			"id": 1015,
+			"chance": 10.7,
+			"stats": { "Spirit": 3, "Stamina": 3 }
+		},
+		"of the Boar": {
+			"id": 1100,
+			"chance": 10.7,
+			"stats": { "Spirit": 3, "Strength": 3 }
+		},
+		"of the Tiger": {
+			"id": 675,
+			"chance": 10.6,
+			"stats": { "Agility": 3, "Strength": 3 }
+		},
+		"of Stamina": { "id": 114, "chance": 7.5, "stats": { "Stamina": 5 } },
+		"of Strength": { "id": 115, "chance": 6.7, "stats": { "Strength": 5 } },
+		"of Agility": { "id": 111, "chance": 5.8, "stats": { "Agility": 5 } },
+		"of Power": { "id": 1551, "chance": 2.6, "stats": { "Attack Power": 10 } }
+	},
+	"source": "DROP"
 }

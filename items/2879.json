@@ -1,16 +1,14 @@
 {
-  "id": 2879,
-  "name": "Antipodean Rod",
-  "icon": "inv_wand_04",
-  "speed": 1.6,
-  "popularity": 26,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "OFF_HAND_FRILLS",
-  "type": "HELD_IN_OFF_HAND",
-  "stats": {
-    "intellect": 4
-  },
-  "sourceType": "DROP"
+	"id": 2879,
+	"name": "Antipodean Rod",
+	"icon": "inv_wand_04",
+	"speed": 1.6,
+	"popularity": 26,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "OFF_HAND_FRILLS",
+	"type": "HELD_IN_OFF_HAND",
+	"stats": { "Intellect": 4 },
+	"source": "DROP"
 }

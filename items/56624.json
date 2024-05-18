@@ -1,19 +1,15 @@
 {
-  "id": 56624,
-  "name": "Falathim-Washed Robes",
-  "icon": "inv_chest_cloth_01",
-  "popularity": 13,
-  "armor": 60,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "crit": 2,
-    "stamina": 4,
-    "intellect": 5
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 331
+	"id": 56624,
+	"name": "Falathim-Washed Robes",
+	"icon": "inv_chest_cloth_01",
+	"popularity": 13,
+	"armor": 60,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Critical Strike Rating": 2, "Stamina": 4, "Intellect": 5 },
+	"source": "QUEST",
+	"sourceZone": 331
 }

@@ -1,19 +1,17 @@
 {
-  "id": 60703,
-  "name": "Escalation Britches",
-  "icon": "inv_pants_11",
-  "popularity": 17,
-  "armor": 42,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 3,
-    "intellect": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26545,
-  "sourceName": "Yowler Must Die!"
+	"id": 60703,
+	"name": "Escalation Britches",
+	"icon": "inv_pants_11",
+	"popularity": 17,
+	"armor": 42,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Stamina": 3, "Intellect": 2 },
+	"source": "QUEST",
+	"sourceId": 26545,
+	"sourceName": "Yowler Must Die!",
+	"sourceType": "QUEST"
 }

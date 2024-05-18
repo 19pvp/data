@@ -1,17 +1,16 @@
 {
-  "id": 23844,
-  "name": "Nolkai's Lantern",
-  "icon": "inv_misc_lantern_01",
-  "popularity": 14,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "OFF_HAND_FRILLS",
-  "type": "HELD_IN_OFF_HAND",
-  "stats": {
-    "intellect": 3
-  },
-  "sourceType": "DROP",
-  "sourceId": 23846,
-  "sourceName": "Nolkai's Box"
+	"id": 23844,
+	"name": "Nolkai's Lantern",
+	"icon": "inv_misc_lantern_01",
+	"popularity": 14,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "OFF_HAND_FRILLS",
+	"type": "HELD_IN_OFF_HAND",
+	"stats": { "Intellect": 3 },
+	"source": "DROP",
+	"sourceId": 23846,
+	"sourceName": "Nolkai's Box",
+	"sourceType": "ITEM"
 }

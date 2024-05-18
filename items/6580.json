@@ -1,13 +1,53 @@
 {
-  "id": 6580,
-  "name": "Defender Tunic",
-  "icon": "inv_chest_chain_04",
-  "popularity": 18,
-  "armor": 160,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 6580,
+	"name": "Defender Tunic",
+	"icon": "inv_chest_chain_04",
+	"popularity": 18,
+	"armor": 160,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1191,
+			"chance": 42.7,
+			"stats": { "Stamina": 5, "Strength": 5 }
+		},
+		"of the Monkey": {
+			"id": 596,
+			"chance": 9.2,
+			"stats": { "Agility": 5, "Stamina": 5 }
+		},
+		"of the Gorilla": {
+			"id": 936,
+			"chance": 8.9,
+			"stats": { "Intellect": 5, "Strength": 5 }
+		},
+		"of Strength": { "id": 189, "chance": 7.9, "stats": { "Strength": 8 } },
+		"of Stamina": { "id": 184, "chance": 7.9, "stats": { "Stamina": 8 } },
+		"of the Whale": {
+			"id": 1021,
+			"chance": 6.1,
+			"stats": { "Spirit": 5, "Stamina": 5 }
+		},
+		"of the Boar": {
+			"id": 1106,
+			"chance": 5.8,
+			"stats": { "Spirit": 5, "Strength": 5 }
+		},
+		"of Power": { "id": 1554, "chance": 4.8, "stats": { "Attack Power": 16 } },
+		"of the Eagle": {
+			"id": 851,
+			"chance": 3.9,
+			"stats": { "Intellect": 5, "Stamina": 5 }
+		},
+		"of the Tiger": {
+			"id": 681,
+			"chance": 3,
+			"stats": { "Agility": 5, "Strength": 5 }
+		}
+	},
+	"source": "DROP"
 }

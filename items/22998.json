@@ -1,19 +1,17 @@
 {
-  "id": 22998,
-  "name": "Ghostclaw Leggings",
-  "icon": "inv_pants_leather_06",
-  "popularity": 26,
-  "armor": 77,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "agility": 4,
-    "stamina": 4
-  },
-  "sourceType": "DROP",
-  "sourceId": 12258,
-  "sourceName": "Razorlash",
-  "sourceZone": 2100
+	"id": 22998,
+	"name": "Ghostclaw Leggings",
+	"icon": "inv_pants_leather_06",
+	"popularity": 26,
+	"armor": 77,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Agility": 4, "Stamina": 4 },
+	"source": "DROP",
+	"sourceId": 12258,
+	"sourceName": "Razorlash",
+	"sourceZone": 2100,
+	"sourceType": "NPC"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 1360,
-  "name": "Stormwind Chain Gloves",
-  "icon": "inv_gauntlets_105",
-  "popularity": 7,
-  "armor": 53,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 147,
-  "sourceName": "Manhunt"
+	"id": 1360,
+	"name": "Stormwind Chain Gloves",
+	"icon": "inv_gauntlets_105",
+	"popularity": 7,
+	"armor": 53,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 147,
+	"sourceName": "Manhunt",
+	"sourceType": "QUEST"
 }

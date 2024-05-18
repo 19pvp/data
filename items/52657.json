@@ -1,18 +1,17 @@
 {
-  "id": 52657,
-  "name": "Professor's Sandwich Plate",
-  "icon": "inv_shield_09",
-  "popularity": 5,
-  "armor": 541,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13918,
-  "sourceName": "The Titans' Terminal"
+	"id": 52657,
+	"name": "Professor's Sandwich Plate",
+	"icon": "inv_shield_09",
+	"popularity": 5,
+	"armor": 541,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 13918,
+	"sourceName": "The Titans' Terminal",
+	"sourceType": "QUEST"
 }

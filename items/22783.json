@@ -1,25 +1,24 @@
 {
-  "id": 22783,
-  "name": "Sunwell Blade",
-  "icon": "inv_sword_06",
-  "dmgMin": 18,
-  "dmgMax": 34,
-  "speed": 2.6,
-  "dps": 10,
-  "popularity": 10,
-  "side": "HORDE",
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "ONE_HANDED_SWORD",
-  "type": "ONE_HAND",
-  "stats": {
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9176,
-  "sourceName": "The Twin Ziggurats",
-  "use": {
-    "spell": 28516,
-    "text": "Use on Dar'Khan Drathir to release the energy contained in this item causing 500 Arcane damage over 5 sec and silencing the target. (10 Min Cooldown)"
-  }
+	"id": 22783,
+	"name": "Sunwell Blade",
+	"icon": "inv_sword_06",
+	"dmgMin": 18,
+	"dmgMax": 34,
+	"speed": 2.6,
+	"dps": 10,
+	"popularity": 10,
+	"side": "HORDE",
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "ONE_HANDED_SWORD",
+	"type": "ONE_HAND",
+	"stats": { "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 9176,
+	"sourceName": "The Twin Ziggurats",
+	"sourceType": "QUEST",
+	"use": {
+		"spell": 28516,
+		"text": "Use on Dar'Khan Drathir to release the energy contained in this item causing 500 Arcane damage over 5 sec and silencing the target. (10 Min Cooldown)"
+	}
 }

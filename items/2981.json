@@ -1,16 +1,13 @@
 {
-  "id": 2981,
-  "name": "Seer's Robe",
-  "icon": "inv_chest_cloth_08",
-  "popularity": 12,
-  "armor": 60,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "intellect": 6,
-    "spirit": 3
-  },
-  "sourceType": "DROP"
+	"id": 2981,
+	"name": "Seer's Robe",
+	"icon": "inv_chest_cloth_08",
+	"popularity": 12,
+	"armor": 60,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Intellect": 6, "Spirit": 3 },
+	"source": "DROP"
 }

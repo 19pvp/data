@@ -1,18 +1,17 @@
 {
-  "id": 7559,
-  "name": "Runic Cane",
-  "icon": "inv_staff_02",
-  "popularity": 19,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "OFF_HAND_FRILLS",
-  "type": "HELD_IN_OFF_HAND",
-  "stats": {
-    "stamina": 3
-  },
-  "sourceType": "DROP",
-  "sourceId": 5838,
-  "sourceName": "Brokespear",
-  "sourceZone": 17
+	"id": 7559,
+	"name": "Runic Cane",
+	"icon": "inv_staff_02",
+	"popularity": 19,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "OFF_HAND_FRILLS",
+	"type": "HELD_IN_OFF_HAND",
+	"stats": { "Stamina": 3 },
+	"source": "DROP",
+	"sourceId": 5838,
+	"sourceName": "Brokespear",
+	"sourceZone": 17,
+	"sourceType": "NPC"
 }

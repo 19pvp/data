@@ -1,18 +1,14 @@
 {
-  "id": 44102,
-  "name": "Aged Pauldrons of The Five Thunders",
-  "icon": "inv_shoulder_29",
-  "popularity": 27,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "MAIL",
-  "type": "SHOULDERS",
-  "stats": {
-    "resilience": 5,
-    "stamina": 7,
-    "intellect": 5
-  },
-  "sourceType": "VENDOR",
-  "sourceZone": 4197
+	"id": 44102,
+	"name": "Aged Pauldrons of The Five Thunders",
+	"icon": "inv_shoulder_29",
+	"popularity": 27,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "MAIL",
+	"type": "SHOULDERS",
+	"stats": { "Resilience": 5, "Stamina": 7, "Intellect": 5 },
+	"source": "VENDOR",
+	"sourceZone": 4197
 }

@@ -1,19 +1,17 @@
 {
-  "id": 52654,
-  "name": "Forlorn Shield",
-  "icon": "inv_shield_09",
-  "popularity": 5,
-  "armor": 364,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13563,
-  "sourceName": "A Love Eternal"
+	"id": 52654,
+	"name": "Forlorn Shield",
+	"icon": "inv_shield_09",
+	"popularity": 5,
+	"armor": 364,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 13563,
+	"sourceName": "A Love Eternal",
+	"sourceType": "QUEST"
 }

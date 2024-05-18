@@ -1,19 +1,17 @@
 {
-  "id": 52939,
-  "name": "Cage-Launcher's Mail",
-  "icon": "inv_chest_chain_08",
-  "popularity": 10,
-  "armor": 97,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25214,
-  "sourceName": "Escape Velocity"
+	"id": 52939,
+	"name": "Cage-Launcher's Mail",
+	"icon": "inv_chest_chain_08",
+	"popularity": 10,
+	"armor": 97,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 25214,
+	"sourceName": "Escape Velocity",
+	"sourceType": "QUEST"
 }

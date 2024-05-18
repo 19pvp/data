@@ -1,19 +1,17 @@
 {
-  "id": 59081,
-  "name": "Merchant Marine Boots",
-  "icon": "inv_boots_03",
-  "popularity": 5,
-  "armor": 65,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "agility": 3,
-    "stamina": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25801,
-  "sourceName": "Claws from the Deep"
+	"id": 59081,
+	"name": "Merchant Marine Boots",
+	"icon": "inv_boots_03",
+	"popularity": 5,
+	"armor": 65,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Agility": 3, "Stamina": 4 },
+	"source": "QUEST",
+	"sourceId": 25801,
+	"sourceName": "Claws from the Deep",
+	"sourceType": "QUEST"
 }

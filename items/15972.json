@@ -1,14 +1,64 @@
 {
-  "id": 15972,
-  "name": "Ritual Stein",
-  "icon": "inv_drink_08",
-  "speed": 2,
-  "popularity": 9,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "OFF_HAND_FRILLS",
-  "type": "HELD_IN_OFF_HAND",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 15972,
+	"name": "Ritual Stein",
+	"icon": "inv_drink_08",
+	"speed": 2,
+	"popularity": 9,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "OFF_HAND_FRILLS",
+	"type": "HELD_IN_OFF_HAND",
+	"stats": {},
+	"rand": {
+		"of the Eagle": {
+			"id": 845,
+			"chance": 19.8,
+			"stats": { "Intellect": 3, "Stamina": 3 }
+		},
+		"of the Owl": {
+			"id": 760,
+			"chance": 19,
+			"stats": { "Intellect": 3, "Spirit": 3 }
+		},
+		"of the Wolf": {
+			"id": 505,
+			"chance": 13.7,
+			"stats": { "Agility": 3, "Spirit": 3 }
+		},
+		"of Intellect": { "id": 112, "chance": 12.6, "stats": { "Intellect": 5 } },
+		"of the Whale": {
+			"id": 1015,
+			"chance": 11.2,
+			"stats": { "Spirit": 3, "Stamina": 3 }
+		},
+		"of the Falcon": {
+			"id": 234,
+			"chance": 6.7,
+			"stats": { "Agility": 3, "Intellect": 3 }
+		},
+		"of Spirit": { "id": 113, "chance": 5.9, "stats": { "Spirit": 5 } },
+		"of Healing": { "id": 2031, "chance": 2.7, "stats": { "Spell Power": 6 } },
+		"of Fiery Wrath": {
+			"id": 1879,
+			"chance": 2.5,
+			"stats": { "Fire Spell Damage": 7 }
+		},
+		"of Frozen Wrath": {
+			"id": 1955,
+			"chance": 2,
+			"stats": { "Frost Spell Damage": 7 }
+		},
+		"of Arcane Wrath": {
+			"id": 1803,
+			"chance": 1.9,
+			"stats": { "Arcane Spell Damage": 7 }
+		},
+		"of Shadow Wrath": {
+			"id": 1841,
+			"chance": 1.8,
+			"stats": { "Shadow Spell Damage": 7 }
+		}
+	},
+	"source": "DROP"
 }

@@ -1,20 +1,17 @@
 {
-  "id": 53420,
-  "name": "Joanna's Sash",
-  "icon": "inv_belt_26",
-  "popularity": 5,
-  "armor": 30,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "hit": 2,
-    "stamina": 2,
-    "intellect": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14299,
-  "sourceName": "Xylem's Asylum"
+	"id": 53420,
+	"name": "Joanna's Sash",
+	"icon": "inv_belt_26",
+	"popularity": 5,
+	"armor": 30,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Hit Rating": 2, "Stamina": 2, "Intellect": 2 },
+	"source": "QUEST",
+	"sourceId": 14299,
+	"sourceName": "Xylem's Asylum",
+	"sourceType": "QUEST"
 }

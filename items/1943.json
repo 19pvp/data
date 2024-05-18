@@ -1,19 +1,17 @@
 {
-  "id": 1943,
-  "name": "Goblin Mail Leggings",
-  "icon": "inv_pants_03",
-  "popularity": 13,
-  "armor": 138,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "strength": 8,
-    "stamina": 6
-  },
-  "sourceType": "DROP",
-  "sourceId": 3947,
-  "sourceName": "Goblin Shipbuilder",
-  "sourceZone": 1581
+	"id": 1943,
+	"name": "Goblin Mail Leggings",
+	"icon": "inv_pants_03",
+	"popularity": 13,
+	"armor": 138,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Strength": 8, "Stamina": 6 },
+	"source": "DROP",
+	"sourceId": 3947,
+	"sourceName": "Goblin Shipbuilder",
+	"sourceZone": 1581,
+	"sourceType": "NPC"
 }

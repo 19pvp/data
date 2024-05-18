@@ -1,13 +1,65 @@
 {
-  "id": 15312,
-  "name": "Feral Leggings",
-  "icon": "inv_pants_06",
-  "popularity": 9,
-  "armor": 77,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 15312,
+	"name": "Feral Leggings",
+	"icon": "inv_pants_06",
+	"popularity": 9,
+	"armor": 77,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": {},
+	"rand": {
+		"of the Monkey": {
+			"id": 593,
+			"chance": 21.4,
+			"stats": { "Agility": 4, "Stamina": 4 }
+		},
+		"of the Eagle": {
+			"id": 848,
+			"chance": 16.7,
+			"stats": { "Intellect": 4, "Stamina": 4 }
+		},
+		"of the Owl": {
+			"id": 763,
+			"chance": 12.3,
+			"stats": { "Intellect": 4, "Spirit": 4 }
+		},
+		"of the Whale": {
+			"id": 1018,
+			"chance": 8.8,
+			"stats": { "Spirit": 4, "Stamina": 4 }
+		},
+		"of Agility": { "id": 151, "chance": 8.7, "stats": { "Agility": 7 } },
+		"of the Falcon": {
+			"id": 248,
+			"chance": 7.8,
+			"stats": { "Agility": 4, "Intellect": 4 }
+		},
+		"of the Bear": {
+			"id": 1188,
+			"chance": 4.8,
+			"stats": { "Stamina": 4, "Strength": 4 }
+		},
+		"of Spirit": { "id": 153, "chance": 4.8, "stats": { "Spirit": 7 } },
+		"of Power": { "id": 1553, "chance": 4.5, "stats": { "Attack Power": 14 } },
+		"of the Wolf": {
+			"id": 508,
+			"chance": 4.1,
+			"stats": { "Agility": 4, "Spirit": 4 }
+		},
+		"of the Gorilla": {
+			"id": 933,
+			"chance": 3.9,
+			"stats": { "Intellect": 4, "Strength": 4 }
+		},
+		"of Healing": { "id": 2033, "chance": 1, "stats": { "Spell Power": 8 } },
+		"of Arcane Wrath": {
+			"id": 1805,
+			"chance": 0.8,
+			"stats": { "Arcane Spell Damage": 10 }
+		},
+		"of Intellect": { "id": 133, "chance": 0.6, "stats": { "Intellect": 6 } }
+	},
+	"source": "DROP"
 }

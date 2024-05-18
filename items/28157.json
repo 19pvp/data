@@ -1,19 +1,17 @@
 {
-  "id": 28157,
-  "name": "Black Leather Jerkin",
-  "icon": "inv_chest_leather_08",
-  "popularity": 10,
-  "armor": 74,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "agility": 3,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9172,
-  "sourceName": "Report to Magister Kaendris"
+	"id": 28157,
+	"name": "Black Leather Jerkin",
+	"icon": "inv_chest_leather_08",
+	"popularity": 10,
+	"armor": 74,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Agility": 3, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 9172,
+	"sourceName": "Report to Magister Kaendris",
+	"sourceType": "QUEST"
 }

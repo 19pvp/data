@@ -1,16 +1,13 @@
 {
-  "id": 12994,
-  "name": "Thorbia's Gauntlets",
-  "icon": "inv_gauntlets_11",
-  "popularity": 9,
-  "armor": 110,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "strength": 8,
-    "stamina": 3
-  },
-  "sourceType": "DROP"
+	"id": 12994,
+	"name": "Thorbia's Gauntlets",
+	"icon": "inv_gauntlets_11",
+	"popularity": 9,
+	"armor": 110,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Strength": 8, "Stamina": 3 },
+	"source": "DROP"
 }

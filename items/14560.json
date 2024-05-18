@@ -1,16 +1,13 @@
 {
-  "id": 14560,
-  "name": "Prospector's Boots",
-  "icon": "inv_boots_05",
-  "popularity": 9,
-  "armor": 58,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "stamina": 2,
-    "spirit": 3
-  },
-  "sourceType": "DROP"
+	"id": 14560,
+	"name": "Prospector's Boots",
+	"icon": "inv_boots_05",
+	"popularity": 9,
+	"armor": 58,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Stamina": 2, "Spirit": 3 },
+	"source": "DROP"
 }

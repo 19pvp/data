@@ -1,18 +1,17 @@
 {
-  "id": 2241,
-  "name": "Desperado Cape",
-  "icon": "inv_misc_cape_04",
-  "popularity": 5,
-  "armor": 29,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "stamina": 3
-  },
-  "sourceType": "DROP",
-  "sourceId": 1399,
-  "sourceName": "Magosh",
-  "sourceZone": 38
+	"id": 2241,
+	"name": "Desperado Cape",
+	"icon": "inv_misc_cape_04",
+	"popularity": 5,
+	"armor": 29,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Stamina": 3 },
+	"source": "DROP",
+	"sourceId": 1399,
+	"sourceName": "Magosh",
+	"sourceZone": 38,
+	"sourceType": "NPC"
 }

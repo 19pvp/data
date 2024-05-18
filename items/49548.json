@@ -1,18 +1,16 @@
 {
-  "id": 49548,
-  "name": "Gazlowe's Gloves",
-  "icon": "inv_gauntlets_24",
-  "popularity": 26,
-  "armor": 46,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "agility": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 895,
-  "sourceName": "WANTED: Cap'n Garvey"
+	"id": 49548,
+	"name": "Gazlowe's Gloves",
+	"icon": "inv_gauntlets_24",
+	"popularity": 26,
+	"armor": 46,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Agility": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 895,
+	"sourceName": "WANTED: Cap'n Garvey",
+	"sourceType": "QUEST"
 }

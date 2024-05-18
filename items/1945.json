@@ -1,19 +1,17 @@
 {
-  "id": 1945,
-  "name": "Woodworking Gloves",
-  "icon": "inv_gauntlets_21",
-  "popularity": 8,
-  "armor": 60,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 4,
-    "intellect": 6
-  },
-  "sourceType": "DROP",
-  "sourceId": 641,
-  "sourceName": "Goblin Woodcarver",
-  "sourceZone": 1581
+	"id": 1945,
+	"name": "Woodworking Gloves",
+	"icon": "inv_gauntlets_21",
+	"popularity": 8,
+	"armor": 60,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Stamina": 4, "Intellect": 6 },
+	"source": "DROP",
+	"sourceId": 641,
+	"sourceName": "Goblin Woodcarver",
+	"sourceZone": 1581,
+	"sourceType": "NPC"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 24440,
-  "name": "Heavy Chain Leggings",
-  "icon": "inv_pants_03",
-  "popularity": 5,
-  "armor": 80,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9564,
-  "sourceName": "Gurf's Dignity"
+	"id": 24440,
+	"name": "Heavy Chain Leggings",
+	"icon": "inv_pants_03",
+	"popularity": 5,
+	"armor": 80,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 9564,
+	"sourceName": "Gurf's Dignity",
+	"sourceType": "QUEST"
 }

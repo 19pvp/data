@@ -1,19 +1,17 @@
 {
-  "id": 65674,
-  "name": "Star Pony Leggings",
-  "icon": "inv_pants_05",
-  "popularity": 5,
-  "armor": 52,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 5,
-    "intellect": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 28231,
-  "sourceName": "Do it for Twinkles"
+	"id": 65674,
+	"name": "Star Pony Leggings",
+	"icon": "inv_pants_05",
+	"popularity": 5,
+	"armor": 52,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Stamina": 5, "Intellect": 4 },
+	"source": "QUEST",
+	"sourceId": 28231,
+	"sourceName": "Do it for Twinkles",
+	"sourceType": "QUEST"
 }

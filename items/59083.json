@@ -1,18 +1,17 @@
 {
-  "id": 59083,
-  "name": "Sash of the Blind Princess",
-  "icon": "inv_belt_17",
-  "popularity": 4,
-  "armor": 35,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25805,
-  "sourceName": "Return the Statuette"
+	"id": 59083,
+	"name": "Sash of the Blind Princess",
+	"icon": "inv_belt_17",
+	"popularity": 4,
+	"armor": 35,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Stamina": 5 },
+	"source": "QUEST",
+	"sourceId": 25805,
+	"sourceName": "Return the Statuette",
+	"sourceType": "QUEST"
 }

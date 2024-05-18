@@ -1,18 +1,17 @@
 {
-  "id": 24340,
-  "name": "Vandril's Hand Me Down Pants",
-  "icon": "inv_pants_10",
-  "popularity": 9,
-  "armor": 32,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "spirit": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9315,
-  "sourceName": "Anok'suten"
+	"id": 24340,
+	"name": "Vandril's Hand Me Down Pants",
+	"icon": "inv_pants_10",
+	"popularity": 9,
+	"armor": 32,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Spirit": 1 },
+	"source": "QUEST",
+	"sourceId": 9315,
+	"sourceName": "Anok'suten",
+	"sourceType": "QUEST"
 }

@@ -1,20 +1,17 @@
 {
-  "id": 66040,
-  "name": "Searing Belt",
-  "icon": "inv_belt_45a",
-  "popularity": 5,
-  "armor": 74,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 4,
-    "intellect": 3,
-    "spirit": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26858,
-  "sourceName": "Taragaman the Hungerer"
+	"id": 66040,
+	"name": "Searing Belt",
+	"icon": "inv_belt_45a",
+	"popularity": 5,
+	"armor": 74,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": { "Stamina": 4, "Intellect": 3, "Spirit": 3 },
+	"source": "QUEST",
+	"sourceId": 26858,
+	"sourceName": "Taragaman the Hungerer",
+	"sourceType": "QUEST"
 }

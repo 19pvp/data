@@ -1,18 +1,17 @@
 {
-  "id": 2021,
-  "name": "Green Carapace Shield",
-  "icon": "inv_misc_monsterspidercarapace_01",
-  "popularity": 5,
-  "armor": 611,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "natureResistance": 4
-  },
-  "sourceType": "DROP",
-  "sourceId": 569,
-  "sourceName": "Green Recluse",
-  "sourceZone": 10
+	"id": 2021,
+	"name": "Green Carapace Shield",
+	"icon": "inv_misc_monsterspidercarapace_01",
+	"popularity": 5,
+	"armor": 611,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Nature Resistance": 4 },
+	"source": "DROP",
+	"sourceId": 569,
+	"sourceName": "Green Recluse",
+	"sourceZone": 10,
+	"sourceType": "NPC"
 }

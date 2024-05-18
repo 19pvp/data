@@ -1,19 +1,17 @@
 {
-  "id": 52627,
-  "name": "Gloves of the Mailed Fist",
-  "icon": "inv_gauntlets_04",
-  "popularity": 22,
-  "armor": 64,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13519,
-  "sourceName": "The Twilight's Hammer"
+	"id": 52627,
+	"name": "Gloves of the Mailed Fist",
+	"icon": "inv_gauntlets_04",
+	"popularity": 22,
+	"armor": 64,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 13519,
+	"sourceName": "The Twilight's Hammer",
+	"sourceType": "QUEST"
 }

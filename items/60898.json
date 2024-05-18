@@ -1,19 +1,17 @@
 {
-  "id": 60898,
-  "name": "Ghost Hair Band",
-  "icon": "inv_jewelry_ring_69",
-  "popularity": 20,
-  "armor": 0,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "agility": 2,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26655,
-  "sourceName": "Deliver the Thread"
+	"id": 60898,
+	"name": "Ghost Hair Band",
+	"icon": "inv_jewelry_ring_69",
+	"popularity": 20,
+	"armor": 0,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Agility": 2, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 26655,
+	"sourceName": "Deliver the Thread",
+	"sourceType": "QUEST"
 }

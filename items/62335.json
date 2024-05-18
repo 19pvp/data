@@ -1,18 +1,17 @@
 {
-  "id": 62335,
-  "name": "Thrall's Gift",
-  "icon": "inv_bracer_04",
-  "popularity": 19,
-  "armor": 29,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "agility": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25265,
-  "sourceName": "Victory!"
+	"id": 62335,
+	"name": "Thrall's Gift",
+	"icon": "inv_bracer_04",
+	"popularity": 19,
+	"armor": 29,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Agility": 3 },
+	"source": "QUEST",
+	"sourceId": 25265,
+	"sourceName": "Victory!",
+	"sourceType": "QUEST"
 }

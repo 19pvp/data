@@ -1,16 +1,13 @@
 {
-  "id": 14743,
-  "name": "Hulking Bands",
-  "icon": "inv_bracer_09",
-  "popularity": 21,
-  "armor": 68,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WRISTS",
-  "stats": {
-    "stamina": 3,
-    "spirit": 2
-  },
-  "sourceType": "DROP"
+	"id": 14743,
+	"name": "Hulking Bands",
+	"icon": "inv_bracer_09",
+	"popularity": 21,
+	"armor": 68,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WRISTS",
+	"stats": { "Stamina": 3, "Spirit": 2 },
+	"source": "DROP"
 }

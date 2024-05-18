@@ -1,17 +1,14 @@
 {
-  "id": 6341,
-  "name": "Eerie Stable Lantern",
-  "icon": "inv_misc_lantern_01",
-  "popularity": 13,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "OFF_HAND_FRILLS",
-  "type": "HELD_IN_OFF_HAND",
-  "stats": {
-    "stamina": 4,
-    "intellect": 4
-  },
-  "sourceType": "DROP",
-  "sourceZone": 209
+	"id": 6341,
+	"name": "Eerie Stable Lantern",
+	"icon": "inv_misc_lantern_01",
+	"popularity": 13,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "OFF_HAND_FRILLS",
+	"type": "HELD_IN_OFF_HAND",
+	"stats": { "Stamina": 4, "Intellect": 4 },
+	"source": "DROP",
+	"sourceZone": 209
 }

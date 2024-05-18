@@ -1,17 +1,13 @@
 {
-  "id": 12977,
-  "name": "Magefist Gloves",
-  "icon": "inv_gauntlets_27",
-  "popularity": 26,
-  "armor": 39,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 3,
-    "intellect": 5,
-    "spirit": 4
-  },
-  "sourceType": "DROP"
+	"id": 12977,
+	"name": "Magefist Gloves",
+	"icon": "inv_gauntlets_27",
+	"popularity": 26,
+	"armor": 39,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": { "Stamina": 3, "Intellect": 5, "Spirit": 4 },
+	"source": "DROP"
 }

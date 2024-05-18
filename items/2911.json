@@ -1,16 +1,13 @@
 {
-  "id": 2911,
-  "name": "Keller's Girdle",
-  "icon": "inv_belt_04",
-  "popularity": 7,
-  "armor": 40,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 3,
-    "intellect": 8
-  },
-  "sourceType": "DROP"
+	"id": 2911,
+	"name": "Keller's Girdle",
+	"icon": "inv_belt_04",
+	"popularity": 7,
+	"armor": 40,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Stamina": 3, "Intellect": 8 },
+	"source": "DROP"
 }

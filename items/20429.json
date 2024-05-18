@@ -1,21 +1,18 @@
 {
-  "id": 20429,
-  "name": "Legionnaire's Band",
-  "icon": "inv_jewelry_ring_21",
-  "popularity": 24,
-  "armor": 0,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "strength": 4,
-    "agility": 4,
-    "stamina": 2
-  },
-  "sourceType": "VENDOR",
-  "sourceId": 14754,
-  "sourceName": "Kelm Hargunth",
-  "sourceZone": 17
+	"id": 20429,
+	"name": "Legionnaire's Band",
+	"icon": "inv_jewelry_ring_21",
+	"popularity": 24,
+	"armor": 0,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Strength": 4, "Agility": 4, "Stamina": 2 },
+	"source": "VENDOR",
+	"sourceId": 14754,
+	"sourceName": "Kelm Hargunth",
+	"sourceZone": 17,
+	"sourceType": "NPC"
 }

@@ -1,15 +1,13 @@
 {
-  "id": 68753,
-  "name": "Imbued Infantry Bracers",
-  "icon": "inv_bracer_14",
-  "popularity": 5,
-  "armor": 37,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WRISTS",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "DROP"
+	"id": 68753,
+	"name": "Imbued Infantry Bracers",
+	"icon": "inv_bracer_14",
+	"popularity": 5,
+	"armor": 37,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WRISTS",
+	"stats": { "Stamina": 1 },
+	"source": "DROP"
 }

@@ -1,20 +1,19 @@
 {
-  "id": 6969,
-  "name": "Elunite Dagger",
-  "icon": "inv_weapon_shortblade_05",
-  "dmgMin": 9,
-  "dmgMax": 17,
-  "speed": 1.7,
-  "dps": 7.65,
-  "popularity": 5,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "DAGGER",
-  "type": "ONE_HAND",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 1693,
-  "sourceName": "Weapons of Elunite"
+	"id": 6969,
+	"name": "Elunite Dagger",
+	"icon": "inv_weapon_shortblade_05",
+	"dmgMin": 9,
+	"dmgMax": 17,
+	"speed": 1.7,
+	"dps": 7.65,
+	"popularity": 5,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "DAGGER",
+	"type": "ONE_HAND",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 1693,
+	"sourceName": "Weapons of Elunite",
+	"sourceType": "QUEST"
 }

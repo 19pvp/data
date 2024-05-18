@@ -1,19 +1,17 @@
 {
-  "id": 26007,
-  "name": "Vindicator's Woolies",
-  "icon": "inv_pants_11",
-  "popularity": 15,
-  "armor": 44,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 4,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9711,
-  "sourceName": "Matis the Cruel"
+	"id": 26007,
+	"name": "Vindicator's Woolies",
+	"icon": "inv_pants_11",
+	"popularity": 15,
+	"armor": 44,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Stamina": 4, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 9711,
+	"sourceName": "Matis the Cruel",
+	"sourceType": "QUEST"
 }

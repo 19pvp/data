@@ -1,20 +1,17 @@
 {
-  "id": 6641,
-  "name": "Haunting Blade",
-  "icon": "inv_sword_17",
-  "dmgMin": 55,
-  "dmgMax": 84,
-  "speed": 3.8,
-  "dps": 18.29,
-  "popularity": 21,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "TWO_HANDED_SWORD",
-  "type": "TWO_HAND",
-  "stats": {
-    "hit": 6,
-    "strength": 8
-  },
-  "sourceType": "DROP",
-  "sourceZone": 209
+	"id": 6641,
+	"name": "Haunting Blade",
+	"icon": "inv_sword_17",
+	"dmgMin": 55,
+	"dmgMax": 84,
+	"speed": 3.8,
+	"dps": 18.29,
+	"popularity": 21,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "TWO_HANDED_SWORD",
+	"type": "TWO_HAND",
+	"stats": { "Hit Rating": 6, "Strength": 8 },
+	"source": "DROP",
+	"sourceZone": 209
 }

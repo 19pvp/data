@@ -1,15 +1,13 @@
 {
-  "id": 2961,
-  "name": "Burnt Leather Vest",
-  "icon": "inv_shirt_09",
-  "popularity": 15,
-  "armor": 56,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "spirit": 2
-  },
-  "sourceType": "DROP"
+	"id": 2961,
+	"name": "Burnt Leather Vest",
+	"icon": "inv_shirt_09",
+	"popularity": 15,
+	"armor": 56,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Spirit": 2 },
+	"source": "DROP"
 }

@@ -1,16 +1,13 @@
 {
-  "id": 3313,
-  "name": "Ceremonial Leather Harness",
-  "icon": "inv_chest_leather_04",
-  "popularity": 20,
-  "armor": 81,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "hit": 3,
-    "agility": 4
-  },
-  "sourceType": "DROP"
+	"id": 3313,
+	"name": "Ceremonial Leather Harness",
+	"icon": "inv_chest_leather_04",
+	"popularity": 20,
+	"armor": 81,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Hit Rating": 3, "Agility": 4 },
+	"source": "DROP"
 }

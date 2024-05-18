@@ -1,18 +1,15 @@
 {
-  "id": 56626,
-  "name": "Maestra's Gloves",
-  "icon": "inv_gauntlets_29",
-  "popularity": 5,
-  "armor": 93,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 3,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 331
+	"id": 56626,
+	"name": "Maestra's Gloves",
+	"icon": "inv_gauntlets_29",
+	"popularity": 5,
+	"armor": 93,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Stamina": 3, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceZone": 331
 }

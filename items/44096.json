@@ -1,23 +1,21 @@
 {
-  "id": 44096,
-  "name": "Battleworn Thrash Blade",
-  "icon": "inv_sword_36",
-  "dmgMin": 25,
-  "dmgMax": 47,
-  "speed": 2.4,
-  "dps": 15,
-  "popularity": 65,
-  "class": "WEAPON",
-  "quality": "HEIRLOOM",
-  "subclass": "ONE_HANDED_SWORD",
-  "type": "ONE_HAND",
-  "stats": {
-    "resilience": 3
-  },
-  "sourceType": "VENDOR",
-  "sourceZone": 4197,
-  "chanceOnHit": {
-    "spell": 59830,
-    "text": "Grants an extra attack on your next swing."
-  }
+	"id": 44096,
+	"name": "Battleworn Thrash Blade",
+	"icon": "inv_sword_36",
+	"dmgMin": 25,
+	"dmgMax": 47,
+	"speed": 2.4,
+	"dps": 15,
+	"popularity": 65,
+	"class": "WEAPON",
+	"quality": "HEIRLOOM",
+	"subclass": "ONE_HANDED_SWORD",
+	"type": "ONE_HAND",
+	"stats": { "Resilience": 3 },
+	"source": "VENDOR",
+	"sourceZone": 4197,
+	"chanceOnHit": {
+		"spell": 59830,
+		"text": "Grants an extra attack on your next swing."
+	}
 }

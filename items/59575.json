@@ -1,20 +1,17 @@
 {
-  "id": 59575,
-  "name": "Uninsured Bracers",
-  "icon": "inv_bracer_02",
-  "popularity": 28,
-  "armor": 37,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "crit": 3,
-    "stamina": 3,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14063,
-  "sourceName": "Mutiny, Mon!"
+	"id": 59575,
+	"name": "Uninsured Bracers",
+	"icon": "inv_bracer_02",
+	"popularity": 28,
+	"armor": 37,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Critical Strike Rating": 3, "Stamina": 3, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 14063,
+	"sourceName": "Mutiny, Mon!",
+	"sourceType": "QUEST"
 }

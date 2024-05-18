@@ -1,16 +1,13 @@
 {
-  "id": 12985,
-  "name": "Ring of Defense",
-  "icon": "inv_jewelry_ring_28",
-  "popularity": 3,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "dodge": 6,
-    "armor": 8
-  },
-  "sourceType": "DROP"
+	"id": 12985,
+	"name": "Ring of Defense",
+	"icon": "inv_jewelry_ring_28",
+	"popularity": 3,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Dodge Rating": 6, "Armor": 8 },
+	"source": "DROP"
 }

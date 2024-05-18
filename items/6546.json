@@ -1,13 +1,54 @@
 {
-  "id": 6546,
-  "name": "Soldier's Leggings",
-  "icon": "inv_pants_10",
-  "popularity": 7,
-  "armor": 110,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 6546,
+	"name": "Soldier's Leggings",
+	"icon": "inv_pants_10",
+	"popularity": 7,
+	"armor": 110,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1185,
+			"chance": 45,
+			"stats": { "Stamina": 3, "Strength": 3 }
+		},
+		"of the Whale": {
+			"id": 1015,
+			"chance": 13.4,
+			"stats": { "Spirit": 3, "Stamina": 3 }
+		},
+		"of Strength": { "id": 115, "chance": 8.2, "stats": { "Strength": 5 } },
+		"of Power": { "id": 1551, "chance": 8.2, "stats": { "Attack Power": 10 } },
+		"of the Eagle": {
+			"id": 845,
+			"chance": 6.4,
+			"stats": { "Intellect": 3, "Stamina": 3 }
+		},
+		"of the Boar": {
+			"id": 1100,
+			"chance": 6.4,
+			"stats": { "Spirit": 3, "Strength": 3 }
+		},
+		"of the Monkey": {
+			"id": 590,
+			"chance": 4.8,
+			"stats": { "Agility": 3, "Stamina": 3 }
+		},
+		"of the Gorilla": {
+			"id": 930,
+			"chance": 3.9,
+			"stats": { "Intellect": 3, "Strength": 3 }
+		},
+		"of the Tiger": {
+			"id": 675,
+			"chance": 3.1,
+			"stats": { "Agility": 3, "Strength": 3 }
+		},
+		"of Healing": { "id": 2031, "chance": 0.4, "stats": { "Spell Power": 6 } },
+		"of Intellect": { "id": 112, "chance": 0.2, "stats": { "Intellect": 5 } }
+	},
+	"source": "DROP"
 }

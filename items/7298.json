@@ -1,19 +1,17 @@
 {
-  "id": 7298,
-  "name": "Blade of Cunning",
-  "icon": "inv_weapon_shortblade_26",
-  "dmgMin": 7,
-  "dmgMax": 14,
-  "speed": 2,
-  "dps": 5.25,
-  "popularity": 8,
-  "side": "ALLIANCE",
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "DAGGER",
-  "type": "ONE_HAND",
-  "stats": {
-    "agility": 1
-  },
-  "sourceType": "QUEST"
+	"id": 7298,
+	"name": "Blade of Cunning",
+	"icon": "inv_weapon_shortblade_26",
+	"dmgMin": 7,
+	"dmgMax": 14,
+	"speed": 2,
+	"dps": 5.25,
+	"popularity": 8,
+	"side": "ALLIANCE",
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "DAGGER",
+	"type": "ONE_HAND",
+	"stats": { "Agility": 1 },
+	"source": "QUEST"
 }

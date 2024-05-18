@@ -1,19 +1,17 @@
 {
-  "id": 52656,
-  "name": "Scorched Shield",
-  "icon": "inv_shield_09",
-  "popularity": 10,
-  "armor": 328,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "stamina": 1,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13576,
-  "sourceName": "Mutual Aid"
+	"id": 52656,
+	"name": "Scorched Shield",
+	"icon": "inv_shield_09",
+	"popularity": 10,
+	"armor": 328,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Stamina": 1, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 13576,
+	"sourceName": "Mutual Aid",
+	"sourceType": "QUEST"
 }

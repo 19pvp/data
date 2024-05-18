@@ -1,15 +1,13 @@
 {
-  "id": 4788,
-  "name": "Agile Boots",
-  "icon": "inv_boots_05",
-  "popularity": 19,
-  "armor": 60,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "agility": 5
-  },
-  "sourceType": "VENDOR"
+	"id": 4788,
+	"name": "Agile Boots",
+	"icon": "inv_boots_05",
+	"popularity": 19,
+	"armor": 60,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Agility": 5 },
+	"source": "VENDOR"
 }

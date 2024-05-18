@@ -1,19 +1,17 @@
 {
-  "id": 28158,
-  "name": "Batskin Belt",
-  "icon": "inv_belt_09",
-  "popularity": 20,
-  "armor": 43,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "agility": 2,
-    "stamina": 3
-  },
-  "sourceType": "VENDOR",
-  "sourceId": 16528,
-  "sourceName": "Provisioner Vredigar",
-  "sourceZone": 3433
+	"id": 28158,
+	"name": "Batskin Belt",
+	"icon": "inv_belt_09",
+	"popularity": 20,
+	"armor": 43,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Agility": 2, "Stamina": 3 },
+	"source": "VENDOR",
+	"sourceId": 16528,
+	"sourceName": "Provisioner Vredigar",
+	"sourceZone": 3433,
+	"sourceType": "NPC"
 }

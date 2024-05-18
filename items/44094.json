@@ -1,22 +1,17 @@
 {
-  "id": 44094,
-  "name": "The Blessed Hammer of Grace",
-  "icon": "inv_hammer_07",
-  "dmgMin": 28,
-  "dmgMax": 53,
-  "speed": 2.7,
-  "dps": 15,
-  "popularity": 41,
-  "class": "WEAPON",
-  "quality": "HEIRLOOM",
-  "subclass": "ONE_HANDED_MACE",
-  "type": "MAIN_HAND",
-  "stats": {
-    "resilience": 3,
-    "spellPower": 39,
-    "stamina": 3,
-    "spirit": 2
-  },
-  "sourceType": "VENDOR",
-  "sourceZone": 4197
+	"id": 44094,
+	"name": "The Blessed Hammer of Grace",
+	"icon": "inv_hammer_07",
+	"dmgMin": 28,
+	"dmgMax": 53,
+	"speed": 2.7,
+	"dps": 15,
+	"popularity": 41,
+	"class": "WEAPON",
+	"quality": "HEIRLOOM",
+	"subclass": "ONE_HANDED_MACE",
+	"type": "MAIN_HAND",
+	"stats": { "Resilience": 3, "Spell Power": 39, "Stamina": 3, "Spirit": 2 },
+	"source": "VENDOR",
+	"sourceZone": 4197
 }

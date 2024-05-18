@@ -1,18 +1,18 @@
 {
-  "id": 61937,
-  "name": "Stained Shadowcraft Cap",
-  "icon": "inv_helmet_41",
-  "popularity": 183,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "LEATHER",
-  "type": "HEAD",
-  "stats": {
-    "crit": 5,
-    "hit": 4,
-    "agility": 20,
-    "stamina": 28
-  },
-  "sourceType": "VENDOR"
+	"id": 61937,
+	"name": "Stained Shadowcraft Cap",
+	"icon": "inv_helmet_41",
+	"popularity": 183,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "LEATHER",
+	"type": "HEAD",
+	"stats": {
+		"Critical Strike Rating": 5,
+		"Hit Rating": 4,
+		"Agility": 20,
+		"Stamina": 28
+	},
+	"source": "VENDOR"
 }

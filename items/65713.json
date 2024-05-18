@@ -1,19 +1,17 @@
 {
-  "id": 65713,
-  "name": "Monstrous Shield",
-  "icon": "inv_shield_12",
-  "popularity": 16,
-  "armor": 611,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "strength": 2,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 28209,
-  "sourceName": "Freedom for Lydon"
+	"id": 65713,
+	"name": "Monstrous Shield",
+	"icon": "inv_shield_12",
+	"popularity": 16,
+	"armor": 611,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Strength": 2, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 28209,
+	"sourceName": "Freedom for Lydon",
+	"sourceType": "QUEST"
 }

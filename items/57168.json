@@ -1,18 +1,17 @@
 {
-  "id": 57168,
-  "name": "Reaper's Buckler",
-  "icon": "inv_shield_09",
-  "popularity": 24,
-  "armor": 337,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25013,
-  "sourceName": "A Little Oomph"
+	"id": 57168,
+	"name": "Reaper's Buckler",
+	"icon": "inv_shield_09",
+	"popularity": 24,
+	"armor": 337,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 25013,
+	"sourceName": "A Little Oomph",
+	"sourceType": "QUEST"
 }

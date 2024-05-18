@@ -1,19 +1,17 @@
 {
-  "id": 6179,
-  "name": "Privateer's Cape",
-  "icon": "inv_misc_cape_02",
-  "popularity": 10,
-  "armor": 28,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "agility": 2,
-    "stamina": 2
-  },
-  "sourceType": "DROP",
-  "sourceId": 520,
-  "sourceName": "Brack",
-  "sourceZone": 40
+	"id": 6179,
+	"name": "Privateer's Cape",
+	"icon": "inv_misc_cape_02",
+	"popularity": 10,
+	"armor": 28,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Agility": 2, "Stamina": 2 },
+	"source": "DROP",
+	"sourceId": 520,
+	"sourceName": "Brack",
+	"sourceZone": 40,
+	"sourceType": "NPC"
 }

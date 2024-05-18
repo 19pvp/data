@@ -1,18 +1,17 @@
 {
-  "id": 60699,
-  "name": "Bailiff's Gloves",
-  "icon": "inv_gauntlets_11",
-  "popularity": 17,
-  "armor": 75,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "strength": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26511,
-  "sourceName": "Lake Everstill Clean Up"
+	"id": 60699,
+	"name": "Bailiff's Gloves",
+	"icon": "inv_gauntlets_11",
+	"popularity": 17,
+	"armor": 75,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Strength": 3 },
+	"source": "QUEST",
+	"sourceId": 26511,
+	"sourceName": "Lake Everstill Clean Up",
+	"sourceType": "QUEST"
 }

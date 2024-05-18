@@ -1,18 +1,17 @@
 {
-  "id": 59534,
-  "name": "Boar Hunter's Boots",
-  "icon": "inv_boots_06",
-  "popularity": 4,
-  "armor": 41,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "agility": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13968,
-  "sourceName": "The Tortusk Takedown"
+	"id": 59534,
+	"name": "Boar Hunter's Boots",
+	"icon": "inv_boots_06",
+	"popularity": 4,
+	"armor": 41,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Agility": 2 },
+	"source": "QUEST",
+	"sourceId": 13968,
+	"sourceName": "The Tortusk Takedown",
+	"sourceType": "QUEST"
 }

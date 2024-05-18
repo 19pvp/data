@@ -1,13 +1,53 @@
 {
-  "id": 14114,
-  "name": "Aboriginal Footwraps",
-  "icon": "inv_boots_wolf",
-  "popularity": 16,
-  "armor": 33,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "FEET",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 14114,
+	"name": "Aboriginal Footwraps",
+	"icon": "inv_boots_wolf",
+	"popularity": 16,
+	"armor": 33,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": {},
+	"rand": {
+		"of the Owl": {
+			"id": 760,
+			"chance": 27.7,
+			"stats": { "Intellect": 3, "Spirit": 3 }
+		},
+		"of the Eagle": {
+			"id": 845,
+			"chance": 17.7,
+			"stats": { "Intellect": 3, "Stamina": 3 }
+		},
+		"of the Whale": {
+			"id": 1015,
+			"chance": 17.4,
+			"stats": { "Spirit": 3, "Stamina": 3 }
+		},
+		"of the Falcon": {
+			"id": 234,
+			"chance": 9.3,
+			"stats": { "Agility": 3, "Intellect": 3 }
+		},
+		"of Spirit": { "id": 95, "chance": 9, "stats": { "Spirit": 4 } },
+		"of Stamina": { "id": 96, "chance": 6.8, "stats": { "Stamina": 4 } },
+		"of Intellect": { "id": 26, "chance": 3.4, "stats": { "Intellect": 3 } },
+		"of Frozen Wrath": {
+			"id": 1954,
+			"chance": 3.1,
+			"stats": { "Frost Spell Damage": 6 }
+		},
+		"of Shadow Wrath": {
+			"id": 1840,
+			"chance": 3,
+			"stats": { "Shadow Spell Damage": 6 }
+		},
+		"of Arcane Wrath": {
+			"id": 1802,
+			"chance": 2.6,
+			"stats": { "Arcane Spell Damage": 6 }
+		}
+	},
+	"source": "DROP"
 }

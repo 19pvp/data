@@ -1,18 +1,17 @@
 {
-  "id": 5275,
-  "name": "Binding Girdle",
-  "icon": "inv_belt_01",
-  "popularity": 21,
-  "armor": 39,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 872,
-  "sourceName": "The Far Watch Offensive"
+	"id": 5275,
+	"name": "Binding Girdle",
+	"icon": "inv_belt_01",
+	"popularity": 21,
+	"armor": 39,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 872,
+	"sourceName": "The Far Watch Offensive",
+	"sourceType": "QUEST"
 }

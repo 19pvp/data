@@ -1,19 +1,17 @@
 {
-  "id": 52934,
-  "name": "Pygmy Cloak",
-  "icon": "inv_misc_cape_15",
-  "popularity": 7,
-  "armor": 16,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24929,
-  "sourceName": "Send a Message"
+	"id": 52934,
+	"name": "Pygmy Cloak",
+	"icon": "inv_misc_cape_15",
+	"popularity": 7,
+	"armor": 16,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 24929,
+	"sourceName": "Send a Message",
+	"sourceType": "QUEST"
 }

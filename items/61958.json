@@ -1,18 +1,18 @@
 {
-  "id": 61958,
-  "name": "Tattered Dreadmist Mask",
-  "icon": "inv_helmet_29",
-  "popularity": 326,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "CLOTH",
-  "type": "HEAD",
-  "stats": {
-    "crit": 4,
-    "haste": 4,
-    "stamina": 10,
-    "intellect": 6
-  },
-  "sourceType": "VENDOR"
+	"id": 61958,
+	"name": "Tattered Dreadmist Mask",
+	"icon": "inv_helmet_29",
+	"popularity": 326,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "CLOTH",
+	"type": "HEAD",
+	"stats": {
+		"Critical Strike Rating": 4,
+		"Haste Rating": 4,
+		"Stamina": 10,
+		"Intellect": 6
+	},
+	"source": "VENDOR"
 }

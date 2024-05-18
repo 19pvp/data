@@ -1,18 +1,17 @@
 {
-  "id": 59084,
-  "name": "Boran's Shoulderguards",
-  "icon": "inv_shoulder_08",
-  "popularity": 16,
-  "armor": 71,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "SHOULDERS",
-  "stats": {
-    "stamina": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25805,
-  "sourceName": "Return the Statuette"
+	"id": 59084,
+	"name": "Boran's Shoulderguards",
+	"icon": "inv_shoulder_08",
+	"popularity": 16,
+	"armor": 71,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "SHOULDERS",
+	"stats": { "Stamina": 5 },
+	"source": "QUEST",
+	"sourceId": 25805,
+	"sourceName": "Return the Statuette",
+	"sourceType": "QUEST"
 }

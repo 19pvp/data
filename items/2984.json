@@ -1,15 +1,13 @@
 {
-  "id": 2984,
-  "name": "Seer's Gloves",
-  "icon": "inv_gauntlets_18",
-  "popularity": 8,
-  "armor": 33,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {
-    "spirit": 4
-  },
-  "sourceType": "DROP"
+	"id": 2984,
+	"name": "Seer's Gloves",
+	"icon": "inv_gauntlets_18",
+	"popularity": 8,
+	"armor": 33,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": { "Spirit": 4 },
+	"source": "DROP"
 }

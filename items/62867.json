@@ -1,18 +1,17 @@
 {
-  "id": 62867,
-  "name": "Belt of the Second Head",
-  "icon": "inv_belt_24",
-  "popularity": 7,
-  "armor": 26,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27322,
-  "sourceName": "Korok the Colossus"
+	"id": 62867,
+	"name": "Belt of the Second Head",
+	"icon": "inv_belt_24",
+	"popularity": 7,
+	"armor": 26,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 27322,
+	"sourceName": "Korok the Colossus",
+	"sourceType": "QUEST"
 }

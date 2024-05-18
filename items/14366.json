@@ -1,16 +1,13 @@
 {
-  "id": 14366,
-  "name": "Mystic's Bracelets",
-  "icon": "inv_bracer_07",
-  "popularity": 9,
-  "armor": 22,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WRISTS",
-  "stats": {
-    "stamina": 1,
-    "intellect": 2
-  },
-  "sourceType": "DROP"
+	"id": 14366,
+	"name": "Mystic's Bracelets",
+	"icon": "inv_bracer_07",
+	"popularity": 9,
+	"armor": 22,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WRISTS",
+	"stats": { "Stamina": 1, "Intellect": 2 },
+	"source": "DROP"
 }

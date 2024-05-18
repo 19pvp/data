@@ -1,16 +1,13 @@
 {
-  "id": 14569,
-  "name": "Bristlebark Bindings",
-  "icon": "inv_bracer_08",
-  "popularity": 9,
-  "armor": 41,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "agility": 3,
-    "stamina": 3
-  },
-  "sourceType": "DROP"
+	"id": 14569,
+	"name": "Bristlebark Bindings",
+	"icon": "inv_bracer_08",
+	"popularity": 9,
+	"armor": 41,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Agility": 3, "Stamina": 3 },
+	"source": "DROP"
 }

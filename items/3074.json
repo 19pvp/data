@@ -1,19 +1,17 @@
 {
-  "id": 3074,
-  "name": "Smoldering Gloves",
-  "icon": "inv_gauntlets_05",
-  "popularity": 8,
-  "armor": 42,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 3,
-    "spirit": 5
-  },
-  "sourceType": "DROP",
-  "sourceId": 1043,
-  "sourceName": "Lost Whelp",
-  "sourceZone": 11
+	"id": 3074,
+	"name": "Smoldering Gloves",
+	"icon": "inv_gauntlets_05",
+	"popularity": 8,
+	"armor": 42,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": { "Stamina": 3, "Spirit": 5 },
+	"source": "DROP",
+	"sourceId": 1043,
+	"sourceName": "Lost Whelp",
+	"sourceZone": 11,
+	"sourceType": "NPC"
 }

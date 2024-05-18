@@ -1,19 +1,17 @@
 {
-  "id": 52591,
-  "name": "Narassin's Gloves",
-  "icon": "inv_gauntlets_27",
-  "popularity": 9,
-  "armor": 27,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 1,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13844,
-  "sourceName": "The Looting of Althalaxx"
+	"id": 52591,
+	"name": "Narassin's Gloves",
+	"icon": "inv_gauntlets_27",
+	"popularity": 9,
+	"armor": 27,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": { "Stamina": 1, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 13844,
+	"sourceName": "The Looting of Althalaxx",
+	"sourceType": "QUEST"
 }

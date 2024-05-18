@@ -1,15 +1,55 @@
 {
-  "id": 38318,
-  "name": "Darkmoon Robe",
-  "icon": "inv_chest_cloth_12",
-  "popularity": 13,
-  "armor": 57,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {},
-  "sourceType": "QUEST",
-  "sourceId": 12517,
-  "sourceName": "Rogues Deck"
+	"id": 38318,
+	"name": "Darkmoon Robe",
+	"icon": "inv_chest_cloth_12",
+	"popularity": 13,
+	"armor": 57,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": {},
+	"rand": {
+		"of Spirit": { "id": 134, "chance": 19.8, "stats": { "Spirit": 6 } },
+		"of the Elder": {
+			"id": -42,
+			"chance": 13.6,
+			"stats": { "Stamina": 3, "Intellect": 3, "Spirit": 3 }
+		},
+		"of the Sorcerer": {
+			"id": -36,
+			"chance": 10.4,
+			"stats": { "Stamina": 3, "Intellect": 3, "Haste": 3 }
+		},
+		"of the Eagle": {
+			"id": 845,
+			"chance": 10.1,
+			"stats": { "Stamina": 3, "Intellect": 3 }
+		},
+		"of the Invoker": {
+			"id": -39,
+			"chance": 9.9,
+			"stats": { "Intellect": 4, "Critical Strike Rating": 3 }
+		},
+		"of the Moon": {
+			"id": -59,
+			"chance": 9.5,
+			"stats": { "Intellect": 3, "Stamina": 2, "Spirit": 3 }
+		},
+		"of the Owl": {
+			"id": 760,
+			"chance": 9.1,
+			"stats": { "Intellect": 3, "Spirit": 3 }
+		},
+		"of the Whale": {
+			"id": 1015,
+			"chance": 9,
+			"stats": { "Stamina": 3, "Spirit": 3 }
+		},
+		"of Stamina": { "id": 135, "chance": 8.6, "stats": { "Stamina": 6 } }
+	},
+	"source": "QUEST",
+	"sourceId": 12517,
+	"sourceName": "Rogues Deck",
+	"sourceType": "QUEST"
 }

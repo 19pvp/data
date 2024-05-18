@@ -1,20 +1,17 @@
 {
-  "id": 59561,
-  "name": "Vest of Fortune",
-  "icon": "inv_chest_leather_08",
-  "popularity": 13,
-  "armor": 81,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "hit": 4,
-    "agility": 4,
-    "stamina": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14050,
-  "sourceName": "Gazlowe's Fortune"
+	"id": 59561,
+	"name": "Vest of Fortune",
+	"icon": "inv_chest_leather_08",
+	"popularity": 13,
+	"armor": 81,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Hit Rating": 4, "Agility": 4, "Stamina": 4 },
+	"source": "QUEST",
+	"sourceId": 14050,
+	"sourceName": "Gazlowe's Fortune",
+	"sourceType": "QUEST"
 }

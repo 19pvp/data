@@ -1,19 +1,15 @@
 {
-  "id": 59571,
-  "name": "Irregular Belt",
-  "icon": "inv_belt_05",
-  "popularity": 11,
-  "armor": 41,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "hit": 2,
-    "stamina": 2,
-    "intellect": 2
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 17
+	"id": 59571,
+	"name": "Irregular Belt",
+	"icon": "inv_belt_05",
+	"popularity": 11,
+	"armor": 41,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Hit Rating": 2, "Stamina": 2, "Intellect": 2 },
+	"source": "QUEST",
+	"sourceZone": 17
 }

@@ -1,19 +1,17 @@
 {
-  "id": 56726,
-  "name": "Disarray Boots",
-  "icon": "inv_boots_chain_12",
-  "popularity": 6,
-  "armor": 106,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "strength": 3,
-    "stamina": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13865,
-  "sourceName": "Wet Work"
+	"id": 56726,
+	"name": "Disarray Boots",
+	"icon": "inv_boots_chain_12",
+	"popularity": 6,
+	"armor": 106,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Strength": 3, "Stamina": 4 },
+	"source": "QUEST",
+	"sourceId": 13865,
+	"sourceName": "Wet Work",
+	"sourceType": "QUEST"
 }

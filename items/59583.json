@@ -1,19 +1,17 @@
 {
-  "id": 59583,
-  "name": "Marauding Belt",
-  "icon": "inv_belt_03",
-  "popularity": 8,
-  "armor": 45,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "crit": 3,
-    "agility": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 855,
-  "sourceName": "Centaur Bracers"
+	"id": 59583,
+	"name": "Marauding Belt",
+	"icon": "inv_belt_03",
+	"popularity": 8,
+	"armor": 45,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Critical Strike Rating": 3, "Agility": 3 },
+	"source": "QUEST",
+	"sourceId": 855,
+	"sourceName": "Centaur Bracers",
+	"sourceType": "QUEST"
 }

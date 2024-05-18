@@ -1,19 +1,17 @@
 {
-  "id": 52608,
-  "name": "Torn Fur Belt",
-  "icon": "inv_belt_03",
-  "popularity": 8,
-  "armor": 47,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "agility": 3,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13572,
-  "sourceName": "Jadefire Braziers"
+	"id": 52608,
+	"name": "Torn Fur Belt",
+	"icon": "inv_belt_03",
+	"popularity": 8,
+	"armor": 47,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Agility": 3, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 13572,
+	"sourceName": "Jadefire Braziers",
+	"sourceType": "QUEST"
 }

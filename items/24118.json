@@ -1,17 +1,14 @@
 {
-  "id": 24118,
-  "name": "Signet of Argas",
-  "icon": "inv_jewelry_ring_08",
-  "popularity": 46,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "agility": 6,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 331
+	"id": 24118,
+	"name": "Signet of Argas",
+	"icon": "inv_jewelry_ring_08",
+	"popularity": 46,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Agility": 6, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceZone": 331
 }

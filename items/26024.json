@@ -1,19 +1,17 @@
 {
-  "id": 26024,
-  "name": "Vindicator's Leather Moccasins",
-  "icon": "inv_boots_fabric_01",
-  "popularity": 6,
-  "armor": 46,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9700,
-  "sourceName": "I Shoot Magic Into the Darkness"
+	"id": 26024,
+	"name": "Vindicator's Leather Moccasins",
+	"icon": "inv_boots_fabric_01",
+	"popularity": 6,
+	"armor": 46,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Agility": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 9700,
+	"sourceName": "I Shoot Magic Into the Darkness",
+	"sourceType": "QUEST"
 }

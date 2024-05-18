@@ -1,20 +1,17 @@
 {
-  "id": 62896,
-  "name": "Belt of Beginnings",
-  "icon": "inv_belt_37c",
-  "popularity": 8,
-  "armor": 54,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "crit": 4,
-    "agility": 3,
-    "stamina": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27601,
-  "sourceName": "Cities in Dust"
+	"id": 62896,
+	"name": "Belt of Beginnings",
+	"icon": "inv_belt_37c",
+	"popularity": 8,
+	"armor": 54,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Critical Strike Rating": 4, "Agility": 3, "Stamina": 5 },
+	"source": "QUEST",
+	"sourceId": 27601,
+	"sourceName": "Cities in Dust",
+	"sourceType": "QUEST"
 }

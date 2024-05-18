@@ -1,16 +1,13 @@
 {
-  "id": 14742,
-  "name": "Hulking Boots",
-  "icon": "inv_boots_07",
-  "popularity": 7,
-  "armor": 114,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "strength": 4,
-    "stamina": 4
-  },
-  "sourceType": "DROP"
+	"id": 14742,
+	"name": "Hulking Boots",
+	"icon": "inv_boots_07",
+	"popularity": 7,
+	"armor": 114,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Strength": 4, "Stamina": 4 },
+	"source": "DROP"
 }

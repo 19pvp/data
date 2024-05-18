@@ -1,20 +1,17 @@
 {
-  "id": 53412,
-  "name": "Gloves of Unmitigated Badassery",
-  "icon": "inv_gauntlets_20",
-  "popularity": 15,
-  "armor": 55,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "hit": 3,
-    "agility": 3,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14464,
-  "sourceName": "Lightning Strike Assassination"
+	"id": 53412,
+	"name": "Gloves of Unmitigated Badassery",
+	"icon": "inv_gauntlets_20",
+	"popularity": 15,
+	"armor": 55,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Hit Rating": 3, "Agility": 3, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 14464,
+	"sourceName": "Lightning Strike Assassination",
+	"sourceType": "QUEST"
 }

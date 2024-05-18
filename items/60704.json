@@ -1,19 +1,17 @@
 {
-  "id": 60704,
-  "name": "Mongrel Leggings",
-  "icon": "inv_pants_02",
-  "popularity": 4,
-  "armor": 64,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "agility": 4,
-    "crit": 0
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26545,
-  "sourceName": "Yowler Must Die!"
+	"id": 60704,
+	"name": "Mongrel Leggings",
+	"icon": "inv_pants_02",
+	"popularity": 4,
+	"armor": 64,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Agility": 4, "Critical Strike Rating": 0 },
+	"source": "QUEST",
+	"sourceId": 26545,
+	"sourceName": "Yowler Must Die!",
+	"sourceType": "QUEST"
 }

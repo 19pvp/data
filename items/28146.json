@@ -1,18 +1,17 @@
 {
-  "id": 28146,
-  "name": "Courier's Wraps",
-  "icon": "inv_bracer_13",
-  "popularity": 7,
-  "armor": 15,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WRISTS",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9148,
-  "sourceName": "Delivery to Tranquillien"
+	"id": 28146,
+	"name": "Courier's Wraps",
+	"icon": "inv_bracer_13",
+	"popularity": 7,
+	"armor": 15,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WRISTS",
+	"stats": { "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 9148,
+	"sourceName": "Delivery to Tranquillien",
+	"sourceType": "QUEST"
 }

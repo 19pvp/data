@@ -1,20 +1,17 @@
 {
-  "id": 58992,
-  "name": "Uncovered Breastplate",
-  "icon": "inv_chest_leather_07",
-  "popularity": 9,
-  "armor": 59,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "crit": 1,
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13661,
-  "sourceName": "Heartfelt Appreciation"
+	"id": 58992,
+	"name": "Uncovered Breastplate",
+	"icon": "inv_chest_leather_07",
+	"popularity": 9,
+	"armor": 59,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Critical Strike Rating": 1, "Agility": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 13661,
+	"sourceName": "Heartfelt Appreciation",
+	"sourceType": "QUEST"
 }

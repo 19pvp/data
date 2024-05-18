@@ -1,19 +1,17 @@
 {
-  "id": 69221,
-  "name": "Mor'shan Caravaneer's Leggings",
-  "icon": "inv_pants_09",
-  "popularity": 12,
-  "armor": 49,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 6,
-    "intellect": 6
-  },
-  "sourceType": "QUEST",
-  "sourceId": 29111,
-  "sourceName": "Mor'shan Caravan Delivery"
+	"id": 69221,
+	"name": "Mor'shan Caravaneer's Leggings",
+	"icon": "inv_pants_09",
+	"popularity": 12,
+	"armor": 49,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Stamina": 6, "Intellect": 6 },
+	"source": "QUEST",
+	"sourceId": 29111,
+	"sourceName": "Mor'shan Caravan Delivery",
+	"sourceType": "QUEST"
 }

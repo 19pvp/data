@@ -1,18 +1,17 @@
 {
-  "id": 56714,
-  "name": "Band of Foul Strength",
-  "icon": "inv_jewelry_ring_08",
-  "popularity": 12,
-  "armor": 0,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "strength": 7
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13798,
-  "sourceName": "Rain of Destruction"
+	"id": 56714,
+	"name": "Band of Foul Strength",
+	"icon": "inv_jewelry_ring_08",
+	"popularity": 12,
+	"armor": 0,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Strength": 7 },
+	"source": "QUEST",
+	"sourceId": 13798,
+	"sourceName": "Rain of Destruction",
+	"sourceType": "QUEST"
 }

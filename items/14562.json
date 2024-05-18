@@ -1,16 +1,13 @@
 {
-  "id": 14562,
-  "name": "Prospector's Chestpiece",
-  "icon": "inv_chest_leather_09",
-  "popularity": 18,
-  "armor": 98,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "agility": 6,
-    "stamina": 5
-  },
-  "sourceType": "DROP"
+	"id": 14562,
+	"name": "Prospector's Chestpiece",
+	"icon": "inv_chest_leather_09",
+	"popularity": 18,
+	"armor": 98,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Agility": 6, "Stamina": 5 },
+	"source": "DROP"
 }

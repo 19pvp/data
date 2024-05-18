@@ -1,18 +1,17 @@
 {
-  "id": 54993,
-  "name": "Emberstone Mail",
-  "icon": "inv_pants_mail_04",
-  "popularity": 22,
-  "armor": 90,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "strength": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24674,
-  "sourceName": "Slaves to No One"
+	"id": 54993,
+	"name": "Emberstone Mail",
+	"icon": "inv_pants_mail_04",
+	"popularity": 22,
+	"armor": 90,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Strength": 3 },
+	"source": "QUEST",
+	"sourceId": 24674,
+	"sourceName": "Slaves to No One",
+	"sourceType": "QUEST"
 }

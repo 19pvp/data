@@ -1,18 +1,17 @@
 {
-  "id": 60895,
-  "name": "Ebonlocke Band",
-  "icon": "inv_jewelry_ring_54",
-  "popularity": 8,
-  "armor": 0,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "intellect": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26618,
-  "sourceName": "Wolves at Our Heels"
+	"id": 60895,
+	"name": "Ebonlocke Band",
+	"icon": "inv_jewelry_ring_54",
+	"popularity": 8,
+	"armor": 0,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Intellect": 4 },
+	"source": "QUEST",
+	"sourceId": 26618,
+	"sourceName": "Wolves at Our Heels",
+	"sourceType": "QUEST"
 }

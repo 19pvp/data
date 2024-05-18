@@ -1,18 +1,17 @@
 {
-  "id": 52960,
-  "name": "Silver Platter",
-  "icon": "inv_shield_10",
-  "popularity": 8,
-  "armor": 364,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "strength": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25093,
-  "sourceName": "The Heads of the SI:7"
+	"id": 52960,
+	"name": "Silver Platter",
+	"icon": "inv_shield_10",
+	"popularity": 8,
+	"armor": 364,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Strength": 1 },
+	"source": "QUEST",
+	"sourceId": 25093,
+	"sourceName": "The Heads of the SI:7",
+	"sourceType": "QUEST"
 }

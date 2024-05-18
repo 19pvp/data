@@ -1,18 +1,17 @@
 {
-  "id": 55001,
-  "name": "Hotfoot Boots",
-  "icon": "inv_boots_chain_01",
-  "popularity": 21,
-  "armor": 62,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24616,
-  "sourceName": "Losing Your Tail"
+	"id": 55001,
+	"name": "Hotfoot Boots",
+	"icon": "inv_boots_chain_01",
+	"popularity": 21,
+	"armor": 62,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 24616,
+	"sourceName": "Losing Your Tail",
+	"sourceType": "QUEST"
 }

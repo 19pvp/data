@@ -1,15 +1,13 @@
 {
-  "id": 68759,
-  "name": "Imbued Gypsy Cloak",
-  "icon": "inv_misc_cape_17",
-  "popularity": 5,
-  "armor": 18,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "DROP"
+	"id": 68759,
+	"name": "Imbued Gypsy Cloak",
+	"icon": "inv_misc_cape_17",
+	"popularity": 5,
+	"armor": 18,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Intellect": 1 },
+	"source": "DROP"
 }

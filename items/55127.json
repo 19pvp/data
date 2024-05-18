@@ -1,18 +1,17 @@
 {
-  "id": 55127,
-  "name": "Tharill's Blessing",
-  "icon": "inv_gauntlets_21",
-  "popularity": 5,
-  "armor": 39,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "agility": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13523,
-  "sourceName": "Power Over the Tides"
+	"id": 55127,
+	"name": "Tharill's Blessing",
+	"icon": "inv_gauntlets_21",
+	"popularity": 5,
+	"armor": 39,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Agility": 2 },
+	"source": "QUEST",
+	"sourceId": 13523,
+	"sourceName": "Power Over the Tides",
+	"sourceType": "QUEST"
 }

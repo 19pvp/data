@@ -1,18 +1,17 @@
 {
-  "id": 55126,
-  "name": "Thistle Bear Girdle",
-  "icon": "inv_belt_45c",
-  "popularity": 7,
-  "armor": 51,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {
-    "strength": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13569,
-  "sourceName": "The Ritual Bond"
+	"id": 55126,
+	"name": "Thistle Bear Girdle",
+	"icon": "inv_belt_45c",
+	"popularity": 7,
+	"armor": 51,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": { "Strength": 1 },
+	"source": "QUEST",
+	"sourceId": 13569,
+	"sourceName": "The Ritual Bond",
+	"sourceType": "QUEST"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 49541,
-  "name": "Robes of the Glorious Song",
-  "icon": "inv_chest_cloth_30",
-  "popularity": 11,
-  "armor": 53,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 5,
-    "spirit": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26858,
-  "sourceName": "Taragaman the Hungerer"
+	"id": 49541,
+	"name": "Robes of the Glorious Song",
+	"icon": "inv_chest_cloth_30",
+	"popularity": 11,
+	"armor": 53,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Stamina": 5, "Spirit": 5 },
+	"source": "QUEST",
+	"sourceId": 26858,
+	"sourceName": "Taragaman the Hungerer",
+	"sourceType": "QUEST"
 }

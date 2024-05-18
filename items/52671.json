@@ -1,20 +1,17 @@
 {
-  "id": 52671,
-  "name": "Bahrum's Bad Mood Ring",
-  "icon": "inv_jewelry_ring_82",
-  "popularity": 22,
-  "armor": 0,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "crit": 1,
-    "strength": 1,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13911,
-  "sourceName": "The Absent-Minded Prospector"
+	"id": 52671,
+	"name": "Bahrum's Bad Mood Ring",
+	"icon": "inv_jewelry_ring_82",
+	"popularity": 22,
+	"armor": 0,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Critical Strike Rating": 1, "Strength": 1, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 13911,
+	"sourceName": "The Absent-Minded Prospector",
+	"sourceType": "QUEST"
 }

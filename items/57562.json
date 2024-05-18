@@ -1,17 +1,15 @@
 {
-  "id": 57562,
-  "name": "Hammerfoot's Mail Leggings",
-  "icon": "inv_pants_mail_05",
-  "popularity": 11,
-  "armor": 74,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "strength": 1
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 1
+	"id": 57562,
+	"name": "Hammerfoot's Mail Leggings",
+	"icon": "inv_pants_mail_05",
+	"popularity": 11,
+	"armor": 74,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Strength": 1 },
+	"source": "QUEST",
+	"sourceZone": 1
 }

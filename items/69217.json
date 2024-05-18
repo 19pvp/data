@@ -1,18 +1,17 @@
 {
-  "id": 69217,
-  "name": "Test Pilot Britches",
-  "icon": "inv_pants_mail_04",
-  "popularity": 8,
-  "armor": 64,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 29094,
-  "sourceName": "The Short Way Home"
+	"id": 69217,
+	"name": "Test Pilot Britches",
+	"icon": "inv_pants_mail_04",
+	"popularity": 8,
+	"armor": 64,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Stamina": 4 },
+	"source": "QUEST",
+	"sourceId": 29094,
+	"sourceName": "The Short Way Home",
+	"sourceType": "QUEST"
 }

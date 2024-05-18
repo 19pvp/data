@@ -1,19 +1,17 @@
 {
-  "id": 26012,
-  "name": "Kessel's Cinch Wrap",
-  "icon": "inv_belt_06",
-  "popularity": 21,
-  "armor": 26,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 2,
-    "intellect": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9666,
-  "sourceName": "Declaration of Power"
+	"id": 26012,
+	"name": "Kessel's Cinch Wrap",
+	"icon": "inv_belt_06",
+	"popularity": 21,
+	"armor": 26,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Stamina": 2, "Intellect": 2 },
+	"source": "QUEST",
+	"sourceId": 9666,
+	"sourceName": "Declaration of Power",
+	"sourceType": "QUEST"
 }

@@ -1,19 +1,16 @@
 {
-  "id": 3019,
-  "name": "Noble's Robe",
-  "icon": "inv_chest_cloth_38",
-  "popularity": 12,
-  "armor": 63,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "crit": 7,
-    "stamina": 5,
-    "intellect": 5
-  },
-  "sourceType": "DROP",
-  "sourceId": 599,
-  "sourceName": "Marisa du'Paige"
+	"id": 3019,
+	"name": "Noble's Robe",
+	"icon": "inv_chest_cloth_38",
+	"popularity": 12,
+	"armor": 63,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Critical Strike Rating": 7, "Stamina": 5, "Intellect": 5 },
+	"source": "DROP",
+	"sourceId": 599,
+	"sourceName": "Marisa du'Paige",
+	"sourceType": "NPC"
 }

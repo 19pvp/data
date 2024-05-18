@@ -1,18 +1,17 @@
 {
-  "id": 62840,
-  "name": "Sober Pup Wristbands",
-  "icon": "inv_bracer_07",
-  "popularity": 6,
-  "armor": 17,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WRISTS",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27069,
-  "sourceName": "Steel Thunder"
+	"id": 62840,
+	"name": "Sober Pup Wristbands",
+	"icon": "inv_bracer_07",
+	"popularity": 6,
+	"armor": 17,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WRISTS",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 27069,
+	"sourceName": "Steel Thunder",
+	"sourceType": "QUEST"
 }

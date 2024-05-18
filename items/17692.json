@@ -1,19 +1,17 @@
 {
-  "id": 17692,
-  "name": "Horn Ring",
-  "icon": "inv_jewelry_ring_02",
-  "popularity": 8,
-  "armor": 0,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "stamina": 3,
-    "spirit": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 6641,
-  "sourceName": "Vorsha the Lasher"
+	"id": 17692,
+	"name": "Horn Ring",
+	"icon": "inv_jewelry_ring_02",
+	"popularity": 8,
+	"armor": 0,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Stamina": 3, "Spirit": 2 },
+	"source": "QUEST",
+	"sourceId": 6641,
+	"sourceName": "Vorsha the Lasher",
+	"sourceType": "QUEST"
 }

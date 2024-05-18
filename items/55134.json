@@ -1,18 +1,17 @@
 {
-  "id": 55134,
-  "name": "Fiery Bracers",
-  "icon": "inv_bracer_29",
-  "popularity": 7,
-  "armor": 55,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WRISTS",
-  "stats": {
-    "strength": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13580,
-  "sourceName": "Soothing the Elements"
+	"id": 55134,
+	"name": "Fiery Bracers",
+	"icon": "inv_bracer_29",
+	"popularity": 7,
+	"armor": 55,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WRISTS",
+	"stats": { "Strength": 3 },
+	"source": "QUEST",
+	"sourceId": 13580,
+	"sourceName": "Soothing the Elements",
+	"sourceType": "QUEST"
 }

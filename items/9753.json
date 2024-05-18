@@ -1,13 +1,50 @@
 {
-  "id": 9753,
-  "name": "Gypsy Buckler",
-  "icon": "inv_shield_10",
-  "popularity": 20,
-  "armor": 391,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 9753,
+	"name": "Gypsy Buckler",
+	"icon": "inv_shield_10",
+	"popularity": 20,
+	"armor": 391,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1179,
+			"chance": 17.6,
+			"stats": { "Stamina": 1, "Strength": 1 }
+		},
+		"of the Monkey": {
+			"id": 584,
+			"chance": 15.6,
+			"stats": { "Agility": 1, "Stamina": 1 }
+		},
+		"of the Tiger": {
+			"id": 669,
+			"chance": 14.9,
+			"stats": { "Agility": 1, "Strength": 1 }
+		},
+		"of Strength": { "id": 6, "chance": 9.4, "stats": { "Strength": 1 } },
+		"of the Gorilla": {
+			"id": 924,
+			"chance": 9.2,
+			"stats": { "Intellect": 1, "Strength": 1 }
+		},
+		"of the Boar": {
+			"id": 1094,
+			"chance": 9.2,
+			"stats": { "Spirit": 1, "Strength": 1 }
+		},
+		"of Agility": { "id": 14, "chance": 8.6, "stats": { "Agility": 1 } },
+		"of Stamina": { "id": 15, "chance": 8.6, "stats": { "Stamina": 1 } },
+		"of Blocking": {
+			"id": 1647,
+			"chance": 3.3,
+			"stats": { "Block Rating": 5 }
+		},
+		"of Defense": { "id": 48, "chance": 2.4, "stats": { "Dodge Rating": 1 } },
+		"of Dodge": { "chance": 1.1, "stats": { "Dodge Rating": 1 } }
+	},
+	"source": "DROP"
 }

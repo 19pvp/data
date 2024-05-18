@@ -1,17 +1,13 @@
 {
-  "id": 3308,
-  "name": "Barbaric Cloth Gloves",
-  "icon": "inv_gauntlets_18",
-  "popularity": 7,
-  "armor": 29,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 1,
-    "intellect": 1,
-    "spirit": 2
-  },
-  "sourceType": "DROP"
+	"id": 3308,
+	"name": "Barbaric Cloth Gloves",
+	"icon": "inv_gauntlets_18",
+	"popularity": 7,
+	"armor": 29,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": { "Stamina": 1, "Intellect": 1, "Spirit": 2 },
+	"source": "DROP"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 62831,
-  "name": "Treads of the Survivor",
-  "icon": "inv_boots_cloth_03",
-  "popularity": 4,
-  "armor": 25,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "FEET",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27045,
-  "sourceName": "Waiting to Exsanguinate"
+	"id": 62831,
+	"name": "Treads of the Survivor",
+	"icon": "inv_boots_cloth_03",
+	"popularity": 4,
+	"armor": 25,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 27045,
+	"sourceName": "Waiting to Exsanguinate",
+	"sourceType": "QUEST"
 }

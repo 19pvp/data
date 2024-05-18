@@ -1,20 +1,17 @@
 {
-  "id": 23173,
-  "name": "Abomination Skin Leggings",
-  "icon": "inv_pants_06",
-  "popularity": 14,
-  "armor": 58,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "crit": 6,
-    "stamina": 6,
-    "intellect": 6
-  },
-  "sourceType": "DROP",
-  "sourceId": 14682,
-  "sourceName": "Sever",
-  "sourceZone": 209
+	"id": 23173,
+	"name": "Abomination Skin Leggings",
+	"icon": "inv_pants_06",
+	"popularity": 14,
+	"armor": 58,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Critical Strike Rating": 6, "Stamina": 6, "Intellect": 6 },
+	"source": "DROP",
+	"sourceId": 14682,
+	"sourceName": "Sever",
+	"sourceZone": 209,
+	"sourceType": "NPC"
 }

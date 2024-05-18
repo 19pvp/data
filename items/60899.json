@@ -1,19 +1,17 @@
 {
-  "id": 60899,
-  "name": "Doublet of Deception",
-  "icon": "inv_chest_cloth_01",
-  "popularity": 8,
-  "armor": 60,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "intellect": 5,
-    "spirit": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26655,
-  "sourceName": "Deliver the Thread"
+	"id": 60899,
+	"name": "Doublet of Deception",
+	"icon": "inv_chest_cloth_01",
+	"popularity": 8,
+	"armor": 60,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Intellect": 5, "Spirit": 4 },
+	"source": "QUEST",
+	"sourceId": 26655,
+	"sourceName": "Deliver the Thread",
+	"sourceType": "QUEST"
 }

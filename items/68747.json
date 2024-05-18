@@ -1,15 +1,13 @@
 {
-  "id": 68747,
-  "name": "Imbued Disciple's Sash",
-  "icon": "inv_belt_02",
-  "popularity": 22,
-  "armor": 19,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "DROP"
+	"id": 68747,
+	"name": "Imbued Disciple's Sash",
+	"icon": "inv_belt_02",
+	"popularity": 22,
+	"armor": 19,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Intellect": 1 },
+	"source": "DROP"
 }

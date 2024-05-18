@@ -1,18 +1,17 @@
 {
-  "id": 23404,
-  "name": "Padded Running Shoes",
-  "icon": "inv_boots_03",
-  "popularity": 5,
-  "armor": 46,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "agility": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9140,
-  "sourceName": "Windrunner Village"
+	"id": 23404,
+	"name": "Padded Running Shoes",
+	"icon": "inv_boots_03",
+	"popularity": 5,
+	"armor": 46,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Agility": 2 },
+	"source": "QUEST",
+	"sourceId": 9140,
+	"sourceName": "Windrunner Village",
+	"sourceType": "QUEST"
 }

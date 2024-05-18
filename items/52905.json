@@ -1,18 +1,17 @@
 {
-  "id": 52905,
-  "name": "Best. Bracers. Ever.",
-  "icon": "inv_bracer_74v4",
-  "popularity": 4,
-  "armor": 20,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24744,
-  "sourceName": "The Biggest Egg Ever"
+	"id": 52905,
+	"name": "Best. Bracers. Ever.",
+	"icon": "inv_bracer_74v4",
+	"popularity": 4,
+	"armor": 20,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 24744,
+	"sourceName": "The Biggest Egg Ever",
+	"sourceType": "QUEST"
 }

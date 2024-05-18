@@ -1,16 +1,57 @@
 {
-  "id": 15248,
-  "name": "Gleaming Claymore",
-  "icon": "inv_sword_23",
-  "dmgMin": 30,
-  "dmgMax": 46,
-  "speed": 2.9,
-  "dps": 13.1,
-  "popularity": 6,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "TWO_HANDED_SWORD",
-  "type": "TWO_HAND",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 15248,
+	"name": "Gleaming Claymore",
+	"icon": "inv_sword_23",
+	"dmgMin": 30,
+	"dmgMax": 46,
+	"speed": 2.9,
+	"dps": 13.1,
+	"popularity": 6,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "TWO_HANDED_SWORD",
+	"type": "TWO_HAND",
+	"stats": {},
+	"rand": {
+		"of the Monkey": {
+			"id": 593,
+			"chance": 12.8,
+			"stats": { "Agility": 4, "Stamina": 4 }
+		},
+		"of the Whale": {
+			"id": 1018,
+			"chance": 11.3,
+			"stats": { "Spirit": 4, "Stamina": 4 }
+		},
+		"of the Wolf": {
+			"id": 508,
+			"chance": 11.2,
+			"stats": { "Agility": 4, "Spirit": 4 }
+		},
+		"of the Tiger": {
+			"id": 678,
+			"chance": 11.1,
+			"stats": { "Agility": 4, "Strength": 4 }
+		},
+		"of the Bear": {
+			"id": 1188,
+			"chance": 11.1,
+			"stats": { "Stamina": 4, "Strength": 4 }
+		},
+		"of the Boar": {
+			"id": 1103,
+			"chance": 10.9,
+			"stats": { "Spirit": 4, "Strength": 4 }
+		},
+		"of the Eagle": {
+			"id": 848,
+			"chance": 10.7,
+			"stats": { "Intellect": 4, "Stamina": 4 }
+		},
+		"of Strength": { "id": 155, "chance": 6.2, "stats": { "Strength": 7 } },
+		"of Agility": { "id": 151, "chance": 6.1, "stats": { "Agility": 7 } },
+		"of Stamina": { "id": 154, "chance": 5.8, "stats": { "Stamina": 7 } },
+		"of Power": { "id": 1553, "chance": 2.7, "stats": { "Attack Power": 14 } }
+	},
+	"source": "DROP"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 65694,
-  "name": "Clerk Whitesteed's Cloak",
-  "icon": "inv_misc_cape_02",
-  "popularity": 6,
-  "armor": 30,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "stamina": 3,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 28197,
-  "sourceName": "Discretion is Key"
+	"id": 65694,
+	"name": "Clerk Whitesteed's Cloak",
+	"icon": "inv_misc_cape_02",
+	"popularity": 6,
+	"armor": 30,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Stamina": 3, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 28197,
+	"sourceName": "Discretion is Key",
+	"sourceType": "QUEST"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 28147,
-  "name": "Tranquillien Scout's Bracers",
-  "icon": "inv_bracer_05",
-  "popularity": 13,
-  "armor": 23,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "agility": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9148,
-  "sourceName": "Delivery to Tranquillien"
+	"id": 28147,
+	"name": "Tranquillien Scout's Bracers",
+	"icon": "inv_bracer_05",
+	"popularity": 13,
+	"armor": 23,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Agility": 1 },
+	"source": "QUEST",
+	"sourceId": 9148,
+	"sourceName": "Delivery to Tranquillien",
+	"sourceType": "QUEST"
 }

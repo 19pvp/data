@@ -1,18 +1,17 @@
 {
-  "id": 53368,
-  "name": "Feckless Armbands",
-  "icon": "inv_bracer_04",
-  "popularity": 6,
-  "armor": 23,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "agility": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25206,
-  "sourceName": "Ignoring the Warnings"
+	"id": 53368,
+	"name": "Feckless Armbands",
+	"icon": "inv_bracer_04",
+	"popularity": 6,
+	"armor": 23,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Agility": 1 },
+	"source": "QUEST",
+	"sourceId": 25206,
+	"sourceName": "Ignoring the Warnings",
+	"sourceType": "QUEST"
 }

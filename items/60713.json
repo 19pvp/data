@@ -1,19 +1,17 @@
 {
-  "id": 60713,
-  "name": "Redridge Legguards",
-  "icon": "inv_pants_mail_05",
-  "popularity": 19,
-  "armor": 115,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 4,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26668,
-  "sourceName": "Detonation"
+	"id": 60713,
+	"name": "Redridge Legguards",
+	"icon": "inv_pants_mail_05",
+	"popularity": 19,
+	"armor": 115,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Stamina": 4, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 26668,
+	"sourceName": "Detonation",
+	"sourceType": "QUEST"
 }

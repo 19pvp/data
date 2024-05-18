@@ -1,18 +1,17 @@
 {
-  "id": 59555,
-  "name": "Silver-Trim Leggings",
-  "icon": "inv_pants_02",
-  "popularity": 20,
-  "armor": 61,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "agility": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14067,
-  "sourceName": "The Stolen Silver"
+	"id": 59555,
+	"name": "Silver-Trim Leggings",
+	"icon": "inv_pants_02",
+	"popularity": 20,
+	"armor": 61,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Agility": 4 },
+	"source": "QUEST",
+	"sourceId": 14067,
+	"sourceName": "The Stolen Silver",
+	"sourceType": "QUEST"
 }

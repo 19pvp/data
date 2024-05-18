@@ -1,18 +1,17 @@
 {
-  "id": 60910,
-  "name": "Starry Band",
-  "icon": "inv_jewelry_ring_42",
-  "popularity": 4,
-  "armor": 0,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "stamina": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26685,
-  "sourceName": "Classy Glass"
+	"id": 60910,
+	"name": "Starry Band",
+	"icon": "inv_jewelry_ring_42",
+	"popularity": 4,
+	"armor": 0,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Stamina": 4 },
+	"source": "QUEST",
+	"sourceId": 26685,
+	"sourceName": "Classy Glass",
+	"sourceType": "QUEST"
 }

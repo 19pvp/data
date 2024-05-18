@@ -1,16 +1,57 @@
 {
-  "id": 3196,
-  "name": "Edged Bastard Sword",
-  "icon": "inv_sword_23",
-  "dmgMin": 29,
-  "dmgMax": 44,
-  "speed": 3.1,
-  "dps": 11.77,
-  "popularity": 8,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "TWO_HANDED_SWORD",
-  "type": "TWO_HAND",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 3196,
+	"name": "Edged Bastard Sword",
+	"icon": "inv_sword_23",
+	"dmgMin": 29,
+	"dmgMax": 44,
+	"speed": 3.1,
+	"dps": 11.77,
+	"popularity": 8,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "TWO_HANDED_SWORD",
+	"type": "TWO_HAND",
+	"stats": {},
+	"rand": {
+		"of the Eagle": {
+			"id": 845,
+			"chance": 12,
+			"stats": { "Intellect": 3, "Stamina": 3 }
+		},
+		"of the Tiger": {
+			"id": 675,
+			"chance": 11.8,
+			"stats": { "Agility": 3, "Strength": 3 }
+		},
+		"of the Boar": {
+			"id": 1100,
+			"chance": 11.8,
+			"stats": { "Spirit": 3, "Strength": 3 }
+		},
+		"of the Wolf": {
+			"id": 505,
+			"chance": 11.5,
+			"stats": { "Agility": 3, "Spirit": 3 }
+		},
+		"of the Monkey": {
+			"id": 590,
+			"chance": 10.5,
+			"stats": { "Agility": 3, "Stamina": 3 }
+		},
+		"of the Bear": {
+			"id": 1185,
+			"chance": 10.5,
+			"stats": { "Stamina": 3, "Strength": 3 }
+		},
+		"of the Whale": {
+			"id": 1015,
+			"chance": 10.2,
+			"stats": { "Spirit": 3, "Stamina": 3 }
+		},
+		"of Agility": { "id": 111, "chance": 6.9, "stats": { "Agility": 5 } },
+		"of Stamina": { "id": 114, "chance": 6.8, "stats": { "Stamina": 5 } },
+		"of Strength": { "id": 115, "chance": 5.5, "stats": { "Strength": 5 } },
+		"of Power": { "id": 1551, "chance": 2.5, "stats": { "Attack Power": 10 } }
+	},
+	"source": "DROP"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 59542,
-  "name": "Thornweaver Leggings",
-  "icon": "inv_pants_01",
-  "popularity": 12,
-  "armor": 34,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "intellect": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 872,
-  "sourceName": "The Far Watch Offensive"
+	"id": 59542,
+	"name": "Thornweaver Leggings",
+	"icon": "inv_pants_01",
+	"popularity": 12,
+	"armor": 34,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Intellect": 2 },
+	"source": "QUEST",
+	"sourceId": 872,
+	"sourceName": "The Far Watch Offensive",
+	"sourceType": "QUEST"
 }

@@ -1,20 +1,16 @@
 {
-  "id": 42943,
-  "name": "Bloodied Arcanite Reaper",
-  "icon": "inv_axe_09",
-  "dmgMin": 56,
-  "dmgMax": 93,
-  "speed": 3.8,
-  "dps": 19.61,
-  "popularity": 165,
-  "class": "WEAPON",
-  "quality": "HEIRLOOM",
-  "subclass": "TWO_HANDED_AXE",
-  "type": "TWO_HAND",
-  "stats": {
-    "crit": 6,
-    "strength": 6,
-    "stamina": 13
-  },
-  "sourceType": "VENDOR"
+	"id": 42943,
+	"name": "Bloodied Arcanite Reaper",
+	"icon": "inv_axe_09",
+	"dmgMin": 56,
+	"dmgMax": 93,
+	"speed": 3.8,
+	"dps": 19.61,
+	"popularity": 165,
+	"class": "WEAPON",
+	"quality": "HEIRLOOM",
+	"subclass": "TWO_HANDED_AXE",
+	"type": "TWO_HAND",
+	"stats": { "Critical Strike Rating": 6, "Strength": 6, "Stamina": 13 },
+	"source": "VENDOR"
 }

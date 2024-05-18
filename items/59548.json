@@ -1,18 +1,17 @@
 {
-  "id": 59548,
-  "name": "Scrap Metal Shield",
-  "icon": "inv_shield_77",
-  "popularity": 10,
-  "armor": 444,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "strength": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14006,
-  "sourceName": "Read the Manual"
+	"id": 59548,
+	"name": "Scrap Metal Shield",
+	"icon": "inv_shield_77",
+	"popularity": 10,
+	"armor": 444,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Strength": 2 },
+	"source": "QUEST",
+	"sourceId": 14006,
+	"sourceName": "Read the Manual",
+	"sourceType": "QUEST"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 6226,
-  "name": "Bloody Apron",
-  "icon": "inv_chest_cloth_24",
-  "popularity": 8,
-  "armor": 66,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 6,
-    "intellect": 8
-  },
-  "sourceType": "DROP",
-  "sourceId": 3886,
-  "sourceName": "Razorclaw the Butcher",
-  "sourceZone": 209
+	"id": 6226,
+	"name": "Bloody Apron",
+	"icon": "inv_chest_cloth_24",
+	"popularity": 8,
+	"armor": 66,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Stamina": 6, "Intellect": 8 },
+	"source": "DROP",
+	"sourceId": 3886,
+	"sourceName": "Razorclaw the Butcher",
+	"sourceZone": 209,
+	"sourceType": "NPC"
 }

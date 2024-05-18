@@ -1,15 +1,39 @@
 {
-  "id": 39507,
-  "name": "Darkmoon Chain Shirt",
-  "icon": "inv_chest_chain_04",
-  "popularity": 11,
-  "armor": 143,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {},
-  "sourceType": "QUEST",
-  "sourceId": 12517,
-  "sourceName": "Rogues Deck"
+	"id": 39507,
+	"name": "Darkmoon Chain Shirt",
+	"icon": "inv_chest_chain_04",
+	"popularity": 11,
+	"armor": 143,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": {},
+	"rand": {
+		"of the Tiger": {
+			"id": -14,
+			"chance": 20.6,
+			"stats": { "Agility": 3, "Hit Rating": 3 }
+		},
+		"of Power": { "id": 1549, "chance": 20.5, "stats": { "Attack Power": 6 } },
+		"of the Bear": {
+			"id": 1185,
+			"chance": 19.9,
+			"stats": { "Strength": 3, "Stamina": 3 }
+		},
+		"of the Battle": {
+			"id": -56,
+			"chance": 19.7,
+			"stats": { "Strength": 4, "Stamina": 2, "Critical Strike Rating": 1 }
+		},
+		"of the Soldier": {
+			"id": -43,
+			"chance": 19.3,
+			"stats": { "Strength": 3, "Stamina": 3, "Critical Strike Rating": 3 }
+		}
+	},
+	"source": "QUEST",
+	"sourceId": 12517,
+	"sourceName": "Rogues Deck",
+	"sourceType": "QUEST"
 }

@@ -1,17 +1,16 @@
 {
-  "id": 59579,
-  "name": "Nozzlepot Leggings",
-  "icon": "inv_pants_06",
-  "popularity": 5,
-  "armor": 71,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "intellect": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 863,
-  "sourceName": "The Escape"
+	"id": 59579,
+	"name": "Nozzlepot Leggings",
+	"icon": "inv_pants_06",
+	"popularity": 5,
+	"armor": 71,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Intellect": 5 },
+	"source": "QUEST",
+	"sourceId": 863,
+	"sourceName": "The Escape",
+	"sourceType": "QUEST"
 }

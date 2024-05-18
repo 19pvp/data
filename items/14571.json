@@ -1,15 +1,13 @@
 {
-  "id": 14571,
-  "name": "Bristlebark Cape",
-  "icon": "inv_misc_cape_09",
-  "popularity": 23,
-  "armor": 30,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "agility": 4
-  },
-  "sourceType": "DROP"
+	"id": 14571,
+	"name": "Bristlebark Cape",
+	"icon": "inv_misc_cape_09",
+	"popularity": 23,
+	"armor": 30,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Agility": 4 },
+	"source": "DROP"
 }

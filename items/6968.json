@@ -1,20 +1,19 @@
 {
-  "id": 6968,
-  "name": "Elunite Hammer",
-  "icon": "inv_hammer_20",
-  "dmgMin": 12,
-  "dmgMax": 23,
-  "speed": 2.3,
-  "dps": 7.61,
-  "popularity": 6,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "ONE_HANDED_MACE",
-  "type": "ONE_HAND",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 1693,
-  "sourceName": "Weapons of Elunite"
+	"id": 6968,
+	"name": "Elunite Hammer",
+	"icon": "inv_hammer_20",
+	"dmgMin": 12,
+	"dmgMax": 23,
+	"speed": 2.3,
+	"dps": 7.61,
+	"popularity": 6,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "ONE_HANDED_MACE",
+	"type": "ONE_HAND",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 1693,
+	"sourceName": "Weapons of Elunite",
+	"sourceType": "QUEST"
 }

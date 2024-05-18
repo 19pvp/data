@@ -1,18 +1,17 @@
 {
-  "id": 59546,
-  "name": "Ointment-Coated Bracers",
-  "icon": "inv_bracer_27a",
-  "popularity": 6,
-  "armor": 47,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WRISTS",
-  "stats": {
-    "strength": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13998,
-  "sourceName": "In Fungus We Trust"
+	"id": 59546,
+	"name": "Ointment-Coated Bracers",
+	"icon": "inv_bracer_27a",
+	"popularity": 6,
+	"armor": 47,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WRISTS",
+	"stats": { "Strength": 2 },
+	"source": "QUEST",
+	"sourceId": 13998,
+	"sourceName": "In Fungus We Trust",
+	"sourceType": "QUEST"
 }

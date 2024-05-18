@@ -1,19 +1,17 @@
 {
-  "id": 56724,
-  "name": "Wet Work Gloves",
-  "icon": "inv_gauntlets_25",
-  "popularity": 24,
-  "armor": 39,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 3,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13865,
-  "sourceName": "Wet Work"
+	"id": 56724,
+	"name": "Wet Work Gloves",
+	"icon": "inv_gauntlets_25",
+	"popularity": 24,
+	"armor": 39,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": { "Stamina": 3, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 13865,
+	"sourceName": "Wet Work",
+	"sourceType": "QUEST"
 }

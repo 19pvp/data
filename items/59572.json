@@ -1,18 +1,15 @@
 {
-  "id": 59572,
-  "name": "Misshapen Boots",
-  "icon": "inv_boots_chain_06",
-  "popularity": 7,
-  "armor": 82,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "strength": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 17
+	"id": 59572,
+	"name": "Misshapen Boots",
+	"icon": "inv_boots_chain_06",
+	"popularity": 7,
+	"armor": 82,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Strength": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceZone": 17
 }

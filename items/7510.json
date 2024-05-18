@@ -1,17 +1,16 @@
 {
-  "id": 7510,
-  "name": "Lesser Spellfire Robes",
-  "icon": "inv_chest_cloth_18",
-  "popularity": 8,
-  "armor": 57,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "intellect": 6
-  },
-  "sourceType": "QUEST",
-  "sourceId": 1962,
-  "sourceName": "Spellfire Robes"
+	"id": 7510,
+	"name": "Lesser Spellfire Robes",
+	"icon": "inv_chest_cloth_18",
+	"popularity": 8,
+	"armor": 57,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Intellect": 6 },
+	"source": "QUEST",
+	"sourceId": 1962,
+	"sourceName": "Spellfire Robes",
+	"sourceType": "QUEST"
 }

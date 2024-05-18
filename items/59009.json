@@ -1,18 +1,17 @@
 {
-  "id": 59009,
-  "name": "Vyrin's Belt",
-  "icon": "inv_belt_02",
-  "popularity": 8,
-  "armor": 39,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "agility": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27037,
-  "sourceName": "Vyrin's Revenge"
+	"id": 59009,
+	"name": "Vyrin's Belt",
+	"icon": "inv_belt_02",
+	"popularity": 8,
+	"armor": 39,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Agility": 3 },
+	"source": "QUEST",
+	"sourceId": 27037,
+	"sourceName": "Vyrin's Revenge",
+	"sourceType": "QUEST"
 }

@@ -1,18 +1,18 @@
 {
-  "id": 61931,
-  "name": "Polished Helm of Valor",
-  "icon": "inv_helmet_02",
-  "popularity": 195,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "PLATE",
-  "type": "HEAD",
-  "stats": {
-    "crit": 4,
-    "hit": 4,
-    "strength": 6,
-    "stamina": 10
-  },
-  "sourceType": "VENDOR"
+	"id": 61931,
+	"name": "Polished Helm of Valor",
+	"icon": "inv_helmet_02",
+	"popularity": 195,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "PLATE",
+	"type": "HEAD",
+	"stats": {
+		"Critical Strike Rating": 4,
+		"Hit Rating": 4,
+		"Strength": 6,
+		"Stamina": 10
+	},
+	"source": "VENDOR"
 }

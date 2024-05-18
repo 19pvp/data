@@ -1,20 +1,17 @@
 {
-  "id": 1951,
-  "name": "Blackwater Cutlass",
-  "icon": "inv_sword_24",
-  "dmgMin": 24,
-  "dmgMax": 46,
-  "speed": 2.6,
-  "dps": 13.46,
-  "popularity": 12,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "ONE_HANDED_SWORD",
-  "type": "ONE_HAND",
-  "stats": {
-    "hit": 3,
-    "agility": 4
-  },
-  "sourceType": "DROP",
-  "sourceZone": 1581
+	"id": 1951,
+	"name": "Blackwater Cutlass",
+	"icon": "inv_sword_24",
+	"dmgMin": 24,
+	"dmgMax": 46,
+	"speed": 2.6,
+	"dps": 13.46,
+	"popularity": 12,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "ONE_HANDED_SWORD",
+	"type": "ONE_HAND",
+	"stats": { "Hit Rating": 3, "Agility": 4 },
+	"source": "DROP",
+	"sourceZone": 1581
 }

@@ -1,19 +1,17 @@
 {
-  "id": 58911,
-  "name": "Tightly Cinched Belt",
-  "icon": "inv_belt_45c",
-  "popularity": 4,
-  "armor": 54,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26241,
-  "sourceName": "Westfall Stew"
+	"id": 58911,
+	"name": "Tightly Cinched Belt",
+	"icon": "inv_belt_45c",
+	"popularity": 4,
+	"armor": 54,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 26241,
+	"sourceName": "Westfall Stew",
+	"sourceType": "QUEST"
 }

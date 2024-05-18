@@ -1,19 +1,17 @@
 {
-  "id": 10411,
-  "name": "Footpads of the Fang",
-  "icon": "inv_boots_04",
-  "popularity": 10,
-  "armor": 69,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "agility": 5,
-    "stamina": 5
-  },
-  "sourceType": "DROP",
-  "sourceId": 3673,
-  "sourceName": "Lord Serpentis",
-  "sourceZone": 718
+	"id": 10411,
+	"name": "Footpads of the Fang",
+	"icon": "inv_boots_04",
+	"popularity": 10,
+	"armor": 69,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Agility": 5, "Stamina": 5 },
+	"source": "DROP",
+	"sourceId": 3673,
+	"sourceName": "Lord Serpentis",
+	"sourceZone": 718,
+	"sourceType": "NPC"
 }

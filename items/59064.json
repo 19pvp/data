@@ -1,18 +1,17 @@
 {
-  "id": 59064,
-  "name": "Marblebeard's Shrug",
-  "icon": "inv_shoulder_25",
-  "popularity": 4,
-  "armor": 43,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "SHOULDERS",
-  "stats": {
-    "stamina": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25735,
-  "sourceName": "Incendicite Ore"
+	"id": 59064,
+	"name": "Marblebeard's Shrug",
+	"icon": "inv_shoulder_25",
+	"popularity": 4,
+	"armor": 43,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "SHOULDERS",
+	"stats": { "Stamina": 5 },
+	"source": "QUEST",
+	"sourceId": 25735,
+	"sourceName": "Incendicite Ore",
+	"sourceType": "QUEST"
 }

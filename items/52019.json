@@ -1,20 +1,18 @@
 {
-  "id": 52019,
-  "name": "Precious' Ribbon",
-  "icon": "inv_misc_ribbon_01",
-  "popularity": 83,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIRTS",
-  "type": "SHIRT",
-  "stats": {},
-  "sourceType": "DROP",
-  "sourceId": 37217,
-  "sourceName": "Precious",
-  "sourceZone": 4812,
-  "equip": {
-    "spell": 72968,
-    "text": "A ribbon of affection."
-  }
+	"id": 52019,
+	"name": "Precious' Ribbon",
+	"icon": "inv_misc_ribbon_01",
+	"popularity": 83,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIRTS",
+	"type": "SHIRT",
+	"stats": {},
+	"source": "DROP",
+	"sourceId": 37217,
+	"sourceName": "Precious",
+	"sourceZone": 4812,
+	"sourceType": "NPC",
+	"equip": { "spell": 72968, "text": "A ribbon of affection." }
 }

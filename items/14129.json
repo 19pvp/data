@@ -1,13 +1,53 @@
 {
-  "id": 14129,
-  "name": "Ritual Sandals",
-  "icon": "inv_boots_03",
-  "popularity": 15,
-  "armor": 39,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "FEET",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 14129,
+	"name": "Ritual Sandals",
+	"icon": "inv_boots_03",
+	"popularity": 15,
+	"armor": 39,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": {},
+	"rand": {
+		"of the Owl": {
+			"id": 760,
+			"chance": 25.8,
+			"stats": { "Intellect": 3, "Spirit": 3 }
+		},
+		"of the Whale": {
+			"id": 1015,
+			"chance": 17,
+			"stats": { "Spirit": 3, "Stamina": 3 }
+		},
+		"of the Eagle": {
+			"id": 845,
+			"chance": 16.5,
+			"stats": { "Intellect": 3, "Stamina": 3 }
+		},
+		"of Spirit": { "id": 113, "chance": 10, "stats": { "Spirit": 5 } },
+		"of the Falcon": {
+			"id": 234,
+			"chance": 8.8,
+			"stats": { "Agility": 3, "Intellect": 3 }
+		},
+		"of Stamina": { "id": 114, "chance": 6.7, "stats": { "Stamina": 5 } },
+		"of Intellect": { "id": 112, "chance": 6.6, "stats": { "Intellect": 5 } },
+		"of Shadow Wrath": {
+			"id": 1841,
+			"chance": 2.9,
+			"stats": { "Shadow Spell Damage": 7 }
+		},
+		"of Frozen Wrath": {
+			"id": 1955,
+			"chance": 2.8,
+			"stats": { "Frost Spell Damage": 7 }
+		},
+		"of Arcane Wrath": {
+			"id": 1803,
+			"chance": 2.7,
+			"stats": { "Arcane Spell Damage": 7 }
+		}
+	},
+	"source": "DROP"
 }

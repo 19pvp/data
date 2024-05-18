@@ -1,19 +1,17 @@
 {
-  "id": 52907,
-  "name": "Snake Scale Belt",
-  "icon": "inv_belt_84v2",
-  "popularity": 7,
-  "armor": 41,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24858,
-  "sourceName": "Bilgewater Cartel Represent"
+	"id": 52907,
+	"name": "Snake Scale Belt",
+	"icon": "inv_belt_84v2",
+	"popularity": 7,
+	"armor": 41,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 24858,
+	"sourceName": "Bilgewater Cartel Represent",
+	"sourceType": "QUEST"
 }

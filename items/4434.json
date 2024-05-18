@@ -1,18 +1,17 @@
 {
-  "id": 4434,
-  "name": "Scarecrow Trousers",
-  "icon": "inv_pants_02",
-  "popularity": 14,
-  "armor": 50,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "spirit": 6
-  },
-  "sourceType": "DROP",
-  "sourceId": 573,
-  "sourceName": "Foe Reaper 4000",
-  "sourceZone": 40
+	"id": 4434,
+	"name": "Scarecrow Trousers",
+	"icon": "inv_pants_02",
+	"popularity": 14,
+	"armor": 50,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Spirit": 6 },
+	"source": "DROP",
+	"sourceId": 573,
+	"sourceName": "Foe Reaper 4000",
+	"sourceZone": 40,
+	"sourceType": "NPC"
 }

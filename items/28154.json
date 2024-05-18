@@ -1,19 +1,17 @@
 {
-  "id": 28154,
-  "name": "Red Silk Trousers",
-  "icon": "inv_pants_06",
-  "popularity": 11,
-  "armor": 42,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 2,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9172,
-  "sourceName": "Report to Magister Kaendris"
+	"id": 28154,
+	"name": "Red Silk Trousers",
+	"icon": "inv_pants_06",
+	"popularity": 11,
+	"armor": 42,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Stamina": 2, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 9172,
+	"sourceName": "Report to Magister Kaendris",
+	"sourceType": "QUEST"
 }

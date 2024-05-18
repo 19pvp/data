@@ -1,20 +1,19 @@
 {
-  "id": 6967,
-  "name": "Elunite Sword",
-  "icon": "inv_sword_04",
-  "dmgMin": 11,
-  "dmgMax": 21,
-  "speed": 2.1,
-  "dps": 7.62,
-  "popularity": 6,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "ONE_HANDED_SWORD",
-  "type": "ONE_HAND",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 1693,
-  "sourceName": "Weapons of Elunite"
+	"id": 6967,
+	"name": "Elunite Sword",
+	"icon": "inv_sword_04",
+	"dmgMin": 11,
+	"dmgMax": 21,
+	"speed": 2.1,
+	"dps": 7.62,
+	"popularity": 6,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "ONE_HANDED_SWORD",
+	"type": "ONE_HAND",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 1693,
+	"sourceName": "Weapons of Elunite",
+	"sourceType": "QUEST"
 }

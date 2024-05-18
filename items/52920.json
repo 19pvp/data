@@ -1,18 +1,15 @@
 {
-  "id": 52920,
-  "name": "Cardio-Extractor Gloves",
-  "icon": "inv_gauntlets_21",
-  "popularity": 6,
-  "armor": 37,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 4720
+	"id": 52920,
+	"name": "Cardio-Extractor Gloves",
+	"icon": "inv_gauntlets_21",
+	"popularity": 6,
+	"armor": 37,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Agility": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceZone": 4720
 }

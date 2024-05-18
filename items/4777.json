@@ -1,18 +1,16 @@
 {
-  "id": 4777,
-  "name": "Ironwood Maul",
-  "icon": "inv_hammer_16",
-  "dmgMin": 26,
-  "dmgMax": 40,
-  "speed": 2.8,
-  "dps": 11.79,
-  "popularity": 22,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "TWO_HANDED_MACE",
-  "type": "TWO_HAND",
-  "stats": {
-    "stamina": 5
-  },
-  "sourceType": "VENDOR"
+	"id": 4777,
+	"name": "Ironwood Maul",
+	"icon": "inv_hammer_16",
+	"dmgMin": 26,
+	"dmgMax": 40,
+	"speed": 2.8,
+	"dps": 11.79,
+	"popularity": 22,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "TWO_HANDED_MACE",
+	"type": "TWO_HAND",
+	"stats": { "Stamina": 5 },
+	"source": "VENDOR"
 }

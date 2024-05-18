@@ -1,18 +1,17 @@
 {
-  "id": 24334,
-  "name": "Wheel of the Lost Hope",
-  "icon": "inv_shield_09",
-  "popularity": 34,
-  "armor": 563,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9683,
-  "sourceName": "Ending the Bloodcurse"
+	"id": 24334,
+	"name": "Wheel of the Lost Hope",
+	"icon": "inv_shield_09",
+	"popularity": 34,
+	"armor": 563,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 9683,
+	"sourceName": "Ending the Bloodcurse",
+	"sourceType": "QUEST"
 }

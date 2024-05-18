@@ -1,21 +1,18 @@
 {
-  "id": 5813,
-  "name": "Emil's Brand",
-  "icon": "inv_sword_10",
-  "dmgMin": 53,
-  "dmgMax": 81,
-  "speed": 3.1,
-  "dps": 21.61,
-  "popularity": 28,
-  "side": "ALLIANCE",
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "TWO_HANDED_SWORD",
-  "type": "TWO_HAND",
-  "stats": {
-    "strength": 11,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 331
+	"id": 5813,
+	"name": "Emil's Brand",
+	"icon": "inv_sword_10",
+	"dmgMin": 53,
+	"dmgMax": 81,
+	"speed": 3.1,
+	"dps": 21.61,
+	"popularity": 28,
+	"side": "ALLIANCE",
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "TWO_HANDED_SWORD",
+	"type": "TWO_HAND",
+	"stats": { "Strength": 11, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceZone": 331
 }

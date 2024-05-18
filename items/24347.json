@@ -1,20 +1,17 @@
 {
-  "id": 24347,
-  "name": "Vest of the Dragon Slayer",
-  "icon": "inv_chest_leather_07",
-  "popularity": 8,
-  "armor": 81,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "hit": 2,
-    "agility": 3,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9689,
-  "sourceName": "Razormaw"
+	"id": 24347,
+	"name": "Vest of the Dragon Slayer",
+	"icon": "inv_chest_leather_07",
+	"popularity": 8,
+	"armor": 81,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Hit Rating": 2, "Agility": 3, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 9689,
+	"sourceName": "Razormaw",
+	"sourceType": "QUEST"
 }

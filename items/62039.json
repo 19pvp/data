@@ -1,18 +1,18 @@
 {
-  "id": 62039,
-  "name": "Inherited Cape of the Black Baron",
-  "icon": "inv_misc_cape_20",
-  "popularity": 174,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "crit": 2,
-    "haste": 2,
-    "agility": 3,
-    "stamina": 5
-  },
-  "sourceType": "VENDOR"
+	"id": 62039,
+	"name": "Inherited Cape of the Black Baron",
+	"icon": "inv_misc_cape_20",
+	"popularity": 174,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": {
+		"Critical Strike Rating": 2,
+		"Haste Rating": 2,
+		"Agility": 3,
+		"Stamina": 5
+	},
+	"source": "VENDOR"
 }

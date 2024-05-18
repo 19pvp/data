@@ -1,19 +1,32 @@
 {
-  "id": 31269,
-  "name": "Ghoul Hammer",
-  "icon": "inv_hammer_17",
-  "dmgMin": 15,
-  "dmgMax": 29,
-  "speed": 2.4,
-  "dps": 9.17,
-  "popularity": 5,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "ONE_HANDED_MACE",
-  "type": "ONE_HAND",
-  "stats": {},
-  "sourceType": "DROP",
-  "sourceId": 22062,
-  "sourceName": "Dr. Whitherlimb",
-  "sourceZone": 3433
+	"id": 31269,
+	"name": "Ghoul Hammer",
+	"icon": "inv_hammer_17",
+	"dmgMin": 15,
+	"dmgMax": 29,
+	"speed": 2.4,
+	"dps": 9.17,
+	"popularity": 5,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "ONE_HANDED_MACE",
+	"type": "ONE_HAND",
+	"stats": {},
+	"rand": {
+		"of the Sun": {
+			"id": -58,
+			"chance": 50.5,
+			"stats": { "Critical Strike Rating": 1, "Stamina": 1, "Intellect": 1 }
+		},
+		"of the Wild": {
+			"id": -60,
+			"chance": 49.5,
+			"stats": { "Agility": 1, "Stamina": 1, "Haste": 1 }
+		}
+	},
+	"source": "DROP",
+	"sourceId": 22062,
+	"sourceName": "Dr. Whitherlimb",
+	"sourceZone": 3433,
+	"sourceType": "NPC"
 }

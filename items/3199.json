@@ -1,16 +1,57 @@
 {
-  "id": 3199,
-  "name": "Battle Slayer",
-  "icon": "inv_throwingaxe_06",
-  "dmgMin": 38,
-  "dmgMax": 58,
-  "speed": 3.3,
-  "dps": 14.55,
-  "popularity": 6,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "TWO_HANDED_AXE",
-  "type": "TWO_HAND",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 3199,
+	"name": "Battle Slayer",
+	"icon": "inv_throwingaxe_06",
+	"dmgMin": 38,
+	"dmgMax": 58,
+	"speed": 3.3,
+	"dps": 14.55,
+	"popularity": 6,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "TWO_HANDED_AXE",
+	"type": "TWO_HAND",
+	"stats": {},
+	"rand": {
+		"of the Monkey": {
+			"id": 596,
+			"chance": 12.8,
+			"stats": { "Agility": 5, "Stamina": 5 }
+		},
+		"of the Tiger": {
+			"id": 681,
+			"chance": 12.1,
+			"stats": { "Agility": 5, "Strength": 5 }
+		},
+		"of the Wolf": {
+			"id": 511,
+			"chance": 10.9,
+			"stats": { "Agility": 5, "Spirit": 5 }
+		},
+		"of the Eagle": {
+			"id": 851,
+			"chance": 10.6,
+			"stats": { "Intellect": 5, "Stamina": 5 }
+		},
+		"of the Bear": {
+			"id": 1191,
+			"chance": 10.4,
+			"stats": { "Stamina": 5, "Strength": 5 }
+		},
+		"of the Boar": {
+			"id": 1106,
+			"chance": 10.3,
+			"stats": { "Spirit": 5, "Strength": 5 }
+		},
+		"of the Whale": {
+			"id": 1021,
+			"chance": 10.2,
+			"stats": { "Spirit": 5, "Stamina": 5 }
+		},
+		"of Stamina": { "id": 184, "chance": 8.3, "stats": { "Stamina": 8 } },
+		"of Agility": { "id": 167, "chance": 6, "stats": { "Agility": 8 } },
+		"of Strength": { "id": 189, "chance": 5.6, "stats": { "Strength": 8 } },
+		"of Power": { "id": 1554, "chance": 2.6, "stats": { "Attack Power": 16 } }
+	},
+	"source": "DROP"
 }

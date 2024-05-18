@@ -1,20 +1,18 @@
 {
-  "id": 3446,
-  "name": "Darkwood Staff",
-  "icon": "inv_staff_16",
-  "dmgMin": 23,
-  "dmgMax": 35,
-  "speed": 3.2,
-  "dps": 9.06,
-  "popularity": 10,
-  "side": "HORDE",
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "STAFF",
-  "type": "TWO_HAND",
-  "stats": {
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 85
+	"id": 3446,
+	"name": "Darkwood Staff",
+	"icon": "inv_staff_16",
+	"dmgMin": 23,
+	"dmgMax": 35,
+	"speed": 3.2,
+	"dps": 9.06,
+	"popularity": 10,
+	"side": "HORDE",
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "STAFF",
+	"type": "TWO_HAND",
+	"stats": { "Stamina": 3 },
+	"source": "QUEST",
+	"sourceZone": 85
 }

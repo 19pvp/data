@@ -1,19 +1,17 @@
 {
-  "id": 52629,
-  "name": "Naga Scale Bracers",
-  "icon": "inv_bracer_27b",
-  "popularity": 14,
-  "armor": 42,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WRISTS",
-  "stats": {
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13565,
-  "sourceName": "Twice Removed"
+	"id": 52629,
+	"name": "Naga Scale Bracers",
+	"icon": "inv_bracer_27b",
+	"popularity": 14,
+	"armor": 42,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WRISTS",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 13565,
+	"sourceName": "Twice Removed",
+	"sourceType": "QUEST"
 }

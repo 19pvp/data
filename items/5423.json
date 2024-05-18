@@ -1,21 +1,19 @@
 {
-  "id": 5423,
-  "name": "Boahn's Fang",
-  "icon": "inv_axe_17",
-  "dmgMin": 54,
-  "dmgMax": 82,
-  "speed": 3.7,
-  "dps": 18.38,
-  "popularity": 6,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "TWO_HANDED_AXE",
-  "type": "TWO_HAND",
-  "stats": {
-    "crit": 6,
-    "strength": 8
-  },
-  "sourceType": "DROP",
-  "sourceId": 3672,
-  "sourceName": "Boahn"
+	"id": 5423,
+	"name": "Boahn's Fang",
+	"icon": "inv_axe_17",
+	"dmgMin": 54,
+	"dmgMax": 82,
+	"speed": 3.7,
+	"dps": 18.38,
+	"popularity": 6,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "TWO_HANDED_AXE",
+	"type": "TWO_HAND",
+	"stats": { "Critical Strike Rating": 6, "Strength": 8 },
+	"source": "DROP",
+	"sourceId": 3672,
+	"sourceName": "Boahn",
+	"sourceType": "NPC"
 }

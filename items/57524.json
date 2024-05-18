@@ -1,18 +1,17 @@
 {
-  "id": 57524,
-  "name": "Frontier Bracer",
-  "icon": "inv_bracer_04",
-  "popularity": 4,
-  "armor": 23,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "agility": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 52,
-  "sourceName": "Protect the Frontier"
+	"id": 57524,
+	"name": "Frontier Bracer",
+	"icon": "inv_bracer_04",
+	"popularity": 4,
+	"armor": 23,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Agility": 1 },
+	"source": "QUEST",
+	"sourceId": 52,
+	"sourceName": "Protect the Frontier",
+	"sourceType": "QUEST"
 }

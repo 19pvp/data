@@ -1,21 +1,17 @@
 {
-  "id": 2807,
-  "name": "Guillotine Axe",
-  "icon": "inv_axe_24",
-  "dmgMin": 26,
-  "dmgMax": 50,
-  "speed": 2.7,
-  "dps": 14.07,
-  "popularity": 10,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "ONE_HANDED_AXE",
-  "type": "ONE_HAND",
-  "stats": {
-    "crit": 2,
-    "agility": 3,
-    "stamina": 2
-  },
-  "sourceType": "DROP",
-  "sourceZone": 209
+	"id": 2807,
+	"name": "Guillotine Axe",
+	"icon": "inv_axe_24",
+	"dmgMin": 26,
+	"dmgMax": 50,
+	"speed": 2.7,
+	"dps": 14.07,
+	"popularity": 10,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "ONE_HANDED_AXE",
+	"type": "ONE_HAND",
+	"stats": { "Critical Strike Rating": 2, "Agility": 3, "Stamina": 2 },
+	"source": "DROP",
+	"sourceZone": 209
 }

@@ -1,18 +1,18 @@
 {
-  "id": 69887,
-  "name": "Burnished Helm of Might",
-  "icon": "inv_helmet_09",
-  "popularity": 210,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "PLATE",
-  "type": "HEAD",
-  "stats": {
-    "parry": 4,
-    "expertise": 4,
-    "strength": 6,
-    "stamina": 10
-  },
-  "sourceType": "VENDOR"
+	"id": 69887,
+	"name": "Burnished Helm of Might",
+	"icon": "inv_helmet_09",
+	"popularity": 210,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "PLATE",
+	"type": "HEAD",
+	"stats": {
+		"Parry Rating": 4,
+		"Expertise Rating": 4,
+		"Strength": 6,
+		"Stamina": 10
+	},
+	"source": "VENDOR"
 }

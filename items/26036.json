@@ -1,18 +1,17 @@
 {
-  "id": 26036,
-  "name": "Vindicator's Stompers",
-  "icon": "inv_boots_05",
-  "popularity": 22,
-  "armor": 74,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9700,
-  "sourceName": "I Shoot Magic Into the Darkness"
+	"id": 26036,
+	"name": "Vindicator's Stompers",
+	"icon": "inv_boots_05",
+	"popularity": 22,
+	"armor": 74,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 9700,
+	"sourceName": "I Shoot Magic Into the Darkness",
+	"sourceType": "QUEST"
 }

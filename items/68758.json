@@ -1,15 +1,13 @@
 {
-  "id": 68758,
-  "name": "Imbued Pioneer Boots",
-  "icon": "inv_boots_08",
-  "popularity": 7,
-  "armor": 38,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "DROP"
+	"id": 68758,
+	"name": "Imbued Pioneer Boots",
+	"icon": "inv_boots_08",
+	"popularity": 7,
+	"armor": 38,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Stamina": 1 },
+	"source": "DROP"
 }

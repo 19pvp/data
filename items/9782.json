@@ -1,13 +1,55 @@
 {
-  "id": 9782,
-  "name": "Bandit Jerkin",
-  "icon": "inv_shirt_11",
-  "popularity": 17,
-  "armor": 98,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 9782,
+	"name": "Bandit Jerkin",
+	"icon": "inv_shirt_11",
+	"popularity": 17,
+	"armor": 98,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": {},
+	"rand": {
+		"of the Owl": {
+			"id": 766,
+			"chance": 18.5,
+			"stats": { "Intellect": 5, "Spirit": 5 }
+		},
+		"of the Monkey": {
+			"id": 596,
+			"chance": 15.2,
+			"stats": { "Agility": 5, "Stamina": 5 }
+		},
+		"of Stamina": { "id": 184, "chance": 12, "stats": { "Stamina": 8 } },
+		"of Agility": { "id": 167, "chance": 9.4, "stats": { "Agility": 8 } },
+		"of the Whale": {
+			"id": 1021,
+			"chance": 8.8,
+			"stats": { "Spirit": 5, "Stamina": 5 }
+		},
+		"of the Eagle": {
+			"id": 851,
+			"chance": 8.4,
+			"stats": { "Intellect": 5, "Stamina": 5 }
+		},
+		"of Power": { "id": 1554, "chance": 7.2, "stats": { "Attack Power": 16 } },
+		"of Intellect": { "id": 174, "chance": 5.8, "stats": { "Intellect": 8 } },
+		"of Spirit": { "id": 179, "chance": 5.3, "stats": { "Spirit": 8 } },
+		"of the Falcon": {
+			"id": 247,
+			"chance": 4.1,
+			"stats": { "Agility": 5, "Intellect": 5 }
+		},
+		"of the Wolf": {
+			"id": 511,
+			"chance": 3.8,
+			"stats": { "Agility": 5, "Spirit": 5 }
+		},
+		"of Nature's Wrath": {
+			"id": 1996,
+			"chance": 1.2,
+			"stats": { "Nature Spell Damage": 11 }
+		}
+	},
+	"source": "DROP"
 }

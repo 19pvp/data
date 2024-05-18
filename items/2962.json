@@ -1,15 +1,13 @@
 {
-  "id": 2962,
-  "name": "Burnt Leather Breeches",
-  "icon": "inv_pants_06",
-  "popularity": 26,
-  "armor": 46,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "agility": 1
-  },
-  "sourceType": "DROP"
+	"id": 2962,
+	"name": "Burnt Leather Breeches",
+	"icon": "inv_pants_06",
+	"popularity": 26,
+	"armor": 46,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Agility": 1 },
+	"source": "DROP"
 }

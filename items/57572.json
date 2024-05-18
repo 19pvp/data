@@ -1,18 +1,17 @@
 {
-  "id": 57572,
-  "name": "Dun Morogh Hiking Boots",
-  "icon": "inv_boots_04",
-  "popularity": 5,
-  "armor": 36,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25937,
-  "sourceName": "Priceless Treasures"
+	"id": 57572,
+	"name": "Dun Morogh Hiking Boots",
+	"icon": "inv_boots_04",
+	"popularity": 5,
+	"armor": 36,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 25937,
+	"sourceName": "Priceless Treasures",
+	"sourceType": "QUEST"
 }

@@ -1,20 +1,17 @@
 {
-  "id": 65936,
-  "name": "Sandals of Sacrifice",
-  "icon": "inv_boots_cloth_01",
-  "popularity": 10,
-  "armor": 69,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "stamina": 5,
-    "intellect": 4,
-    "spirit": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27968,
-  "sourceName": "Fury of the Pack"
+	"id": 65936,
+	"name": "Sandals of Sacrifice",
+	"icon": "inv_boots_cloth_01",
+	"popularity": 10,
+	"armor": 69,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Stamina": 5, "Intellect": 4, "Spirit": 4 },
+	"source": "QUEST",
+	"sourceId": 27968,
+	"sourceName": "Fury of the Pack",
+	"sourceType": "QUEST"
 }

@@ -1,23 +1,24 @@
 {
-  "id": 1387,
-  "name": "Ghoulfang",
-  "icon": "inv_sword_07",
-  "dmgMin": 36,
-  "dmgMax": 54,
-  "speed": 3.6,
-  "dps": 12.5,
-  "popularity": 9,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "TWO_HANDED_SWORD",
-  "type": "TWO_HAND",
-  "stats": {},
-  "sourceType": "DROP",
-  "sourceId": 572,
-  "sourceName": "Leprithus",
-  "sourceZone": 40,
-  "chanceOnHit": {
-    "spell": 16409,
-    "text": "Sends a shadowy bolt at the enemy causing 35 Shadow damage."
-  }
+	"id": 1387,
+	"name": "Ghoulfang",
+	"icon": "inv_sword_07",
+	"dmgMin": 36,
+	"dmgMax": 54,
+	"speed": 3.6,
+	"dps": 12.5,
+	"popularity": 9,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "TWO_HANDED_SWORD",
+	"type": "TWO_HAND",
+	"stats": {},
+	"source": "DROP",
+	"sourceId": 572,
+	"sourceName": "Leprithus",
+	"sourceZone": 40,
+	"sourceType": "NPC",
+	"chanceOnHit": {
+		"spell": 16409,
+		"text": "Sends a shadowy bolt at the enemy causing 35 Shadow damage."
+	}
 }

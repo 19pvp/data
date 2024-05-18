@@ -1,19 +1,17 @@
 {
-  "id": 2087,
-  "name": "Hard Crawler Carapace",
-  "icon": "inv_chest_wolf",
-  "popularity": 13,
-  "armor": 63,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "agility": 2,
-    "stamina": 1
-  },
-  "sourceType": "DROP",
-  "sourceId": 830,
-  "sourceName": "Sand Crawler",
-  "sourceZone": 40
+	"id": 2087,
+	"name": "Hard Crawler Carapace",
+	"icon": "inv_chest_wolf",
+	"popularity": 13,
+	"armor": 63,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Agility": 2, "Stamina": 1 },
+	"source": "DROP",
+	"sourceId": 830,
+	"sourceName": "Sand Crawler",
+	"sourceZone": 40,
+	"sourceType": "NPC"
 }

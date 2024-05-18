@@ -1,23 +1,21 @@
 {
-  "id": 1318,
-  "name": "Night Reaver",
-  "icon": "inv_throwingaxe_06",
-  "dmgMin": 52,
-  "dmgMax": 78,
-  "speed": 3.3,
-  "dps": 19.7,
-  "popularity": 19,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "TWO_HANDED_AXE",
-  "type": "TWO_HAND",
-  "stats": {
-    "strength": 5
-  },
-  "sourceType": "DROP",
-  "sourceZone": 209,
-  "chanceOnHit": {
-    "spell": 13480,
-    "text": "Sends a shadowy bolt at the enemy causing 60 to 90 Shadow damage."
-  }
+	"id": 1318,
+	"name": "Night Reaver",
+	"icon": "inv_throwingaxe_06",
+	"dmgMin": 52,
+	"dmgMax": 78,
+	"speed": 3.3,
+	"dps": 19.7,
+	"popularity": 19,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "TWO_HANDED_AXE",
+	"type": "TWO_HAND",
+	"stats": { "Strength": 5 },
+	"source": "DROP",
+	"sourceZone": 209,
+	"chanceOnHit": {
+		"spell": 13480,
+		"text": "Sends a shadowy bolt at the enemy causing 60 to 90 Shadow damage."
+	}
 }

@@ -1,18 +1,16 @@
 {
-  "id": 4818,
-  "name": "Executioner's Sword",
-  "icon": "inv_sword_28",
-  "dmgMin": 43,
-  "dmgMax": 65,
-  "speed": 3.4,
-  "dps": 15.88,
-  "popularity": 9,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "TWO_HANDED_SWORD",
-  "type": "TWO_HAND",
-  "stats": {
-    "strength": 8
-  },
-  "sourceType": "VENDOR"
+	"id": 4818,
+	"name": "Executioner's Sword",
+	"icon": "inv_sword_28",
+	"dmgMin": 43,
+	"dmgMax": 65,
+	"speed": 3.4,
+	"dps": 15.88,
+	"popularity": 9,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "TWO_HANDED_SWORD",
+	"type": "TWO_HAND",
+	"stats": { "Strength": 8 },
+	"source": "VENDOR"
 }

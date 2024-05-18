@@ -1,18 +1,17 @@
 {
-  "id": 1189,
-  "name": "Overseer's Ring",
-  "icon": "inv_jewelry_ring_03",
-  "popularity": 6,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "strength": 3
-  },
-  "sourceType": "DROP",
-  "sourceId": 125,
-  "sourceName": "Riverpaw Overseer",
-  "sourceZone": 40
+	"id": 1189,
+	"name": "Overseer's Ring",
+	"icon": "inv_jewelry_ring_03",
+	"popularity": 6,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Strength": 3 },
+	"source": "DROP",
+	"sourceId": 125,
+	"sourceName": "Riverpaw Overseer",
+	"sourceZone": 40,
+	"sourceType": "NPC"
 }

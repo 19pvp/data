@@ -1,20 +1,16 @@
 {
-  "id": 12983,
-  "name": "Rakzur Club",
-  "icon": "inv_hammer_09",
-  "dmgMin": 38,
-  "dmgMax": 57,
-  "speed": 2.6,
-  "dps": 18.27,
-  "popularity": 13,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "TWO_HANDED_MACE",
-  "type": "TWO_HAND",
-  "stats": {
-    "hit": 5,
-    "strength": 4,
-    "stamina": 8
-  },
-  "sourceType": "DROP"
+	"id": 12983,
+	"name": "Rakzur Club",
+	"icon": "inv_hammer_09",
+	"dmgMin": 38,
+	"dmgMax": 57,
+	"speed": 2.6,
+	"dps": 18.27,
+	"popularity": 13,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "TWO_HANDED_MACE",
+	"type": "TWO_HAND",
+	"stats": { "Hit Rating": 5, "Strength": 4, "Stamina": 8 },
+	"source": "DROP"
 }

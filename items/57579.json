@@ -1,19 +1,17 @@
 {
-  "id": 57579,
-  "name": "Airfield Defender's Garb",
-  "icon": "inv_chest_cloth_32",
-  "popularity": 18,
-  "armor": 34,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 1,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26102,
-  "sourceName": "Grimaxe's Demise"
+	"id": 57579,
+	"name": "Airfield Defender's Garb",
+	"icon": "inv_chest_cloth_32",
+	"popularity": 18,
+	"armor": 34,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Stamina": 1, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 26102,
+	"sourceName": "Grimaxe's Demise",
+	"sourceType": "QUEST"
 }

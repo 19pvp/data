@@ -1,18 +1,14 @@
 {
-  "id": 44099,
-  "name": "Strengthened Stockade Pauldrons",
-  "icon": "inv_shoulder_20",
-  "popularity": 76,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "PLATE",
-  "type": "SHOULDERS",
-  "stats": {
-    "resilience": 5,
-    "strength": 5,
-    "stamina": 7
-  },
-  "sourceType": "VENDOR",
-  "sourceZone": 4197
+	"id": 44099,
+	"name": "Strengthened Stockade Pauldrons",
+	"icon": "inv_shoulder_20",
+	"popularity": 76,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "PLATE",
+	"type": "SHOULDERS",
+	"stats": { "Resilience": 5, "Strength": 5, "Stamina": 7 },
+	"source": "VENDOR",
+	"sourceZone": 4197
 }

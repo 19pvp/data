@@ -1,18 +1,17 @@
 {
-  "id": 58922,
-  "name": "Worn Defias Bracers",
-  "icon": "inv_bracer_02",
-  "popularity": 11,
-  "armor": 29,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "crit": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26296,
-  "sourceName": "Evidence Collection"
+	"id": 58922,
+	"name": "Worn Defias Bracers",
+	"icon": "inv_bracer_02",
+	"popularity": 11,
+	"armor": 29,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Critical Strike Rating": 2 },
+	"source": "QUEST",
+	"sourceId": 26296,
+	"sourceName": "Evidence Collection",
+	"sourceType": "QUEST"
 }

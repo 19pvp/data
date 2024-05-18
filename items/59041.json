@@ -1,20 +1,19 @@
 {
-  "id": 59041,
-  "name": "Vibro Knife",
-  "icon": "inv_weapon_shortblade_05",
-  "dmgMin": 1.4,
-  "dmgMax": 2.599999928474426,
-  "speed": 1.4,
-  "dps": 1.43,
-  "popularity": 7,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "DAGGER",
-  "type": "MAIN_HAND",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26201,
-  "sourceName": "The Power of a Warlock"
+	"id": 59041,
+	"name": "Vibro Knife",
+	"icon": "inv_weapon_shortblade_05",
+	"dmgMin": 1.4,
+	"dmgMax": 2.599999928474426,
+	"speed": 1.4,
+	"dps": 1.43,
+	"popularity": 7,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "DAGGER",
+	"type": "MAIN_HAND",
+	"stats": { "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 26201,
+	"sourceName": "The Power of a Warlock",
+	"sourceType": "QUEST"
 }

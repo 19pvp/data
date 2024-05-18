@@ -1,21 +1,18 @@
 {
-  "id": 58997,
-  "name": "Carved Stone Mace",
-  "icon": "inv_mace_04",
-  "dmgMin": 7,
-  "dmgMax": 14,
-  "speed": 1.6,
-  "dps": 6.56,
-  "popularity": 11,
-  "side": "ALLIANCE",
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "ONE_HANDED_MACE",
-  "type": "MAIN_HAND",
-  "stats": {
-    "stamina": 1,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 38
+	"id": 58997,
+	"name": "Carved Stone Mace",
+	"icon": "inv_mace_04",
+	"dmgMin": 7,
+	"dmgMax": 14,
+	"speed": 1.6,
+	"dps": 6.56,
+	"popularity": 11,
+	"side": "ALLIANCE",
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "ONE_HANDED_MACE",
+	"type": "MAIN_HAND",
+	"stats": { "Stamina": 1, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceZone": 38
 }

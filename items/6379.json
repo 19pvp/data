@@ -1,16 +1,13 @@
 {
-  "id": 6379,
-  "name": "Inscribed Leather Belt",
-  "icon": "inv_belt_26",
-  "popularity": 7,
-  "armor": 43,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 2,
-    "intellect": 2
-  },
-  "sourceType": "DROP"
+	"id": 6379,
+	"name": "Inscribed Leather Belt",
+	"icon": "inv_belt_26",
+	"popularity": 7,
+	"armor": 43,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Stamina": 2, "Intellect": 2 },
+	"source": "DROP"
 }

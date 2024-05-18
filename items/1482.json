@@ -1,23 +1,21 @@
 {
-  "id": 1482,
-  "name": "Shadowfang",
-  "icon": "inv_sword_13",
-  "dmgMin": 29,
-  "dmgMax": 55,
-  "speed": 2.7,
-  "dps": 15.56,
-  "popularity": 78,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "ONE_HANDED_SWORD",
-  "type": "ONE_HAND",
-  "stats": {
-    "agility": 6
-  },
-  "sourceType": "DROP",
-  "sourceZone": 209,
-  "chanceOnHit": {
-    "spell": 13440,
-    "text": "Sends a shadowy bolt at the enemy causing 30 Shadow damage."
-  }
+	"id": 1482,
+	"name": "Shadowfang",
+	"icon": "inv_sword_13",
+	"dmgMin": 29,
+	"dmgMax": 55,
+	"speed": 2.7,
+	"dps": 15.56,
+	"popularity": 78,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "ONE_HANDED_SWORD",
+	"type": "ONE_HAND",
+	"stats": { "Agility": 6 },
+	"source": "DROP",
+	"sourceZone": 209,
+	"chanceOnHit": {
+		"spell": 13440,
+		"text": "Sends a shadowy bolt at the enemy causing 30 Shadow damage."
+	}
 }

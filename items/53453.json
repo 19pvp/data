@@ -1,19 +1,17 @@
 {
-  "id": 53453,
-  "name": "Wrenchmen Belt",
-  "icon": "inv_belt_45",
-  "popularity": 5,
-  "armor": 71,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {
-    "strength": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14480,
-  "sourceName": "Extermination"
+	"id": 53453,
+	"name": "Wrenchmen Belt",
+	"icon": "inv_belt_45",
+	"popularity": 5,
+	"armor": 71,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": { "Strength": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 14480,
+	"sourceName": "Extermination",
+	"sourceType": "QUEST"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 49546,
-  "name": "Revitalizing Wristguards",
-  "icon": "inv_bracer_05",
-  "popularity": 6,
-  "armor": 15,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WRISTS",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14005,
-  "sourceName": "The Vengeance of Elune"
+	"id": 49546,
+	"name": "Revitalizing Wristguards",
+	"icon": "inv_bracer_05",
+	"popularity": 6,
+	"armor": 15,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WRISTS",
+	"stats": { "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 14005,
+	"sourceName": "The Vengeance of Elune",
+	"sourceType": "QUEST"
 }

@@ -1,18 +1,14 @@
 {
-  "id": 6324,
-  "name": "Robes of Arugal",
-  "icon": "inv_chest_cloth_31",
-  "popularity": 12,
-  "armor": 66,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "crit": 4,
-    "stamina": 6,
-    "intellect": 7
-  },
-  "sourceType": "DROP",
-  "sourceZone": 209
+	"id": 6324,
+	"name": "Robes of Arugal",
+	"icon": "inv_chest_cloth_31",
+	"popularity": 12,
+	"armor": 66,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Critical Strike Rating": 4, "Stamina": 6, "Intellect": 7 },
+	"source": "DROP",
+	"sourceZone": 209
 }

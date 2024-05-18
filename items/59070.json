@@ -1,18 +1,17 @@
 {
-  "id": 59070,
-  "name": "Surveyor's Leggings",
-  "icon": "inv_pants_05",
-  "popularity": 4,
-  "armor": 50,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "intellect": 6
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25727,
-  "sourceName": "Drungeld Glowerglare"
+	"id": 59070,
+	"name": "Surveyor's Leggings",
+	"icon": "inv_pants_05",
+	"popularity": 4,
+	"armor": 50,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Intellect": 6 },
+	"source": "QUEST",
+	"sourceId": 25727,
+	"sourceName": "Drungeld Glowerglare",
+	"sourceType": "QUEST"
 }

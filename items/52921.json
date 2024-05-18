@@ -1,19 +1,17 @@
 {
-  "id": 52921,
-  "name": "Ex-Stealer's Gloves",
-  "icon": "inv_gauntlets_16",
-  "popularity": 23,
-  "armor": 24,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 1,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25203,
-  "sourceName": "What Kind of Name is Chip, Anyway?"
+	"id": 52921,
+	"name": "Ex-Stealer's Gloves",
+	"icon": "inv_gauntlets_16",
+	"popularity": 23,
+	"armor": 24,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": { "Stamina": 1, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 25203,
+	"sourceName": "What Kind of Name is Chip, Anyway?",
+	"sourceType": "QUEST"
 }

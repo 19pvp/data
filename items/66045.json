@@ -1,20 +1,17 @@
 {
-  "id": 66045,
-  "name": "Stone Guard Greaves",
-  "icon": "inv_pants_03",
-  "popularity": 4,
-  "armor": 115,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "crit": 4,
-    "strength": 4,
-    "stamina": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26858,
-  "sourceName": "Taragaman the Hungerer"
+	"id": 66045,
+	"name": "Stone Guard Greaves",
+	"icon": "inv_pants_03",
+	"popularity": 4,
+	"armor": 115,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Critical Strike Rating": 4, "Strength": 4, "Stamina": 5 },
+	"source": "QUEST",
+	"sourceId": 26858,
+	"sourceName": "Taragaman the Hungerer",
+	"sourceType": "QUEST"
 }

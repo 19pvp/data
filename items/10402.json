@@ -1,19 +1,17 @@
 {
-  "id": 10402,
-  "name": "Blackened Defias Boots",
-  "icon": "inv_boots_05",
-  "popularity": 37,
-  "armor": 66,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "agility": 6,
-    "stamina": 4
-  },
-  "sourceType": "DROP",
-  "sourceId": 4416,
-  "sourceName": "Defias Strip Miner",
-  "sourceZone": 1581
+	"id": 10402,
+	"name": "Blackened Defias Boots",
+	"icon": "inv_boots_05",
+	"popularity": 37,
+	"armor": 66,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Agility": 6, "Stamina": 4 },
+	"source": "DROP",
+	"sourceId": 4416,
+	"sourceName": "Defias Strip Miner",
+	"sourceZone": 1581,
+	"sourceType": "NPC"
 }

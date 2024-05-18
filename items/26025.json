@@ -1,19 +1,17 @@
 {
-  "id": 26025,
-  "name": "Technician's Boots",
-  "icon": "inv_boots_08",
-  "popularity": 11,
-  "armor": 58,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "agility": 3,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9579,
-  "sourceName": "Galaen's Fate"
+	"id": 26025,
+	"name": "Technician's Boots",
+	"icon": "inv_boots_08",
+	"popularity": 11,
+	"armor": 58,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Agility": 3, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 9579,
+	"sourceName": "Galaen's Fate",
+	"sourceType": "QUEST"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 6449,
-  "name": "Glowing Lizardscale Cloak",
-  "icon": "inv_chest_cloth_15",
-  "popularity": 3,
-  "armor": 34,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "agility": 6,
-    "stamina": 2
-  },
-  "sourceType": "DROP",
-  "sourceId": 3674,
-  "sourceName": "Skum",
-  "sourceZone": 718
+	"id": 6449,
+	"name": "Glowing Lizardscale Cloak",
+	"icon": "inv_chest_cloth_15",
+	"popularity": 3,
+	"armor": 34,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Agility": 6, "Stamina": 2 },
+	"source": "DROP",
+	"sourceId": 3674,
+	"sourceName": "Skum",
+	"sourceZone": 718,
+	"sourceType": "NPC"
 }

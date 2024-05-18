@@ -1,18 +1,17 @@
 {
-  "id": 53374,
-  "name": "Heedless Treads",
-  "icon": "inv_boots_chain_01",
-  "popularity": 10,
-  "armor": 59,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "strength": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25206,
-  "sourceName": "Ignoring the Warnings"
+	"id": 53374,
+	"name": "Heedless Treads",
+	"icon": "inv_boots_chain_01",
+	"popularity": 10,
+	"armor": 59,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Strength": 1 },
+	"source": "QUEST",
+	"sourceId": 25206,
+	"sourceName": "Ignoring the Warnings",
+	"sourceType": "QUEST"
 }

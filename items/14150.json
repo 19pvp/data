@@ -1,20 +1,17 @@
 {
-  "id": 14150,
-  "name": "Robe of Evocation",
-  "icon": "inv_chest_cloth_24",
-  "popularity": 27,
-  "armor": 58,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "crit": 5,
-    "stamina": 4,
-    "intellect": 5
-  },
-  "sourceType": "DROP",
-  "sourceId": 11518,
-  "sourceName": "Jergosh the Invoker",
-  "sourceZone": 2437
+	"id": 14150,
+	"name": "Robe of Evocation",
+	"icon": "inv_chest_cloth_24",
+	"popularity": 27,
+	"armor": 58,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Critical Strike Rating": 5, "Stamina": 4, "Intellect": 5 },
+	"source": "DROP",
+	"sourceId": 11518,
+	"sourceName": "Jergosh the Invoker",
+	"sourceZone": 2437,
+	"sourceType": "NPC"
 }

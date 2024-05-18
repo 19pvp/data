@@ -1,18 +1,17 @@
 {
-  "id": 53366,
-  "name": "Enforcer's Gloves",
-  "icon": "inv_gauntlets_24",
-  "popularity": 7,
-  "armor": 33,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25260,
-  "sourceName": "Fizzled"
+	"id": 53366,
+	"name": "Enforcer's Gloves",
+	"icon": "inv_gauntlets_24",
+	"popularity": 7,
+	"armor": 33,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 25260,
+	"sourceName": "Fizzled",
+	"sourceType": "QUEST"
 }

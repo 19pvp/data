@@ -1,16 +1,13 @@
 {
-  "id": 3314,
-  "name": "Ceremonial Leather Gloves",
-  "icon": "inv_gauntlets_18",
-  "popularity": 20,
-  "armor": 44,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "agility": 2,
-    "stamina": 3
-  },
-  "sourceType": "DROP"
+	"id": 3314,
+	"name": "Ceremonial Leather Gloves",
+	"icon": "inv_gauntlets_18",
+	"popularity": 20,
+	"armor": 44,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Agility": 2, "Stamina": 3 },
+	"source": "DROP"
 }

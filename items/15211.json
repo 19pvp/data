@@ -1,16 +1,36 @@
 {
-  "id": 15211,
-  "name": "Militant Shortsword",
-  "icon": "inv_sword_20",
-  "dmgMin": 19,
-  "dmgMax": 36,
-  "speed": 2.5,
-  "dps": 11,
-  "popularity": 6,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "ONE_HANDED_SWORD",
-  "type": "ONE_HAND",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 15211,
+	"name": "Militant Shortsword",
+	"icon": "inv_sword_20",
+	"dmgMin": 19,
+	"dmgMax": 36,
+	"speed": 2.5,
+	"dps": 11,
+	"popularity": 6,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "ONE_HANDED_SWORD",
+	"type": "ONE_HAND",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1182,
+			"chance": 28.4,
+			"stats": { "Stamina": 2, "Strength": 2 }
+		},
+		"of the Monkey": {
+			"id": 587,
+			"chance": 27.3,
+			"stats": { "Agility": 2, "Stamina": 2 }
+		},
+		"of the Tiger": {
+			"id": 672,
+			"chance": 25.9,
+			"stats": { "Agility": 2, "Strength": 2 }
+		},
+		"of Power": { "id": 1549, "chance": 7.5, "stats": { "Attack Power": 6 } },
+		"of Stamina": { "id": 22, "chance": 5.5, "stats": { "Stamina": 3 } },
+		"of Strength": { "id": 24, "chance": 5.4, "stats": { "Strength": 3 } }
+	},
+	"source": "DROP"
 }

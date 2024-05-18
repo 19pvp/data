@@ -1,18 +1,17 @@
 {
-  "id": 62848,
-  "name": "Treads of the Sepulcher",
-  "icon": "inv_boots_chain_02",
-  "popularity": 5,
-  "armor": 70,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27226,
-  "sourceName": "Hair of the Dog"
+	"id": 62848,
+	"name": "Treads of the Sepulcher",
+	"icon": "inv_boots_chain_02",
+	"popularity": 5,
+	"armor": 70,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 27226,
+	"sourceName": "Hair of the Dog",
+	"sourceType": "QUEST"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 5458,
-  "name": "Dirtwood Belt",
-  "icon": "inv_belt_79",
-  "popularity": 9,
-  "armor": 19,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 2499,
-  "sourceName": "Oakenscowl"
+	"id": 5458,
+	"name": "Dirtwood Belt",
+	"icon": "inv_belt_79",
+	"popularity": 9,
+	"armor": 19,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 2499,
+	"sourceName": "Oakenscowl",
+	"sourceType": "QUEST"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 59078,
-  "name": "Flarecrazed Cloak",
-  "icon": "inv_misc_cape_18",
-  "popularity": 5,
-  "armor": 30,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "hit": 3,
-    "strength": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25780,
-  "sourceName": "Assault on Menethil Keep"
+	"id": 59078,
+	"name": "Flarecrazed Cloak",
+	"icon": "inv_misc_cape_18",
+	"popularity": 5,
+	"armor": 30,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Hit Rating": 3, "Strength": 3 },
+	"source": "QUEST",
+	"sourceId": 25780,
+	"sourceName": "Assault on Menethil Keep",
+	"sourceType": "QUEST"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 53406,
-  "name": "Charged Robes",
-  "icon": "inv_chest_cloth_31",
-  "popularity": 4,
-  "armor": 53,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 4,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14296,
-  "sourceName": "Watch Your Step"
+	"id": 53406,
+	"name": "Charged Robes",
+	"icon": "inv_chest_cloth_31",
+	"popularity": 4,
+	"armor": 53,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Stamina": 4, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 14296,
+	"sourceName": "Watch Your Step",
+	"sourceType": "QUEST"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 59532,
-  "name": "Imported Bracers",
-  "icon": "inv_bracer_07",
-  "popularity": 8,
-  "armor": 17,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WRISTS",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13971,
-  "sourceName": "The Kodo's Return"
+	"id": 59532,
+	"name": "Imported Bracers",
+	"icon": "inv_bracer_07",
+	"popularity": 8,
+	"armor": 17,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WRISTS",
+	"stats": { "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 13971,
+	"sourceName": "The Kodo's Return",
+	"sourceType": "QUEST"
 }

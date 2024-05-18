@@ -1,19 +1,17 @@
 {
-  "id": 52662,
-  "name": "Tidal Cloak",
-  "icon": "inv_misc_cape_11",
-  "popularity": 6,
-  "armor": 21,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13523,
-  "sourceName": "Power Over the Tides"
+	"id": 52662,
+	"name": "Tidal Cloak",
+	"icon": "inv_misc_cape_11",
+	"popularity": 6,
+	"armor": 21,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 13523,
+	"sourceName": "Power Over the Tides",
+	"sourceType": "QUEST"
 }

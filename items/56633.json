@@ -1,19 +1,17 @@
 {
-  "id": 56633,
-  "name": "Leggings of the Traveling Medic",
-  "icon": "inv_pants_05",
-  "popularity": 5,
-  "armor": 52,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 4,
-    "intellect": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13613,
-  "sourceName": "Rescue the Fallen"
+	"id": 56633,
+	"name": "Leggings of the Traveling Medic",
+	"icon": "inv_pants_05",
+	"popularity": 5,
+	"armor": 52,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Stamina": 4, "Intellect": 5 },
+	"source": "QUEST",
+	"sourceId": 13613,
+	"sourceName": "Rescue the Fallen",
+	"sourceType": "QUEST"
 }

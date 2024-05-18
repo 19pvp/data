@@ -1,20 +1,16 @@
 {
-  "id": 42944,
-  "name": "Balanced Heartseeker",
-  "icon": "inv_sword_17",
-  "dmgMin": 18,
-  "dmgMax": 33,
-  "speed": 1.7,
-  "dps": 15,
-  "popularity": 123,
-  "class": "WEAPON",
-  "quality": "HEIRLOOM",
-  "subclass": "DAGGER",
-  "type": "ONE_HAND",
-  "stats": {
-    "crit": 3,
-    "hit": 1,
-    "agility": 3
-  },
-  "sourceType": "VENDOR"
+	"id": 42944,
+	"name": "Balanced Heartseeker",
+	"icon": "inv_sword_17",
+	"dmgMin": 18,
+	"dmgMax": 33,
+	"speed": 1.7,
+	"dps": 15,
+	"popularity": 123,
+	"class": "WEAPON",
+	"quality": "HEIRLOOM",
+	"subclass": "DAGGER",
+	"type": "ONE_HAND",
+	"stats": { "Critical Strike Rating": 3, "Hit Rating": 1, "Agility": 3 },
+	"source": "VENDOR"
 }

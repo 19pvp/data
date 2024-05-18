@@ -1,20 +1,17 @@
 {
-  "id": 60905,
-  "name": "Ello's Band",
-  "icon": "inv_jewelry_ring_19",
-  "popularity": 38,
-  "armor": 0,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "hit": 3,
-    "agility": 3,
-    "stamina": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26727,
-  "sourceName": "The Embalmer's Revenge"
+	"id": 60905,
+	"name": "Ello's Band",
+	"icon": "inv_jewelry_ring_19",
+	"popularity": 38,
+	"armor": 0,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Hit Rating": 3, "Agility": 3, "Stamina": 5 },
+	"source": "QUEST",
+	"sourceId": 26727,
+	"sourceName": "The Embalmer's Revenge",
+	"sourceType": "QUEST"
 }

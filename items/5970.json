@@ -1,19 +1,17 @@
 {
-  "id": 5970,
-  "name": "Serpent Gloves",
-  "icon": "inv_gauntlets_19",
-  "popularity": 9,
-  "armor": 41,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 4,
-    "intellect": 6
-  },
-  "sourceType": "DROP",
-  "sourceId": 3673,
-  "sourceName": "Lord Serpentis",
-  "sourceZone": 718
+	"id": 5970,
+	"name": "Serpent Gloves",
+	"icon": "inv_gauntlets_19",
+	"popularity": 9,
+	"armor": 41,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": { "Stamina": 4, "Intellect": 6 },
+	"source": "DROP",
+	"sourceId": 3673,
+	"sourceName": "Lord Serpentis",
+	"sourceZone": 718,
+	"sourceType": "NPC"
 }

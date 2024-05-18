@@ -1,19 +1,17 @@
 {
-  "id": 60903,
-  "name": "Old Man's Legwarmers",
-  "icon": "inv_pants_leather_17",
-  "popularity": 6,
-  "armor": 83,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 5,
-    "intellect": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26676,
-  "sourceName": "Juice Delivery"
+	"id": 60903,
+	"name": "Old Man's Legwarmers",
+	"icon": "inv_pants_leather_17",
+	"popularity": 6,
+	"armor": 83,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Stamina": 5, "Intellect": 4 },
+	"source": "QUEST",
+	"sourceId": 26676,
+	"sourceName": "Juice Delivery",
+	"sourceType": "QUEST"
 }

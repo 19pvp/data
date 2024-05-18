@@ -1,16 +1,13 @@
 {
-  "id": 3283,
-  "name": "Battle Chain Tunic",
-  "icon": "inv_chest_leather_04",
-  "popularity": 19,
-  "armor": 102,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "strength": 2,
-    "agility": 1
-  },
-  "sourceType": "DROP"
+	"id": 3283,
+	"name": "Battle Chain Tunic",
+	"icon": "inv_chest_leather_04",
+	"popularity": 19,
+	"armor": 102,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Strength": 2, "Agility": 1 },
+	"source": "DROP"
 }

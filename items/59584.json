@@ -1,20 +1,17 @@
 {
-  "id": 59584,
-  "name": "Foolhardy Bracers",
-  "icon": "inv_bracer_29",
-  "popularity": 8,
-  "armor": 57,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WRISTS",
-  "stats": {
-    "crit": 2,
-    "strength": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 855,
-  "sourceName": "Centaur Bracers"
+	"id": 59584,
+	"name": "Foolhardy Bracers",
+	"icon": "inv_bracer_29",
+	"popularity": 8,
+	"armor": 57,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WRISTS",
+	"stats": { "Critical Strike Rating": 2, "Strength": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 855,
+	"sourceName": "Centaur Bracers",
+	"sourceType": "QUEST"
 }

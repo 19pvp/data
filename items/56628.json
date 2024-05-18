@@ -1,19 +1,17 @@
 {
-  "id": 56628,
-  "name": "Manager's Mantle",
-  "icon": "inv_shoulder_12",
-  "popularity": 10,
-  "armor": 68,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "SHOULDERS",
-  "stats": {
-    "stamina": 3,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13640,
-  "sourceName": "Management Material"
+	"id": 56628,
+	"name": "Manager's Mantle",
+	"icon": "inv_shoulder_12",
+	"popularity": 10,
+	"armor": 68,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "SHOULDERS",
+	"stats": { "Stamina": 3, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 13640,
+	"sourceName": "Management Material",
+	"sourceType": "QUEST"
 }

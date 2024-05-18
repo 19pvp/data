@@ -1,16 +1,13 @@
 {
-  "id": 6380,
-  "name": "Inscribed Buckler",
-  "icon": "inv_shield_09",
-  "popularity": 41,
-  "armor": 541,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "intellect": 2,
-    "spirit": 2
-  },
-  "sourceType": "DROP"
+	"id": 6380,
+	"name": "Inscribed Buckler",
+	"icon": "inv_shield_09",
+	"popularity": 41,
+	"armor": 541,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Intellect": 2, "Spirit": 2 },
+	"source": "DROP"
 }

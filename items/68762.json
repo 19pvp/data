@@ -1,15 +1,13 @@
 {
-  "id": 68762,
-  "name": "Imbued Cadet Cloak",
-  "icon": "inv_misc_cape_01",
-  "popularity": 8,
-  "armor": 18,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "strength": 1
-  },
-  "sourceType": "DROP"
+	"id": 68762,
+	"name": "Imbued Cadet Cloak",
+	"icon": "inv_misc_cape_01",
+	"popularity": 8,
+	"armor": 18,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Strength": 1 },
+	"source": "DROP"
 }

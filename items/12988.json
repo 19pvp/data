@@ -1,16 +1,13 @@
 {
-  "id": 12988,
-  "name": "Starsight Tunic",
-  "icon": "inv_chest_leather_10",
-  "popularity": 9,
-  "armor": 104,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 4,
-    "spirit": 10
-  },
-  "sourceType": "DROP"
+	"id": 12988,
+	"name": "Starsight Tunic",
+	"icon": "inv_chest_leather_10",
+	"popularity": 9,
+	"armor": 104,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Stamina": 4, "Spirit": 10 },
+	"source": "DROP"
 }

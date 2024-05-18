@@ -1,19 +1,17 @@
 {
-  "id": 4436,
-  "name": "Jewel-Encrusted Sash",
-  "icon": "inv_belt_04",
-  "popularity": 4,
-  "armor": 34,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 2,
-    "intellect": 4
-  },
-  "sourceType": "DROP",
-  "sourceId": 1920,
-  "sourceName": "Ambermill Spellscribe",
-  "sourceZone": 130
+	"id": 4436,
+	"name": "Jewel-Encrusted Sash",
+	"icon": "inv_belt_04",
+	"popularity": 4,
+	"armor": 34,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Stamina": 2, "Intellect": 4 },
+	"source": "DROP",
+	"sourceId": 1920,
+	"sourceName": "Ambermill Spellscribe",
+	"sourceZone": 130,
+	"sourceType": "NPC"
 }

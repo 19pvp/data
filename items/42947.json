@@ -1,21 +1,21 @@
 {
-  "id": 42947,
-  "name": "Dignified Headmaster's Charge",
-  "icon": "inv_jewelry_talisman_12",
-  "dmgMin": 45,
-  "dmgMax": 68,
-  "speed": 2.9,
-  "dps": 19.48,
-  "popularity": 155,
-  "class": "WEAPON",
-  "quality": "HEIRLOOM",
-  "subclass": "STAFF",
-  "type": "TWO_HAND",
-  "stats": {
-    "crit": 6,
-    "spellPower": 39,
-    "stamina": 9,
-    "intellect": 7
-  },
-  "sourceType": "VENDOR"
+	"id": 42947,
+	"name": "Dignified Headmaster's Charge",
+	"icon": "inv_jewelry_talisman_12",
+	"dmgMin": 45,
+	"dmgMax": 68,
+	"speed": 2.9,
+	"dps": 19.48,
+	"popularity": 155,
+	"class": "WEAPON",
+	"quality": "HEIRLOOM",
+	"subclass": "STAFF",
+	"type": "TWO_HAND",
+	"stats": {
+		"Critical Strike Rating": 6,
+		"Spell Power": 39,
+		"Stamina": 9,
+		"Intellect": 7
+	},
+	"source": "VENDOR"
 }

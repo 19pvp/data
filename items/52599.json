@@ -1,19 +1,17 @@
 {
-  "id": 52599,
-  "name": "Restless Leggings",
-  "icon": "inv_pants_08",
-  "popularity": 5,
-  "armor": 49,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13563,
-  "sourceName": "A Love Eternal"
+	"id": 52599,
+	"name": "Restless Leggings",
+	"icon": "inv_pants_08",
+	"popularity": 5,
+	"armor": 49,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Agility": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 13563,
+	"sourceName": "A Love Eternal",
+	"sourceType": "QUEST"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 59530,
-  "name": "Wolf Tender's Boots",
-  "icon": "inv_boots_04",
-  "popularity": 7,
-  "armor": 38,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "stamina": 1,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13878,
-  "sourceName": "Through Fire and Flames"
+	"id": 59530,
+	"name": "Wolf Tender's Boots",
+	"icon": "inv_boots_04",
+	"popularity": 7,
+	"armor": 38,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Stamina": 1, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 13878,
+	"sourceName": "Through Fire and Flames",
+	"sourceType": "QUEST"
 }

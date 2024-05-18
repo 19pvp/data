@@ -1,19 +1,17 @@
 {
-  "id": 26038,
-  "name": "Segmented Girdle",
-  "icon": "inv_belt_03",
-  "popularity": 5,
-  "armor": 80,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {
-    "strength": 4,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9647,
-  "sourceName": "Culling the Flutterers"
+	"id": 26038,
+	"name": "Segmented Girdle",
+	"icon": "inv_belt_03",
+	"popularity": 5,
+	"armor": 80,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": { "Strength": 4, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 9647,
+	"sourceName": "Culling the Flutterers",
+	"sourceType": "QUEST"
 }

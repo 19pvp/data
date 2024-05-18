@@ -1,20 +1,17 @@
 {
-  "id": 1484,
-  "name": "Witching Stave",
-  "icon": "inv_wand_04",
-  "dmgMin": 52,
-  "dmgMax": 79,
-  "speed": 3.6,
-  "dps": 18.19,
-  "popularity": 11,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "STAFF",
-  "type": "TWO_HAND",
-  "stats": {
-    "stamina": 6,
-    "intellect": 8
-  },
-  "sourceType": "DROP",
-  "sourceZone": 209
+	"id": 1484,
+	"name": "Witching Stave",
+	"icon": "inv_wand_04",
+	"dmgMin": 52,
+	"dmgMax": 79,
+	"speed": 3.6,
+	"dps": 18.19,
+	"popularity": 11,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "STAFF",
+	"type": "TWO_HAND",
+	"stats": { "Stamina": 6, "Intellect": 8 },
+	"source": "DROP",
+	"sourceZone": 209
 }

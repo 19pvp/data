@@ -1,19 +1,17 @@
 {
-  "id": 28155,
-  "name": "Apothecary's Waistband",
-  "icon": "inv_misc_bandana_03",
-  "popularity": 43,
-  "armor": 28,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "intellect": 2,
-    "spirit": 2
-  },
-  "sourceType": "VENDOR",
-  "sourceId": 16528,
-  "sourceName": "Provisioner Vredigar",
-  "sourceZone": 3433
+	"id": 28155,
+	"name": "Apothecary's Waistband",
+	"icon": "inv_misc_bandana_03",
+	"popularity": 43,
+	"armor": 28,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Intellect": 2, "Spirit": 2 },
+	"source": "VENDOR",
+	"sourceId": 16528,
+	"sourceName": "Provisioner Vredigar",
+	"sourceZone": 3433,
+	"sourceType": "NPC"
 }

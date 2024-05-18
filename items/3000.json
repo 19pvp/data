@@ -1,18 +1,17 @@
 {
-  "id": 3000,
-  "name": "Brood Mother Carapace",
-  "icon": "inv_chest_leather_09",
-  "popularity": 9,
-  "armor": 52,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "DROP",
-  "sourceId": 471,
-  "sourceName": "Mother Fang",
-  "sourceZone": 12
+	"id": 3000,
+	"name": "Brood Mother Carapace",
+	"icon": "inv_chest_leather_09",
+	"popularity": 9,
+	"armor": 52,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Stamina": 1 },
+	"source": "DROP",
+	"sourceId": 471,
+	"sourceName": "Mother Fang",
+	"sourceZone": 12,
+	"sourceType": "NPC"
 }

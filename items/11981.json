@@ -1,13 +1,37 @@
 {
-  "id": 11981,
-  "name": "Lead Band",
-  "icon": "inv_jewelry_ring_01",
-  "popularity": 9,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 11981,
+	"name": "Lead Band",
+	"icon": "inv_jewelry_ring_01",
+	"popularity": 9,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": {},
+	"rand": {
+		"of the Owl": {
+			"id": 757,
+			"chance": 34.5,
+			"stats": { "Intellect": 2, "Spirit": 2 }
+		},
+		"of the Whale": {
+			"id": 1012,
+			"chance": 24.8,
+			"stats": { "Spirit": 2, "Stamina": 2 }
+		},
+		"of the Eagle": {
+			"id": 842,
+			"chance": 17.9,
+			"stats": { "Intellect": 2, "Stamina": 2 }
+		},
+		"of Spirit": { "id": 95, "chance": 10.3, "stats": { "Spirit": 4 } },
+		"of Intellect": { "id": 94, "chance": 8.6, "stats": { "Intellect": 4 } },
+		"of Concentration": {
+			"id": 2070,
+			"chance": 3.9,
+			"stats": { "mana every 5 sec.": 2 }
+		}
+	},
+	"source": "DROP"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 58994,
-  "name": "Trogg-Slayer Boots",
-  "icon": "inv_boots_cloth_03",
-  "popularity": 10,
-  "armor": 27,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "FEET",
-  "stats": {
-    "hit": 1,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26147,
-  "sourceName": "Bigger and Uglier"
+	"id": 58994,
+	"name": "Trogg-Slayer Boots",
+	"icon": "inv_boots_cloth_03",
+	"popularity": 10,
+	"armor": 27,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": { "Hit Rating": 1, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 26147,
+	"sourceName": "Bigger and Uglier",
+	"sourceType": "QUEST"
 }

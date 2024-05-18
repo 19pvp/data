@@ -1,19 +1,17 @@
 {
-  "id": 60708,
-  "name": "Blackrock Shield",
-  "icon": "inv_shield_07",
-  "popularity": 9,
-  "armor": 516,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "strength": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26569,
-  "sourceName": "Surveying Equipment"
+	"id": 60708,
+	"name": "Blackrock Shield",
+	"icon": "inv_shield_07",
+	"popularity": 9,
+	"armor": 516,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Strength": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 26569,
+	"sourceName": "Surveying Equipment",
+	"sourceType": "QUEST"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 26014,
-  "name": "Maatparm's Fungus Lined Cuffs",
-  "icon": "inv_bracer_10",
-  "popularity": 19,
-  "armor": 18,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WRISTS",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9648,
-  "sourceName": "Maatparm Mushroom Menagerie"
+	"id": 26014,
+	"name": "Maatparm's Fungus Lined Cuffs",
+	"icon": "inv_bracer_10",
+	"popularity": 19,
+	"armor": 18,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WRISTS",
+	"stats": { "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 9648,
+	"sourceName": "Maatparm Mushroom Menagerie",
+	"sourceType": "QUEST"
 }

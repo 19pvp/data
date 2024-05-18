@@ -1,13 +1,13 @@
 {
-  "id": 21524,
-  "name": "Red Winter Hat",
-  "icon": "inv_helmet_67",
-  "popularity": 14,
-  "armor": 11,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MISC",
-  "type": "HEAD",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 21524,
+	"name": "Red Winter Hat",
+	"icon": "inv_helmet_67",
+	"popularity": 14,
+	"armor": 11,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MISC",
+	"type": "HEAD",
+	"stats": {},
+	"source": "DROP"
 }

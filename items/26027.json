@@ -1,18 +1,17 @@
 {
-  "id": 26027,
-  "name": "Kessel's Sweat Stained Elekk Leash",
-  "icon": "inv_belt_21",
-  "popularity": 7,
-  "armor": 39,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9666,
-  "sourceName": "Declaration of Power"
+	"id": 26027,
+	"name": "Kessel's Sweat Stained Elekk Leash",
+	"icon": "inv_belt_21",
+	"popularity": 7,
+	"armor": 39,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 9666,
+	"sourceName": "Declaration of Power",
+	"sourceType": "QUEST"
 }

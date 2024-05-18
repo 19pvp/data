@@ -1,16 +1,29 @@
 {
-  "id": 31264,
-  "name": "Silvermoon Robes",
-  "icon": "inv_chest_cloth_25",
-  "popularity": 18,
-  "armor": 53,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {},
-  "sourceType": "DROP",
-  "sourceId": 22060,
-  "sourceName": "Fenissa the Assassin",
-  "sourceZone": 3525
+	"id": 31264,
+	"name": "Silvermoon Robes",
+	"icon": "inv_chest_cloth_25",
+	"popularity": 18,
+	"armor": 53,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": {},
+	"rand": {
+		"of the Moon": {
+			"id": -59,
+			"chance": 57.8,
+			"stats": { "Intellect": 2, "Stamina": 2, "Spirit": 2 }
+		},
+		"of the Sun": {
+			"id": -58,
+			"chance": 42.2,
+			"stats": { "Critical Strike Rating": 2, "Stamina": 2, "Intellect": 2 }
+		}
+	},
+	"source": "DROP",
+	"sourceId": 22060,
+	"sourceName": "Fenissa the Assassin",
+	"sourceZone": 3525,
+	"sourceType": "NPC"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 62865,
-  "name": "Emberstone Breastplate",
-  "icon": "inv_chest_chain_06",
-  "popularity": 20,
-  "armor": 114,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "strength": 2,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27405,
-  "sourceName": "Fall Back!"
+	"id": 62865,
+	"name": "Emberstone Breastplate",
+	"icon": "inv_chest_chain_06",
+	"popularity": 20,
+	"armor": 114,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Strength": 2, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 27405,
+	"sourceName": "Fall Back!",
+	"sourceType": "QUEST"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 10410,
-  "name": "Leggings of the Fang",
-  "icon": "inv_pants_11",
-  "popularity": 13,
-  "armor": 88,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "agility": 7,
-    "stamina": 7
-  },
-  "sourceType": "DROP",
-  "sourceId": 3669,
-  "sourceName": "Lord Cobrahn",
-  "sourceZone": 718
+	"id": 10410,
+	"name": "Leggings of the Fang",
+	"icon": "inv_pants_11",
+	"popularity": 13,
+	"armor": 88,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Agility": 7, "Stamina": 7 },
+	"source": "DROP",
+	"sourceId": 3669,
+	"sourceName": "Lord Cobrahn",
+	"sourceZone": 718,
+	"sourceType": "NPC"
 }

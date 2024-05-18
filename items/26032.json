@@ -1,19 +1,17 @@
 {
-  "id": 26032,
-  "name": "Crystal-Studded Legguards",
-  "icon": "inv_pants_03",
-  "popularity": 28,
-  "armor": 85,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9581,
-  "sourceName": "Learning from the Crystals"
+	"id": 26032,
+	"name": "Crystal-Studded Legguards",
+	"icon": "inv_pants_03",
+	"popularity": 28,
+	"armor": 85,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 9581,
+	"sourceName": "Learning from the Crystals",
+	"sourceType": "QUEST"
 }

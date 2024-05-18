@@ -1,18 +1,17 @@
 {
-  "id": 60715,
-  "name": "Vial of Chloroform",
-  "icon": "inv_alchemy_leadedvial",
-  "popularity": 6,
-  "armor": 0,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "OFF_HAND_FRILLS",
-  "type": "HELD_IN_OFF_HAND",
-  "stats": {
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26637,
-  "sourceName": "Bravo Company Field Kit: Chloroform"
+	"id": 60715,
+	"name": "Vial of Chloroform",
+	"icon": "inv_alchemy_leadedvial",
+	"popularity": 6,
+	"armor": 0,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "OFF_HAND_FRILLS",
+	"type": "HELD_IN_OFF_HAND",
+	"stats": { "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 26637,
+	"sourceName": "Bravo Company Field Kit: Chloroform",
+	"sourceType": "QUEST"
 }

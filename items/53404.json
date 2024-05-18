@@ -1,19 +1,17 @@
 {
-  "id": 53404,
-  "name": "Bottom-Wader Boots",
-  "icon": "inv_boots_06",
-  "popularity": 9,
-  "armor": 41,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14216,
-  "sourceName": "Mystery of the Sarcen Stone"
+	"id": 53404,
+	"name": "Bottom-Wader Boots",
+	"icon": "inv_boots_06",
+	"popularity": 9,
+	"armor": 41,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Agility": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 14216,
+	"sourceName": "Mystery of the Sarcen Stone",
+	"sourceType": "QUEST"
 }

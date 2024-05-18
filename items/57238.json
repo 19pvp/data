@@ -1,18 +1,17 @@
 {
-  "id": 57238,
-  "name": "Cliff Running Boots",
-  "icon": "inv_boots_chain_01",
-  "popularity": 19,
-  "armor": 59,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24524,
-  "sourceName": "Wildmane Cleansing"
+	"id": 57238,
+	"name": "Cliff Running Boots",
+	"icon": "inv_boots_chain_01",
+	"popularity": 19,
+	"armor": 59,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 24524,
+	"sourceName": "Wildmane Cleansing",
+	"sourceType": "QUEST"
 }

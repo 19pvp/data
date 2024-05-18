@@ -1,16 +1,13 @@
 {
-  "id": 2978,
-  "name": "Veteran Leggings",
-  "icon": "inv_pants_09",
-  "popularity": 8,
-  "armor": 100,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "strength": 2,
-    "agility": 2
-  },
-  "sourceType": "DROP"
+	"id": 2978,
+	"name": "Veteran Leggings",
+	"icon": "inv_pants_09",
+	"popularity": 8,
+	"armor": 100,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Strength": 2, "Agility": 2 },
+	"source": "DROP"
 }

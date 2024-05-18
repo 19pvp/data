@@ -1,19 +1,17 @@
 {
-  "id": 60695,
-  "name": "Cloak of Insomnia",
-  "icon": "inv_misc_cape_02",
-  "popularity": 19,
-  "armor": 24,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "strength": 1,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26513,
-  "sourceName": "Like a Fart in the Wind"
+	"id": 60695,
+	"name": "Cloak of Insomnia",
+	"icon": "inv_misc_cape_02",
+	"popularity": 19,
+	"armor": 24,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Strength": 1, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 26513,
+	"sourceName": "Like a Fart in the Wind",
+	"sourceType": "QUEST"
 }

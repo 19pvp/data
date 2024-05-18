@@ -1,17 +1,13 @@
 {
-  "id": 4782,
-  "name": "Solstice Robe",
-  "icon": "inv_chest_cloth_17",
-  "popularity": 10,
-  "armor": 53,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 1,
-    "intellect": 1,
-    "spirit": 5
-  },
-  "sourceType": "VENDOR"
+	"id": 4782,
+	"name": "Solstice Robe",
+	"icon": "inv_chest_cloth_17",
+	"popularity": 10,
+	"armor": 53,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Stamina": 1, "Intellect": 1, "Spirit": 5 },
+	"source": "VENDOR"
 }

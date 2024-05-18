@@ -1,19 +1,17 @@
 {
-  "id": 28303,
-  "name": "Invoker's Signet",
-  "icon": "inv_jewelry_ring_25",
-  "popularity": 9,
-  "armor": 0,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "crit": 2,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9156,
-  "sourceName": "Wanted: Knucklerot and Luzran"
+	"id": 28303,
+	"name": "Invoker's Signet",
+	"icon": "inv_jewelry_ring_25",
+	"popularity": 9,
+	"armor": 0,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Critical Strike Rating": 2, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 9156,
+	"sourceName": "Wanted: Knucklerot and Luzran",
+	"sourceType": "QUEST"
 }

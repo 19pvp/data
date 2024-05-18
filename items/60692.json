@@ -1,19 +1,17 @@
 {
-  "id": 60692,
-  "name": "Breadwinner's Gloves",
-  "icon": "inv_gauntlets_15",
-  "popularity": 6,
-  "armor": 30,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 2,
-    "intellect": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26513,
-  "sourceName": "Like a Fart in the Wind"
+	"id": 60692,
+	"name": "Breadwinner's Gloves",
+	"icon": "inv_gauntlets_15",
+	"popularity": 6,
+	"armor": 30,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": { "Stamina": 2, "Intellect": 2 },
+	"source": "QUEST",
+	"sourceId": 26513,
+	"sourceName": "Like a Fart in the Wind",
+	"sourceType": "QUEST"
 }

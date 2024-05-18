@@ -1,19 +1,15 @@
 {
-  "id": 56694,
-  "name": "Silverwind Bracers",
-  "icon": "inv_bracer_03",
-  "popularity": 7,
-  "armor": 46,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "hit": 3,
-    "agility": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 331
+	"id": 56694,
+	"name": "Silverwind Bracers",
+	"icon": "inv_bracer_03",
+	"popularity": 7,
+	"armor": 46,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Hit Rating": 3, "Agility": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceZone": 331
 }

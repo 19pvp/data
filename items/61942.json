@@ -1,18 +1,18 @@
 {
-  "id": 61942,
-  "name": "Preened Tribal War Feathers",
-  "icon": "inv_helmet_24",
-  "popularity": 68,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "LEATHER",
-  "type": "HEAD",
-  "stats": {
-    "crit": 4,
-    "stamina": 10,
-    "intellect": 6,
-    "spirit": 4
-  },
-  "sourceType": "VENDOR"
+	"id": 61942,
+	"name": "Preened Tribal War Feathers",
+	"icon": "inv_helmet_24",
+	"popularity": 68,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "LEATHER",
+	"type": "HEAD",
+	"stats": {
+		"Critical Strike Rating": 4,
+		"Stamina": 10,
+		"Intellect": 6,
+		"Spirit": 4
+	},
+	"source": "VENDOR"
 }

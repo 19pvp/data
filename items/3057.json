@@ -1,16 +1,13 @@
 {
-  "id": 3057,
-  "name": "Forest Leather Boots",
-  "icon": "inv_boots_08",
-  "popularity": 8,
-  "armor": 70,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "agility": 4,
-    "stamina": 4
-  },
-  "sourceType": "DROP"
+	"id": 3057,
+	"name": "Forest Leather Boots",
+	"icon": "inv_boots_08",
+	"popularity": 8,
+	"armor": 70,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Agility": 4, "Stamina": 4 },
+	"source": "DROP"
 }

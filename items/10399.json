@@ -1,19 +1,17 @@
 {
-  "id": 10399,
-  "name": "Blackened Defias Armor",
-  "icon": "inv_chest_leather_08",
-  "popularity": 64,
-  "armor": 96,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "agility": 7,
-    "stamina": 7
-  },
-  "sourceType": "DROP",
-  "sourceId": 639,
-  "sourceName": "Edwin VanCleef",
-  "sourceZone": 1581
+	"id": 10399,
+	"name": "Blackened Defias Armor",
+	"icon": "inv_chest_leather_08",
+	"popularity": 64,
+	"armor": 96,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Agility": 7, "Stamina": 7 },
+	"source": "DROP",
+	"sourceId": 639,
+	"sourceName": "Edwin VanCleef",
+	"sourceZone": 1581,
+	"sourceType": "NPC"
 }

@@ -1,16 +1,13 @@
 {
-  "id": 3305,
-  "name": "Brackwater Leggings",
-  "icon": "inv_pants_03",
-  "popularity": 5,
-  "armor": 105,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "agility": 2,
-    "stamina": 3
-  },
-  "sourceType": "DROP"
+	"id": 3305,
+	"name": "Brackwater Leggings",
+	"icon": "inv_pants_03",
+	"popularity": 5,
+	"armor": 105,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Agility": 2, "Stamina": 3 },
+	"source": "DROP"
 }

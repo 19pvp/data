@@ -1,16 +1,13 @@
 {
-  "id": 2973,
-  "name": "Hunting Tunic",
-  "icon": "inv_chest_wolf",
-  "popularity": 7,
-  "armor": 77,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "agility": 2,
-    "stamina": 4
-  },
-  "sourceType": "DROP"
+	"id": 2973,
+	"name": "Hunting Tunic",
+	"icon": "inv_chest_wolf",
+	"popularity": 7,
+	"armor": 77,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Agility": 2, "Stamina": 4 },
+	"source": "DROP"
 }

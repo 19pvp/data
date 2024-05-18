@@ -1,18 +1,17 @@
 {
-  "id": 57406,
-  "name": "Reinforced Mail Belt",
-  "icon": "inv_belt_45c",
-  "popularity": 3,
-  "armor": 48,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 83,
-  "sourceName": "Fine Linen Goods"
+	"id": 57406,
+	"name": "Reinforced Mail Belt",
+	"icon": "inv_belt_45c",
+	"popularity": 3,
+	"armor": 48,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 83,
+	"sourceName": "Fine Linen Goods",
+	"sourceType": "QUEST"
 }

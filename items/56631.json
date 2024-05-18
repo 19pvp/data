@@ -1,19 +1,17 @@
 {
-  "id": 56631,
-  "name": "Onaeya's Gloves",
-  "icon": "inv_gauntlets_18",
-  "popularity": 14,
-  "armor": 57,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 4,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13626,
-  "sourceName": "Respect for the Fallen"
+	"id": 56631,
+	"name": "Onaeya's Gloves",
+	"icon": "inv_gauntlets_18",
+	"popularity": 14,
+	"armor": 57,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Stamina": 4, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 13626,
+	"sourceName": "Respect for the Fallen",
+	"sourceType": "QUEST"
 }

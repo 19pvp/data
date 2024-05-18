@@ -1,13 +1,55 @@
 {
-  "id": 6574,
-  "name": "Defender Bracers",
-  "icon": "inv_bracer_14",
-  "popularity": 27,
-  "armor": 68,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WRISTS",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 6574,
+	"name": "Defender Bracers",
+	"icon": "inv_bracer_14",
+	"popularity": 27,
+	"armor": 68,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WRISTS",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1185,
+			"chance": 41.2,
+			"stats": { "Stamina": 3, "Strength": 3 }
+		},
+		"of Stamina": { "id": 114, "chance": 11.8, "stats": { "Stamina": 5 } },
+		"of Strength": { "id": 115, "chance": 11.1, "stats": { "Strength": 5 } },
+		"of the Whale": {
+			"id": 1015,
+			"chance": 8.7,
+			"stats": { "Spirit": 3, "Stamina": 3 }
+		},
+		"of Power": { "id": 1551, "chance": 6.9, "stats": { "Attack Power": 10 } },
+		"of the Boar": {
+			"id": 1100,
+			"chance": 5.6,
+			"stats": { "Spirit": 3, "Strength": 3 }
+		},
+		"of the Eagle": {
+			"id": 845,
+			"chance": 3.9,
+			"stats": { "Intellect": 3, "Stamina": 3 }
+		},
+		"of the Gorilla": {
+			"id": 930,
+			"chance": 3.7,
+			"stats": { "Intellect": 3, "Strength": 3 }
+		},
+		"of the Monkey": {
+			"id": 590,
+			"chance": 3.4,
+			"stats": { "Agility": 3, "Stamina": 3 }
+		},
+		"of the Tiger": {
+			"id": 675,
+			"chance": 3.4,
+			"stats": { "Agility": 3, "Strength": 3 }
+		},
+		"of Healing": { "id": 2031, "chance": 0.3, "stats": { "Spell Power": 6 } },
+		"of Intellect": { "id": 94, "chance": 0.2, "stats": { "Intellect": 4 } }
+	},
+	"source": "DROP"
 }

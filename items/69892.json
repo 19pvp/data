@@ -1,18 +1,13 @@
 {
-  "id": 69892,
-  "name": "Ripped Sandstorm Cloak",
-  "icon": "inv_misc_cape_06",
-  "popularity": 94,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "dodge": 2,
-    "hit": 1,
-    "strength": 3,
-    "stamina": 5
-  },
-  "sourceType": "VENDOR"
+	"id": 69892,
+	"name": "Ripped Sandstorm Cloak",
+	"icon": "inv_misc_cape_06",
+	"popularity": 94,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Dodge Rating": 2, "Hit Rating": 1, "Strength": 3, "Stamina": 5 },
+	"source": "VENDOR"
 }

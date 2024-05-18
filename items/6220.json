@@ -1,21 +1,21 @@
 {
-  "id": 6220,
-  "name": "Meteor Shard",
-  "icon": "inv_weapon_shortblade_25",
-  "dmgMin": 17,
-  "dmgMax": 33,
-  "speed": 1.8,
-  "dps": 13.89,
-  "popularity": 15,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "DAGGER",
-  "type": "ONE_HAND",
-  "stats": {},
-  "sourceType": "DROP",
-  "sourceZone": 209,
-  "chanceOnHit": {
-    "spell": 13442,
-    "text": "Blasts a target for 35 Fire damage."
-  }
+	"id": 6220,
+	"name": "Meteor Shard",
+	"icon": "inv_weapon_shortblade_25",
+	"dmgMin": 17,
+	"dmgMax": 33,
+	"speed": 1.8,
+	"dps": 13.89,
+	"popularity": 15,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "DAGGER",
+	"type": "ONE_HAND",
+	"stats": {},
+	"source": "DROP",
+	"sourceZone": 209,
+	"chanceOnHit": {
+		"spell": 13442,
+		"text": "Blasts a target for 35 Fire damage."
+	}
 }

@@ -1,18 +1,17 @@
 {
-  "id": 52933,
-  "name": "Mechachicken Feather Cloak",
-  "icon": "inv_misc_cape_03",
-  "popularity": 12,
-  "armor": 15,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24744,
-  "sourceName": "The Biggest Egg Ever"
+	"id": 52933,
+	"name": "Mechachicken Feather Cloak",
+	"icon": "inv_misc_cape_03",
+	"popularity": 12,
+	"armor": 15,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 24744,
+	"sourceName": "The Biggest Egg Ever",
+	"sourceType": "QUEST"
 }

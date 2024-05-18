@@ -1,15 +1,13 @@
 {
-  "id": 4786,
-  "name": "Wise Man's Belt",
-  "icon": "inv_belt_02",
-  "popularity": 5,
-  "armor": 32,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "intellect": 5
-  },
-  "sourceType": "VENDOR"
+	"id": 4786,
+	"name": "Wise Man's Belt",
+	"icon": "inv_belt_02",
+	"popularity": 5,
+	"armor": 32,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Intellect": 5 },
+	"source": "VENDOR"
 }

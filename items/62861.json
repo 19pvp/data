@@ -1,19 +1,17 @@
 {
-  "id": 62861,
-  "name": "Wolfsbane Vest",
-  "icon": "inv_chest_leather_09",
-  "popularity": 7,
-  "armor": 66,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "agility": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27342,
-  "sourceName": "In Time, All Will Be Revealed"
+	"id": 62861,
+	"name": "Wolfsbane Vest",
+	"icon": "inv_chest_leather_09",
+	"popularity": 7,
+	"armor": 66,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Agility": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 27342,
+	"sourceName": "In Time, All Will Be Revealed",
+	"sourceType": "QUEST"
 }

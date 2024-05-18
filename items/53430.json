@@ -1,19 +1,17 @@
 {
-  "id": 53430,
-  "name": "Mortar-Slinger Belt",
-  "icon": "inv_belt_04",
-  "popularity": 7,
-  "armor": 35,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14471,
-  "sourceName": "First Degree Mortar"
+	"id": 53430,
+	"name": "Mortar-Slinger Belt",
+	"icon": "inv_belt_04",
+	"popularity": 7,
+	"armor": 35,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Agility": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 14471,
+	"sourceName": "First Degree Mortar",
+	"sourceType": "QUEST"
 }

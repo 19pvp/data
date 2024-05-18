@@ -1,18 +1,17 @@
 {
-  "id": 23412,
-  "name": "Troll Kickers",
-  "icon": "inv_boots_01",
-  "popularity": 8,
-  "armor": 86,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "strength": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9212,
-  "sourceName": "Escape from the Catacombs"
+	"id": 23412,
+	"name": "Troll Kickers",
+	"icon": "inv_boots_01",
+	"popularity": 8,
+	"armor": 86,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Strength": 3 },
+	"source": "QUEST",
+	"sourceId": 9212,
+	"sourceName": "Escape from the Catacombs",
+	"sourceType": "QUEST"
 }

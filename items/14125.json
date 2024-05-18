@@ -1,13 +1,48 @@
 {
-  "id": 14125,
-  "name": "Ritual Leggings",
-  "icon": "inv_pants_09",
-  "popularity": 10,
-  "armor": 52,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 14125,
+	"name": "Ritual Leggings",
+	"icon": "inv_pants_09",
+	"popularity": 10,
+	"armor": 52,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": {},
+	"rand": {
+		"of the Eagle": {
+			"id": 848,
+			"chance": 38.2,
+			"stats": { "Intellect": 4, "Stamina": 4 }
+		},
+		"of the Owl": {
+			"id": 763,
+			"chance": 22.8,
+			"stats": { "Intellect": 4, "Spirit": 4 }
+		},
+		"of the Whale": {
+			"id": 1018,
+			"chance": 14.4,
+			"stats": { "Spirit": 4, "Stamina": 4 }
+		},
+		"of Spirit": { "id": 153, "chance": 7.2, "stats": { "Spirit": 7 } },
+		"of the Monkey": {
+			"id": 593,
+			"chance": 4.9,
+			"stats": { "Agility": 4, "Stamina": 4 }
+		},
+		"of Healing": { "id": 2033, "chance": 3.8, "stats": { "Spell Power": 8 } },
+		"of Fiery Wrath": {
+			"id": 1881,
+			"chance": 3.2,
+			"stats": { "Fire Spell Damage": 10 }
+		},
+		"of the Falcon": {
+			"id": 248,
+			"chance": 3.1,
+			"stats": { "Agility": 4, "Intellect": 4 }
+		},
+		"of Intellect": { "id": 152, "chance": 2.4, "stats": { "Intellect": 7 } }
+	},
+	"source": "DROP"
 }

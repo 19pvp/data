@@ -1,16 +1,21 @@
 {
-  "id": 727,
-  "name": "Notched Shortsword",
-  "icon": "inv_sword_04",
-  "dmgMin": 8,
-  "dmgMax": 15,
-  "speed": 2.1,
-  "dps": 5.48,
-  "popularity": 11,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "ONE_HANDED_SWORD",
-  "type": "ONE_HAND",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 727,
+	"name": "Notched Shortsword",
+	"icon": "inv_sword_04",
+	"dmgMin": 8,
+	"dmgMax": 15,
+	"speed": 2.1,
+	"dps": 5.48,
+	"popularity": 11,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "ONE_HANDED_SWORD",
+	"type": "ONE_HAND",
+	"stats": {},
+	"rand": {
+		"of Strength": { "id": 6, "chance": 40.2, "stats": { "Strength": 1 } },
+		"of Stamina": { "id": 15, "chance": 39.4, "stats": { "Stamina": 1 } },
+		"of Power": { "id": 1547, "chance": 20.4, "stats": { "Attack Power": 2 } }
+	},
+	"source": "DROP"
 }

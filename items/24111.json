@@ -1,18 +1,17 @@
 {
-  "id": 24111,
-  "name": "Kurken Hide Jerkin",
-  "icon": "inv_chest_fur",
-  "popularity": 8,
-  "armor": 52,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "agility": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9571,
-  "sourceName": "The Kurken's Hide"
+	"id": 24111,
+	"name": "Kurken Hide Jerkin",
+	"icon": "inv_chest_fur",
+	"popularity": 8,
+	"armor": 52,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Agility": 1 },
+	"source": "QUEST",
+	"sourceId": 9571,
+	"sourceName": "The Kurken's Hide",
+	"sourceType": "QUEST"
 }

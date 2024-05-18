@@ -1,16 +1,57 @@
 {
-  "id": 790,
-  "name": "Forester's Axe",
-  "icon": "inv_axe_14",
-  "dmgMin": 20,
-  "dmgMax": 38,
-  "speed": 2.5,
-  "dps": 11.6,
-  "popularity": 27,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "ONE_HANDED_AXE",
-  "type": "MAIN_HAND",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 790,
+	"name": "Forester's Axe",
+	"icon": "inv_axe_14",
+	"dmgMin": 20,
+	"dmgMax": 38,
+	"speed": 2.5,
+	"dps": 11.6,
+	"popularity": 27,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "ONE_HANDED_AXE",
+	"type": "MAIN_HAND",
+	"stats": {},
+	"rand": {
+		"of the Tiger": {
+			"id": 672,
+			"chance": 14.2,
+			"stats": { "Agility": 2, "Strength": 2 }
+		},
+		"of the Eagle": {
+			"id": 842,
+			"chance": 10.9,
+			"stats": { "Intellect": 2, "Stamina": 2 }
+		},
+		"of the Whale": {
+			"id": 1012,
+			"chance": 10.9,
+			"stats": { "Spirit": 2, "Stamina": 2 }
+		},
+		"of the Boar": {
+			"id": 1097,
+			"chance": 10.7,
+			"stats": { "Spirit": 2, "Strength": 2 }
+		},
+		"of the Bear": {
+			"id": 1182,
+			"chance": 10.5,
+			"stats": { "Stamina": 2, "Strength": 2 }
+		},
+		"of the Wolf": {
+			"id": 502,
+			"chance": 10.2,
+			"stats": { "Agility": 2, "Spirit": 2 }
+		},
+		"of the Monkey": {
+			"id": 587,
+			"chance": 9.5,
+			"stats": { "Agility": 2, "Stamina": 2 }
+		},
+		"of Strength": { "id": 24, "chance": 8.8, "stats": { "Strength": 3 } },
+		"of Agility": { "id": 18, "chance": 5.9, "stats": { "Agility": 3 } },
+		"of Stamina": { "id": 22, "chance": 5.9, "stats": { "Stamina": 3 } },
+		"of Power": { "id": 1549, "chance": 2.4, "stats": { "Attack Power": 6 } }
+	},
+	"source": "DROP"
 }

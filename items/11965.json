@@ -1,13 +1,40 @@
 {
-  "id": 11965,
-  "name": "Quartz Ring",
-  "icon": "inv_jewelry_ring_05",
-  "popularity": 7,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 11965,
+	"name": "Quartz Ring",
+	"icon": "inv_jewelry_ring_05",
+	"popularity": 7,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": {},
+	"rand": {
+		"of Nature Resistance": {
+			"id": 1495,
+			"chance": 21,
+			"stats": { "Nature Resistance": 5 }
+		},
+		"of Shadow Resistance": {
+			"id": 1449,
+			"chance": 20.2,
+			"stats": { "Shadow Resistance": 5 }
+		},
+		"of Arcane Resistance": {
+			"id": 1311,
+			"chance": 20.1,
+			"stats": { "Arcane Resistance": 5 }
+		},
+		"of Fire Resistance": {
+			"id": 1403,
+			"chance": 19.7,
+			"stats": { "Fire Resistance": 5 }
+		},
+		"of Frost Resistance": {
+			"id": 1357,
+			"chance": 19,
+			"stats": { "Frost Resistance": 5 }
+		}
+	},
+	"source": "DROP"
 }

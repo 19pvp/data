@@ -1,18 +1,17 @@
 {
-  "id": 57237,
-  "name": "Cairne's First Breastplate",
-  "icon": "inv_chest_chain_08",
-  "popularity": 14,
-  "armor": 85,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 833,
-  "sourceName": "A Sacred Burial"
+	"id": 57237,
+	"name": "Cairne's First Breastplate",
+	"icon": "inv_chest_chain_08",
+	"popularity": 14,
+	"armor": 85,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 833,
+	"sourceName": "A Sacred Burial",
+	"sourceType": "QUEST"
 }

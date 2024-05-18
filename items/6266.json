@@ -1,13 +1,48 @@
 {
-  "id": 6266,
-  "name": "Disciple's Vest",
-  "icon": "inv_shirt_05",
-  "popularity": 9,
-  "armor": 41,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 6266,
+	"name": "Disciple's Vest",
+	"icon": "inv_shirt_05",
+	"popularity": 9,
+	"armor": 41,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": {},
+	"rand": {
+		"of the Owl": {
+			"id": 757,
+			"chance": 27.4,
+			"stats": { "Intellect": 2, "Spirit": 2 }
+		},
+		"of the Eagle": {
+			"id": 842,
+			"chance": 18.1,
+			"stats": { "Intellect": 2, "Stamina": 2 }
+		},
+		"of Intellect": { "id": 94, "chance": 16.4, "stats": { "Intellect": 4 } },
+		"of the Whale": {
+			"id": 1012,
+			"chance": 14.9,
+			"stats": { "Spirit": 2, "Stamina": 2 }
+		},
+		"of Spirit": { "id": 95, "chance": 7.7, "stats": { "Spirit": 4 } },
+		"of Stamina": { "id": 96, "chance": 7.3, "stats": { "Stamina": 4 } },
+		"of Arcane Wrath": {
+			"id": 1802,
+			"chance": 2.7,
+			"stats": { "Arcane Spell Damage": 6 }
+		},
+		"of Frozen Wrath": {
+			"id": 1954,
+			"chance": 2.6,
+			"stats": { "Frost Spell Damage": 6 }
+		},
+		"of Shadow Wrath": {
+			"id": 1840,
+			"chance": 2.6,
+			"stats": { "Shadow Spell Damage": 6 }
+		}
+	},
+	"source": "DROP"
 }

@@ -1,18 +1,14 @@
 {
-  "id": 44103,
-  "name": "Exceptional Stormshroud Shoulders",
-  "icon": "inv_shoulder_05",
-  "popularity": 51,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "LEATHER",
-  "type": "SHOULDERS",
-  "stats": {
-    "resilience": 4,
-    "agility": 6,
-    "stamina": 6
-  },
-  "sourceType": "VENDOR",
-  "sourceZone": 4197
+	"id": 44103,
+	"name": "Exceptional Stormshroud Shoulders",
+	"icon": "inv_shoulder_05",
+	"popularity": 51,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "LEATHER",
+	"type": "SHOULDERS",
+	"stats": { "Resilience": 4, "Agility": 6, "Stamina": 6 },
+	"source": "VENDOR",
+	"sourceZone": 4197
 }

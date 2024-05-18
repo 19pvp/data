@@ -1,19 +1,17 @@
 {
-  "id": 65669,
-  "name": "Keyton's Sash",
-  "icon": "inv_belt_17",
-  "popularity": 4,
-  "armor": 32,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 4,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 28154,
-  "sourceName": "Muckgill's Flipper or Something..."
+	"id": 65669,
+	"name": "Keyton's Sash",
+	"icon": "inv_belt_17",
+	"popularity": 4,
+	"armor": 32,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Stamina": 4, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 28154,
+	"sourceName": "Muckgill's Flipper or Something...",
+	"sourceType": "QUEST"
 }

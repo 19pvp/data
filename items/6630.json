@@ -1,19 +1,17 @@
 {
-  "id": 6630,
-  "name": "Seedcloud Buckler",
-  "icon": "inv_shield_10",
-  "popularity": 8,
-  "armor": 700,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "intellect": 5,
-    "spirit": 3
-  },
-  "sourceType": "DROP",
-  "sourceId": 5775,
-  "sourceName": "Verdan the Everliving",
-  "sourceZone": 718
+	"id": 6630,
+	"name": "Seedcloud Buckler",
+	"icon": "inv_shield_10",
+	"popularity": 8,
+	"armor": 700,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Intellect": 5, "Spirit": 3 },
+	"source": "DROP",
+	"sourceId": 5775,
+	"sourceName": "Verdan the Everliving",
+	"sourceZone": 718,
+	"sourceType": "NPC"
 }

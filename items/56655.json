@@ -1,20 +1,17 @@
 {
-  "id": 56655,
-  "name": "Bloodcup Slippers",
-  "icon": "inv_boots_cloth_04",
-  "popularity": 6,
-  "armor": 43,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "FEET",
-  "stats": {
-    "hit": 2,
-    "stamina": 3,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13875,
-  "sourceName": "Gurtar's Request"
+	"id": 56655,
+	"name": "Bloodcup Slippers",
+	"icon": "inv_boots_cloth_04",
+	"popularity": 6,
+	"armor": 43,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": { "Hit Rating": 2, "Stamina": 3, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 13875,
+	"sourceName": "Gurtar's Request",
+	"sourceType": "QUEST"
 }

@@ -1,13 +1,55 @@
 {
-  "id": 15499,
-  "name": "Outrunner's Cuffs",
-  "icon": "inv_bracer_13",
-  "popularity": 5,
-  "armor": 57,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WRISTS",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 15499,
+	"name": "Outrunner's Cuffs",
+	"icon": "inv_bracer_13",
+	"popularity": 5,
+	"armor": 57,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WRISTS",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1182,
+			"chance": 45.3,
+			"stats": { "Stamina": 2, "Strength": 2 }
+		},
+		"of Strength": { "id": 24, "chance": 9, "stats": { "Strength": 3 } },
+		"of Stamina": { "id": 22, "chance": 8.8, "stats": { "Stamina": 3 } },
+		"of Power": { "id": 1549, "chance": 8.2, "stats": { "Attack Power": 6 } },
+		"of the Whale": {
+			"id": 1012,
+			"chance": 6.3,
+			"stats": { "Spirit": 2, "Stamina": 2 }
+		},
+		"of the Boar": {
+			"id": 1097,
+			"chance": 6.2,
+			"stats": { "Spirit": 2, "Strength": 2 }
+		},
+		"of the Gorilla": {
+			"id": 927,
+			"chance": 4.4,
+			"stats": { "Intellect": 2, "Strength": 2 }
+		},
+		"of the Eagle": {
+			"id": 842,
+			"chance": 4.1,
+			"stats": { "Intellect": 2, "Stamina": 2 }
+		},
+		"of the Tiger": {
+			"id": 672,
+			"chance": 3.7,
+			"stats": { "Agility": 2, "Strength": 2 }
+		},
+		"of the Monkey": {
+			"id": 587,
+			"chance": 3.6,
+			"stats": { "Agility": 2, "Stamina": 2 }
+		},
+		"of Healing": { "id": 2029, "chance": 0.4, "stats": { "Spell Power": 4 } },
+		"of Intellect": { "id": 26, "chance": 0.2, "stats": { "Intellect": 3 } }
+	},
+	"source": "DROP"
 }

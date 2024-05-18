@@ -1,19 +1,17 @@
 {
-  "id": 5971,
-  "name": "Feathered Cape",
-  "icon": "inv_misc_cape_04",
-  "popularity": 7,
-  "armor": 23,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "agility": 1,
-    "stamina": 2
-  },
-  "sourceType": "DROP",
-  "sourceId": 462,
-  "sourceName": "Vultros",
-  "sourceZone": 40
+	"id": 5971,
+	"name": "Feathered Cape",
+	"icon": "inv_misc_cape_04",
+	"popularity": 7,
+	"armor": 23,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Agility": 1, "Stamina": 2 },
+	"source": "DROP",
+	"sourceId": 462,
+	"sourceName": "Vultros",
+	"sourceZone": 40,
+	"sourceType": "NPC"
 }

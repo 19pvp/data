@@ -1,21 +1,18 @@
 {
-  "id": 20427,
-  "name": "Battle Healer's Cloak",
-  "icon": "inv_misc_cape_18",
-  "popularity": 10,
-  "armor": 35,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "stamina": 4,
-    "intellect": 4,
-    "spirit": 2
-  },
-  "sourceType": "VENDOR",
-  "sourceId": 14754,
-  "sourceName": "Kelm Hargunth",
-  "sourceZone": 17
+	"id": 20427,
+	"name": "Battle Healer's Cloak",
+	"icon": "inv_misc_cape_18",
+	"popularity": 10,
+	"armor": 35,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Stamina": 4, "Intellect": 4, "Spirit": 2 },
+	"source": "VENDOR",
+	"sourceId": 14754,
+	"sourceName": "Kelm Hargunth",
+	"sourceZone": 17,
+	"sourceType": "NPC"
 }

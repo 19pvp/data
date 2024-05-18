@@ -1,20 +1,17 @@
 {
-  "id": 56723,
-  "name": "Deerstalker Leggings",
-  "icon": "inv_pants_mail_12",
-  "popularity": 8,
-  "armor": 135,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "hit": 5,
-    "strength": 3,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13920,
-  "sourceName": "Before You Go..."
+	"id": 56723,
+	"name": "Deerstalker Leggings",
+	"icon": "inv_pants_mail_12",
+	"popularity": 8,
+	"armor": 135,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Hit Rating": 5, "Strength": 3, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 13920,
+	"sourceName": "Before You Go...",
+	"sourceType": "QUEST"
 }

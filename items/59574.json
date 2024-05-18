@@ -1,20 +1,17 @@
 {
-  "id": 59574,
-  "name": "Conspirator's Slippers",
-  "icon": "inv_boots_cloth_01",
-  "popularity": 27,
-  "armor": 38,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOTH",
-  "type": "FEET",
-  "stats": {
-    "crit": 4,
-    "stamina": 4,
-    "intellect": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14063,
-  "sourceName": "Mutiny, Mon!"
+	"id": 59574,
+	"name": "Conspirator's Slippers",
+	"icon": "inv_boots_cloth_01",
+	"popularity": 27,
+	"armor": 38,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": { "Critical Strike Rating": 4, "Stamina": 4, "Intellect": 4 },
+	"source": "QUEST",
+	"sourceId": 14063,
+	"sourceName": "Mutiny, Mon!",
+	"sourceType": "QUEST"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 53409,
-  "name": "Diplomatic Belt",
-  "icon": "inv_belt_04",
-  "popularity": 21,
-  "armor": 43,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14435,
-  "sourceName": "The Blackmaw Doublecross"
+	"id": 53409,
+	"name": "Diplomatic Belt",
+	"icon": "inv_belt_04",
+	"popularity": 21,
+	"armor": 43,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 14435,
+	"sourceName": "The Blackmaw Doublecross",
+	"sourceType": "QUEST"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 52663,
-  "name": "Groff's Tarpaulin",
-  "icon": "inv_misc_cape_11",
-  "popularity": 4,
-  "armor": 26,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "strength": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13910,
-  "sourceName": "A New Home"
+	"id": 52663,
+	"name": "Groff's Tarpaulin",
+	"icon": "inv_misc_cape_11",
+	"popularity": 4,
+	"armor": 26,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Strength": 3 },
+	"source": "QUEST",
+	"sourceId": 13910,
+	"sourceName": "A New Home",
+	"sourceType": "QUEST"
 }

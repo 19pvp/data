@@ -1,18 +1,17 @@
 {
-  "id": 57236,
-  "name": "Plainstrider Leg Armor",
-  "icon": "inv_pants_mail_05",
-  "popularity": 4,
-  "armor": 74,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "strength": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 744,
-  "sourceName": "Preparation for Ceremony"
+	"id": 57236,
+	"name": "Plainstrider Leg Armor",
+	"icon": "inv_pants_mail_05",
+	"popularity": 4,
+	"armor": 74,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Strength": 1 },
+	"source": "QUEST",
+	"sourceId": 744,
+	"sourceName": "Preparation for Ceremony",
+	"sourceType": "QUEST"
 }

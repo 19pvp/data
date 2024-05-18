@@ -1,13 +1,54 @@
 {
-  "id": 6576,
-  "name": "Defender Girdle",
-  "icon": "inv_belt_22",
-  "popularity": 12,
-  "armor": 87,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 6576,
+	"name": "Defender Girdle",
+	"icon": "inv_belt_22",
+	"popularity": 12,
+	"armor": 87,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1188,
+			"chance": 44.7,
+			"stats": { "Stamina": 4, "Strength": 4 }
+		},
+		"of the Whale": {
+			"id": 1018,
+			"chance": 11.3,
+			"stats": { "Spirit": 4, "Stamina": 4 }
+		},
+		"of the Boar": {
+			"id": 1103,
+			"chance": 9.5,
+			"stats": { "Spirit": 4, "Strength": 4 }
+		},
+		"of Strength": { "id": 136, "chance": 8.5, "stats": { "Strength": 6 } },
+		"of the Eagle": {
+			"id": 848,
+			"chance": 6.9,
+			"stats": { "Intellect": 4, "Stamina": 4 }
+		},
+		"of the Monkey": {
+			"id": 593,
+			"chance": 5.4,
+			"stats": { "Agility": 4, "Stamina": 4 }
+		},
+		"of Power": { "id": 1552, "chance": 4.9, "stats": { "Attack Power": 12 } },
+		"of the Gorilla": {
+			"id": 933,
+			"chance": 4.2,
+			"stats": { "Intellect": 4, "Strength": 4 }
+		},
+		"of the Tiger": {
+			"id": 678,
+			"chance": 3.8,
+			"stats": { "Agility": 4, "Strength": 4 }
+		},
+		"of Healing": { "id": 2032, "chance": 0.5, "stats": { "Spell Power": 7 } },
+		"of Intellect": { "id": 112, "chance": 0.2, "stats": { "Intellect": 5 } }
+	},
+	"source": "DROP"
 }

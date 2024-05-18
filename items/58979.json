@@ -1,18 +1,15 @@
 {
-  "id": 58979,
-  "name": "Silver Stream Shield",
-  "icon": "inv_shield_09",
-  "popularity": 20,
-  "armor": 364,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "crit": 1,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 38
+	"id": 58979,
+	"name": "Silver Stream Shield",
+	"icon": "inv_shield_09",
+	"popularity": 20,
+	"armor": 364,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Critical Strike Rating": 1, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceZone": 38
 }

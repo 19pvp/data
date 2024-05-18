@@ -1,16 +1,13 @@
 {
-  "id": 6381,
-  "name": "Bright Cloak",
-  "icon": "inv_misc_cape_10",
-  "popularity": 21,
-  "armor": 32,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "stamina": 2,
-    "spirit": 3
-  },
-  "sourceType": "DROP"
+	"id": 6381,
+	"name": "Bright Cloak",
+	"icon": "inv_misc_cape_10",
+	"popularity": 21,
+	"armor": 32,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Stamina": 2, "Spirit": 3 },
+	"source": "DROP"
 }

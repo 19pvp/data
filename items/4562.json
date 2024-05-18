@@ -1,16 +1,57 @@
 {
-  "id": 4562,
-  "name": "Severing Axe",
-  "icon": "inv_throwingaxe_02",
-  "dmgMin": 18,
-  "dmgMax": 27,
-  "speed": 3.2,
-  "dps": 7.03,
-  "popularity": 5,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "TWO_HANDED_AXE",
-  "type": "TWO_HAND",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 4562,
+	"name": "Severing Axe",
+	"icon": "inv_throwingaxe_02",
+	"dmgMin": 18,
+	"dmgMax": 27,
+	"speed": 3.2,
+	"dps": 7.03,
+	"popularity": 5,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "TWO_HANDED_AXE",
+	"type": "TWO_HAND",
+	"stats": {},
+	"rand": {
+		"of the Monkey": {
+			"id": 587,
+			"chance": 11.8,
+			"stats": { "Agility": 2, "Stamina": 2 }
+		},
+		"of the Wolf": {
+			"id": 502,
+			"chance": 11.6,
+			"stats": { "Agility": 2, "Spirit": 2 }
+		},
+		"of the Tiger": {
+			"id": 672,
+			"chance": 11.6,
+			"stats": { "Agility": 2, "Strength": 2 }
+		},
+		"of the Whale": {
+			"id": 1012,
+			"chance": 11.4,
+			"stats": { "Spirit": 2, "Stamina": 2 }
+		},
+		"of the Eagle": {
+			"id": 842,
+			"chance": 11.1,
+			"stats": { "Intellect": 2, "Stamina": 2 }
+		},
+		"of the Bear": {
+			"id": 1182,
+			"chance": 11,
+			"stats": { "Stamina": 2, "Strength": 2 }
+		},
+		"of the Boar": {
+			"id": 1097,
+			"chance": 10.7,
+			"stats": { "Spirit": 2, "Strength": 2 }
+		},
+		"of Stamina": { "id": 96, "chance": 6.1, "stats": { "Stamina": 4 } },
+		"of Strength": { "id": 97, "chance": 6, "stats": { "Strength": 4 } },
+		"of Agility": { "id": 93, "chance": 5.7, "stats": { "Agility": 4 } },
+		"of Power": { "id": 1550, "chance": 3.1, "stats": { "Attack Power": 8 } }
+	},
+	"source": "DROP"
 }

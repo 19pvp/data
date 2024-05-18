@@ -1,20 +1,17 @@
 {
-  "id": 55129,
-  "name": "Silver Scaled Belt",
-  "icon": "inv_belt_45b",
-  "popularity": 11,
-  "armor": 71,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {
-    "hit": 3,
-    "strength": 3,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13591,
-  "sourceName": "Disturbing Connections"
+	"id": 55129,
+	"name": "Silver Scaled Belt",
+	"icon": "inv_belt_45b",
+	"popularity": 11,
+	"armor": 71,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": { "Hit Rating": 3, "Strength": 3, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 13591,
+	"sourceName": "Disturbing Connections",
+	"sourceType": "QUEST"
 }

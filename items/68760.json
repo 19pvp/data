@@ -1,15 +1,13 @@
 {
-  "id": 68760,
-  "name": "Imbued Infantry Gauntlets",
-  "icon": "inv_gauntlets_11",
-  "popularity": 6,
-  "armor": 57,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "DROP"
+	"id": 68760,
+	"name": "Imbued Infantry Gauntlets",
+	"icon": "inv_gauntlets_11",
+	"popularity": 6,
+	"armor": 57,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Stamina": 1 },
+	"source": "DROP"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 28149,
-  "name": "Tranquillien Breeches",
-  "icon": "inv_pants_02",
-  "popularity": 8,
-  "armor": 49,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9315,
-  "sourceName": "Anok'suten"
+	"id": 28149,
+	"name": "Tranquillien Breeches",
+	"icon": "inv_pants_02",
+	"popularity": 8,
+	"armor": 49,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Agility": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 9315,
+	"sourceName": "Anok'suten",
+	"sourceType": "QUEST"
 }

@@ -1,18 +1,16 @@
 {
-  "id": 5341,
-  "name": "Spore-Covered Tunic",
-  "icon": "inv_shirt_07",
-  "popularity": 15,
-  "armor": 70,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 1,
-    "spirit": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 866,
-  "sourceName": "Root Samples"
+	"id": 5341,
+	"name": "Spore-Covered Tunic",
+	"icon": "inv_shirt_07",
+	"popularity": 15,
+	"armor": 70,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Stamina": 1, "Spirit": 3 },
+	"source": "QUEST",
+	"sourceId": 866,
+	"sourceName": "Root Samples",
+	"sourceType": "QUEST"
 }

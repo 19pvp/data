@@ -1,19 +1,17 @@
 {
-  "id": 52584,
-  "name": "Emerald Vest",
-  "icon": "inv_chest_cloth_30",
-  "popularity": 13,
-  "armor": 50,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 4,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13588,
-  "sourceName": "The Eye of All Storms"
+	"id": 52584,
+	"name": "Emerald Vest",
+	"icon": "inv_chest_cloth_30",
+	"popularity": 13,
+	"armor": 50,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Stamina": 4, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 13588,
+	"sourceName": "The Eye of All Storms",
+	"sourceType": "QUEST"
 }

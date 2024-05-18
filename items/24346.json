@@ -1,20 +1,17 @@
 {
-  "id": 24346,
-  "name": "Robe of the Dragon Slayer",
-  "icon": "inv_chest_cloth_21",
-  "popularity": 5,
-  "armor": 53,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "hit": 2,
-    "stamina": 3,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9689,
-  "sourceName": "Razormaw"
+	"id": 24346,
+	"name": "Robe of the Dragon Slayer",
+	"icon": "inv_chest_cloth_21",
+	"popularity": 5,
+	"armor": 53,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Hit Rating": 2, "Stamina": 3, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 9689,
+	"sourceName": "Razormaw",
+	"sourceType": "QUEST"
 }

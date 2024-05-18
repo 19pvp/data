@@ -1,20 +1,19 @@
 {
-  "id": 1287,
-  "name": "Giant Tarantula Fang",
-  "icon": "inv_misc_monsterfang_01",
-  "dmgMin": 7,
-  "dmgMax": 14,
-  "speed": 1.4,
-  "dps": 7.5,
-  "popularity": 6,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "DAGGER",
-  "type": "ONE_HAND",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "DROP",
-  "sourceId": 442,
-  "sourceName": "Tarantula"
+	"id": 1287,
+	"name": "Giant Tarantula Fang",
+	"icon": "inv_misc_monsterfang_01",
+	"dmgMin": 7,
+	"dmgMax": 14,
+	"speed": 1.4,
+	"dps": 7.5,
+	"popularity": 6,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "DAGGER",
+	"type": "ONE_HAND",
+	"stats": { "Stamina": 1 },
+	"source": "DROP",
+	"sourceId": 442,
+	"sourceName": "Tarantula",
+	"sourceType": "NPC"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 2249,
-  "name": "Militia Buckler",
-  "icon": "inv_shield_09",
-  "popularity": 21,
-  "armor": 337,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 11,
-  "sourceName": "Riverpaw Gnoll Bounty"
+	"id": 2249,
+	"name": "Militia Buckler",
+	"icon": "inv_shield_09",
+	"popularity": 21,
+	"armor": 337,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 11,
+	"sourceName": "Riverpaw Gnoll Bounty",
+	"sourceType": "QUEST"
 }

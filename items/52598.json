@@ -1,18 +1,17 @@
 {
-  "id": 52598,
-  "name": "Soothsaying Vest",
-  "icon": "inv_chest_leather_09",
-  "popularity": 5,
-  "armor": 77,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "spirit": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13580,
-  "sourceName": "Soothing the Elements"
+	"id": 52598,
+	"name": "Soothsaying Vest",
+	"icon": "inv_chest_leather_09",
+	"popularity": 5,
+	"armor": 77,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Spirit": 5 },
+	"source": "QUEST",
+	"sourceId": 13580,
+	"sourceName": "Soothing the Elements",
+	"sourceType": "QUEST"
 }

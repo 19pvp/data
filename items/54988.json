@@ -1,18 +1,17 @@
 {
-  "id": 54988,
-  "name": "Cloak of the Clarion Call",
-  "icon": "inv_misc_cape_13",
-  "popularity": 10,
-  "armor": 24,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "intellect": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24904,
-  "sourceName": "The Battle for Gilneas City"
+	"id": 54988,
+	"name": "Cloak of the Clarion Call",
+	"icon": "inv_misc_cape_13",
+	"popularity": 10,
+	"armor": 24,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Intellect": 4 },
+	"source": "QUEST",
+	"sourceId": 24904,
+	"sourceName": "The Battle for Gilneas City",
+	"sourceType": "QUEST"
 }

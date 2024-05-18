@@ -1,19 +1,17 @@
 {
-  "id": 53410,
-  "name": "Disposable Cloak",
-  "icon": "inv_misc_cape_15",
-  "popularity": 6,
-  "armor": 24,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24436,
-  "sourceName": "Halo Drops"
+	"id": 53410,
+	"name": "Disposable Cloak",
+	"icon": "inv_misc_cape_15",
+	"popularity": 6,
+	"armor": 24,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Agility": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 24436,
+	"sourceName": "Halo Drops",
+	"sourceType": "QUEST"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 56630,
-  "name": "Delgren's Leggings",
-  "icon": "inv_pants_05",
-  "popularity": 7,
-  "armor": 52,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 4,
-    "intellect": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13626,
-  "sourceName": "Respect for the Fallen"
+	"id": 56630,
+	"name": "Delgren's Leggings",
+	"icon": "inv_pants_05",
+	"popularity": 7,
+	"armor": 52,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Stamina": 4, "Intellect": 5 },
+	"source": "QUEST",
+	"sourceId": 13626,
+	"sourceName": "Respect for the Fallen",
+	"sourceType": "QUEST"
 }

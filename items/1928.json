@@ -1,21 +1,19 @@
 {
-  "id": 1928,
-  "name": "Defias Mage Staff",
-  "icon": "inv_staff_18",
-  "dmgMin": 39,
-  "dmgMax": 59,
-  "speed": 2.8,
-  "dps": 17.5,
-  "popularity": 17,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "STAFF",
-  "type": "TWO_HAND",
-  "stats": {
-    "crit": 7,
-    "intellect": 7
-  },
-  "sourceType": "DROP",
-  "sourceId": 1726,
-  "sourceName": "Defias Magician"
+	"id": 1928,
+	"name": "Defias Mage Staff",
+	"icon": "inv_staff_18",
+	"dmgMin": 39,
+	"dmgMax": 59,
+	"speed": 2.8,
+	"dps": 17.5,
+	"popularity": 17,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "STAFF",
+	"type": "TWO_HAND",
+	"stats": { "Critical Strike Rating": 7, "Intellect": 7 },
+	"source": "DROP",
+	"sourceId": 1726,
+	"sourceName": "Defias Magician",
+	"sourceType": "NPC"
 }

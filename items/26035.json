@@ -1,19 +1,17 @@
 {
-  "id": 26035,
-  "name": "Corin's Handguards",
-  "icon": "inv_gauntlets_18",
-  "popularity": 6,
-  "armor": 89,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "strength": 3,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9761,
-  "sourceName": "Clearing the Way"
+	"id": 26035,
+	"name": "Corin's Handguards",
+	"icon": "inv_gauntlets_18",
+	"popularity": 6,
+	"armor": 89,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Strength": 3, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 9761,
+	"sourceName": "Clearing the Way",
+	"sourceType": "QUEST"
 }

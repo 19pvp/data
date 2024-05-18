@@ -1,13 +1,69 @@
 {
-  "id": 15329,
-  "name": "Wrangler's Belt",
-  "icon": "inv_belt_16",
-  "popularity": 6,
-  "armor": 57,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 15329,
+	"name": "Wrangler's Belt",
+	"icon": "inv_belt_16",
+	"popularity": 6,
+	"armor": 57,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": {},
+	"rand": {
+		"of the Monkey": {
+			"id": 593,
+			"chance": 22.4,
+			"stats": { "Agility": 4, "Stamina": 4 }
+		},
+		"of the Owl": {
+			"id": 763,
+			"chance": 13.9,
+			"stats": { "Intellect": 4, "Spirit": 4 }
+		},
+		"of the Whale": {
+			"id": 1018,
+			"chance": 13.9,
+			"stats": { "Spirit": 4, "Stamina": 4 }
+		},
+		"of the Eagle": {
+			"id": 848,
+			"chance": 9.3,
+			"stats": { "Intellect": 4, "Stamina": 4 }
+		},
+		"of the Wolf": {
+			"id": 508,
+			"chance": 8.6,
+			"stats": { "Agility": 4, "Spirit": 4 }
+		},
+		"of Intellect": { "id": 133, "chance": 7, "stats": { "Intellect": 6 } },
+		"of the Bear": {
+			"id": 1188,
+			"chance": 6.7,
+			"stats": { "Stamina": 4, "Strength": 4 }
+		},
+		"of the Falcon": {
+			"id": 248,
+			"chance": 4.1,
+			"stats": { "Agility": 4, "Intellect": 4 }
+		},
+		"of the Boar": {
+			"id": 1103,
+			"chance": 3.6,
+			"stats": { "Spirit": 4, "Strength": 4 }
+		},
+		"of the Tiger": {
+			"id": 678,
+			"chance": 3.3,
+			"stats": { "Agility": 4, "Strength": 4 }
+		},
+		"of Defense": { "id": 1609, "chance": 3.1, "stats": { "Dodge Rating": 6 } },
+		"of Dodge": { "chance": 1.8, "stats": { "Dodge Rating": 6 } },
+		"of Arcane Wrath": {
+			"id": 1804,
+			"chance": 1.2,
+			"stats": { "Arcane Spell Damage": 9 }
+		},
+		"of Healing": { "id": 2032, "chance": 0.7, "stats": { "Spell Power": 7 } }
+	},
+	"source": "DROP"
 }

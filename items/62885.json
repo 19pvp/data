@@ -1,19 +1,17 @@
 {
-  "id": 62885,
-  "name": "Unmistakable Gloves",
-  "icon": "inv_gauntlets_10",
-  "popularity": 5,
-  "armor": 82,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "strength": 2,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27510,
-  "sourceName": "A Wolf in Bear's Clothing"
+	"id": 62885,
+	"name": "Unmistakable Gloves",
+	"icon": "inv_gauntlets_10",
+	"popularity": 5,
+	"armor": 82,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Strength": 2, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 27510,
+	"sourceName": "A Wolf in Bear's Clothing",
+	"sourceType": "QUEST"
 }

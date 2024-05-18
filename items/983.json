@@ -1,18 +1,17 @@
 {
-  "id": 983,
-  "name": "Red Linen Sash",
-  "icon": "inv_belt_43c",
-  "popularity": 24,
-  "armor": 19,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 83,
-  "sourceName": "Fine Linen Goods"
+	"id": 983,
+	"name": "Red Linen Sash",
+	"icon": "inv_belt_43c",
+	"popularity": 24,
+	"armor": 19,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 83,
+	"sourceName": "Fine Linen Goods",
+	"sourceType": "QUEST"
 }

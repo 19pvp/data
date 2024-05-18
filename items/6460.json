@@ -1,19 +1,17 @@
 {
-  "id": 6460,
-  "name": "Cobrahn's Grasp",
-  "icon": "inv_belt_03",
-  "popularity": 7,
-  "armor": 92,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {
-    "hit": 4,
-    "strength": 6
-  },
-  "sourceType": "DROP",
-  "sourceId": 3669,
-  "sourceName": "Lord Cobrahn",
-  "sourceZone": 718
+	"id": 6460,
+	"name": "Cobrahn's Grasp",
+	"icon": "inv_belt_03",
+	"popularity": 7,
+	"armor": 92,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": { "Hit Rating": 4, "Strength": 6 },
+	"source": "DROP",
+	"sourceId": 3669,
+	"sourceName": "Lord Cobrahn",
+	"sourceZone": 718,
+	"sourceType": "NPC"
 }

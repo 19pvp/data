@@ -1,19 +1,17 @@
 {
-  "id": 59068,
-  "name": "Waterproof Leggings",
-  "icon": "inv_pants_leather_14",
-  "popularity": 5,
-  "armor": 77,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "crit": 5,
-    "hit": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25736,
-  "sourceName": "The Floodsurge Core"
+	"id": 59068,
+	"name": "Waterproof Leggings",
+	"icon": "inv_pants_leather_14",
+	"popularity": 5,
+	"armor": 77,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Critical Strike Rating": 5, "Hit Rating": 3 },
+	"source": "QUEST",
+	"sourceId": 25736,
+	"sourceName": "The Floodsurge Core",
+	"sourceType": "QUEST"
 }

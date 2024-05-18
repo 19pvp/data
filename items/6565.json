@@ -1,13 +1,48 @@
 {
-  "id": 6565,
-  "name": "Shimmering Gloves",
-  "icon": "inv_gauntlets_16",
-  "popularity": 16,
-  "armor": 39,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 6565,
+	"name": "Shimmering Gloves",
+	"icon": "inv_gauntlets_16",
+	"popularity": 16,
+	"armor": 39,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": {},
+	"rand": {
+		"of the Owl": {
+			"id": 763,
+			"chance": 29.8,
+			"stats": { "Intellect": 4, "Spirit": 4 }
+		},
+		"of the Eagle": {
+			"id": 848,
+			"chance": 24.2,
+			"stats": { "Intellect": 4, "Stamina": 4 }
+		},
+		"of the Whale": {
+			"id": 1018,
+			"chance": 17.5,
+			"stats": { "Spirit": 4, "Stamina": 4 }
+		},
+		"of Spirit": { "id": 134, "chance": 12.3, "stats": { "Spirit": 6 } },
+		"of Intellect": { "id": 112, "chance": 4.4, "stats": { "Intellect": 5 } },
+		"of Fiery Wrath": {
+			"id": 1880,
+			"chance": 3.4,
+			"stats": { "Fire Spell Damage": 9 }
+		},
+		"of Healing": { "id": 2032, "chance": 3.2, "stats": { "Spell Power": 7 } },
+		"of the Monkey": {
+			"id": 593,
+			"chance": 2.7,
+			"stats": { "Agility": 4, "Stamina": 4 }
+		},
+		"of the Falcon": {
+			"id": 248,
+			"chance": 2.6,
+			"stats": { "Agility": 4, "Intellect": 4 }
+		}
+	},
+	"source": "DROP"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 62864,
-  "name": "Bracers of the Final Transmission",
-  "icon": "inv_bracer_10",
-  "popularity": 4,
-  "armor": 20,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WRISTS",
-  "stats": {
-    "intellect": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27405,
-  "sourceName": "Fall Back!"
+	"id": 62864,
+	"name": "Bracers of the Final Transmission",
+	"icon": "inv_bracer_10",
+	"popularity": 4,
+	"armor": 20,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WRISTS",
+	"stats": { "Intellect": 2 },
+	"source": "QUEST",
+	"sourceId": 27405,
+	"sourceName": "Fall Back!",
+	"sourceType": "QUEST"
 }

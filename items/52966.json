@@ -1,18 +1,17 @@
 {
-  "id": 52966,
-  "name": "Fickle Belt",
-  "icon": "inv_belt_02",
-  "popularity": 22,
-  "armor": 33,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "intellect": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25203,
-  "sourceName": "What Kind of Name is Chip, Anyway?"
+	"id": 52966,
+	"name": "Fickle Belt",
+	"icon": "inv_belt_02",
+	"popularity": 22,
+	"armor": 33,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Intellect": 2 },
+	"source": "QUEST",
+	"sourceId": 25203,
+	"sourceName": "What Kind of Name is Chip, Anyway?",
+	"sourceType": "QUEST"
 }

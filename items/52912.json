@@ -1,19 +1,17 @@
 {
-  "id": 52912,
-  "name": "S.B.R.B. Prototype 1",
-  "icon": "inv_boots_cloth_31v2",
-  "popularity": 6,
-  "armor": 22,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "FEET",
-  "stats": {
-    "stamina": 1,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24942,
-  "sourceName": "Zombies vs. Super Booster Rocket Boots"
+	"id": 52912,
+	"name": "S.B.R.B. Prototype 1",
+	"icon": "inv_boots_cloth_31v2",
+	"popularity": 6,
+	"armor": 22,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": { "Stamina": 1, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 24942,
+	"sourceName": "Zombies vs. Super Booster Rocket Boots",
+	"sourceType": "QUEST"
 }

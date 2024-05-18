@@ -1,20 +1,17 @@
 {
-  "id": 53402,
-  "name": "Azure Scale Vest",
-  "icon": "inv_chest_leather_03",
-  "popularity": 21,
-  "armor": 93,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "crit": 5,
-    "agility": 5,
-    "stamina": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24467,
-  "sourceName": "Fade to Black"
+	"id": 53402,
+	"name": "Azure Scale Vest",
+	"icon": "inv_chest_leather_03",
+	"popularity": 21,
+	"armor": 93,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Critical Strike Rating": 5, "Agility": 5, "Stamina": 5 },
+	"source": "QUEST",
+	"sourceId": 24467,
+	"sourceName": "Fade to Black",
+	"sourceType": "QUEST"
 }

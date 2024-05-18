@@ -1,18 +1,14 @@
 {
-  "id": 1974,
-  "name": "Mindthrust Bracers",
-  "icon": "inv_bracer_07",
-  "popularity": 18,
-  "armor": 29,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOTH",
-  "type": "WRISTS",
-  "stats": {
-    "stamina": 3,
-    "intellect": 4,
-    "spirit": 3
-  },
-  "sourceType": "DROP",
-  "sourceZone": 209
+	"id": 1974,
+	"name": "Mindthrust Bracers",
+	"icon": "inv_bracer_07",
+	"popularity": 18,
+	"armor": 29,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "WRISTS",
+	"stats": { "Stamina": 3, "Intellect": 4, "Spirit": 3 },
+	"source": "DROP",
+	"sourceZone": 209
 }

@@ -1,17 +1,13 @@
 {
-  "id": 42984,
-  "name": "Preened Ironfeather Shoulders",
-  "icon": "inv_shoulder_06",
-  "popularity": 56,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "LEATHER",
-  "type": "SHOULDERS",
-  "stats": {
-    "crit": 5,
-    "stamina": 7,
-    "intellect": 5
-  },
-  "sourceType": "VENDOR"
+	"id": 42984,
+	"name": "Preened Ironfeather Shoulders",
+	"icon": "inv_shoulder_06",
+	"popularity": 56,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "LEATHER",
+	"type": "SHOULDERS",
+	"stats": { "Critical Strike Rating": 5, "Stamina": 7, "Intellect": 5 },
+	"source": "VENDOR"
 }

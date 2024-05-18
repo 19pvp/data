@@ -1,16 +1,13 @@
 {
-  "id": 12978,
-  "name": "Stormbringer Belt",
-  "icon": "inv_belt_15",
-  "popularity": 18,
-  "armor": 88,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {
-    "strength": 5,
-    "stamina": 2
-  },
-  "sourceType": "DROP"
+	"id": 12978,
+	"name": "Stormbringer Belt",
+	"icon": "inv_belt_15",
+	"popularity": 18,
+	"armor": 88,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": { "Strength": 5, "Stamina": 2 },
+	"source": "DROP"
 }

@@ -1,13 +1,59 @@
 {
-  "id": 6542,
-  "name": "Willow Cape",
-  "icon": "inv_misc_cape_17",
-  "popularity": 3,
-  "armor": 23,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 6542,
+	"name": "Willow Cape",
+	"icon": "inv_misc_cape_17",
+	"popularity": 3,
+	"armor": 23,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": {},
+	"rand": {
+		"of the Owl": {
+			"id": 754,
+			"chance": 27.3,
+			"stats": { "Intellect": 1, "Spirit": 1 }
+		},
+		"of Intellect": { "id": 25, "chance": 19.1, "stats": { "Intellect": 2 } },
+		"of the Eagle": {
+			"id": 839,
+			"chance": 13.9,
+			"stats": { "Intellect": 1, "Stamina": 1 }
+		},
+		"of the Whale": {
+			"id": 1009,
+			"chance": 12.7,
+			"stats": { "Spirit": 1, "Stamina": 1 }
+		},
+		"of Spirit": { "id": 27, "chance": 6.5, "stats": { "Spirit": 2 } },
+		"of Stamina": { "id": 19, "chance": 5.5, "stats": { "Stamina": 2 } },
+		"of Healing": { "id": 2028, "chance": 2.7, "stats": { "Spell Power": 2 } },
+		"of Fiery Wrath": {
+			"id": 1876,
+			"chance": 2.6,
+			"stats": { "Fire Spell Damage": 3 }
+		},
+		"of Frozen Wrath": {
+			"id": 1952,
+			"chance": 2.5,
+			"stats": { "Frost Spell Damage": 3 }
+		},
+		"of Holy Wrath": {
+			"id": 1914,
+			"chance": 2.5,
+			"stats": { "Holy Spell Damage": 3 }
+		},
+		"of Arcane Wrath": {
+			"id": 1800,
+			"chance": 2.4,
+			"stats": { "Arcane Spell Damage": 3 }
+		},
+		"of Shadow Wrath": {
+			"id": 1838,
+			"chance": 2.3,
+			"stats": { "Shadow Spell Damage": 3 }
+		}
+	},
+	"source": "DROP"
 }

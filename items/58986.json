@@ -1,19 +1,17 @@
 {
-  "id": 58986,
-  "name": "Stone Stompers",
-  "icon": "inv_boots_chain_01",
-  "popularity": 23,
-  "armor": 66,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26146,
-  "sourceName": "In Defense of the King's Lands"
+	"id": 58986,
+	"name": "Stone Stompers",
+	"icon": "inv_boots_chain_01",
+	"popularity": 23,
+	"armor": 66,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 26146,
+	"sourceName": "In Defense of the King's Lands",
+	"sourceType": "QUEST"
 }

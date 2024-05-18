@@ -1,18 +1,17 @@
 {
-  "id": 59545,
-  "name": "Fuzzy Gloves",
-  "icon": "inv_gauntlets_05",
-  "popularity": 15,
-  "armor": 42,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "intellect": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13998,
-  "sourceName": "In Fungus We Trust"
+	"id": 59545,
+	"name": "Fuzzy Gloves",
+	"icon": "inv_gauntlets_05",
+	"popularity": 15,
+	"armor": 42,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Intellect": 2 },
+	"source": "QUEST",
+	"sourceId": 13998,
+	"sourceName": "In Fungus We Trust",
+	"sourceType": "QUEST"
 }

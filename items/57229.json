@@ -1,18 +1,17 @@
 {
-  "id": 57229,
-  "name": "Duskwatcher's Leggings",
-  "icon": "inv_pants_02",
-  "popularity": 19,
-  "armor": 46,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24524,
-  "sourceName": "Wildmane Cleansing"
+	"id": 57229,
+	"name": "Duskwatcher's Leggings",
+	"icon": "inv_pants_02",
+	"popularity": 19,
+	"armor": 46,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 24524,
+	"sourceName": "Wildmane Cleansing",
+	"sourceType": "QUEST"
 }

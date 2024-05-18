@@ -1,16 +1,13 @@
 {
-  "id": 1121,
-  "name": "Feet of the Lynx",
-  "icon": "inv_boots_wolf",
-  "popularity": 18,
-  "armor": 77,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "agility": 8,
-    "stamina": 5
-  },
-  "sourceType": "DROP"
+	"id": 1121,
+	"name": "Feet of the Lynx",
+	"icon": "inv_boots_wolf",
+	"popularity": 18,
+	"armor": 77,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Agility": 8, "Stamina": 5 },
+	"source": "DROP"
 }

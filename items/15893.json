@@ -1,16 +1,13 @@
 {
-  "id": 15893,
-  "name": "Prospector's Buckler",
-  "icon": "inv_shield_09",
-  "popularity": 10,
-  "armor": 611,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "stamina": 1,
-    "intellect": 3
-  },
-  "sourceType": "DROP"
+	"id": 15893,
+	"name": "Prospector's Buckler",
+	"icon": "inv_shield_09",
+	"popularity": 10,
+	"armor": 611,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Stamina": 1, "Intellect": 3 },
+	"source": "DROP"
 }

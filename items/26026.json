@@ -1,19 +1,17 @@
 {
-  "id": 26026,
-  "name": "Ornately Tooled Belt",
-  "icon": "inv_belt_25",
-  "popularity": 20,
-  "armor": 49,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "agility": 4,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9647,
-  "sourceName": "Culling the Flutterers"
+	"id": 26026,
+	"name": "Ornately Tooled Belt",
+	"icon": "inv_belt_25",
+	"popularity": 20,
+	"armor": 49,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Agility": 4, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 9647,
+	"sourceName": "Culling the Flutterers",
+	"sourceType": "QUEST"
 }

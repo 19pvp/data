@@ -1,18 +1,17 @@
 {
-  "id": 60698,
-  "name": "Belt of Recurring Raids",
-  "icon": "inv_belt_02",
-  "popularity": 6,
-  "armor": 41,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "agility": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26511,
-  "sourceName": "Lake Everstill Clean Up"
+	"id": 60698,
+	"name": "Belt of Recurring Raids",
+	"icon": "inv_belt_02",
+	"popularity": 6,
+	"armor": 41,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Agility": 3 },
+	"source": "QUEST",
+	"sourceId": 26511,
+	"sourceName": "Lake Everstill Clean Up",
+	"sourceType": "QUEST"
 }

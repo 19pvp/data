@@ -1,19 +1,17 @@
 {
-  "id": 6199,
-  "name": "Black Widow Band",
-  "icon": "inv_misc_monsterspidercarapace_01",
-  "popularity": 9,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "stamina": -5,
-    "intellect": 7
-  },
-  "sourceType": "DROP",
-  "sourceId": 1112,
-  "sourceName": "Leech Widow",
-  "sourceZone": 11
+	"id": 6199,
+	"name": "Black Widow Band",
+	"icon": "inv_misc_monsterspidercarapace_01",
+	"popularity": 9,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Stamina": -5, "Intellect": 7 },
+	"source": "DROP",
+	"sourceId": 1112,
+	"sourceName": "Leech Widow",
+	"sourceZone": 11,
+	"sourceType": "NPC"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 54874,
-  "name": "Grassy Bindings",
-  "icon": "inv_boots_04",
-  "popularity": 33,
-  "armor": 38,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 935,
-  "sourceName": "The Waters of Teldrassil"
+	"id": 54874,
+	"name": "Grassy Bindings",
+	"icon": "inv_boots_04",
+	"popularity": 33,
+	"armor": 38,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 935,
+	"sourceName": "The Waters of Teldrassil",
+	"sourceType": "QUEST"
 }

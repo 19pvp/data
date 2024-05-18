@@ -1,18 +1,17 @@
 {
-  "id": 60705,
-  "name": "Legguards of Invasion",
-  "icon": "inv_pants_03",
-  "popularity": 10,
-  "armor": 105,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "strength": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26545,
-  "sourceName": "Yowler Must Die!"
+	"id": 60705,
+	"name": "Legguards of Invasion",
+	"icon": "inv_pants_03",
+	"popularity": 10,
+	"armor": 105,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Strength": 3 },
+	"source": "QUEST",
+	"sourceId": 26545,
+	"sourceName": "Yowler Must Die!",
+	"sourceType": "QUEST"
 }

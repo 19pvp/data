@@ -1,19 +1,17 @@
 {
-  "id": 60721,
-  "name": "Shalewind Belt",
-  "icon": "inv_belt_45",
-  "popularity": 6,
-  "armor": 77,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {
-    "strength": 2,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26694,
-  "sourceName": "The Grand Magus Doane"
+	"id": 60721,
+	"name": "Shalewind Belt",
+	"icon": "inv_belt_45",
+	"popularity": 6,
+	"armor": 77,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": { "Strength": 2, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 26694,
+	"sourceName": "The Grand Magus Doane",
+	"sourceType": "QUEST"
 }

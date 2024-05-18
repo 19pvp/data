@@ -1,19 +1,17 @@
 {
-  "id": 60723,
-  "name": "Bravo Company Monnions",
-  "icon": "inv_shoulder_12",
-  "popularity": 18,
-  "armor": 66,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "SHOULDERS",
-  "stats": {
-    "stamina": 3,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26708,
-  "sourceName": "AHHHHHHHHHHHH! AHHHHHHHHH!!!"
+	"id": 60723,
+	"name": "Bravo Company Monnions",
+	"icon": "inv_shoulder_12",
+	"popularity": 18,
+	"armor": 66,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "SHOULDERS",
+	"stats": { "Stamina": 3, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 26708,
+	"sourceName": "AHHHHHHHHHHHH! AHHHHHHHHH!!!",
+	"sourceType": "QUEST"
 }

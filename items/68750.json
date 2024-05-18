@@ -1,15 +1,13 @@
 {
-  "id": 68750,
-  "name": "Imbued Pioneer Belt",
-  "icon": "inv_belt_25",
-  "popularity": 5,
-  "armor": 29,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "agility": 1
-  },
-  "sourceType": "DROP"
+	"id": 68750,
+	"name": "Imbued Pioneer Belt",
+	"icon": "inv_belt_25",
+	"popularity": 5,
+	"armor": 29,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Agility": 1 },
+	"source": "DROP"
 }

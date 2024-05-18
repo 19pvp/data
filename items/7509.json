@@ -1,15 +1,13 @@
 {
-  "id": 7509,
-  "name": "Manaweave Robe",
-  "icon": "inv_chest_cloth_36",
-  "popularity": 7,
-  "armor": 57,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "intellect": 6
-  },
-  "sourceType": "QUEST"
+	"id": 7509,
+	"name": "Manaweave Robe",
+	"icon": "inv_chest_cloth_36",
+	"popularity": 7,
+	"armor": 57,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Intellect": 6 },
+	"source": "QUEST"
 }

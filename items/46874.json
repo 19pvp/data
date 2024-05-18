@@ -1,20 +1,21 @@
 {
-  "id": 46874,
-  "name": "Argent Crusader's Tabard",
-  "icon": "inv_shirt_guildtabard_01",
-  "popularity": 169,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "TABARDS",
-  "type": "TABARD",
-  "stats": {},
-  "sourceType": "VENDOR",
-  "sourceId": 34885,
-  "sourceName": "Dame Evniki Kapsalis",
-  "sourceZone": 210,
-  "use": {
-    "spell": 66238,
-    "text": "Teleports the caster to the Argent Tournament Grounds. (30 Min Cooldown)"
-  }
+	"id": 46874,
+	"name": "Argent Crusader's Tabard",
+	"icon": "inv_shirt_guildtabard_01",
+	"popularity": 169,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "TABARDS",
+	"type": "TABARD",
+	"stats": {},
+	"source": "VENDOR",
+	"sourceId": 34885,
+	"sourceName": "Dame Evniki Kapsalis",
+	"sourceZone": 210,
+	"sourceType": "NPC",
+	"use": {
+		"spell": 66238,
+		"text": "Teleports the caster to the Argent Tournament Grounds. (30 Min Cooldown)"
+	}
 }

@@ -1,15 +1,13 @@
 {
-  "id": 2958,
-  "name": "Journeyman's Pants",
-  "icon": "inv_pants_10",
-  "popularity": 8,
-  "armor": 30,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "spirit": 1
-  },
-  "sourceType": "DROP"
+	"id": 2958,
+	"name": "Journeyman's Pants",
+	"icon": "inv_pants_10",
+	"popularity": 8,
+	"armor": 30,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Spirit": 1 },
+	"source": "DROP"
 }

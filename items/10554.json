@@ -1,19 +1,17 @@
 {
-  "id": 10554,
-  "name": "Foreman Pants",
-  "icon": "inv_pants_07",
-  "popularity": 27,
-  "armor": 32,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 1,
-    "intellect": 1
-  },
-  "sourceType": "DROP",
-  "sourceId": 8503,
-  "sourceName": "Gibblewilt",
-  "sourceZone": 1
+	"id": 10554,
+	"name": "Foreman Pants",
+	"icon": "inv_pants_07",
+	"popularity": 27,
+	"armor": 32,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Stamina": 1, "Intellect": 1 },
+	"source": "DROP",
+	"sourceId": 8503,
+	"sourceName": "Gibblewilt",
+	"sourceZone": 1,
+	"sourceType": "NPC"
 }

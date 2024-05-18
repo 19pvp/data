@@ -1,18 +1,17 @@
 {
-  "id": 62839,
-  "name": "Nubly Bracers",
-  "icon": "inv_bracer_27b",
-  "popularity": 9,
-  "armor": 40,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WRISTS",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26989,
-  "sourceName": "The Gilneas Liberation Front"
+	"id": 62839,
+	"name": "Nubly Bracers",
+	"icon": "inv_bracer_27b",
+	"popularity": 9,
+	"armor": 40,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WRISTS",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 26989,
+	"sourceName": "The Gilneas Liberation Front",
+	"sourceType": "QUEST"
 }

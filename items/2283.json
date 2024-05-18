@@ -1,19 +1,17 @@
 {
-  "id": 2283,
-  "name": "Rat Cloth Belt",
-  "icon": "inv_belt_05",
-  "popularity": 7,
-  "armor": 26,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 2,
-    "spirit": 2
-  },
-  "sourceType": "DROP",
-  "sourceId": 1177,
-  "sourceName": "Tunnel Rat Surveyor",
-  "sourceZone": 38
+	"id": 2283,
+	"name": "Rat Cloth Belt",
+	"icon": "inv_belt_05",
+	"popularity": 7,
+	"armor": 26,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Stamina": 2, "Spirit": 2 },
+	"source": "DROP",
+	"sourceId": 1177,
+	"sourceName": "Tunnel Rat Surveyor",
+	"sourceZone": 38,
+	"sourceType": "NPC"
 }

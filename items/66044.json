@@ -1,20 +1,17 @@
 {
-  "id": 66044,
-  "name": "Deathstalker Pauldrons",
-  "icon": "inv_shoulder_15",
-  "popularity": 4,
-  "armor": 123,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "MAIL",
-  "type": "SHOULDERS",
-  "stats": {
-    "hit": 4,
-    "strength": 4,
-    "stamina": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27998,
-  "sourceName": "Sweet, Merciless Revenge"
+	"id": 66044,
+	"name": "Deathstalker Pauldrons",
+	"icon": "inv_shoulder_15",
+	"popularity": 4,
+	"armor": 123,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "MAIL",
+	"type": "SHOULDERS",
+	"stats": { "Hit Rating": 4, "Strength": 4, "Stamina": 5 },
+	"source": "QUEST",
+	"sourceId": 27998,
+	"sourceName": "Sweet, Merciless Revenge",
+	"sourceType": "QUEST"
 }

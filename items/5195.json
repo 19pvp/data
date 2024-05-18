@@ -1,17 +1,14 @@
 {
-  "id": 5195,
-  "name": "Gold-Flecked Gloves",
-  "icon": "inv_gauntlets_23",
-  "popularity": 9,
-  "armor": 39,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 4,
-    "intellect": 6
-  },
-  "sourceType": "DROP",
-  "sourceZone": 1581
+	"id": 5195,
+	"name": "Gold-Flecked Gloves",
+	"icon": "inv_gauntlets_23",
+	"popularity": 9,
+	"armor": 39,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": { "Stamina": 4, "Intellect": 6 },
+	"source": "DROP",
+	"sourceZone": 1581
 }

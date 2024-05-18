@@ -1,19 +1,17 @@
 {
-  "id": 56676,
-  "name": "Whitemoon Gloves",
-  "icon": "inv_gauntlets_23",
-  "popularity": 9,
-  "armor": 40,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 4,
-    "intellect": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13924,
-  "sourceName": "All's Well"
+	"id": 56676,
+	"name": "Whitemoon Gloves",
+	"icon": "inv_gauntlets_23",
+	"popularity": 9,
+	"armor": 40,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": { "Stamina": 4, "Intellect": 4 },
+	"source": "QUEST",
+	"sourceId": 13924,
+	"sourceName": "All's Well",
+	"sourceType": "QUEST"
 }

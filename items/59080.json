@@ -1,19 +1,17 @@
 {
-  "id": 59080,
-  "name": "Merchant Marine Waders",
-  "icon": "inv_boots_cloth_04",
-  "popularity": 5,
-  "armor": 65,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "stamina": 3,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25801,
-  "sourceName": "Claws from the Deep"
+	"id": 59080,
+	"name": "Merchant Marine Waders",
+	"icon": "inv_boots_cloth_04",
+	"popularity": 5,
+	"armor": 65,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Stamina": 3, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 25801,
+	"sourceName": "Claws from the Deep",
+	"sourceType": "QUEST"
 }

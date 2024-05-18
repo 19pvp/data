@@ -1,13 +1,47 @@
 {
-  "id": 14113,
-  "name": "Aboriginal Sash",
-  "icon": "inv_belt_05",
-  "popularity": 5,
-  "armor": 26,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 14113,
+	"name": "Aboriginal Sash",
+	"icon": "inv_belt_05",
+	"popularity": 5,
+	"armor": 26,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": {},
+	"rand": {
+		"of the Owl": {
+			"id": 757,
+			"chance": 29.2,
+			"stats": { "Intellect": 2, "Spirit": 2 }
+		},
+		"of the Whale": {
+			"id": 1012,
+			"chance": 25.4,
+			"stats": { "Spirit": 2, "Stamina": 2 }
+		},
+		"of the Eagle": {
+			"id": 842,
+			"chance": 17.3,
+			"stats": { "Intellect": 2, "Stamina": 2 }
+		},
+		"of Intellect": { "id": 26, "chance": 12.4, "stats": { "Intellect": 3 } },
+		"of Healing": { "id": 2029, "chance": 4.7, "stats": { "Spell Power": 4 } },
+		"of Fiery Wrath": {
+			"id": 1877,
+			"chance": 4.4,
+			"stats": { "Fire Spell Damage": 4 }
+		},
+		"of the Wolf": {
+			"id": 502,
+			"chance": 3.2,
+			"stats": { "Agility": 2, "Spirit": 2 }
+		},
+		"of the Monkey": {
+			"id": 587,
+			"chance": 3.1,
+			"stats": { "Agility": 2, "Stamina": 2 }
+		}
+	},
+	"source": "DROP"
 }

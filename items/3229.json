@@ -1,19 +1,17 @@
 {
-  "id": 3229,
-  "name": "Tarantula Silk Sash",
-  "icon": "inv_belt_07",
-  "popularity": 17,
-  "armor": 36,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 8,
-    "intellect": 2
-  },
-  "sourceType": "DROP",
-  "sourceId": 616,
-  "sourceName": "Chatter",
-  "sourceZone": 44
+	"id": 3229,
+	"name": "Tarantula Silk Sash",
+	"icon": "inv_belt_07",
+	"popularity": 17,
+	"armor": 36,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Stamina": 8, "Intellect": 2 },
+	"source": "DROP",
+	"sourceId": 616,
+	"sourceName": "Chatter",
+	"sourceZone": 44,
+	"sourceType": "NPC"
 }

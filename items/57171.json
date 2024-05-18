@@ -1,18 +1,17 @@
 {
-  "id": 57171,
-  "name": "Executor's Breastplate",
-  "icon": "inv_chest_chain_08",
-  "popularity": 4,
-  "armor": 85,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25046,
-  "sourceName": "A Daughter's Embrace"
+	"id": 57171,
+	"name": "Executor's Breastplate",
+	"icon": "inv_chest_chain_08",
+	"popularity": 4,
+	"armor": 85,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 25046,
+	"sourceName": "A Daughter's Embrace",
+	"sourceType": "QUEST"
 }

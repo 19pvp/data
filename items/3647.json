@@ -1,15 +1,13 @@
 {
-  "id": 3647,
-  "name": "Bright Bracers",
-  "icon": "inv_bracer_02",
-  "popularity": 8,
-  "armor": 28,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WRISTS",
-  "stats": {
-    "intellect": 4
-  },
-  "sourceType": "DROP"
+	"id": 3647,
+	"name": "Bright Bracers",
+	"icon": "inv_bracer_02",
+	"popularity": 8,
+	"armor": 28,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WRISTS",
+	"stats": { "Intellect": 4 },
+	"source": "DROP"
 }

@@ -1,20 +1,17 @@
 {
-  "id": 59072,
-  "name": "Addled Blotter Bracers",
-  "icon": "inv_bracer_30a",
-  "popularity": 10,
-  "armor": 63,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WRISTS",
-  "stats": {
-    "hit": 2,
-    "strength": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25727,
-  "sourceName": "Drungeld Glowerglare"
+	"id": 59072,
+	"name": "Addled Blotter Bracers",
+	"icon": "inv_bracer_30a",
+	"popularity": 10,
+	"armor": 63,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WRISTS",
+	"stats": { "Hit Rating": 2, "Strength": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 25727,
+	"sourceName": "Drungeld Glowerglare",
+	"sourceType": "QUEST"
 }

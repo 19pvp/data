@@ -1,18 +1,17 @@
 {
-  "id": 62845,
-  "name": "Chicken Stuffers",
-  "icon": "inv_gauntlets_12",
-  "popularity": 10,
-  "armor": 60,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27088,
-  "sourceName": "It's Only Poisonous if You Ingest It"
+	"id": 62845,
+	"name": "Chicken Stuffers",
+	"icon": "inv_gauntlets_12",
+	"popularity": 10,
+	"armor": 60,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 27088,
+	"sourceName": "It's Only Poisonous if You Ingest It",
+	"sourceType": "QUEST"
 }

@@ -1,24 +1,18 @@
 {
-  "id": 33820,
-  "name": "Weather-Beaten Fishing Hat",
-  "icon": "inv_helmet_31",
-  "popularity": 114,
-  "armor": 31,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOTH",
-  "type": "HEAD",
-  "stats": {
-    "stamina": 3,
-    "spirit": 3
-  },
-  "sourceType": "DROP",
-  "equip": {
-    "spell": 7823,
-    "text": "Fishing skill increased by 5."
-  },
-  "use": {
-    "spell": 43699,
-    "text": "Attach a lure to your equipped fishing pole, increasing Fishing by 75 for 10 min. (10 Min Cooldown)"
-  }
+	"id": 33820,
+	"name": "Weather-Beaten Fishing Hat",
+	"icon": "inv_helmet_31",
+	"popularity": 114,
+	"armor": 31,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "HEAD",
+	"stats": { "Stamina": 3, "Spirit": 3 },
+	"source": "DROP",
+	"equip": { "spell": 7823, "text": "Fishing skill increased by 5." },
+	"use": {
+		"spell": 43699,
+		"text": "Attach a lure to your equipped fishing pole, increasing Fishing by 75 for 10 min. (10 Min Cooldown)"
+	}
 }

@@ -1,19 +1,17 @@
 {
-  "id": 1455,
-  "name": "Blackrock Champion's Axe",
-  "icon": "inv_weapon_halbard_01",
-  "dmgMin": 41,
-  "dmgMax": 62,
-  "speed": 3.2,
-  "dps": 16.09,
-  "popularity": 8,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "TWO_HANDED_AXE",
-  "type": "TWO_HAND",
-  "stats": {
-    "strength": 8
-  },
-  "sourceType": "DROP",
-  "sourceZone": 44
+	"id": 1455,
+	"name": "Blackrock Champion's Axe",
+	"icon": "inv_weapon_halbard_01",
+	"dmgMin": 41,
+	"dmgMax": 62,
+	"speed": 3.2,
+	"dps": 16.09,
+	"popularity": 8,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "TWO_HANDED_AXE",
+	"type": "TWO_HAND",
+	"stats": { "Strength": 8 },
+	"source": "DROP",
+	"sourceZone": 44
 }

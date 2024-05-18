@@ -1,18 +1,17 @@
 {
-  "id": 59538,
-  "name": "Caravan Escort's Gloves",
-  "icon": "inv_gauntlets_12",
-  "popularity": 8,
-  "armor": 60,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "strength": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13949,
-  "sourceName": "Crossroads Caravan Pickup"
+	"id": 59538,
+	"name": "Caravan Escort's Gloves",
+	"icon": "inv_gauntlets_12",
+	"popularity": 8,
+	"armor": 60,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Strength": 2 },
+	"source": "QUEST",
+	"sourceId": 13949,
+	"sourceName": "Crossroads Caravan Pickup",
+	"sourceType": "QUEST"
 }

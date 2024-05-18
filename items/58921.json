@@ -1,19 +1,17 @@
 {
-  "id": 58921,
-  "name": "Evidence Collection Gloves",
-  "icon": "inv_gauntlets_27",
-  "popularity": 6,
-  "armor": 27,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 1,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26296,
-  "sourceName": "Evidence Collection"
+	"id": 58921,
+	"name": "Evidence Collection Gloves",
+	"icon": "inv_gauntlets_27",
+	"popularity": 6,
+	"armor": 27,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": { "Stamina": 1, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 26296,
+	"sourceName": "Evidence Collection",
+	"sourceType": "QUEST"
 }

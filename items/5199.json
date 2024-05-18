@@ -1,18 +1,14 @@
 {
-  "id": 5199,
-  "name": "Smelting Pants",
-  "icon": "inv_pants_02",
-  "popularity": 47,
-  "armor": 84,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "crit": 4,
-    "agility": 8,
-    "stamina": 4
-  },
-  "sourceType": "DROP",
-  "sourceZone": 1581
+	"id": 5199,
+	"name": "Smelting Pants",
+	"icon": "inv_pants_02",
+	"popularity": 47,
+	"armor": 84,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Critical Strike Rating": 4, "Agility": 8, "Stamina": 4 },
+	"source": "DROP",
+	"sourceZone": 1581
 }

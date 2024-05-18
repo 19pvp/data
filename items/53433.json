@@ -1,19 +1,17 @@
 {
-  "id": 53433,
-  "name": "Quick Buck Leggings",
-  "icon": "inv_pants_07",
-  "popularity": 16,
-  "armor": 67,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "agility": 3,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14486,
-  "sourceName": "Handling the Goods"
+	"id": 53433,
+	"name": "Quick Buck Leggings",
+	"icon": "inv_pants_07",
+	"popularity": 16,
+	"armor": 67,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Agility": 3, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 14486,
+	"sourceName": "Handling the Goods",
+	"sourceType": "QUEST"
 }

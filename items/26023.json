@@ -1,19 +1,17 @@
 {
-  "id": 26023,
-  "name": "Ravager Hide Gloves",
-  "icon": "inv_gauntlets_05",
-  "popularity": 5,
-  "armor": 55,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "agility": 3,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9761,
-  "sourceName": "Clearing the Way"
+	"id": 26023,
+	"name": "Ravager Hide Gloves",
+	"icon": "inv_gauntlets_05",
+	"popularity": 5,
+	"armor": 55,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Agility": 3, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 9761,
+	"sourceName": "Clearing the Way",
+	"sourceType": "QUEST"
 }

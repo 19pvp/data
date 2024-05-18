@@ -1,18 +1,16 @@
 {
-  "id": 4817,
-  "name": "Blessed Claymore",
-  "icon": "inv_sword_13",
-  "dmgMin": 29,
-  "dmgMax": 44,
-  "speed": 2.5,
-  "dps": 14.6,
-  "popularity": 6,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "TWO_HANDED_SWORD",
-  "type": "TWO_HAND",
-  "stats": {
-    "stamina": 7
-  },
-  "sourceType": "VENDOR"
+	"id": 4817,
+	"name": "Blessed Claymore",
+	"icon": "inv_sword_13",
+	"dmgMin": 29,
+	"dmgMax": 44,
+	"speed": 2.5,
+	"dps": 14.6,
+	"popularity": 6,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "TWO_HANDED_SWORD",
+	"type": "TWO_HAND",
+	"stats": { "Stamina": 7 },
+	"source": "VENDOR"
 }

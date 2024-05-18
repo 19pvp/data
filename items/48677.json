@@ -1,17 +1,13 @@
 {
-  "id": 48677,
-  "name": "Champion's Deathdealer Breastplate",
-  "icon": "inv_chest_chain_07",
-  "popularity": 57,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "crit": 6,
-    "agility": 6,
-    "stamina": 10
-  },
-  "sourceType": "VENDOR"
+	"id": 48677,
+	"name": "Champion's Deathdealer Breastplate",
+	"icon": "inv_chest_chain_07",
+	"popularity": 57,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Critical Strike Rating": 6, "Agility": 6, "Stamina": 10 },
+	"source": "VENDOR"
 }

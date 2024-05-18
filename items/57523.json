@@ -1,18 +1,17 @@
 {
-  "id": 57523,
-  "name": "Wolf Fur Boots",
-  "icon": "inv_boots_cloth_03",
-  "popularity": 6,
-  "armor": 24,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "FEET",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 52,
-  "sourceName": "Protect the Frontier"
+	"id": 57523,
+	"name": "Wolf Fur Boots",
+	"icon": "inv_boots_cloth_03",
+	"popularity": 6,
+	"armor": 24,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 52,
+	"sourceName": "Protect the Frontier",
+	"sourceType": "QUEST"
 }

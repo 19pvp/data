@@ -1,16 +1,13 @@
 {
-  "id": 3306,
-  "name": "Brackwater Vest",
-  "icon": "inv_chest_cloth_06",
-  "popularity": 11,
-  "armor": 131,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "strength": 4,
-    "stamina": 3
-  },
-  "sourceType": "DROP"
+	"id": 3306,
+	"name": "Brackwater Vest",
+	"icon": "inv_chest_cloth_06",
+	"popularity": 11,
+	"armor": 131,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Strength": 4, "Stamina": 3 },
+	"source": "DROP"
 }

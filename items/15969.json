@@ -1,14 +1,64 @@
 {
-  "id": 15969,
-  "name": "Beaded Orb",
-  "icon": "inv_misc_orb_05",
-  "speed": 2,
-  "popularity": 15,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "OFF_HAND_FRILLS",
-  "type": "HELD_IN_OFF_HAND",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 15969,
+	"name": "Beaded Orb",
+	"icon": "inv_misc_orb_05",
+	"speed": 2,
+	"popularity": 15,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "OFF_HAND_FRILLS",
+	"type": "HELD_IN_OFF_HAND",
+	"stats": {},
+	"rand": {
+		"of the Owl": {
+			"id": 754,
+			"chance": 20,
+			"stats": { "Intellect": 1, "Spirit": 1 }
+		},
+		"of Intellect": { "id": 5, "chance": 14.7, "stats": { "Intellect": 1 } },
+		"of the Whale": {
+			"id": 1009,
+			"chance": 13.9,
+			"stats": { "Spirit": 1, "Stamina": 1 }
+		},
+		"of the Eagle": {
+			"id": 839,
+			"chance": 13.3,
+			"stats": { "Intellect": 1, "Stamina": 1 }
+		},
+		"of the Falcon": {
+			"id": 227,
+			"chance": 8.6,
+			"stats": { "Agility": 1, "Intellect": 1 }
+		},
+		"of Spirit": { "id": 16, "chance": 8.2, "stats": { "Spirit": 1 } },
+		"of the Wolf": {
+			"id": 228,
+			"chance": 7.6,
+			"stats": { "Agility": 1, "Spirit": 1 }
+		},
+		"of Healing": { "id": 2027, "chance": 3.6, "stats": { "Spell Power": 1 } },
+		"of Fiery Wrath": {
+			"id": 1875,
+			"chance": 3.4,
+			"stats": { "Fire Spell Damage": 1 }
+		},
+		"of Arcane Wrath": {
+			"id": 1799,
+			"chance": 2.3,
+			"stats": { "Arcane Spell Damage": 1 }
+		},
+		"of Frozen Wrath": {
+			"id": 1951,
+			"chance": 2.2,
+			"stats": { "Frost Spell Damage": 1 }
+		},
+		"of Shadow Wrath": {
+			"id": 1837,
+			"chance": 2.2,
+			"stats": { "Shadow Spell Damage": 1 }
+		}
+	},
+	"source": "DROP"
 }

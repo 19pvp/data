@@ -1,19 +1,17 @@
 {
-  "id": 1183,
-  "name": "Elastic Wristguards",
-  "icon": "inv_bracer_73",
-  "popularity": 4,
-  "armor": 15,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WRISTS",
-  "stats": {
-    "stamina": 1,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 147,
-  "sourceName": "Manhunt"
+	"id": 1183,
+	"name": "Elastic Wristguards",
+	"icon": "inv_bracer_73",
+	"popularity": 4,
+	"armor": 15,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WRISTS",
+	"stats": { "Stamina": 1, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 147,
+	"sourceName": "Manhunt",
+	"sourceType": "QUEST"
 }

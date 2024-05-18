@@ -1,19 +1,17 @@
 {
-  "id": 58917,
-  "name": "Saldean's Working Gloves",
-  "icon": "inv_gauntlets_04",
-  "popularity": 4,
-  "armor": 64,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "strength": 1,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26257,
-  "sourceName": "It's Alive!"
+	"id": 58917,
+	"name": "Saldean's Working Gloves",
+	"icon": "inv_gauntlets_04",
+	"popularity": 4,
+	"armor": 64,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Strength": 1, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 26257,
+	"sourceName": "It's Alive!",
+	"sourceType": "QUEST"
 }

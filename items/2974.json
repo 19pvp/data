@@ -1,16 +1,13 @@
 {
-  "id": 2974,
-  "name": "Hunting Pants",
-  "icon": "inv_pants_wolf",
-  "popularity": 8,
-  "armor": 64,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "hit": 2,
-    "agility": 3
-  },
-  "sourceType": "DROP"
+	"id": 2974,
+	"name": "Hunting Pants",
+	"icon": "inv_pants_wolf",
+	"popularity": 8,
+	"armor": 64,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Hit Rating": 2, "Agility": 3 },
+	"source": "DROP"
 }

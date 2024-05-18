@@ -1,21 +1,19 @@
 {
-  "id": 59577,
-  "name": "Sputtervalve Gun",
-  "icon": "inv_weapon_rifle_08",
-  "dmgMin": 23,
-  "dmgMax": 43,
-  "speed": 2.8,
-  "dps": 11.79,
-  "popularity": 6,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "GUN",
-  "type": "RANGED",
-  "stats": {
-    "agility": 2,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 863,
-  "sourceName": "The Escape"
+	"id": 59577,
+	"name": "Sputtervalve Gun",
+	"icon": "inv_weapon_rifle_08",
+	"dmgMin": 23,
+	"dmgMax": 43,
+	"speed": 2.8,
+	"dps": 11.79,
+	"popularity": 6,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "GUN",
+	"type": "RANGED",
+	"stats": { "Agility": 2, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 863,
+	"sourceName": "The Escape",
+	"sourceType": "QUEST"
 }

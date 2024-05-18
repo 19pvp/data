@@ -1,19 +1,17 @@
 {
-  "id": 56641,
-  "name": "Burden of Sacrifice",
-  "icon": "inv_shoulder_14",
-  "popularity": 6,
-  "armor": 112,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "SHOULDERS",
-  "stats": {
-    "stamina": 3,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13653,
-  "sourceName": "Crisis at Splintertree"
+	"id": 56641,
+	"name": "Burden of Sacrifice",
+	"icon": "inv_shoulder_14",
+	"popularity": 6,
+	"armor": 112,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "SHOULDERS",
+	"stats": { "Stamina": 3, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 13653,
+	"sourceName": "Crisis at Splintertree",
+	"sourceType": "QUEST"
 }

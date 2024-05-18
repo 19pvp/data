@@ -1,22 +1,18 @@
 {
-  "id": 56696,
-  "name": "Legacy of Teronis",
-  "icon": "inv_sword_06",
-  "dmgMin": 23,
-  "dmgMax": 44,
-  "speed": 2.6,
-  "dps": 12.88,
-  "popularity": 14,
-  "side": "ALLIANCE",
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "ONE_HANDED_SWORD",
-  "type": "ONE_HAND",
-  "stats": {
-    "hit": 2,
-    "strength": 3,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 331
+	"id": 56696,
+	"name": "Legacy of Teronis",
+	"icon": "inv_sword_06",
+	"dmgMin": 23,
+	"dmgMax": 44,
+	"speed": 2.6,
+	"dps": 12.88,
+	"popularity": 14,
+	"side": "ALLIANCE",
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "ONE_HANDED_SWORD",
+	"type": "ONE_HAND",
+	"stats": { "Hit Rating": 2, "Strength": 3, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceZone": 331
 }

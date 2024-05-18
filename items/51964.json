@@ -1,15 +1,43 @@
 {
-  "id": 51964,
-  "name": "Vigorous Belt",
-  "icon": "inv_belt_03",
-  "popularity": 57,
-  "armor": 65,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {},
-  "sourceType": "DROP",
-  "sourceId": 51999,
-  "sourceName": "Satchel of Helpful Goods"
+	"id": 51964,
+	"name": "Vigorous Belt",
+	"icon": "inv_belt_03",
+	"popularity": 57,
+	"armor": 65,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": {},
+	"rand": {
+		"of the Bandit": {
+			"id": -40,
+			"chance": 34.8,
+			"stats": { "Agility": 5, "Stamina": 5, "Critical Strike Rating": 5 }
+		},
+		"of the Wild": {
+			"id": -60,
+			"chance": 25.2,
+			"stats": { "Agility": 5, "Stamina": 3, "Haste": 5 }
+		},
+		"of the Monkey": {
+			"id": 599,
+			"chance": 14.2,
+			"stats": { "Agility": 6, "Stamina": 6 }
+		},
+		"of the Moon": {
+			"id": -59,
+			"chance": 13,
+			"stats": { "Intellect": 5, "Stamina": 3, "Spirit": 5 }
+		},
+		"of the Vision": {
+			"id": -53,
+			"chance": 12.8,
+			"stats": { "Intellect": 7, "Haste": 4, "Stamina": 2 }
+		}
+	},
+	"source": "DROP",
+	"sourceId": 51999,
+	"sourceName": "Satchel of Helpful Goods",
+	"sourceType": "ITEM"
 }

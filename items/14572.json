@@ -1,16 +1,13 @@
 {
-  "id": 14572,
-  "name": "Bristlebark Gloves",
-  "icon": "inv_gauntlets_21",
-  "popularity": 12,
-  "armor": 64,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "agility": 4,
-    "stamina": 6
-  },
-  "sourceType": "DROP"
+	"id": 14572,
+	"name": "Bristlebark Gloves",
+	"icon": "inv_gauntlets_21",
+	"popularity": 12,
+	"armor": 64,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Agility": 4, "Stamina": 6 },
+	"source": "DROP"
 }

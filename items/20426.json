@@ -1,21 +1,18 @@
 {
-  "id": 20426,
-  "name": "Advisor's Ring",
-  "icon": "inv_jewelry_ring_20",
-  "popularity": 14,
-  "armor": 0,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "stamina": 2,
-    "intellect": 4,
-    "spirit": 6
-  },
-  "sourceType": "VENDOR",
-  "sourceId": 14754,
-  "sourceName": "Kelm Hargunth",
-  "sourceZone": 17
+	"id": 20426,
+	"name": "Advisor's Ring",
+	"icon": "inv_jewelry_ring_20",
+	"popularity": 14,
+	"armor": 0,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Stamina": 2, "Intellect": 4, "Spirit": 6 },
+	"source": "VENDOR",
+	"sourceId": 14754,
+	"sourceName": "Kelm Hargunth",
+	"sourceZone": 17,
+	"sourceType": "NPC"
 }

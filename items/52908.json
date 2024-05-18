@@ -1,19 +1,17 @@
 {
-  "id": 52908,
-  "name": "Hatchling Handlers",
-  "icon": "inv_gauntlets_102v4",
-  "popularity": 9,
-  "armor": 28,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24868,
-  "sourceName": "Surrender or Else!"
+	"id": 52908,
+	"name": "Hatchling Handlers",
+	"icon": "inv_gauntlets_102v4",
+	"popularity": 9,
+	"armor": 28,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Agility": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 24868,
+	"sourceName": "Surrender or Else!",
+	"sourceType": "QUEST"
 }

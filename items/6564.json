@@ -1,13 +1,54 @@
 {
-  "id": 6564,
-  "name": "Shimmering Cloak",
-  "icon": "inv_misc_cape_15",
-  "popularity": 7,
-  "armor": 30,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 6564,
+	"name": "Shimmering Cloak",
+	"icon": "inv_misc_cape_15",
+	"popularity": 7,
+	"armor": 30,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": {},
+	"rand": {
+		"of the Owl": {
+			"id": 757,
+			"chance": 22.3,
+			"stats": { "Intellect": 2, "Spirit": 2 }
+		},
+		"of the Whale": {
+			"id": 1012,
+			"chance": 18.1,
+			"stats": { "Spirit": 2, "Stamina": 2 }
+		},
+		"of Intellect": { "id": 94, "chance": 15.1, "stats": { "Intellect": 4 } },
+		"of the Eagle": {
+			"id": 842,
+			"chance": 14.5,
+			"stats": { "Intellect": 2, "Stamina": 2 }
+		},
+		"of Spirit": { "id": 95, "chance": 7.1, "stats": { "Spirit": 4 } },
+		"of Stamina": { "id": 96, "chance": 5.8, "stats": { "Stamina": 4 } },
+		"of Healing": { "id": 2030, "chance": 4.4, "stats": { "Spell Power": 5 } },
+		"of Fiery Wrath": {
+			"id": 1878,
+			"chance": 4.3,
+			"stats": { "Fire Spell Damage": 6 }
+		},
+		"of Frozen Wrath": {
+			"id": 1954,
+			"chance": 3,
+			"stats": { "Frost Spell Damage": 6 }
+		},
+		"of Arcane Wrath": {
+			"id": 1802,
+			"chance": 2.8,
+			"stats": { "Arcane Spell Damage": 6 }
+		},
+		"of Shadow Wrath": {
+			"id": 1840,
+			"chance": 2.7,
+			"stats": { "Shadow Spell Damage": 6 }
+		}
+	},
+	"source": "DROP"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 26017,
-  "name": "Venomous Silk Cover",
-  "icon": "inv_misc_cape_04",
-  "popularity": 7,
-  "armor": 28,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9670,
-  "sourceName": "They're Alive! Maybe..."
+	"id": 26017,
+	"name": "Venomous Silk Cover",
+	"icon": "inv_misc_cape_04",
+	"popularity": 7,
+	"armor": 28,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 9670,
+	"sourceName": "They're Alive! Maybe...",
+	"sourceType": "QUEST"
 }

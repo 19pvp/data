@@ -1,18 +1,15 @@
 {
-  "id": 5820,
-  "name": "Faerie Mantle",
-  "icon": "inv_shoulder_05",
-  "popularity": 24,
-  "armor": 64,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "SHOULDERS",
-  "stats": {
-    "intellect": 6,
-    "spirit": 6
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 331
+	"id": 5820,
+	"name": "Faerie Mantle",
+	"icon": "inv_shoulder_05",
+	"popularity": 24,
+	"armor": 64,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "SHOULDERS",
+	"stats": { "Intellect": 6, "Spirit": 6 },
+	"source": "QUEST",
+	"sourceZone": 331
 }

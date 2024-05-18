@@ -1,20 +1,17 @@
 {
-  "id": 52618,
-  "name": "Ancient Cuffs",
-  "icon": "inv_bracer_02",
-  "popularity": 9,
-  "armor": 35,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "crit": 1,
-    "stamina": 2,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13891,
-  "sourceName": "The Devourer of Darkshore"
+	"id": 52618,
+	"name": "Ancient Cuffs",
+	"icon": "inv_bracer_02",
+	"popularity": 9,
+	"armor": 35,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Critical Strike Rating": 1, "Stamina": 2, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 13891,
+	"sourceName": "The Devourer of Darkshore",
+	"sourceType": "QUEST"
 }

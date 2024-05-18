@@ -1,21 +1,17 @@
 {
-  "id": 44092,
-  "name": "Reforged Truesilver Champion",
-  "icon": "inv_sword_19",
-  "dmgMin": 56,
-  "dmgMax": 84,
-  "speed": 3.6,
-  "dps": 19.44,
-  "popularity": 85,
-  "class": "WEAPON",
-  "quality": "HEIRLOOM",
-  "subclass": "TWO_HANDED_SWORD",
-  "type": "TWO_HAND",
-  "stats": {
-    "resilience": 5,
-    "strength": 9,
-    "stamina": 6
-  },
-  "sourceType": "VENDOR",
-  "sourceZone": 4197
+	"id": 44092,
+	"name": "Reforged Truesilver Champion",
+	"icon": "inv_sword_19",
+	"dmgMin": 56,
+	"dmgMax": 84,
+	"speed": 3.6,
+	"dps": 19.44,
+	"popularity": 85,
+	"class": "WEAPON",
+	"quality": "HEIRLOOM",
+	"subclass": "TWO_HANDED_SWORD",
+	"type": "TWO_HAND",
+	"stats": { "Resilience": 5, "Strength": 9, "Stamina": 6 },
+	"source": "VENDOR",
+	"sourceZone": 4197
 }

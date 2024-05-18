@@ -1,19 +1,17 @@
 {
-  "id": 6628,
-  "name": "Raven's Claws",
-  "icon": "spell_nature_ravenform",
-  "popularity": 10,
-  "armor": 39,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 4,
-    "intellect": 3
-  },
-  "sourceType": "DROP",
-  "sourceId": 2283,
-  "sourceName": "Ravenclaw Regent",
-  "sourceZone": 130
+	"id": 6628,
+	"name": "Raven's Claws",
+	"icon": "spell_nature_ravenform",
+	"popularity": 10,
+	"armor": 39,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": { "Stamina": 4, "Intellect": 3 },
+	"source": "DROP",
+	"sourceId": 2283,
+	"sourceName": "Ravenclaw Regent",
+	"sourceZone": 130,
+	"sourceType": "NPC"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 10403,
-  "name": "Blackened Defias Belt",
-  "icon": "inv_belt_26",
-  "popularity": 26,
-  "armor": 54,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "agility": 6,
-    "stamina": 4
-  },
-  "sourceType": "DROP",
-  "sourceId": 647,
-  "sourceName": "Captain Greenskin",
-  "sourceZone": 1581
+	"id": 10403,
+	"name": "Blackened Defias Belt",
+	"icon": "inv_belt_26",
+	"popularity": 26,
+	"armor": 54,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Agility": 6, "Stamina": 4 },
+	"source": "DROP",
+	"sourceId": 647,
+	"sourceName": "Captain Greenskin",
+	"sourceZone": 1581,
+	"sourceType": "NPC"
 }

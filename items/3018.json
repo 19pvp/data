@@ -1,19 +1,17 @@
 {
-  "id": 3018,
-  "name": "Hide of Lupos",
-  "icon": "inv_misc_pelt_wolf_02",
-  "popularity": 8,
-  "armor": 32,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "agility": 3,
-    "stamina": 2
-  },
-  "sourceType": "DROP",
-  "sourceId": 521,
-  "sourceName": "Lupos",
-  "sourceZone": 10
+	"id": 3018,
+	"name": "Hide of Lupos",
+	"icon": "inv_misc_pelt_wolf_02",
+	"popularity": 8,
+	"armor": 32,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Agility": 3, "Stamina": 2 },
+	"source": "DROP",
+	"sourceId": 521,
+	"sourceName": "Lupos",
+	"sourceZone": 10,
+	"sourceType": "NPC"
 }

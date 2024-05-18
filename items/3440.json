@@ -1,20 +1,18 @@
 {
-  "id": 3440,
-  "name": "Bonecracker",
-  "icon": "inv_mace_04",
-  "dmgMin": 23,
-  "dmgMax": 35,
-  "speed": 3.2,
-  "dps": 9.06,
-  "popularity": 6,
-  "side": "HORDE",
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "TWO_HANDED_MACE",
-  "type": "TWO_HAND",
-  "stats": {
-    "strength": 3
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 85
+	"id": 3440,
+	"name": "Bonecracker",
+	"icon": "inv_mace_04",
+	"dmgMin": 23,
+	"dmgMax": 35,
+	"speed": 3.2,
+	"dps": 9.06,
+	"popularity": 6,
+	"side": "HORDE",
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "TWO_HANDED_MACE",
+	"type": "TWO_HAND",
+	"stats": { "Strength": 3 },
+	"source": "QUEST",
+	"sourceZone": 85
 }

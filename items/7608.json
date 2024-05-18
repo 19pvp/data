@@ -1,16 +1,13 @@
 {
-  "id": 7608,
-  "name": "Seer's Fine Stein",
-  "icon": "inv_drink_04",
-  "popularity": 20,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "OFF_HAND_FRILLS",
-  "type": "HELD_IN_OFF_HAND",
-  "stats": {
-    "intellect": 3,
-    "spirit": 1
-  },
-  "sourceType": "DROP"
+	"id": 7608,
+	"name": "Seer's Fine Stein",
+	"icon": "inv_drink_04",
+	"popularity": 20,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "OFF_HAND_FRILLS",
+	"type": "HELD_IN_OFF_HAND",
+	"stats": { "Intellect": 3, "Spirit": 1 },
+	"source": "DROP"
 }

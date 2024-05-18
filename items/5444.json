@@ -1,17 +1,14 @@
 {
-  "id": 5444,
-  "name": "Miner's Cape",
-  "icon": "inv_misc_cape_11",
-  "popularity": 6,
-  "armor": 32,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "crit": 4,
-    "strength": 4
-  },
-  "sourceType": "DROP",
-  "sourceZone": 1581
+	"id": 5444,
+	"name": "Miner's Cape",
+	"icon": "inv_misc_cape_11",
+	"popularity": 6,
+	"armor": 32,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Critical Strike Rating": 4, "Strength": 4 },
+	"source": "DROP",
+	"sourceZone": 1581
 }

@@ -1,18 +1,17 @@
 {
-  "id": 52874,
-  "name": "Darkspear Soothsayer Robes",
-  "icon": "inv_chest_cloth_84v4",
-  "popularity": 23,
-  "armor": 16,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24786,
-  "sourceName": "Proving Pit"
+	"id": 52874,
+	"name": "Darkspear Soothsayer Robes",
+	"icon": "inv_chest_cloth_84v4",
+	"popularity": 23,
+	"armor": 16,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 24786,
+	"sourceName": "Proving Pit",
+	"sourceType": "QUEST"
 }

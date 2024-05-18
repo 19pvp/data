@@ -1,23 +1,24 @@
 {
-  "id": 14145,
-  "name": "Cursed Felblade",
-  "icon": "inv_weapon_shortblade_12",
-  "dmgMin": 22,
-  "dmgMax": 42,
-  "speed": 2.6,
-  "dps": 12.31,
-  "popularity": 12,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "ONE_HANDED_SWORD",
-  "type": "ONE_HAND",
-  "stats": {},
-  "sourceType": "DROP",
-  "sourceId": 11520,
-  "sourceName": "Taragaman the Hungerer",
-  "sourceZone": 2437,
-  "chanceOnHit": {
-    "spell": 18381,
-    "text": "Reduces target enemy's attack power by 25 for 30 sec."
-  }
+	"id": 14145,
+	"name": "Cursed Felblade",
+	"icon": "inv_weapon_shortblade_12",
+	"dmgMin": 22,
+	"dmgMax": 42,
+	"speed": 2.6,
+	"dps": 12.31,
+	"popularity": 12,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "ONE_HANDED_SWORD",
+	"type": "ONE_HAND",
+	"stats": {},
+	"source": "DROP",
+	"sourceId": 11520,
+	"sourceName": "Taragaman the Hungerer",
+	"sourceZone": 2437,
+	"sourceType": "NPC",
+	"chanceOnHit": {
+		"spell": 18381,
+		"text": "Reduces target enemy's attack power by 25 for 30 sec."
+	}
 }

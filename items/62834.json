@@ -1,18 +1,17 @@
 {
-  "id": 62834,
-  "name": "T'veen's Cloak",
-  "icon": "inv_misc_cape_08",
-  "popularity": 4,
-  "armor": 18,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26998,
-  "sourceName": "Iterating Upon Success"
+	"id": 62834,
+	"name": "T'veen's Cloak",
+	"icon": "inv_misc_cape_08",
+	"popularity": 4,
+	"armor": 18,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 26998,
+	"sourceName": "Iterating Upon Success",
+	"sourceType": "QUEST"
 }

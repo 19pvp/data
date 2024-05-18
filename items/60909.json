@@ -1,18 +1,17 @@
 {
-  "id": 60909,
-  "name": "Astronomer's Handwraps",
-  "icon": "inv_gauntlets_27",
-  "popularity": 9,
-  "armor": 59,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26685,
-  "sourceName": "Classy Glass"
+	"id": 60909,
+	"name": "Astronomer's Handwraps",
+	"icon": "inv_gauntlets_27",
+	"popularity": 9,
+	"armor": 59,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 26685,
+	"sourceName": "Classy Glass",
+	"sourceType": "QUEST"
 }

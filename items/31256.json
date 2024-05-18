@@ -1,16 +1,29 @@
 {
-  "id": 31256,
-  "name": "Silvermoon Armor",
-  "icon": "inv_chest_chain_07",
-  "popularity": 28,
-  "armor": 131,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {},
-  "sourceType": "DROP",
-  "sourceId": 22060,
-  "sourceName": "Fenissa the Assassin",
-  "sourceZone": 3525
+	"id": 31256,
+	"name": "Silvermoon Armor",
+	"icon": "inv_chest_chain_07",
+	"popularity": 28,
+	"armor": 131,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": {},
+	"rand": {
+		"of the Wild": {
+			"id": -60,
+			"chance": 50.7,
+			"stats": { "Agility": 2, "Stamina": 2, "Haste": 2 }
+		},
+		"of the Sun": {
+			"id": -58,
+			"chance": 49.3,
+			"stats": { "Critical Strike Rating": 2, "Stamina": 2, "Intellect": 2 }
+		}
+	},
+	"source": "DROP",
+	"sourceId": 22060,
+	"sourceName": "Fenissa the Assassin",
+	"sourceZone": 3525,
+	"sourceType": "NPC"
 }

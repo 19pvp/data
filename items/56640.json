@@ -1,18 +1,17 @@
 {
-  "id": 56640,
-  "name": "Leggings of Loss",
-  "icon": "inv_pants_leather_21",
-  "popularity": 6,
-  "armor": 80,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "intellect": 7
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13653,
-  "sourceName": "Crisis at Splintertree"
+	"id": 56640,
+	"name": "Leggings of Loss",
+	"icon": "inv_pants_leather_21",
+	"popularity": 6,
+	"armor": 80,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Intellect": 7 },
+	"source": "QUEST",
+	"sourceId": 13653,
+	"sourceName": "Crisis at Splintertree",
+	"sourceType": "QUEST"
 }

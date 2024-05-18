@@ -1,18 +1,17 @@
 {
-  "id": 54990,
-  "name": "Gilnean Shield",
-  "icon": "inv_shield_04",
-  "popularity": 14,
-  "armor": 509,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "stamina": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24904,
-  "sourceName": "The Battle for Gilneas City"
+	"id": 54990,
+	"name": "Gilnean Shield",
+	"icon": "inv_shield_04",
+	"popularity": 14,
+	"armor": 509,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Stamina": 4 },
+	"source": "QUEST",
+	"sourceId": 24904,
+	"sourceName": "The Battle for Gilneas City",
+	"sourceType": "QUEST"
 }

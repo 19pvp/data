@@ -1,19 +1,17 @@
 {
-  "id": 5192,
-  "name": "Thief's Blade",
-  "icon": "inv_sword_24",
-  "dmgMin": 24,
-  "dmgMax": 46,
-  "speed": 2.6,
-  "dps": 13.46,
-  "popularity": 12,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "ONE_HANDED_SWORD",
-  "type": "ONE_HAND",
-  "stats": {
-    "agility": 5
-  },
-  "sourceType": "DROP",
-  "sourceZone": 1581
+	"id": 5192,
+	"name": "Thief's Blade",
+	"icon": "inv_sword_24",
+	"dmgMin": 24,
+	"dmgMax": 46,
+	"speed": 2.6,
+	"dps": 13.46,
+	"popularity": 12,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "ONE_HANDED_SWORD",
+	"type": "ONE_HAND",
+	"stats": { "Agility": 5 },
+	"source": "DROP",
+	"sourceZone": 1581
 }

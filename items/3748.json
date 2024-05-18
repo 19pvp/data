@@ -1,18 +1,14 @@
 {
-  "id": 3748,
-  "name": "Feline Mantle",
-  "icon": "inv_shoulder_05",
-  "popularity": 18,
-  "armor": 49,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOTH",
-  "type": "SHOULDERS",
-  "stats": {
-    "stamina": 4,
-    "intellect": 5,
-    "spirit": 3
-  },
-  "sourceType": "DROP",
-  "sourceZone": 209
+	"id": 3748,
+	"name": "Feline Mantle",
+	"icon": "inv_shoulder_05",
+	"popularity": 18,
+	"armor": 49,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "SHOULDERS",
+	"stats": { "Stamina": 4, "Intellect": 5, "Spirit": 3 },
+	"source": "DROP",
+	"sourceZone": 209
 }

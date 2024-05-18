@@ -1,18 +1,17 @@
 {
-  "id": 55003,
-  "name": "Greymane Cloak",
-  "icon": "inv_misc_cape_20",
-  "popularity": 4,
-  "armor": 19,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "strength": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24592,
-  "sourceName": "Betrayal at Tempest's Reach"
+	"id": 55003,
+	"name": "Greymane Cloak",
+	"icon": "inv_misc_cape_20",
+	"popularity": 4,
+	"armor": 19,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Strength": 1 },
+	"source": "QUEST",
+	"sourceId": 24592,
+	"sourceName": "Betrayal at Tempest's Reach",
+	"sourceType": "QUEST"
 }

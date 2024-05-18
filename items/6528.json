@@ -1,16 +1,13 @@
 {
-  "id": 6528,
-  "name": "Spellbinder Robe",
-  "icon": "inv_chest_cloth_22",
-  "popularity": 3,
-  "armor": 50,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "intellect": 2,
-    "spirit": 4
-  },
-  "sourceType": "DROP"
+	"id": 6528,
+	"name": "Spellbinder Robe",
+	"icon": "inv_chest_cloth_22",
+	"popularity": 3,
+	"armor": 50,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Intellect": 2, "Spirit": 4 },
+	"source": "DROP"
 }

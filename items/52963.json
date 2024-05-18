@@ -1,18 +1,17 @@
 {
-  "id": 52963,
-  "name": "Soulstone Breaker Wristbands",
-  "icon": "inv_bracer_01",
-  "popularity": 4,
-  "armor": 24,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25123,
-  "sourceName": "Throw It On the Ground!"
+	"id": 52963,
+	"name": "Soulstone Breaker Wristbands",
+	"icon": "inv_bracer_01",
+	"popularity": 4,
+	"armor": 24,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 25123,
+	"sourceName": "Throw It On the Ground!",
+	"sourceType": "QUEST"
 }

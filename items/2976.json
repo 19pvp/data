@@ -1,16 +1,13 @@
 {
-  "id": 2976,
-  "name": "Hunting Gloves",
-  "icon": "inv_gauntlets_05",
-  "popularity": 6,
-  "armor": 44,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "agility": 2,
-    "stamina": 1
-  },
-  "sourceType": "DROP"
+	"id": 2976,
+	"name": "Hunting Gloves",
+	"icon": "inv_gauntlets_05",
+	"popularity": 6,
+	"armor": 44,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Agility": 2, "Stamina": 1 },
+	"source": "DROP"
 }

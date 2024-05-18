@@ -1,18 +1,17 @@
 {
-  "id": 53440,
-  "name": "Sea Sister Vest",
-  "icon": "inv_chest_cloth_30",
-  "popularity": 8,
-  "armor": 41,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14295,
-  "sourceName": "Sisters of the Sea"
+	"id": 53440,
+	"name": "Sea Sister Vest",
+	"icon": "inv_chest_cloth_30",
+	"popularity": 8,
+	"armor": 41,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 14295,
+	"sourceName": "Sisters of the Sea",
+	"sourceType": "QUEST"
 }

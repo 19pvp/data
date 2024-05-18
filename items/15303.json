@@ -1,13 +1,65 @@
 {
-  "id": 15303,
-  "name": "Grizzly Pants",
-  "icon": "inv_pants_09",
-  "popularity": 11,
-  "armor": 58,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 15303,
+	"name": "Grizzly Pants",
+	"icon": "inv_pants_09",
+	"popularity": 11,
+	"armor": 58,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": {},
+	"rand": {
+		"of the Eagle": {
+			"id": 842,
+			"chance": 19.5,
+			"stats": { "Intellect": 2, "Stamina": 2 }
+		},
+		"of the Monkey": {
+			"id": 587,
+			"chance": 15.6,
+			"stats": { "Agility": 2, "Stamina": 2 }
+		},
+		"of the Owl": {
+			"id": 757,
+			"chance": 13.7,
+			"stats": { "Intellect": 2, "Spirit": 2 }
+		},
+		"of the Whale": {
+			"id": 1012,
+			"chance": 9.1,
+			"stats": { "Spirit": 2, "Stamina": 2 }
+		},
+		"of Agility": { "id": 93, "chance": 8.4, "stats": { "Agility": 4 } },
+		"of the Falcon": {
+			"id": 238,
+			"chance": 7.6,
+			"stats": { "Agility": 2, "Intellect": 2 }
+		},
+		"of Spirit": { "id": 95, "chance": 7.3, "stats": { "Spirit": 4 } },
+		"of Power": { "id": 1550, "chance": 4.7, "stats": { "Attack Power": 8 } },
+		"of the Bear": {
+			"id": 1182,
+			"chance": 4.4,
+			"stats": { "Stamina": 2, "Strength": 2 }
+		},
+		"of the Wolf": {
+			"id": 502,
+			"chance": 3.8,
+			"stats": { "Agility": 2, "Spirit": 2 }
+		},
+		"of the Gorilla": {
+			"id": 927,
+			"chance": 3.1,
+			"stats": { "Intellect": 2, "Strength": 2 }
+		},
+		"of Intellect": { "id": 26, "chance": 1, "stats": { "Intellect": 3 } },
+		"of Healing": { "id": 2030, "chance": 0.9, "stats": { "Spell Power": 5 } },
+		"of Arcane Wrath": {
+			"id": 1802,
+			"chance": 0.9,
+			"stats": { "Arcane Spell Damage": 6 }
+		}
+	},
+	"source": "DROP"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 59082,
-  "name": "Merchant Marine Pauldrons",
-  "icon": "inv_shoulder_21",
-  "popularity": 6,
-  "armor": 116,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "SHOULDERS",
-  "stats": {
-    "strength": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25801,
-  "sourceName": "Claws from the Deep"
+	"id": 59082,
+	"name": "Merchant Marine Pauldrons",
+	"icon": "inv_shoulder_21",
+	"popularity": 6,
+	"armor": 116,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "SHOULDERS",
+	"stats": { "Strength": 5 },
+	"source": "QUEST",
+	"sourceId": 25801,
+	"sourceName": "Claws from the Deep",
+	"sourceType": "QUEST"
 }

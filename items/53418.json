@@ -1,19 +1,17 @@
 {
-  "id": 53418,
-  "name": "Honorary Gob Squad Shield",
-  "icon": "inv_shield_77",
-  "popularity": 8,
-  "armor": 516,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "strength": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14480,
-  "sourceName": "Extermination"
+	"id": 53418,
+	"name": "Honorary Gob Squad Shield",
+	"icon": "inv_shield_77",
+	"popularity": 8,
+	"armor": 516,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Strength": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 14480,
+	"sourceName": "Extermination",
+	"sourceType": "QUEST"
 }

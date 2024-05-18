@@ -1,13 +1,48 @@
 {
-  "id": 14109,
-  "name": "Native Robe",
-  "icon": "inv_chest_cloth_21",
-  "popularity": 13,
-  "armor": 48,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 14109,
+	"name": "Native Robe",
+	"icon": "inv_chest_cloth_21",
+	"popularity": 13,
+	"armor": 48,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": {},
+	"rand": {
+		"of the Owl": {
+			"id": 760,
+			"chance": 26,
+			"stats": { "Intellect": 3, "Spirit": 3 }
+		},
+		"of the Whale": {
+			"id": 1015,
+			"chance": 19.1,
+			"stats": { "Spirit": 3, "Stamina": 3 }
+		},
+		"of the Eagle": {
+			"id": 845,
+			"chance": 16.2,
+			"stats": { "Intellect": 3, "Stamina": 3 }
+		},
+		"of Intellect": { "id": 112, "chance": 12.9, "stats": { "Intellect": 5 } },
+		"of Spirit": { "id": 113, "chance": 8.9, "stats": { "Spirit": 5 } },
+		"of Stamina": { "id": 114, "chance": 6.5, "stats": { "Stamina": 5 } },
+		"of Shadow Wrath": {
+			"id": 1841,
+			"chance": 3.4,
+			"stats": { "Shadow Spell Damage": 7 }
+		},
+		"of Arcane Wrath": {
+			"id": 1803,
+			"chance": 3.3,
+			"stats": { "Arcane Spell Damage": 7 }
+		},
+		"of Frozen Wrath": {
+			"id": 1955,
+			"chance": 3.3,
+			"stats": { "Frost Spell Damage": 7 }
+		}
+	},
+	"source": "DROP"
 }

@@ -1,16 +1,13 @@
 {
-  "id": 4710,
-  "name": "Forest Cloak",
-  "icon": "inv_misc_cape_09",
-  "popularity": 21,
-  "armor": 31,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "stamina": 3,
-    "intellect": 2
-  },
-  "sourceType": "DROP"
+	"id": 4710,
+	"name": "Forest Cloak",
+	"icon": "inv_misc_cape_09",
+	"popularity": 21,
+	"armor": 31,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Stamina": 3, "Intellect": 2 },
+	"source": "DROP"
 }

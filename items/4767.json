@@ -1,18 +1,17 @@
 {
-  "id": 4767,
-  "name": "Coppercloth Gloves",
-  "icon": "inv_gauntlets_05",
-  "popularity": 10,
-  "armor": 29,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {
-    "intellect": 3
-  },
-  "sourceType": "DROP",
-  "sourceId": 3578,
-  "sourceName": "Ambermill Miner",
-  "sourceZone": 130
+	"id": 4767,
+	"name": "Coppercloth Gloves",
+	"icon": "inv_gauntlets_05",
+	"popularity": 10,
+	"armor": 29,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": { "Intellect": 3 },
+	"source": "DROP",
+	"sourceId": 3578,
+	"sourceName": "Ambermill Miner",
+	"sourceZone": 130,
+	"sourceType": "NPC"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 3022,
-  "name": "Bluegill Breeches",
-  "icon": "inv_pants_02",
-  "popularity": 37,
-  "armor": 86,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "agility": 8
-  },
-  "sourceType": "DROP",
-  "sourceId": 1028,
-  "sourceName": "Bluegill Muckdweller",
-  "sourceZone": 11
+	"id": 3022,
+	"name": "Bluegill Breeches",
+	"icon": "inv_pants_02",
+	"popularity": 37,
+	"armor": 86,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Agility": 8 },
+	"source": "DROP",
+	"sourceId": 1028,
+	"sourceName": "Bluegill Muckdweller",
+	"sourceZone": 11,
+	"sourceType": "NPC"
 }

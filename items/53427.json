@@ -1,19 +1,17 @@
 {
-  "id": 53427,
-  "name": "Margene Repair Gloves",
-  "icon": "inv_gauntlets_12",
-  "popularity": 15,
-  "armor": 60,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14423,
-  "sourceName": "Dozercism"
+	"id": 53427,
+	"name": "Margene Repair Gloves",
+	"icon": "inv_gauntlets_12",
+	"popularity": 15,
+	"armor": 60,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 14423,
+	"sourceName": "Dozercism",
+	"sourceType": "QUEST"
 }

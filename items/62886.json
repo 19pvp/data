@@ -1,18 +1,16 @@
 {
-  "id": 62886,
-  "name": "Vest of Forsaken Necromancy",
-  "icon": "inv_chest_cloth_31",
-  "popularity": 8,
-  "armor": 55,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 4,
-    "intellect": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27575,
-  "sourceName": "From the Belly of the Beast"
+	"id": 62886,
+	"name": "Vest of Forsaken Necromancy",
+	"icon": "inv_chest_cloth_31",
+	"popularity": 8,
+	"armor": 55,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Stamina": 4, "Intellect": 4 },
+	"source": "QUEST",
+	"sourceId": 27575,
+	"sourceName": "From the Belly of the Beast",
+	"sourceType": "QUEST"
 }

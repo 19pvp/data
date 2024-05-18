@@ -1,18 +1,17 @@
 {
-  "id": 57574,
-  "name": "Museum Guard's Bracers",
-  "icon": "inv_bracer_27b",
-  "popularity": 9,
-  "armor": 37,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WRISTS",
-  "stats": {
-    "strength": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25937,
-  "sourceName": "Priceless Treasures"
+	"id": 57574,
+	"name": "Museum Guard's Bracers",
+	"icon": "inv_bracer_27b",
+	"popularity": 9,
+	"armor": 37,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WRISTS",
+	"stats": { "Strength": 1 },
+	"source": "QUEST",
+	"sourceId": 25937,
+	"sourceName": "Priceless Treasures",
+	"sourceType": "QUEST"
 }

@@ -1,20 +1,19 @@
 {
-  "id": 2908,
-  "name": "Thornblade",
-  "icon": "inv_weapon_shortblade_15",
-  "dmgMin": 11,
-  "dmgMax": 21,
-  "speed": 1.6,
-  "dps": 10,
-  "popularity": 12,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "DAGGER",
-  "type": "ONE_HAND",
-  "stats": {
-    "agility": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 283,
-  "sourceName": "A Dark Threat Looms"
+	"id": 2908,
+	"name": "Thornblade",
+	"icon": "inv_weapon_shortblade_15",
+	"dmgMin": 11,
+	"dmgMax": 21,
+	"speed": 1.6,
+	"dps": 10,
+	"popularity": 12,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "DAGGER",
+	"type": "ONE_HAND",
+	"stats": { "Agility": 3 },
+	"source": "QUEST",
+	"sourceId": 283,
+	"sourceName": "A Dark Threat Looms",
+	"sourceType": "QUEST"
 }

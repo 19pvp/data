@@ -1,20 +1,17 @@
 {
-  "id": 1292,
-  "name": "Butcher's Cleaver",
-  "icon": "inv_axe_23",
-  "dmgMin": 31,
-  "dmgMax": 42,
-  "speed": 2.6,
-  "dps": 14.04,
-  "popularity": 15,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "ONE_HANDED_AXE",
-  "type": "ONE_HAND",
-  "stats": {
-    "agility": 3,
-    "stamina": 3
-  },
-  "sourceType": "DROP",
-  "sourceZone": 209
+	"id": 1292,
+	"name": "Butcher's Cleaver",
+	"icon": "inv_axe_23",
+	"dmgMin": 31,
+	"dmgMax": 42,
+	"speed": 2.6,
+	"dps": 14.04,
+	"popularity": 15,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "ONE_HANDED_AXE",
+	"type": "ONE_HAND",
+	"stats": { "Agility": 3, "Stamina": 3 },
+	"source": "DROP",
+	"sourceZone": 209
 }

@@ -1,18 +1,17 @@
 {
-  "id": 5591,
-  "name": "Rain-Spotted Cape",
-  "icon": "inv_misc_cape_12",
-  "popularity": 8,
-  "armor": 17,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 937,
-  "sourceName": "The Enchanted Glade"
+	"id": 5591,
+	"name": "Rain-Spotted Cape",
+	"icon": "inv_misc_cape_12",
+	"popularity": 8,
+	"armor": 17,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 937,
+	"sourceName": "The Enchanted Glade",
+	"sourceType": "QUEST"
 }

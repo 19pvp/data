@@ -1,15 +1,13 @@
 {
-  "id": 68751,
-  "name": "Imbued Pioneer Bracers",
-  "icon": "inv_bracer_12",
-  "popularity": 20,
-  "armor": 23,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "DROP"
+	"id": 68751,
+	"name": "Imbued Pioneer Bracers",
+	"icon": "inv_bracer_12",
+	"popularity": 20,
+	"armor": 23,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Stamina": 1 },
+	"source": "DROP"
 }

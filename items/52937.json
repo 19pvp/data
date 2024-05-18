@@ -1,19 +1,17 @@
 {
-  "id": 52937,
-  "name": "Chip's Cloak",
-  "icon": "inv_misc_cape_11",
-  "popularity": 20,
-  "armor": 19,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "stamina": 1,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25202,
-  "sourceName": "The Fastest Way to His Heart"
+	"id": 52937,
+	"name": "Chip's Cloak",
+	"icon": "inv_misc_cape_11",
+	"popularity": 20,
+	"armor": 19,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Stamina": 1, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 25202,
+	"sourceName": "The Fastest Way to His Heart",
+	"sourceType": "QUEST"
 }

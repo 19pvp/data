@@ -1,19 +1,17 @@
 {
-  "id": 28159,
-  "name": "Undertaker's Gloves",
-  "icon": "inv_gauntlets_05",
-  "popularity": 8,
-  "armor": 48,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "agility": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9199,
-  "sourceName": "Troll Juju"
+	"id": 28159,
+	"name": "Undertaker's Gloves",
+	"icon": "inv_gauntlets_05",
+	"popularity": 8,
+	"armor": 48,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Agility": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 9199,
+	"sourceName": "Troll Juju",
+	"sourceType": "QUEST"
 }

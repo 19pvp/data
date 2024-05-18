@@ -1,16 +1,49 @@
 {
-  "id": 4571,
-  "name": "War Knife",
-  "icon": "inv_weapon_shortblade_15",
-  "dmgMin": 10,
-  "dmgMax": 19,
-  "speed": 1.7,
-  "dps": 8.53,
-  "popularity": 25,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "DAGGER",
-  "type": "ONE_HAND",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 4571,
+	"name": "War Knife",
+	"icon": "inv_weapon_shortblade_15",
+	"dmgMin": 10,
+	"dmgMax": 19,
+	"speed": 1.7,
+	"dps": 8.53,
+	"popularity": 25,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "DAGGER",
+	"type": "ONE_HAND",
+	"stats": {},
+	"rand": {
+		"of Power": { "id": 1548, "chance": 32.4, "stats": { "Attack Power": 4 } },
+		"of Strength": { "id": 23, "chance": 15.2, "stats": { "Strength": 2 } },
+		"of Stamina": { "id": 19, "chance": 12.6, "stats": { "Stamina": 2 } },
+		"of Intellect": { "id": 25, "chance": 12.6, "stats": { "Intellect": 2 } },
+		"of Agility": { "id": 17, "chance": 11.6, "stats": { "Agility": 2 } },
+		"of Healing": { "id": 2028, "chance": 3.9, "stats": { "Spell Power": 2 } },
+		"of Arcane Wrath": {
+			"id": 1800,
+			"chance": 2.9,
+			"stats": { "Arcane Spell Damage": 3 }
+		},
+		"of Fiery Wrath": {
+			"id": 1876,
+			"chance": 2.6,
+			"stats": { "Fire Spell Damage": 3 }
+		},
+		"of Nature's Wrath": {
+			"id": 1990,
+			"chance": 2.6,
+			"stats": { "Nature Spell Damage": 3 }
+		},
+		"of Frozen Wrath": {
+			"id": 1952,
+			"chance": 1.8,
+			"stats": { "Frost Spell Damage": 3 }
+		},
+		"of Shadow Wrath": {
+			"id": 1838,
+			"chance": 1.7,
+			"stats": { "Shadow Spell Damage": 3 }
+		}
+	},
+	"source": "DROP"
 }

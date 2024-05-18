@@ -1,19 +1,17 @@
 {
-  "id": 58985,
-  "name": "Leggings of Uncanny Courage",
-  "icon": "inv_pants_08",
-  "popularity": 7,
-  "armor": 52,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26146,
-  "sourceName": "In Defense of the King's Lands"
+	"id": 58985,
+	"name": "Leggings of Uncanny Courage",
+	"icon": "inv_pants_08",
+	"popularity": 7,
+	"armor": 52,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Agility": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 26146,
+	"sourceName": "In Defense of the King's Lands",
+	"sourceType": "QUEST"
 }

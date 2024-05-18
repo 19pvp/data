@@ -1,19 +1,17 @@
 {
-  "id": 4290,
-  "name": "Dust Bowl",
-  "icon": "inv_shield_09",
-  "popularity": 7,
-  "armor": 541,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "hit": 2,
-    "strength": 2
-  },
-  "sourceType": "DROP",
-  "sourceId": 832,
-  "sourceName": "Unbound Cyclone",
-  "sourceZone": 40
+	"id": 4290,
+	"name": "Dust Bowl",
+	"icon": "inv_shield_09",
+	"popularity": 7,
+	"armor": 541,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Hit Rating": 2, "Strength": 2 },
+	"source": "DROP",
+	"sourceId": 832,
+	"sourceName": "Unbound Cyclone",
+	"sourceZone": 40,
+	"sourceType": "NPC"
 }

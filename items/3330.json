@@ -1,19 +1,17 @@
 {
-  "id": 3330,
-  "name": "Dargol's Hauberk",
-  "icon": "inv_chest_chain",
-  "popularity": 8,
-  "armor": 102,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "strength": 2,
-    "stamina": 1
-  },
-  "sourceType": "DROP",
-  "sourceId": 1658,
-  "sourceName": "Captain Dargol",
-  "sourceZone": 85
+	"id": 3330,
+	"name": "Dargol's Hauberk",
+	"icon": "inv_chest_chain",
+	"popularity": 8,
+	"armor": 102,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Strength": 2, "Stamina": 1 },
+	"source": "DROP",
+	"sourceId": 1658,
+	"sourceName": "Captain Dargol",
+	"sourceZone": 85,
+	"sourceType": "NPC"
 }

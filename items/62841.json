@@ -1,18 +1,17 @@
 {
-  "id": 62841,
-  "name": "Bloodfang Vest",
-  "icon": "inv_chest_leather_07",
-  "popularity": 11,
-  "armor": 59,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27069,
-  "sourceName": "Steel Thunder"
+	"id": 62841,
+	"name": "Bloodfang Vest",
+	"icon": "inv_chest_leather_07",
+	"popularity": 11,
+	"armor": 59,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 27069,
+	"sourceName": "Steel Thunder",
+	"sourceType": "QUEST"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 62852,
-  "name": "Sabots of Red Waters",
-  "icon": "inv_boots_08",
-  "popularity": 8,
-  "armor": 43,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27232,
-  "sourceName": "The Waters Run Red..."
+	"id": 62852,
+	"name": "Sabots of Red Waters",
+	"icon": "inv_boots_08",
+	"popularity": 8,
+	"armor": 43,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 27232,
+	"sourceName": "The Waters Run Red...",
+	"sourceType": "QUEST"
 }

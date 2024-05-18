@@ -1,18 +1,17 @@
 {
-  "id": 53438,
-  "name": "Scalding Gloves",
-  "icon": "inv_gauntlets_10",
-  "popularity": 5,
-  "armor": 79,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14324,
-  "sourceName": "Full of Hot Water"
+	"id": 53438,
+	"name": "Scalding Gloves",
+	"icon": "inv_gauntlets_10",
+	"popularity": 5,
+	"armor": 79,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 14324,
+	"sourceName": "Full of Hot Water",
+	"sourceType": "QUEST"
 }

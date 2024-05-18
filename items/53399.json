@@ -1,20 +1,17 @@
 {
-  "id": 53399,
-  "name": "Acquisition Bracers",
-  "icon": "inv_bracer_02",
-  "popularity": 5,
-  "armor": 37,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "hit": 3,
-    "stamina": 3,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24449,
-  "sourceName": "Shore Leave"
+	"id": 53399,
+	"name": "Acquisition Bracers",
+	"icon": "inv_bracer_02",
+	"popularity": 5,
+	"armor": 37,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Hit Rating": 3, "Stamina": 3, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 24449,
+	"sourceName": "Shore Leave",
+	"sourceType": "QUEST"
 }

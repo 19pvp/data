@@ -1,20 +1,17 @@
 {
-  "id": 55128,
-  "name": "Silver Embossed Boots",
-  "icon": "inv_boots_04",
-  "popularity": 62,
-  "armor": 53,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "crit": 3,
-    "agility": 3,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13591,
-  "sourceName": "Disturbing Connections"
+	"id": 55128,
+	"name": "Silver Embossed Boots",
+	"icon": "inv_boots_04",
+	"popularity": 62,
+	"armor": 53,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Critical Strike Rating": 3, "Agility": 3, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 13591,
+	"sourceName": "Disturbing Connections",
+	"sourceType": "QUEST"
 }

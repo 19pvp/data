@@ -1,18 +1,17 @@
 {
-  "id": 58996,
-  "name": "Mountaineer's Belt",
-  "icon": "inv_belt_45c",
-  "popularity": 4,
-  "armor": 54,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {
-    "strength": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26147,
-  "sourceName": "Bigger and Uglier"
+	"id": 58996,
+	"name": "Mountaineer's Belt",
+	"icon": "inv_belt_45c",
+	"popularity": 4,
+	"armor": 54,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": { "Strength": 2 },
+	"source": "QUEST",
+	"sourceId": 26147,
+	"sourceName": "Bigger and Uglier",
+	"sourceType": "QUEST"
 }

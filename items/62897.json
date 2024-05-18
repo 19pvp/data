@@ -1,20 +1,17 @@
 {
-  "id": 62897,
-  "name": "Bracers of the Most Trusted",
-  "icon": "inv_bracer_30a",
-  "popularity": 10,
-  "armor": 69,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "MAIL",
-  "type": "WRISTS",
-  "stats": {
-    "hit": 3,
-    "strength": 2,
-    "stamina": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27601,
-  "sourceName": "Cities in Dust"
+	"id": 62897,
+	"name": "Bracers of the Most Trusted",
+	"icon": "inv_bracer_30a",
+	"popularity": 10,
+	"armor": 69,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "MAIL",
+	"type": "WRISTS",
+	"stats": { "Hit Rating": 3, "Strength": 2, "Stamina": 4 },
+	"source": "QUEST",
+	"sourceId": 27601,
+	"sourceName": "Cities in Dust",
+	"sourceType": "QUEST"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 1211,
-  "name": "Gnoll War Harness",
-  "icon": "inv_chest_leather_04",
-  "popularity": 7,
-  "armor": 70,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "agility": 2,
-    "stamina": 2
-  },
-  "sourceType": "DROP",
-  "sourceId": 423,
-  "sourceName": "Redridge Mongrel",
-  "sourceZone": 44
+	"id": 1211,
+	"name": "Gnoll War Harness",
+	"icon": "inv_chest_leather_04",
+	"popularity": 7,
+	"armor": 70,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Agility": 2, "Stamina": 2 },
+	"source": "DROP",
+	"sourceId": 423,
+	"sourceName": "Redridge Mongrel",
+	"sourceZone": 44,
+	"sourceType": "NPC"
 }

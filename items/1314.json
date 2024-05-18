@@ -1,19 +1,17 @@
 {
-  "id": 1314,
-  "name": "Ghoul Fingers",
-  "icon": "inv_gauntlets_13",
-  "popularity": 11,
-  "armor": 55,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "agility": 3,
-    "stamina": 5
-  },
-  "sourceType": "DROP",
-  "sourceId": 572,
-  "sourceName": "Leprithus",
-  "sourceZone": 40
+	"id": 1314,
+	"name": "Ghoul Fingers",
+	"icon": "inv_gauntlets_13",
+	"popularity": 11,
+	"armor": 55,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Agility": 3, "Stamina": 5 },
+	"source": "DROP",
+	"sourceId": 572,
+	"sourceName": "Leprithus",
+	"sourceZone": 40,
+	"sourceType": "NPC"
 }

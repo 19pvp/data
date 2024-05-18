@@ -1,19 +1,17 @@
 {
-  "id": 60906,
-  "name": "Stitches' Stitchings",
-  "icon": "inv_misc_cape_18",
-  "popularity": 4,
-  "armor": 34,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "stamina": 5,
-    "intellect": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26727,
-  "sourceName": "The Embalmer's Revenge"
+	"id": 60906,
+	"name": "Stitches' Stitchings",
+	"icon": "inv_misc_cape_18",
+	"popularity": 4,
+	"armor": 34,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Stamina": 5, "Intellect": 4 },
+	"source": "QUEST",
+	"sourceId": 26727,
+	"sourceName": "The Embalmer's Revenge",
+	"sourceType": "QUEST"
 }

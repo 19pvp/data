@@ -1,16 +1,13 @@
 {
-  "id": 3654,
-  "name": "Brackwater Shield",
-  "icon": "inv_shield_09",
-  "popularity": 8,
-  "armor": 444,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "DROP"
+	"id": 3654,
+	"name": "Brackwater Shield",
+	"icon": "inv_shield_09",
+	"popularity": 8,
+	"armor": 444,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Agility": 1, "Stamina": 1 },
+	"source": "DROP"
 }

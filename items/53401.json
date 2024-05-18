@@ -1,20 +1,17 @@
 {
-  "id": 53401,
-  "name": "Asylum Shoes",
-  "icon": "inv_boots_07",
-  "popularity": 8,
-  "armor": 55,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "hit": 2,
-    "agility": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14299,
-  "sourceName": "Xylem's Asylum"
+	"id": 53401,
+	"name": "Asylum Shoes",
+	"icon": "inv_boots_07",
+	"popularity": 8,
+	"armor": 55,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Hit Rating": 2, "Agility": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 14299,
+	"sourceName": "Xylem's Asylum",
+	"sourceType": "QUEST"
 }

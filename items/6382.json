@@ -1,16 +1,13 @@
 {
-  "id": 6382,
-  "name": "Forest Leather Belt",
-  "icon": "inv_belt_03",
-  "popularity": 5,
-  "armor": 55,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "agility": 4,
-    "stamina": 4
-  },
-  "sourceType": "DROP"
+	"id": 6382,
+	"name": "Forest Leather Belt",
+	"icon": "inv_belt_03",
+	"popularity": 5,
+	"armor": 55,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Agility": 4, "Stamina": 4 },
+	"source": "DROP"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 58903,
-  "name": "Kobold Candle",
-  "icon": "inv_misc_candle_03",
-  "popularity": 25,
-  "armor": 0,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "OFF_HAND_FRILLS",
-  "type": "HELD_IN_OFF_HAND",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26229,
-  "sourceName": "\"I TAKE Candle!\""
+	"id": 58903,
+	"name": "Kobold Candle",
+	"icon": "inv_misc_candle_03",
+	"popularity": 25,
+	"armor": 0,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "OFF_HAND_FRILLS",
+	"type": "HELD_IN_OFF_HAND",
+	"stats": { "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 26229,
+	"sourceName": "\"I TAKE Candle!\"",
+	"sourceType": "QUEST"
 }

@@ -1,16 +1,13 @@
 {
-  "id": 2992,
-  "name": "Burnished Gloves",
-  "icon": "inv_gauntlets_10",
-  "popularity": 31,
-  "armor": 89,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "strength": 4,
-    "agility": 2
-  },
-  "sourceType": "DROP"
+	"id": 2992,
+	"name": "Burnished Gloves",
+	"icon": "inv_gauntlets_10",
+	"popularity": 31,
+	"armor": 89,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Strength": 4, "Agility": 2 },
+	"source": "DROP"
 }

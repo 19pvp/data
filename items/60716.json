@@ -1,19 +1,17 @@
 {
-  "id": 60716,
-  "name": "Muckdweller Gloves",
-  "icon": "inv_gauntlets_05",
-  "popularity": 16,
-  "armor": 50,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "agility": 2,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26637,
-  "sourceName": "Bravo Company Field Kit: Chloroform"
+	"id": 60716,
+	"name": "Muckdweller Gloves",
+	"icon": "inv_gauntlets_05",
+	"popularity": 16,
+	"armor": 50,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Agility": 2, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 26637,
+	"sourceName": "Bravo Company Field Kit: Chloroform",
+	"sourceType": "QUEST"
 }

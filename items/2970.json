@@ -1,16 +1,13 @@
 {
-  "id": 2970,
-  "name": "Spellbinder Pants",
-  "icon": "inv_pants_10",
-  "popularity": 6,
-  "armor": 42,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 2,
-    "intellect": 3
-  },
-  "sourceType": "DROP"
+	"id": 2970,
+	"name": "Spellbinder Pants",
+	"icon": "inv_pants_10",
+	"popularity": 6,
+	"armor": 42,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Stamina": 2, "Intellect": 3 },
+	"source": "DROP"
 }

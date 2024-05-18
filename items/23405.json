@@ -1,19 +1,17 @@
 {
-  "id": 23405,
-  "name": "Farstrider's Tunic",
-  "icon": "inv_chest_leather_09",
-  "popularity": 15,
-  "armor": 59,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9146,
-  "sourceName": "Report to Captain Helios"
+	"id": 23405,
+	"name": "Farstrider's Tunic",
+	"icon": "inv_chest_leather_09",
+	"popularity": 15,
+	"armor": 59,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Agility": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 9146,
+	"sourceName": "Report to Captain Helios",
+	"sourceType": "QUEST"
 }

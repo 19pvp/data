@@ -1,16 +1,13 @@
 {
-  "id": 14371,
-  "name": "Mystic's Robe",
-  "icon": "inv_chest_cloth_14",
-  "popularity": 30,
-  "armor": 64,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 11,
-    "intellect": 3
-  },
-  "sourceType": "DROP"
+	"id": 14371,
+	"name": "Mystic's Robe",
+	"icon": "inv_chest_cloth_14",
+	"popularity": 30,
+	"armor": 64,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Stamina": 11, "Intellect": 3 },
+	"source": "DROP"
 }

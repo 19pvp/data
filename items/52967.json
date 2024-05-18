@@ -1,19 +1,17 @@
 {
-  "id": 52967,
-  "name": "Oil-Stained Leggings",
-  "icon": "inv_pants_mail_05",
-  "popularity": 7,
-  "armor": 85,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25207,
-  "sourceName": "Good-bye, Sweet Oil"
+	"id": 52967,
+	"name": "Oil-Stained Leggings",
+	"icon": "inv_pants_mail_05",
+	"popularity": 7,
+	"armor": 85,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 25207,
+	"sourceName": "Good-bye, Sweet Oil",
+	"sourceType": "QUEST"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 53369,
-  "name": "Fizzle's Gloves",
-  "icon": "inv_gauntlets_16",
-  "popularity": 12,
-  "armor": 21,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25260,
-  "sourceName": "Fizzled"
+	"id": 53369,
+	"name": "Fizzle's Gloves",
+	"icon": "inv_gauntlets_16",
+	"popularity": 12,
+	"armor": 21,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": { "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 25260,
+	"sourceName": "Fizzled",
+	"sourceType": "QUEST"
 }

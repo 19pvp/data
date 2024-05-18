@@ -1,15 +1,13 @@
 {
-  "id": 4695,
-  "name": "Burnished Cloak",
-  "icon": "inv_misc_cape_06",
-  "popularity": 30,
-  "armor": 26,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "stamina": 3
-  },
-  "sourceType": "DROP"
+	"id": 4695,
+	"name": "Burnished Cloak",
+	"icon": "inv_misc_cape_06",
+	"popularity": 30,
+	"armor": 26,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Stamina": 3 },
+	"source": "DROP"
 }

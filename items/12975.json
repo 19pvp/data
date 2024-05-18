@@ -1,19 +1,16 @@
 {
-  "id": 12975,
-  "name": "Prospector Axe",
-  "icon": "inv_axe_03",
-  "dmgMin": 33,
-  "dmgMax": 51,
-  "speed": 2.4,
-  "dps": 17.5,
-  "popularity": 11,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "TWO_HANDED_AXE",
-  "type": "TWO_HAND",
-  "stats": {
-    "strength": 7,
-    "stamina": 8
-  },
-  "sourceType": "DROP"
+	"id": 12975,
+	"name": "Prospector Axe",
+	"icon": "inv_axe_03",
+	"dmgMin": 33,
+	"dmgMax": 51,
+	"speed": 2.4,
+	"dps": 17.5,
+	"popularity": 11,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "TWO_HANDED_AXE",
+	"type": "TWO_HAND",
+	"stats": { "Strength": 7, "Stamina": 8 },
+	"source": "DROP"
 }

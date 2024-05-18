@@ -1,16 +1,14 @@
 {
-  "id": 52873,
-  "name": "Darkspear Magic Weaver Tunic",
-  "icon": "inv_chest_cloth_84v4",
-  "popularity": 16,
-  "armor": 16,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "QUEST"
+	"id": 52873,
+	"name": "Darkspear Magic Weaver Tunic",
+	"icon": "inv_chest_cloth_84v4",
+	"popularity": 16,
+	"armor": 16,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Intellect": 1 },
+	"source": "QUEST"
 }

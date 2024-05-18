@@ -1,19 +1,17 @@
 {
-  "id": 1446,
-  "name": "Blackrock Boots",
-  "icon": "inv_boots_01",
-  "popularity": 5,
-  "armor": 94,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "strength": 3,
-    "stamina": 3
-  },
-  "sourceType": "DROP",
-  "sourceId": 440,
-  "sourceName": "Blackrock Grunt",
-  "sourceZone": 44
+	"id": 1446,
+	"name": "Blackrock Boots",
+	"icon": "inv_boots_01",
+	"popularity": 5,
+	"armor": 94,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Strength": 3, "Stamina": 3 },
+	"source": "DROP",
+	"sourceId": 440,
+	"sourceName": "Blackrock Grunt",
+	"sourceZone": 44,
+	"sourceType": "NPC"
 }

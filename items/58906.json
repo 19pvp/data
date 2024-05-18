@@ -1,18 +1,17 @@
 {
-  "id": 58906,
-  "name": "Equicide Cloak",
-  "icon": "inv_misc_cape_14",
-  "popularity": 4,
-  "armor": 18,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "agility": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26209,
-  "sourceName": "Murder Was The Case That They Gave Me"
+	"id": 58906,
+	"name": "Equicide Cloak",
+	"icon": "inv_misc_cape_14",
+	"popularity": 4,
+	"armor": 18,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Agility": 1 },
+	"source": "QUEST",
+	"sourceId": 26209,
+	"sourceName": "Murder Was The Case That They Gave Me",
+	"sourceType": "QUEST"
 }

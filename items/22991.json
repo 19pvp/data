@@ -1,19 +1,17 @@
 {
-  "id": 22991,
-  "name": "Apprentice Boots",
-  "icon": "inv_boots_cloth_05",
-  "popularity": 23,
-  "armor": 31,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "FEET",
-  "stats": {
-    "stamina": 1,
-    "intellect": 2
-  },
-  "sourceType": "DROP",
-  "sourceId": 12237,
-  "sourceName": "Meshlok the Harvester",
-  "sourceZone": 2100
+	"id": 22991,
+	"name": "Apprentice Boots",
+	"icon": "inv_boots_cloth_05",
+	"popularity": 23,
+	"armor": 31,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": { "Stamina": 1, "Intellect": 2 },
+	"source": "DROP",
+	"sourceId": 12237,
+	"sourceName": "Meshlok the Harvester",
+	"sourceZone": 2100,
+	"sourceType": "NPC"
 }

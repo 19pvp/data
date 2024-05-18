@@ -1,18 +1,17 @@
 {
-  "id": 24112,
-  "name": "Kurkenstoks",
-  "icon": "inv_boots_fabric_01",
-  "popularity": 58,
-  "armor": 24,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "FEET",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9571,
-  "sourceName": "The Kurken's Hide"
+	"id": 24112,
+	"name": "Kurkenstoks",
+	"icon": "inv_boots_fabric_01",
+	"popularity": 58,
+	"armor": 24,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 9571,
+	"sourceName": "The Kurken's Hide",
+	"sourceType": "QUEST"
 }

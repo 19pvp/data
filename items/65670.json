@@ -1,19 +1,17 @@
 {
-  "id": 65670,
-  "name": "Spider-Handler's Mantle",
-  "icon": "inv_shoulder_25",
-  "popularity": 6,
-  "armor": 43,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "SHOULDERS",
-  "stats": {
-    "intellect": 3,
-    "spirit": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 28114,
-  "sourceName": "Glorious Harvest"
+	"id": 65670,
+	"name": "Spider-Handler's Mantle",
+	"icon": "inv_shoulder_25",
+	"popularity": 6,
+	"armor": 43,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "SHOULDERS",
+	"stats": { "Intellect": 3, "Spirit": 3 },
+	"source": "QUEST",
+	"sourceId": 28114,
+	"sourceName": "Glorious Harvest",
+	"sourceType": "QUEST"
 }

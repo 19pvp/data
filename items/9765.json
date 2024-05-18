@@ -1,13 +1,53 @@
 {
-  "id": 9765,
-  "name": "Cadet Vest",
-  "icon": "inv_chest_chain_05",
-  "popularity": 13,
-  "armor": 114,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 9765,
+	"name": "Cadet Vest",
+	"icon": "inv_chest_chain_05",
+	"popularity": 13,
+	"armor": 114,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1182,
+			"chance": 46.1,
+			"stats": { "Stamina": 2, "Strength": 2 }
+		},
+		"of Strength": { "id": 97, "chance": 9.4, "stats": { "Strength": 4 } },
+		"of Stamina": { "id": 96, "chance": 9.2, "stats": { "Stamina": 4 } },
+		"of the Boar": {
+			"id": 1097,
+			"chance": 6.9,
+			"stats": { "Spirit": 2, "Strength": 2 }
+		},
+		"of the Whale": {
+			"id": 1012,
+			"chance": 6.4,
+			"stats": { "Spirit": 2, "Stamina": 2 }
+		},
+		"of Power": { "id": 1550, "chance": 5.6, "stats": { "Attack Power": 8 } },
+		"of the Gorilla": {
+			"id": 927,
+			"chance": 4.9,
+			"stats": { "Intellect": 2, "Strength": 2 }
+		},
+		"of the Eagle": {
+			"id": 842,
+			"chance": 4.4,
+			"stats": { "Intellect": 2, "Stamina": 2 }
+		},
+		"of the Monkey": {
+			"id": 587,
+			"chance": 3.7,
+			"stats": { "Agility": 2, "Stamina": 2 }
+		},
+		"of the Tiger": {
+			"id": 672,
+			"chance": 3.5,
+			"stats": { "Agility": 2, "Strength": 2 }
+		}
+	},
+	"source": "DROP"
 }

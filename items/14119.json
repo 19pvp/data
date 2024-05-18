@@ -1,13 +1,48 @@
 {
-  "id": 14119,
-  "name": "Aboriginal Loincloth",
-  "icon": "inv_pants_wolf",
-  "popularity": 19,
-  "armor": 44,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 14119,
+	"name": "Aboriginal Loincloth",
+	"icon": "inv_pants_wolf",
+	"popularity": 19,
+	"armor": 44,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": {},
+	"rand": {
+		"of the Owl": {
+			"id": 760,
+			"chance": 27.9,
+			"stats": { "Intellect": 3, "Spirit": 3 }
+		},
+		"of the Eagle": {
+			"id": 845,
+			"chance": 26.6,
+			"stats": { "Intellect": 3, "Stamina": 3 }
+		},
+		"of the Whale": {
+			"id": 1015,
+			"chance": 17.5,
+			"stats": { "Spirit": 3, "Stamina": 3 }
+		},
+		"of Spirit": { "id": 113, "chance": 8.3, "stats": { "Spirit": 5 } },
+		"of Intellect": { "id": 112, "chance": 5.2, "stats": { "Intellect": 5 } },
+		"of Healing": { "id": 2031, "chance": 4.1, "stats": { "Spell Power": 6 } },
+		"of Fiery Wrath": {
+			"id": 1879,
+			"chance": 4,
+			"stats": { "Fire Spell Damage": 7 }
+		},
+		"of the Monkey": {
+			"id": 590,
+			"chance": 3.4,
+			"stats": { "Agility": 3, "Stamina": 3 }
+		},
+		"of the Falcon": {
+			"id": 234,
+			"chance": 3.2,
+			"stats": { "Agility": 3, "Intellect": 3 }
+		}
+	},
+	"source": "DROP"
 }

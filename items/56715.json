@@ -1,18 +1,17 @@
 {
-  "id": 56715,
-  "name": "Oily Bracers",
-  "icon": "inv_bracer_12",
-  "popularity": 6,
-  "armor": 27,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WRISTS",
-  "stats": {
-    "intellect": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13890,
-  "sourceName": "Keep the Fires Burning"
+	"id": 56715,
+	"name": "Oily Bracers",
+	"icon": "inv_bracer_12",
+	"popularity": 6,
+	"armor": 27,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WRISTS",
+	"stats": { "Intellect": 4 },
+	"source": "QUEST",
+	"sourceId": 13890,
+	"sourceName": "Keep the Fires Burning",
+	"sourceType": "QUEST"
 }

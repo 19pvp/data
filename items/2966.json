@@ -1,15 +1,13 @@
 {
-  "id": 2966,
-  "name": "Warrior's Pants",
-  "icon": "inv_pants_03",
-  "popularity": 11,
-  "armor": 74,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "DROP"
+	"id": 2966,
+	"name": "Warrior's Pants",
+	"icon": "inv_pants_03",
+	"popularity": 11,
+	"armor": 74,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Stamina": 1 },
+	"source": "DROP"
 }

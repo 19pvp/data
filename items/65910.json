@@ -1,20 +1,17 @@
 {
-  "id": 65910,
-  "name": "Godfrey's Britches",
-  "icon": "inv_pants_08",
-  "popularity": 7,
-  "armor": 58,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "crit": 5,
-    "stamina": 7,
-    "intellect": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27968,
-  "sourceName": "Fury of the Pack"
+	"id": 65910,
+	"name": "Godfrey's Britches",
+	"icon": "inv_pants_08",
+	"popularity": 7,
+	"armor": 58,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Critical Strike Rating": 5, "Stamina": 7, "Intellect": 5 },
+	"source": "QUEST",
+	"sourceId": 27968,
+	"sourceName": "Fury of the Pack",
+	"sourceType": "QUEST"
 }

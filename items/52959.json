@@ -1,19 +1,17 @@
 {
-  "id": 52959,
-  "name": "Oystein Bracers",
-  "icon": "inv_bracer_27b",
-  "popularity": 31,
-  "armor": 37,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WRISTS",
-  "stats": {
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24945,
-  "sourceName": "Three Little Pygmies"
+	"id": 52959,
+	"name": "Oystein Bracers",
+	"icon": "inv_bracer_27b",
+	"popularity": 31,
+	"armor": 37,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WRISTS",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 24945,
+	"sourceName": "Three Little Pygmies",
+	"sourceType": "QUEST"
 }

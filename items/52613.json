@@ -1,19 +1,17 @@
 {
-  "id": 52613,
-  "name": "Morra's Gloves",
-  "icon": "inv_gauntlets_05",
-  "popularity": 9,
-  "armor": 39,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 1,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13510,
-  "sourceName": "Timely Arrival"
+	"id": 52613,
+	"name": "Morra's Gloves",
+	"icon": "inv_gauntlets_05",
+	"popularity": 9,
+	"armor": 39,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Stamina": 1, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 13510,
+	"sourceName": "Timely Arrival",
+	"sourceType": "QUEST"
 }

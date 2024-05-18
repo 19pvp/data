@@ -1,19 +1,17 @@
 {
-  "id": 23399,
-  "name": "Fallen Apprentice's Robe",
-  "icon": "inv_chest_cloth_36",
-  "popularity": 9,
-  "armor": 34,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 1,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 8890,
-  "sourceName": "Word from the Spire"
+	"id": 23399,
+	"name": "Fallen Apprentice's Robe",
+	"icon": "inv_chest_cloth_36",
+	"popularity": 9,
+	"armor": 34,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Stamina": 1, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 8890,
+	"sourceName": "Word from the Spire",
+	"sourceType": "QUEST"
 }

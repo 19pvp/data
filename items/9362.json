@@ -1,16 +1,13 @@
 {
-  "id": 9362,
-  "name": "Brilliant Gold Ring",
-  "icon": "inv_jewelry_ring_03",
-  "popularity": 8,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "stamina": 4,
-    "spirit": 4
-  },
-  "sourceType": "QUEST"
+	"id": 9362,
+	"name": "Brilliant Gold Ring",
+	"icon": "inv_jewelry_ring_03",
+	"popularity": 8,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Stamina": 4, "Spirit": 4 },
+	"source": "QUEST"
 }

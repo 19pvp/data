@@ -1,18 +1,17 @@
 {
-  "id": 26040,
-  "name": "Maatparm's Fungus Lined Bracers",
-  "icon": "inv_bracer_07",
-  "popularity": 7,
-  "armor": 45,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WRISTS",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9648,
-  "sourceName": "Maatparm Mushroom Menagerie"
+	"id": 26040,
+	"name": "Maatparm's Fungus Lined Bracers",
+	"icon": "inv_bracer_07",
+	"popularity": 7,
+	"armor": 45,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WRISTS",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 9648,
+	"sourceName": "Maatparm Mushroom Menagerie",
+	"sourceType": "QUEST"
 }

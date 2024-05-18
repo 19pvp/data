@@ -1,20 +1,17 @@
 {
-  "id": 60709,
-  "name": "Vest of the Changing Heart",
-  "icon": "inv_chest_leather_09",
-  "popularity": 4,
-  "armor": 77,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "crit": 2,
-    "stamina": 3,
-    "intellect": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26573,
-  "sourceName": "His Heart Must Be In It"
+	"id": 60709,
+	"name": "Vest of the Changing Heart",
+	"icon": "inv_chest_leather_09",
+	"popularity": 4,
+	"armor": 77,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Critical Strike Rating": 2, "Stamina": 3, "Intellect": 2 },
+	"source": "QUEST",
+	"sourceId": 26573,
+	"sourceName": "His Heart Must Be In It",
+	"sourceType": "QUEST"
 }

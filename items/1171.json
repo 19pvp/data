@@ -1,18 +1,17 @@
 {
-  "id": 1171,
-  "name": "Well-Stitched Robe",
-  "icon": "inv_chest_cloth_84",
-  "popularity": 24,
-  "armor": 34,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 59,
-  "sourceName": "Cloth and Leather Armor"
+	"id": 1171,
+	"name": "Well-Stitched Robe",
+	"icon": "inv_chest_cloth_84",
+	"popularity": 24,
+	"armor": 34,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 59,
+	"sourceName": "Cloth and Leather Armor",
+	"sourceType": "QUEST"
 }

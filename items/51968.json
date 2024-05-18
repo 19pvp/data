@@ -1,15 +1,44 @@
 {
-  "id": 51968,
-  "name": "Enumerated Wrap",
-  "icon": "inv_belt_02",
-  "popularity": 16,
-  "armor": 43,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {},
-  "sourceType": "DROP",
-  "sourceId": 51999,
-  "sourceName": "Satchel of Helpful Goods"
+	"id": 51968,
+	"name": "Enumerated Wrap",
+	"icon": "inv_belt_02",
+	"popularity": 16,
+	"armor": 43,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": {},
+	"rand": {
+		"of the Vision": {
+			"id": -53,
+			"chance": 18,
+			"stats": { "Intellect": 7, "Haste": 4, "Stamina": 2 }
+		},
+		"of the Sorcerer": {
+			"id": -36,
+			"chance": 17.4,
+			"stats": { "Stamina": 5, "Intellect": 5, "Haste": 5 }
+		},
+		"of the Sun": {
+			"id": -58,
+			"chance": 17.3,
+			"stats": { "Critical Strike Rating": 5, "Stamina": 5, "Intellect": 5 }
+		},
+		"of the Eagle": {
+			"id": 854,
+			"chance": 16.9,
+			"stats": { "Stamina": 6, "Intellect": 6 }
+		},
+		"of the Moon": {
+			"id": -59,
+			"chance": 16.3,
+			"stats": { "Intellect": 5, "Stamina": 3, "Spirit": 5 }
+		},
+		"of Stamina": { "id": 186, "chance": 14.1, "stats": { "Stamina": 10 } }
+	},
+	"source": "DROP",
+	"sourceId": 51999,
+	"sourceName": "Satchel of Helpful Goods",
+	"sourceType": "ITEM"
 }

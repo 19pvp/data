@@ -1,18 +1,15 @@
 {
-  "id": 3344,
-  "name": "Captain Sanders' Sash",
-  "icon": "inv_misc_bandana_03",
-  "popularity": 40,
-  "armor": 26,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 2,
-    "spirit": 2
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 40
+	"id": 3344,
+	"name": "Captain Sanders' Sash",
+	"icon": "inv_misc_bandana_03",
+	"popularity": 40,
+	"armor": 26,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Stamina": 2, "Spirit": 2 },
+	"source": "QUEST",
+	"sourceZone": 40
 }

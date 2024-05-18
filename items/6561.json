@@ -1,16 +1,13 @@
 {
-  "id": 6561,
-  "name": "Seer's Padded Armor",
-  "icon": "inv_shirt_02",
-  "popularity": 9,
-  "armor": 60,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 3,
-    "spirit": 6
-  },
-  "sourceType": "DROP"
+	"id": 6561,
+	"name": "Seer's Padded Armor",
+	"icon": "inv_shirt_02",
+	"popularity": 9,
+	"armor": 60,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Stamina": 3, "Spirit": 6 },
+	"source": "DROP"
 }

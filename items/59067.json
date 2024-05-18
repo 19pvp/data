@@ -1,18 +1,17 @@
 {
-  "id": 59067,
-  "name": "Floodsurge Coat",
-  "icon": "inv_misc_cape_13",
-  "popularity": 7,
-  "armor": 29,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25736,
-  "sourceName": "The Floodsurge Core"
+	"id": 59067,
+	"name": "Floodsurge Coat",
+	"icon": "inv_misc_cape_13",
+	"popularity": 7,
+	"armor": 29,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 25736,
+	"sourceName": "The Floodsurge Core",
+	"sourceType": "QUEST"
 }

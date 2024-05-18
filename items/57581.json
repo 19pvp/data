@@ -1,19 +1,17 @@
 {
-  "id": 57581,
-  "name": "Grimaxe's Black Breastplate",
-  "icon": "inv_chest_leather_07",
-  "popularity": 5,
-  "armor": 52,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26102,
-  "sourceName": "Grimaxe's Demise"
+	"id": 57581,
+	"name": "Grimaxe's Black Breastplate",
+	"icon": "inv_chest_leather_07",
+	"popularity": 5,
+	"armor": 52,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Agility": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 26102,
+	"sourceName": "Grimaxe's Demise",
+	"sourceType": "QUEST"
 }

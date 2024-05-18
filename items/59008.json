@@ -1,18 +1,17 @@
 {
-  "id": 59008,
-  "name": "Unsanitary Gloves",
-  "icon": "inv_gauntlets_27",
-  "popularity": 8,
-  "armor": 29,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {
-    "crit": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27037,
-  "sourceName": "Vyrin's Revenge"
+	"id": 59008,
+	"name": "Unsanitary Gloves",
+	"icon": "inv_gauntlets_27",
+	"popularity": 8,
+	"armor": 29,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": { "Critical Strike Rating": 3 },
+	"source": "QUEST",
+	"sourceId": 27037,
+	"sourceName": "Vyrin's Revenge",
+	"sourceType": "QUEST"
 }

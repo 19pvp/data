@@ -1,13 +1,48 @@
 {
-  "id": 14121,
-  "name": "Aboriginal Vest",
-  "icon": "inv_chest_leather_01",
-  "popularity": 13,
-  "armor": 57,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 14121,
+	"name": "Aboriginal Vest",
+	"icon": "inv_chest_leather_01",
+	"popularity": 13,
+	"armor": 57,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": {},
+	"rand": {
+		"of the Owl": {
+			"id": 763,
+			"chance": 29.9,
+			"stats": { "Intellect": 4, "Spirit": 4 }
+		},
+		"of the Eagle": {
+			"id": 848,
+			"chance": 18,
+			"stats": { "Intellect": 4, "Stamina": 4 }
+		},
+		"of the Whale": {
+			"id": 1018,
+			"chance": 15.7,
+			"stats": { "Spirit": 4, "Stamina": 4 }
+		},
+		"of Intellect": { "id": 152, "chance": 12.6, "stats": { "Intellect": 7 } },
+		"of Stamina": { "id": 154, "chance": 8.4, "stats": { "Stamina": 7 } },
+		"of Spirit": { "id": 153, "chance": 7.2, "stats": { "Spirit": 7 } },
+		"of Frozen Wrath": {
+			"id": 1957,
+			"chance": 2.8,
+			"stats": { "Frost Spell Damage": 10 }
+		},
+		"of Shadow Wrath": {
+			"id": 1843,
+			"chance": 2.8,
+			"stats": { "Shadow Spell Damage": 10 }
+		},
+		"of Arcane Wrath": {
+			"id": 1805,
+			"chance": 2.7,
+			"stats": { "Arcane Spell Damage": 10 }
+		}
+	},
+	"source": "DROP"
 }

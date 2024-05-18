@@ -1,13 +1,53 @@
 {
-  "id": 6573,
-  "name": "Defender Boots",
-  "icon": "inv_boots_plate_01",
-  "popularity": 8,
-  "armor": 110,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 6573,
+	"name": "Defender Boots",
+	"icon": "inv_boots_plate_01",
+	"popularity": 8,
+	"armor": 110,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1188,
+			"chance": 47.2,
+			"stats": { "Stamina": 4, "Strength": 4 }
+		},
+		"of the Boar": {
+			"id": 1103,
+			"chance": 10.5,
+			"stats": { "Spirit": 4, "Strength": 4 }
+		},
+		"of Stamina": { "id": 135, "chance": 9.8, "stats": { "Stamina": 6 } },
+		"of the Gorilla": {
+			"id": 933,
+			"chance": 7.9,
+			"stats": { "Intellect": 4, "Strength": 4 }
+		},
+		"of the Whale": {
+			"id": 1018,
+			"chance": 5.9,
+			"stats": { "Spirit": 4, "Stamina": 4 }
+		},
+		"of the Tiger": {
+			"id": 678,
+			"chance": 5.8,
+			"stats": { "Agility": 4, "Strength": 4 }
+		},
+		"of the Eagle": {
+			"id": 848,
+			"chance": 3.9,
+			"stats": { "Intellect": 4, "Stamina": 4 }
+		},
+		"of the Monkey": {
+			"id": 593,
+			"chance": 3.8,
+			"stats": { "Agility": 4, "Stamina": 4 }
+		},
+		"of Defense": { "id": 1609, "chance": 3.4, "stats": { "Dodge Rating": 6 } },
+		"of Dodge": { "chance": 1.9, "stats": { "Dodge Rating": 6 } }
+	},
+	"source": "DROP"
 }

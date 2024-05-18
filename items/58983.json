@@ -1,19 +1,17 @@
 {
-  "id": 58983,
-  "name": "Ironband Legguards",
-  "icon": "inv_pants_mail_05",
-  "popularity": 4,
-  "armor": 85,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "crit": 1,
-    "strength": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 309,
-  "sourceName": "Protecting the Shipment"
+	"id": 58983,
+	"name": "Ironband Legguards",
+	"icon": "inv_pants_mail_05",
+	"popularity": 4,
+	"armor": 85,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Critical Strike Rating": 1, "Strength": 1 },
+	"source": "QUEST",
+	"sourceId": 309,
+	"sourceName": "Protecting the Shipment",
+	"sourceType": "QUEST"
 }

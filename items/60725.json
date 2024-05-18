@@ -1,19 +1,17 @@
 {
-  "id": 60725,
-  "name": "Bravo Company Pauldrons",
-  "icon": "inv_shoulder_15",
-  "popularity": 7,
-  "armor": 107,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "SHOULDERS",
-  "stats": {
-    "strength": 3,
-    "stamina": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26708,
-  "sourceName": "AHHHHHHHHHHHH! AHHHHHHHHH!!!"
+	"id": 60725,
+	"name": "Bravo Company Pauldrons",
+	"icon": "inv_shoulder_15",
+	"popularity": 7,
+	"armor": 107,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "SHOULDERS",
+	"stats": { "Strength": 3, "Stamina": 4 },
+	"source": "QUEST",
+	"sourceId": 26708,
+	"sourceName": "AHHHHHHHHHHHH! AHHHHHHHHH!!!",
+	"sourceType": "QUEST"
 }

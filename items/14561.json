@@ -1,16 +1,13 @@
 {
-  "id": 14561,
-  "name": "Prospector's Cuffs",
-  "icon": "inv_bracer_07",
-  "popularity": 6,
-  "armor": 34,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "agility": 2,
-    "stamina": 1
-  },
-  "sourceType": "DROP"
+	"id": 14561,
+	"name": "Prospector's Cuffs",
+	"icon": "inv_bracer_07",
+	"popularity": 6,
+	"armor": 34,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Agility": 2, "Stamina": 1 },
+	"source": "DROP"
 }

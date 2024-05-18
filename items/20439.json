@@ -1,21 +1,18 @@
 {
-  "id": 20439,
-  "name": "Protector's Band",
-  "icon": "inv_jewelry_ring_10",
-  "popularity": 17,
-  "armor": 0,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "strength": 4,
-    "agility": 4,
-    "stamina": 2
-  },
-  "sourceType": "VENDOR",
-  "sourceId": 14753,
-  "sourceName": "Illiyana Moonblaze",
-  "sourceZone": 331
+	"id": 20439,
+	"name": "Protector's Band",
+	"icon": "inv_jewelry_ring_10",
+	"popularity": 17,
+	"armor": 0,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Strength": 4, "Agility": 4, "Stamina": 2 },
+	"source": "VENDOR",
+	"sourceId": 14753,
+	"sourceName": "Illiyana Moonblaze",
+	"sourceZone": 331,
+	"sourceType": "NPC"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 62837,
-  "name": "Nubish Cloak",
-  "icon": "inv_misc_cape_14",
-  "popularity": 4,
-  "armor": 18,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "agility": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26989,
-  "sourceName": "The Gilneas Liberation Front"
+	"id": 62837,
+	"name": "Nubish Cloak",
+	"icon": "inv_misc_cape_14",
+	"popularity": 4,
+	"armor": 18,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Agility": 1 },
+	"source": "QUEST",
+	"sourceId": 26989,
+	"sourceName": "The Gilneas Liberation Front",
+	"sourceType": "QUEST"
 }

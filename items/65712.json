@@ -1,19 +1,17 @@
 {
-  "id": 65712,
-  "name": "Citizen Wilkes' Ring",
-  "icon": "inv_jewelry_ring_12",
-  "popularity": 7,
-  "armor": 0,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "agility": 3,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 28197,
-  "sourceName": "Discretion is Key"
+	"id": 65712,
+	"name": "Citizen Wilkes' Ring",
+	"icon": "inv_jewelry_ring_12",
+	"popularity": 7,
+	"armor": 0,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Agility": 3, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 28197,
+	"sourceName": "Discretion is Key",
+	"sourceType": "QUEST"
 }

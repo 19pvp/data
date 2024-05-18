@@ -1,20 +1,17 @@
 {
-  "id": 59562,
-  "name": "Dividend Leggings",
-  "icon": "inv_pants_03",
-  "popularity": 15,
-  "armor": 115,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "hit": 4,
-    "strength": 4,
-    "stamina": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14050,
-  "sourceName": "Gazlowe's Fortune"
+	"id": 59562,
+	"name": "Dividend Leggings",
+	"icon": "inv_pants_03",
+	"popularity": 15,
+	"armor": 115,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Hit Rating": 4, "Strength": 4, "Stamina": 4 },
+	"source": "QUEST",
+	"sourceId": 14050,
+	"sourceName": "Gazlowe's Fortune",
+	"sourceType": "QUEST"
 }

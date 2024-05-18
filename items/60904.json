@@ -1,19 +1,17 @@
 {
-  "id": 60904,
-  "name": "Ring of the Fool",
-  "icon": "inv_jewelry_ring_03",
-  "popularity": 5,
-  "armor": 0,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "strength": 2,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26676,
-  "sourceName": "Juice Delivery"
+	"id": 60904,
+	"name": "Ring of the Fool",
+	"icon": "inv_jewelry_ring_03",
+	"popularity": 5,
+	"armor": 0,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Strength": 2, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 26676,
+	"sourceName": "Juice Delivery",
+	"sourceType": "QUEST"
 }

@@ -1,15 +1,13 @@
 {
-  "id": 2957,
-  "name": "Journeyman's Vest",
-  "icon": "inv_chest_cloth_06",
-  "popularity": 12,
-  "armor": 37,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "spirit": 2
-  },
-  "sourceType": "DROP"
+	"id": 2957,
+	"name": "Journeyman's Vest",
+	"icon": "inv_chest_cloth_06",
+	"popularity": 12,
+	"armor": 37,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Spirit": 2 },
+	"source": "DROP"
 }

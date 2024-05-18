@@ -1,19 +1,17 @@
 {
-  "id": 65671,
-  "name": "Cue Cue Gloves",
-  "icon": "inv_gauntlets_20",
-  "popularity": 4,
-  "armor": 55,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "agility": 3,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 28096,
-  "sourceName": "Welcome to the Machine"
+	"id": 65671,
+	"name": "Cue Cue Gloves",
+	"icon": "inv_gauntlets_20",
+	"popularity": 4,
+	"armor": 55,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Agility": 3, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 28096,
+	"sourceName": "Welcome to the Machine",
+	"sourceType": "QUEST"
 }

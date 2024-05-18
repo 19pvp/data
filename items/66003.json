@@ -1,19 +1,16 @@
 {
-  "id": 66003,
-  "name": "Pythas' Vest",
-  "icon": "inv_chest_chain_17",
-  "popularity": 10,
-  "armor": 164,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "crit": 5,
-    "strength": 5,
-    "stamina": 7
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26870,
-  "sourceName": "Cleansing the Caverns"
+	"id": 66003,
+	"name": "Pythas' Vest",
+	"icon": "inv_chest_chain_17",
+	"popularity": 10,
+	"armor": 164,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Critical Strike Rating": 5, "Strength": 5, "Stamina": 7 },
+	"source": "QUEST",
+	"sourceId": 26870,
+	"sourceName": "Cleansing the Caverns",
+	"sourceType": "QUEST"
 }

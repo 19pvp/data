@@ -1,0 +1,30 @@
+{
+	"id": "864",
+	"icon": "inv_sword_27",
+	"dmgMin": 21,
+	"dmgMax": 40,
+	"speed": 1.5,
+	"dps": 20.33,
+	"quality": "UNCOMMON",
+	"stats": {},
+	"rand": {
+		"of the Monkey": {
+			"id": 593,
+			"chance": 27.6,
+			"stats": { "Agility": 4, "Stamina": 4 }
+		},
+		"of the Bear": {
+			"id": 1188,
+			"chance": 27.4,
+			"stats": { "Stamina": 4, "Strength": 4 }
+		},
+		"of the Tiger": {
+			"id": 678,
+			"chance": 26.9,
+			"stats": { "Agility": 4, "Strength": 4 }
+		},
+		"of Power": { "id": 1553, "chance": 6.7, "stats": { "Attack Power": 14 } },
+		"of Stamina": { "id": 154, "chance": 5.8, "stats": { "Stamina": 7 } },
+		"of Strength": { "id": 155, "chance": 5.6, "stats": { "Strength": 7 } }
+	}
+}

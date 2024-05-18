@@ -1,19 +1,16 @@
 {
-  "id": 6721,
-  "name": "Chestplate of Kor",
-  "icon": "inv_chest_leather_05",
-  "popularity": 7,
-  "armor": 166,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "hit": 4,
-    "strength": 4,
-    "stamina": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 976,
-  "sourceName": "Supplies to Auberdine"
+	"id": 6721,
+	"name": "Chestplate of Kor",
+	"icon": "inv_chest_leather_05",
+	"popularity": 7,
+	"armor": 166,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Hit Rating": 4, "Strength": 4, "Stamina": 4 },
+	"source": "QUEST",
+	"sourceId": 976,
+	"sourceName": "Supplies to Auberdine",
+	"sourceType": "QUEST"
 }

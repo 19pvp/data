@@ -1,20 +1,17 @@
 {
-  "id": 66029,
-  "name": "Shadowfang Spaulders",
-  "icon": "inv_shoulder_13",
-  "popularity": 8,
-  "armor": 75,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "SHOULDERS",
-  "stats": {
-    "crit": 4,
-    "agility": 4,
-    "stamina": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27998,
-  "sourceName": "Sweet, Merciless Revenge"
+	"id": 66029,
+	"name": "Shadowfang Spaulders",
+	"icon": "inv_shoulder_13",
+	"popularity": 8,
+	"armor": 75,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "SHOULDERS",
+	"stats": { "Critical Strike Rating": 4, "Agility": 4, "Stamina": 5 },
+	"source": "QUEST",
+	"sourceId": 27998,
+	"sourceName": "Sweet, Merciless Revenge",
+	"sourceType": "QUEST"
 }

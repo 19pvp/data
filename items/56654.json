@@ -1,18 +1,17 @@
 {
-  "id": 56654,
-  "name": "Heartwise Boon",
-  "icon": "inv_gauntlets_30",
-  "popularity": 24,
-  "armor": 97,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "strength": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13644,
-  "sourceName": "That Which Has Risen"
+	"id": 56654,
+	"name": "Heartwise Boon",
+	"icon": "inv_gauntlets_30",
+	"popularity": 24,
+	"armor": 97,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Strength": 5 },
+	"source": "QUEST",
+	"sourceId": 13644,
+	"sourceName": "That Which Has Risen",
+	"sourceType": "QUEST"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 28150,
-  "name": "Renzithen's Dusty Cloak",
-  "icon": "inv_misc_cape_04",
-  "popularity": 10,
-  "armor": 21,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9149,
-  "sourceName": "The Plagued Coast"
+	"id": 28150,
+	"name": "Renzithen's Dusty Cloak",
+	"icon": "inv_misc_cape_04",
+	"popularity": 10,
+	"armor": 21,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 9149,
+	"sourceName": "The Plagued Coast",
+	"sourceType": "QUEST"
 }

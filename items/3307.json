@@ -1,16 +1,13 @@
 {
-  "id": 3307,
-  "name": "Barbaric Cloth Boots",
-  "icon": "inv_boots_05",
-  "popularity": 7,
-  "armor": 31,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "FEET",
-  "stats": {
-    "stamina": 1,
-    "intellect": 2
-  },
-  "sourceType": "DROP"
+	"id": 3307,
+	"name": "Barbaric Cloth Boots",
+	"icon": "inv_boots_05",
+	"popularity": 7,
+	"armor": 31,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": { "Stamina": 1, "Intellect": 2 },
+	"source": "DROP"
 }

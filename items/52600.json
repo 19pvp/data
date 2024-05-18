@@ -1,19 +1,17 @@
 {
-  "id": 52600,
-  "name": "Oblivious Leggings",
-  "icon": "inv_pants_07",
-  "popularity": 8,
-  "armor": 71,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "agility": 3,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13911,
-  "sourceName": "The Absent-Minded Prospector"
+	"id": 52600,
+	"name": "Oblivious Leggings",
+	"icon": "inv_pants_07",
+	"popularity": 8,
+	"armor": 71,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Agility": 3, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 13911,
+	"sourceName": "The Absent-Minded Prospector",
+	"sourceType": "QUEST"
 }

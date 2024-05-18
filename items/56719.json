@@ -1,19 +1,17 @@
 {
-  "id": 56719,
-  "name": "Pilfered Kaldorei Belt",
-  "icon": "inv_belt_37",
-  "popularity": 5,
-  "armor": 53,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "agility": 3,
-    "stamina": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13871,
-  "sourceName": "Security!"
+	"id": 56719,
+	"name": "Pilfered Kaldorei Belt",
+	"icon": "inv_belt_37",
+	"popularity": 5,
+	"armor": 53,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Agility": 3, "Stamina": 4 },
+	"source": "QUEST",
+	"sourceId": 13871,
+	"sourceName": "Security!",
+	"sourceType": "QUEST"
 }

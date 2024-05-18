@@ -1,19 +1,17 @@
 {
-  "id": 28160,
-  "name": "An'telas Scale Shirt",
-  "icon": "inv_chest_chain_12",
-  "popularity": 10,
-  "armor": 120,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "strength": 3,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9169,
-  "sourceName": "Deactivate An'owyn"
+	"id": 28160,
+	"name": "An'telas Scale Shirt",
+	"icon": "inv_chest_chain_12",
+	"popularity": 10,
+	"armor": 120,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Strength": 3, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 9169,
+	"sourceName": "Deactivate An'owyn",
+	"sourceType": "QUEST"
 }

@@ -1,16 +1,13 @@
 {
-  "id": 6383,
-  "name": "Forest Buckler",
-  "icon": "inv_shield_09",
-  "popularity": 14,
-  "armor": 683,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "stamina": 2,
-    "intellect": 4
-  },
-  "sourceType": "DROP"
+	"id": 6383,
+	"name": "Forest Buckler",
+	"icon": "inv_shield_09",
+	"popularity": 14,
+	"armor": 683,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Stamina": 2, "Intellect": 4 },
+	"source": "DROP"
 }

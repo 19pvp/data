@@ -1,16 +1,57 @@
 {
-  "id": 4570,
-  "name": "Birchwood Maul",
-  "icon": "inv_hammer_15",
-  "dmgMin": 26,
-  "dmgMax": 40,
-  "speed": 3.3,
-  "dps": 10,
-  "popularity": 21,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "TWO_HANDED_MACE",
-  "type": "TWO_HAND",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 4570,
+	"name": "Birchwood Maul",
+	"icon": "inv_hammer_15",
+	"dmgMin": 26,
+	"dmgMax": 40,
+	"speed": 3.3,
+	"dps": 10,
+	"popularity": 21,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "TWO_HANDED_MACE",
+	"type": "TWO_HAND",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1182,
+			"chance": 12,
+			"stats": { "Stamina": 2, "Strength": 2 }
+		},
+		"of the Whale": {
+			"id": 1012,
+			"chance": 11.9,
+			"stats": { "Spirit": 2, "Stamina": 2 }
+		},
+		"of the Gorilla": {
+			"id": 927,
+			"chance": 11.1,
+			"stats": { "Intellect": 2, "Strength": 2 }
+		},
+		"of the Monkey": {
+			"id": 587,
+			"chance": 11,
+			"stats": { "Agility": 2, "Stamina": 2 }
+		},
+		"of the Tiger": {
+			"id": 672,
+			"chance": 11,
+			"stats": { "Agility": 2, "Strength": 2 }
+		},
+		"of the Eagle": {
+			"id": 842,
+			"chance": 10.9,
+			"stats": { "Intellect": 2, "Stamina": 2 }
+		},
+		"of the Boar": {
+			"id": 1097,
+			"chance": 10.5,
+			"stats": { "Spirit": 2, "Strength": 2 }
+		},
+		"of Stamina": { "id": 96, "chance": 7.2, "stats": { "Stamina": 4 } },
+		"of Spirit": { "id": 95, "chance": 5.9, "stats": { "Spirit": 4 } },
+		"of Strength": { "id": 97, "chance": 5.9, "stats": { "Strength": 4 } },
+		"of Power": { "id": 1550, "chance": 2.7, "stats": { "Attack Power": 8 } }
+	},
+	"source": "DROP"
 }

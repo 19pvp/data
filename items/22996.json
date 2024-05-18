@@ -1,19 +1,17 @@
 {
-  "id": 22996,
-  "name": "Reforged Quel'dorei Crest",
-  "icon": "inv_shield_05",
-  "popularity": 24,
-  "armor": 587,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "strength": 2,
-    "stamina": 2
-  },
-  "sourceType": "DROP",
-  "sourceId": 13282,
-  "sourceName": "Noxxion",
-  "sourceZone": 2100
+	"id": 22996,
+	"name": "Reforged Quel'dorei Crest",
+	"icon": "inv_shield_05",
+	"popularity": 24,
+	"armor": 587,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Strength": 2, "Stamina": 2 },
+	"source": "DROP",
+	"sourceId": 13282,
+	"sourceName": "Noxxion",
+	"sourceZone": 2100,
+	"sourceType": "NPC"
 }

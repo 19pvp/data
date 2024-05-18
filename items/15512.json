@@ -1,13 +1,50 @@
 {
-  "id": 15512,
-  "name": "Grunt's Shield",
-  "icon": "inv_shield_11",
-  "popularity": 5,
-  "armor": 683,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 15512,
+	"name": "Grunt's Shield",
+	"icon": "inv_shield_11",
+	"popularity": 5,
+	"armor": 683,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1185,
+			"chance": 20.6,
+			"stats": { "Stamina": 3, "Strength": 3 }
+		},
+		"of the Monkey": {
+			"id": 590,
+			"chance": 15.9,
+			"stats": { "Agility": 3, "Stamina": 3 }
+		},
+		"of Agility": { "id": 111, "chance": 15.2, "stats": { "Agility": 5 } },
+		"of the Tiger": {
+			"id": 675,
+			"chance": 12,
+			"stats": { "Agility": 3, "Strength": 3 }
+		},
+		"of the Gorilla": {
+			"id": 930,
+			"chance": 7.8,
+			"stats": { "Intellect": 3, "Strength": 3 }
+		},
+		"of Stamina": { "id": 114, "chance": 7.7, "stats": { "Stamina": 5 } },
+		"of the Boar": {
+			"id": 1100,
+			"chance": 7.1,
+			"stats": { "Spirit": 3, "Strength": 3 }
+		},
+		"of Strength": { "id": 115, "chance": 7.1, "stats": { "Strength": 5 } },
+		"of Blocking": {
+			"id": 1654,
+			"chance": 3.4,
+			"stats": { "Block Rating": 5, "Strength": 4 }
+		},
+		"of Defense": { "id": 147, "chance": 1.9, "stats": { "Dodge Rating": 5 } },
+		"of Dodge": { "chance": 1.1, "stats": { "Dodge Rating": 5 } }
+	},
+	"source": "DROP"
 }

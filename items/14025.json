@@ -1,16 +1,13 @@
 {
-  "id": 14025,
-  "name": "Mystic's Belt",
-  "icon": "inv_belt_26",
-  "popularity": 6,
-  "armor": 28,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "intellect": 2,
-    "spirit": 2
-  },
-  "sourceType": "DROP"
+	"id": 14025,
+	"name": "Mystic's Belt",
+	"icon": "inv_belt_26",
+	"popularity": 6,
+	"armor": 28,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Intellect": 2, "Spirit": 2 },
+	"source": "DROP"
 }

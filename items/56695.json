@@ -1,18 +1,15 @@
 {
-  "id": 56695,
-  "name": "Wolfrunner Boots",
-  "icon": "inv_boots_chain_04",
-  "popularity": 5,
-  "armor": 118,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "stamina": 3,
-    "intellect": 2
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 331
+	"id": 56695,
+	"name": "Wolfrunner Boots",
+	"icon": "inv_boots_chain_04",
+	"popularity": 5,
+	"armor": 118,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Stamina": 3, "Intellect": 2 },
+	"source": "QUEST",
+	"sourceZone": 331
 }

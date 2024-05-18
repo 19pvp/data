@@ -1,26 +1,24 @@
 {
-  "id": 65667,
-  "name": "Shovel of Mercy",
-  "icon": "inv_misc_shovel_01",
-  "dmgMin": 18,
-  "dmgMax": 34,
-  "speed": 2.6,
-  "dps": 10,
-  "popularity": 141,
-  "side": "HORDE",
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "ONE_HANDED_MACE",
-  "type": "ONE_HAND",
-  "stats": {
-    "strength": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 28189,
-  "sourceName": "Do the Right Thing",
-  "use": {
-    "spell": 89089,
-    "text": "Bashes in the skull of a Human Seedling. Do the right thing, buddy! (3 Sec Cooldown)"
-  }
+	"id": 65667,
+	"name": "Shovel of Mercy",
+	"icon": "inv_misc_shovel_01",
+	"dmgMin": 18,
+	"dmgMax": 34,
+	"speed": 2.6,
+	"dps": 10,
+	"popularity": 141,
+	"side": "HORDE",
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "ONE_HANDED_MACE",
+	"type": "ONE_HAND",
+	"stats": { "Strength": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 28189,
+	"sourceName": "Do the Right Thing",
+	"sourceType": "QUEST",
+	"use": {
+		"spell": 89089,
+		"text": "Bashes in the skull of a Human Seedling. Do the right thing, buddy! (3 Sec Cooldown)"
+	}
 }

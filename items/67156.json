@@ -1,19 +1,17 @@
 {
-  "id": 67156,
-  "name": "Girdle of Servitude",
-  "icon": "inv_belt_45c",
-  "popularity": 4,
-  "armor": 54,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25267,
-  "sourceName": "Message for Garrosh"
+	"id": 67156,
+	"name": "Girdle of Servitude",
+	"icon": "inv_belt_45c",
+	"popularity": 4,
+	"armor": 54,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 25267,
+	"sourceName": "Message for Garrosh",
+	"sourceType": "QUEST"
 }

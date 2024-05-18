@@ -1,19 +1,17 @@
 {
-  "id": 62844,
-  "name": "Suppository Preventors",
-  "icon": "inv_pants_01",
-  "popularity": 8,
-  "armor": 34,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 1,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27088,
-  "sourceName": "It's Only Poisonous if You Ingest It"
+	"id": 62844,
+	"name": "Suppository Preventors",
+	"icon": "inv_pants_01",
+	"popularity": 8,
+	"armor": 34,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Stamina": 1, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 27088,
+	"sourceName": "It's Only Poisonous if You Ingest It",
+	"sourceType": "QUEST"
 }

@@ -1,15 +1,13 @@
 {
-  "id": 3302,
-  "name": "Brackwater Boots",
-  "icon": "inv_boots_03",
-  "popularity": 6,
-  "armor": 78,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "stamina": 3
-  },
-  "sourceType": "DROP"
+	"id": 3302,
+	"name": "Brackwater Boots",
+	"icon": "inv_boots_03",
+	"popularity": 6,
+	"armor": 78,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Stamina": 3 },
+	"source": "DROP"
 }

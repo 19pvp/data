@@ -1,19 +1,17 @@
 {
-  "id": 65714,
-  "name": "\"Jenny's\" Gloves",
-  "icon": "inv_gauntlets_31",
-  "popularity": 8,
-  "armor": 93,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "crit": 3,
-    "strength": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 28231,
-  "sourceName": "Do it for Twinkles"
+	"id": 65714,
+	"name": "\"Jenny's\" Gloves",
+	"icon": "inv_gauntlets_31",
+	"popularity": 8,
+	"armor": 93,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Critical Strike Rating": 3, "Strength": 3 },
+	"source": "QUEST",
+	"sourceId": 28231,
+	"sourceName": "Do it for Twinkles",
+	"sourceType": "QUEST"
 }

@@ -1,20 +1,17 @@
 {
-  "id": 58912,
-  "name": "Sentinel Hill Surcoat",
-  "icon": "inv_chest_cloth_30",
-  "popularity": 4,
-  "armor": 41,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "hit": 1,
-    "stamina": 2,
-    "intellect": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26286,
-  "sourceName": "In Defense of Westfall"
+	"id": 58912,
+	"name": "Sentinel Hill Surcoat",
+	"icon": "inv_chest_cloth_30",
+	"popularity": 4,
+	"armor": 41,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Hit Rating": 1, "Stamina": 2, "Intellect": 2 },
+	"source": "QUEST",
+	"sourceId": 26286,
+	"sourceName": "In Defense of Westfall",
+	"sourceType": "QUEST"
 }

@@ -1,18 +1,16 @@
 {
-  "id": 62887,
-  "name": "Bracers of the Million Gold Man",
-  "icon": "inv_bracer_05",
-  "popularity": 4,
-  "armor": 37,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "agility": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27575,
-  "sourceName": "From the Belly of the Beast"
+	"id": 62887,
+	"name": "Bracers of the Million Gold Man",
+	"icon": "inv_bracer_05",
+	"popularity": 4,
+	"armor": 37,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Agility": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 27575,
+	"sourceName": "From the Belly of the Beast",
+	"sourceType": "QUEST"
 }

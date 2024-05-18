@@ -1,17 +1,14 @@
 {
-  "id": 24120,
-  "name": "Seal of Argas",
-  "icon": "inv_jewelry_ring_08",
-  "popularity": 40,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "stamina": 5,
-    "intellect": 6
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 331
+	"id": 24120,
+	"name": "Seal of Argas",
+	"icon": "inv_jewelry_ring_08",
+	"popularity": 40,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Stamina": 5, "Intellect": 6 },
+	"source": "QUEST",
+	"sourceZone": 331
 }

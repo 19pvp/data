@@ -1,19 +1,17 @@
 {
-  "id": 57522,
-  "name": "McCree's Sparring Gloves",
-  "icon": "inv_gauntlets_21",
-  "popularity": 5,
-  "armor": 33,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 147,
-  "sourceName": "Manhunt"
+	"id": 57522,
+	"name": "McCree's Sparring Gloves",
+	"icon": "inv_gauntlets_21",
+	"popularity": 5,
+	"armor": 33,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Agility": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 147,
+	"sourceName": "Manhunt",
+	"sourceType": "QUEST"
 }

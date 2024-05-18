@@ -1,20 +1,17 @@
 {
-  "id": 60907,
-  "name": "Sparkmetal Bracers",
-  "icon": "inv_bracer_30c",
-  "popularity": 11,
-  "armor": 74,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "MAIL",
-  "type": "WRISTS",
-  "stats": {
-    "hit": 2,
-    "strength": 4,
-    "stamina": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26727,
-  "sourceName": "The Embalmer's Revenge"
+	"id": 60907,
+	"name": "Sparkmetal Bracers",
+	"icon": "inv_bracer_30c",
+	"popularity": 11,
+	"armor": 74,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "MAIL",
+	"type": "WRISTS",
+	"stats": { "Hit Rating": 2, "Strength": 4, "Stamina": 5 },
+	"source": "QUEST",
+	"sourceId": 26727,
+	"sourceName": "The Embalmer's Revenge",
+	"sourceType": "QUEST"
 }

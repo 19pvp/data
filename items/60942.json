@@ -1,20 +1,17 @@
 {
-  "id": 60942,
-  "name": "Watch Master's Breastplate",
-  "icon": "inv_chest_cloth_45",
-  "popularity": 6,
-  "armor": 109,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "crit": 4,
-    "stamina": 6,
-    "intellect": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26686,
-  "sourceName": "Bones That Walk"
+	"id": 60942,
+	"name": "Watch Master's Breastplate",
+	"icon": "inv_chest_cloth_45",
+	"popularity": 6,
+	"armor": 109,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Critical Strike Rating": 4, "Stamina": 6, "Intellect": 4 },
+	"source": "QUEST",
+	"sourceId": 26686,
+	"sourceName": "Bones That Walk",
+	"sourceType": "QUEST"
 }

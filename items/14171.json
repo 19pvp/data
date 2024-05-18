@@ -1,13 +1,48 @@
 {
-  "id": 14171,
-  "name": "Buccaneer's Pants",
-  "icon": "inv_pants_06",
-  "popularity": 20,
-  "armor": 54,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 14171,
+	"name": "Buccaneer's Pants",
+	"icon": "inv_pants_06",
+	"popularity": 20,
+	"armor": 54,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": {},
+	"rand": {
+		"of the Owl": {
+			"id": 766,
+			"chance": 28.7,
+			"stats": { "Intellect": 5, "Spirit": 5 }
+		},
+		"of the Eagle": {
+			"id": 851,
+			"chance": 26.3,
+			"stats": { "Intellect": 5, "Stamina": 5 }
+		},
+		"of the Whale": {
+			"id": 1021,
+			"chance": 16.9,
+			"stats": { "Spirit": 5, "Stamina": 5 }
+		},
+		"of Spirit": { "id": 179, "chance": 9.2, "stats": { "Spirit": 8 } },
+		"of Intellect": { "id": 152, "chance": 4.5, "stats": { "Intellect": 7 } },
+		"of Healing": { "chance": 3.8, "stats": { "Spell Power": 9 } },
+		"of Fiery Wrath": {
+			"id": 1882,
+			"chance": 3.7,
+			"stats": { "Fire Spell Damage": 11 }
+		},
+		"of the Falcon": {
+			"id": 247,
+			"chance": 3.6,
+			"stats": { "Agility": 5, "Intellect": 5 }
+		},
+		"of the Monkey": {
+			"id": 596,
+			"chance": 3.1,
+			"stats": { "Agility": 5, "Stamina": 5 }
+		}
+	},
+	"source": "DROP"
 }

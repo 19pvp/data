@@ -1,18 +1,17 @@
 {
-  "id": 59535,
-  "name": "Togrik's Legguards",
-  "icon": "inv_pants_mail_05",
-  "popularity": 8,
-  "armor": 85,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "strength": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13968,
-  "sourceName": "The Tortusk Takedown"
+	"id": 59535,
+	"name": "Togrik's Legguards",
+	"icon": "inv_pants_mail_05",
+	"popularity": 8,
+	"armor": 85,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Strength": 2 },
+	"source": "QUEST",
+	"sourceId": 13968,
+	"sourceName": "The Tortusk Takedown",
+	"sourceType": "QUEST"
 }

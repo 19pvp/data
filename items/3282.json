@@ -1,16 +1,13 @@
 {
-  "id": 3282,
-  "name": "Battle Chain Pants",
-  "icon": "inv_pants_03",
-  "popularity": 37,
-  "armor": 85,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "DROP"
+	"id": 3282,
+	"name": "Battle Chain Pants",
+	"icon": "inv_pants_03",
+	"popularity": 37,
+	"armor": 85,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "DROP"
 }

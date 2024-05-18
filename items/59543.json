@@ -1,19 +1,17 @@
 {
-  "id": 59543,
-  "name": "Pigman Belt",
-  "icon": "inv_belt_05",
-  "popularity": 13,
-  "armor": 33,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 872,
-  "sourceName": "The Far Watch Offensive"
+	"id": 59543,
+	"name": "Pigman Belt",
+	"icon": "inv_belt_05",
+	"popularity": 13,
+	"armor": 33,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Agility": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 872,
+	"sourceName": "The Far Watch Offensive",
+	"sourceType": "QUEST"
 }

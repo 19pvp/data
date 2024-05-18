@@ -1,18 +1,17 @@
 {
-  "id": 57571,
-  "name": "Archaeologist's Pants",
-  "icon": "inv_pants_01",
-  "popularity": 6,
-  "armor": 30,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25937,
-  "sourceName": "Priceless Treasures"
+	"id": 57571,
+	"name": "Archaeologist's Pants",
+	"icon": "inv_pants_01",
+	"popularity": 6,
+	"armor": 30,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 25937,
+	"sourceName": "Priceless Treasures",
+	"sourceType": "QUEST"
 }

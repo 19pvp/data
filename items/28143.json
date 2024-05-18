@@ -1,19 +1,17 @@
 {
-  "id": 28143,
-  "name": "Rusted Chain Girdle",
-  "icon": "inv_belt_03",
-  "popularity": 13,
-  "armor": 64,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {
-    "strength": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9159,
-  "sourceName": "Curbing the Plague"
+	"id": 28143,
+	"name": "Rusted Chain Girdle",
+	"icon": "inv_belt_03",
+	"popularity": 13,
+	"armor": 64,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": { "Strength": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 9159,
+	"sourceName": "Curbing the Plague",
+	"sourceType": "QUEST"
 }

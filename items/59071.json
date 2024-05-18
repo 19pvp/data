@@ -1,19 +1,17 @@
 {
-  "id": 59071,
-  "name": "Bad Belt",
-  "icon": "inv_belt_37b",
-  "popularity": 5,
-  "armor": 49,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 4,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25727,
-  "sourceName": "Drungeld Glowerglare"
+	"id": 59071,
+	"name": "Bad Belt",
+	"icon": "inv_belt_37b",
+	"popularity": 5,
+	"armor": 49,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Stamina": 4, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 25727,
+	"sourceName": "Drungeld Glowerglare",
+	"sourceType": "QUEST"
 }

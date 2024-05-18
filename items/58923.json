@@ -1,20 +1,17 @@
 {
-  "id": 58923,
-  "name": "Gregorky's Bracers",
-  "icon": "inv_bracer_27a",
-  "popularity": 23,
-  "armor": 47,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WRISTS",
-  "stats": {
-    "hit": 1,
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26296,
-  "sourceName": "Evidence Collection"
+	"id": 58923,
+	"name": "Gregorky's Bracers",
+	"icon": "inv_bracer_27a",
+	"popularity": 23,
+	"armor": 47,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WRISTS",
+	"stats": { "Hit Rating": 1, "Strength": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 26296,
+	"sourceName": "Evidence Collection",
+	"sourceType": "QUEST"
 }

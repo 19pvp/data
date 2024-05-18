@@ -1,19 +1,17 @@
 {
-  "id": 1560,
-  "name": "Bluegill Sandals",
-  "icon": "inv_boots_fabric_01",
-  "popularity": 10,
-  "armor": 41,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "FEET",
-  "stats": {
-    "intellect": 2,
-    "spirit": 4
-  },
-  "sourceType": "DROP",
-  "sourceId": 1025,
-  "sourceName": "Bluegill Puddlejumper",
-  "sourceZone": 11
+	"id": 1560,
+	"name": "Bluegill Sandals",
+	"icon": "inv_boots_fabric_01",
+	"popularity": 10,
+	"armor": 41,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": { "Intellect": 2, "Spirit": 4 },
+	"source": "DROP",
+	"sourceId": 1025,
+	"sourceName": "Bluegill Puddlejumper",
+	"sourceZone": 11,
+	"sourceType": "NPC"
 }

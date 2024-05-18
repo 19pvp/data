@@ -1,19 +1,17 @@
 {
-  "id": 59586,
-  "name": "Gloves of Unfocused Rage",
-  "icon": "inv_gauntlets_05",
-  "popularity": 16,
-  "armor": 53,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "agility": 3,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 852,
-  "sourceName": "Hezrul Bloodmark"
+	"id": 59586,
+	"name": "Gloves of Unfocused Rage",
+	"icon": "inv_gauntlets_05",
+	"popularity": 16,
+	"armor": 53,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Agility": 3, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 852,
+	"sourceName": "Hezrul Bloodmark",
+	"sourceType": "QUEST"
 }

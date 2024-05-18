@@ -1,19 +1,17 @@
 {
-  "id": 26005,
-  "name": "Maatparm's Fungus Lined Tunic",
-  "icon": "inv_shirt_07",
-  "popularity": 31,
-  "armor": 48,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 2,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9649,
-  "sourceName": "Ysera's Tears"
+	"id": 26005,
+	"name": "Maatparm's Fungus Lined Tunic",
+	"icon": "inv_shirt_07",
+	"popularity": 31,
+	"armor": 48,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Stamina": 2, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 9649,
+	"sourceName": "Ysera's Tears",
+	"sourceType": "QUEST"
 }

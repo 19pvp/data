@@ -1,20 +1,17 @@
 {
-  "id": 53442,
-  "name": "Shield of Azsharan Conquest",
-  "icon": "inv_shield_09",
-  "popularity": 14,
-  "armor": 672,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "hit": 3,
-    "strength": 3,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24439,
-  "sourceName": "The Conquest of Azshara"
+	"id": 53442,
+	"name": "Shield of Azsharan Conquest",
+	"icon": "inv_shield_09",
+	"popularity": 14,
+	"armor": 672,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Hit Rating": 3, "Strength": 3, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 24439,
+	"sourceName": "The Conquest of Azshara",
+	"sourceType": "QUEST"
 }

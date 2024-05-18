@@ -1,17 +1,14 @@
 {
-  "id": 1448,
-  "name": "Blackrock Gauntlets",
-  "icon": "inv_gauntlets_04",
-  "popularity": 4,
-  "armor": 89,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "strength": 3,
-    "agility": 3
-  },
-  "sourceType": "DROP",
-  "sourceZone": 44
+	"id": 1448,
+	"name": "Blackrock Gauntlets",
+	"icon": "inv_gauntlets_04",
+	"popularity": 4,
+	"armor": 89,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Strength": 3, "Agility": 3 },
+	"source": "DROP",
+	"sourceZone": 44
 }

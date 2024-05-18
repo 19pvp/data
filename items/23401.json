@@ -1,19 +1,17 @@
 {
-  "id": 23401,
-  "name": "Divining Crystal",
-  "icon": "inv_misc_orb_01",
-  "popularity": 27,
-  "armor": 0,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "OFF_HAND_FRILLS",
-  "type": "HELD_IN_OFF_HAND",
-  "stats": {
-    "hit": 1,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9169,
-  "sourceName": "Deactivate An'owyn"
+	"id": 23401,
+	"name": "Divining Crystal",
+	"icon": "inv_misc_orb_01",
+	"popularity": 27,
+	"armor": 0,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "OFF_HAND_FRILLS",
+	"type": "HELD_IN_OFF_HAND",
+	"stats": { "Hit Rating": 1, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 9169,
+	"sourceName": "Deactivate An'owyn",
+	"sourceType": "QUEST"
 }

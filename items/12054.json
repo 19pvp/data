@@ -1,17 +1,13 @@
 {
-  "id": 12054,
-  "name": "Demon Band",
-  "icon": "inv_jewelry_ring_04",
-  "popularity": 6,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "hit": 2,
-    "strength": 4,
-    "stamina": 2
-  },
-  "sourceType": "DROP"
+	"id": 12054,
+	"name": "Demon Band",
+	"icon": "inv_jewelry_ring_04",
+	"popularity": 6,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Hit Rating": 2, "Strength": 4, "Stamina": 2 },
+	"source": "DROP"
 }

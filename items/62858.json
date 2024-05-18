@@ -1,18 +1,17 @@
 {
-  "id": 62858,
-  "name": "Flesh and Bone",
-  "icon": "inv_misc_food_18",
-  "popularity": 26,
-  "armor": 0,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "OFF_HAND_FRILLS",
-  "type": "HELD_IN_OFF_HAND",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27099,
-  "sourceName": "No Escape"
+	"id": 62858,
+	"name": "Flesh and Bone",
+	"icon": "inv_misc_food_18",
+	"popularity": 26,
+	"armor": 0,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "OFF_HAND_FRILLS",
+	"type": "HELD_IN_OFF_HAND",
+	"stats": { "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 27099,
+	"sourceName": "No Escape",
+	"sourceType": "QUEST"
 }

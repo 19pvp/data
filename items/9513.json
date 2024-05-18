@@ -1,19 +1,16 @@
 {
-  "id": 9513,
-  "name": "Ley Staff",
-  "icon": "inv_staff_21",
-  "dmgMin": 20,
-  "dmgMax": 31,
-  "speed": 2.9,
-  "dps": 8.79,
-  "popularity": 11,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "STAFF",
-  "type": "TWO_HAND",
-  "stats": {
-    "intellect": 2,
-    "spirit": 2
-  },
-  "sourceType": "QUEST"
+	"id": 9513,
+	"name": "Ley Staff",
+	"icon": "inv_staff_21",
+	"dmgMin": 20,
+	"dmgMax": 31,
+	"speed": 2.9,
+	"dps": 8.79,
+	"popularity": 11,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "STAFF",
+	"type": "TWO_HAND",
+	"stats": { "Intellect": 2, "Spirit": 2 },
+	"source": "QUEST"
 }

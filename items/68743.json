@@ -1,15 +1,13 @@
 {
-  "id": 68743,
-  "name": "Imbued Infantry Cloak",
-  "icon": "inv_misc_cape_11",
-  "popularity": 19,
-  "armor": 16,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "strength": 1
-  },
-  "sourceType": "DROP"
+	"id": 68743,
+	"name": "Imbued Infantry Cloak",
+	"icon": "inv_misc_cape_11",
+	"popularity": 19,
+	"armor": 16,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Strength": 1 },
+	"source": "DROP"
 }

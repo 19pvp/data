@@ -1,18 +1,17 @@
 {
-  "id": 2237,
-  "name": "Patched Pants",
-  "icon": "inv_pants_leather_38",
-  "popularity": 3,
-  "armor": 46,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 59,
-  "sourceName": "Cloth and Leather Armor"
+	"id": 2237,
+	"name": "Patched Pants",
+	"icon": "inv_pants_leather_38",
+	"popularity": 3,
+	"armor": 46,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 59,
+	"sourceName": "Cloth and Leather Armor",
+	"sourceType": "QUEST"
 }

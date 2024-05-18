@@ -1,13 +1,61 @@
 {
-  "id": 15112,
-  "name": "Rigid Bracelets",
-  "icon": "inv_bracer_01",
-  "popularity": 7,
-  "armor": 38,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 15112,
+	"name": "Rigid Bracelets",
+	"icon": "inv_bracer_01",
+	"popularity": 7,
+	"armor": 38,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": {},
+	"rand": {
+		"of the Monkey": {
+			"id": 587,
+			"chance": 17.3,
+			"stats": { "Agility": 2, "Stamina": 2 }
+		},
+		"of the Owl": {
+			"id": 757,
+			"chance": 12,
+			"stats": { "Intellect": 2, "Spirit": 2 }
+		},
+		"of Intellect": { "id": 94, "chance": 9.9, "stats": { "Intellect": 4 } },
+		"of the Eagle": {
+			"id": 842,
+			"chance": 9.6,
+			"stats": { "Intellect": 2, "Stamina": 2 }
+		},
+		"of the Whale": {
+			"id": 1012,
+			"chance": 9.6,
+			"stats": { "Spirit": 2, "Stamina": 2 }
+		},
+		"of Agility": { "id": 93, "chance": 8.7, "stats": { "Agility": 4 } },
+		"of Stamina": { "id": 96, "chance": 7.9, "stats": { "Stamina": 4 } },
+		"of Power": { "id": 1550, "chance": 6.2, "stats": { "Attack Power": 8 } },
+		"of Spirit": { "id": 95, "chance": 5.7, "stats": { "Spirit": 4 } },
+		"of the Wolf": {
+			"id": 502,
+			"chance": 5.6,
+			"stats": { "Agility": 2, "Spirit": 2 }
+		},
+		"of the Falcon": {
+			"id": 238,
+			"chance": 4.5,
+			"stats": { "Agility": 2, "Intellect": 2 }
+		},
+		"of Nature's Wrath": {
+			"id": 1992,
+			"chance": 1.4,
+			"stats": { "Nature Spell Damage": 6 }
+		},
+		"of Arcane Wrath": {
+			"id": 1802,
+			"chance": 0.8,
+			"stats": { "Arcane Spell Damage": 6 }
+		},
+		"of Healing": { "id": 2030, "chance": 0.7, "stats": { "Spell Power": 5 } }
+	},
+	"source": "DROP"
 }

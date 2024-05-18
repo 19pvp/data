@@ -1,13 +1,53 @@
 {
-  "id": 15489,
-  "name": "Bloodspattered Sabatons",
-  "icon": "inv_boots_03",
-  "popularity": 12,
-  "armor": 82,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 15489,
+	"name": "Bloodspattered Sabatons",
+	"icon": "inv_boots_03",
+	"popularity": 12,
+	"armor": 82,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1185,
+			"chance": 46,
+			"stats": { "Stamina": 3, "Strength": 3 }
+		},
+		"of the Boar": {
+			"id": 1100,
+			"chance": 11.1,
+			"stats": { "Spirit": 3, "Strength": 3 }
+		},
+		"of Stamina": { "id": 96, "chance": 9.5, "stats": { "Stamina": 4 } },
+		"of the Gorilla": {
+			"id": 930,
+			"chance": 7.3,
+			"stats": { "Intellect": 3, "Strength": 3 }
+		},
+		"of the Whale": {
+			"id": 1015,
+			"chance": 5.8,
+			"stats": { "Spirit": 3, "Stamina": 3 }
+		},
+		"of the Tiger": {
+			"id": 675,
+			"chance": 5.3,
+			"stats": { "Agility": 3, "Strength": 3 }
+		},
+		"of the Eagle": {
+			"id": 845,
+			"chance": 4.9,
+			"stats": { "Intellect": 3, "Stamina": 3 }
+		},
+		"of Defense": { "id": 128, "chance": 4.2, "stats": { "Dodge Rating": 4 } },
+		"of the Monkey": {
+			"id": 590,
+			"chance": 3.8,
+			"stats": { "Agility": 3, "Stamina": 3 }
+		},
+		"of Dodge": { "chance": 2, "stats": { "Dodge Rating": 3 } }
+	},
+	"source": "DROP"
 }

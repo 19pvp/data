@@ -1,18 +1,17 @@
 {
-  "id": 59567,
-  "name": "Murderous Bracers",
-  "icon": "inv_bracer_01",
-  "popularity": 23,
-  "armor": 32,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "agility": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 851,
-  "sourceName": "Verog the Dervish"
+	"id": 59567,
+	"name": "Murderous Bracers",
+	"icon": "inv_bracer_01",
+	"popularity": 23,
+	"armor": 32,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Agility": 2 },
+	"source": "QUEST",
+	"sourceId": 851,
+	"sourceName": "Verog the Dervish",
+	"sourceType": "QUEST"
 }

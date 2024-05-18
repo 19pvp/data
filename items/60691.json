@@ -1,18 +1,15 @@
 {
-  "id": 60691,
-  "name": "Unfortunate Treads",
-  "icon": "inv_boots_chain_06",
-  "popularity": 8,
-  "armor": 78,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "crit": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 44
+	"id": 60691,
+	"name": "Unfortunate Treads",
+	"icon": "inv_boots_chain_06",
+	"popularity": 8,
+	"armor": 78,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Critical Strike Rating": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceZone": 44
 }

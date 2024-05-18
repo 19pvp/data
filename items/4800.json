@@ -1,16 +1,13 @@
 {
-  "id": 4800,
-  "name": "Mighty Chain Pants",
-  "icon": "inv_pants_03",
-  "popularity": 7,
-  "armor": 140,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "strength": 5,
-    "stamina": 5
-  },
-  "sourceType": "VENDOR"
+	"id": 4800,
+	"name": "Mighty Chain Pants",
+	"icon": "inv_pants_03",
+	"popularity": 7,
+	"armor": 140,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Strength": 5, "Stamina": 5 },
+	"source": "VENDOR"
 }

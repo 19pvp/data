@@ -1,18 +1,17 @@
 {
-  "id": 57568,
-  "name": "Senator's Dignified Pants",
-  "icon": "inv_pants_02",
-  "popularity": 4,
-  "armor": 46,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 433,
-  "sourceName": "The Public Servant"
+	"id": 57568,
+	"name": "Senator's Dignified Pants",
+	"icon": "inv_pants_02",
+	"popularity": 4,
+	"armor": 46,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 433,
+	"sourceName": "The Public Servant",
+	"sourceType": "QUEST"
 }

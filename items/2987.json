@@ -1,16 +1,13 @@
 {
-  "id": 2987,
-  "name": "Inscribed Leather Boots",
-  "icon": "inv_boots_05",
-  "popularity": 11,
-  "armor": 55,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "FEET",
-  "stats": {
-    "agility": 2,
-    "stamina": 3
-  },
-  "sourceType": "DROP"
+	"id": 2987,
+	"name": "Inscribed Leather Boots",
+	"icon": "inv_boots_05",
+	"popularity": 11,
+	"armor": 55,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Agility": 2, "Stamina": 3 },
+	"source": "DROP"
 }

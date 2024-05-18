@@ -1,19 +1,17 @@
 {
-  "id": 4785,
-  "name": "Brimstone Belt",
-  "icon": "inv_belt_02",
-  "popularity": 8,
-  "armor": 38,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 3,
-    "intellect": 5
-  },
-  "sourceType": "DROP",
-  "sourceId": 5849,
-  "sourceName": "Digger Flameforge",
-  "sourceZone": 17
+	"id": 4785,
+	"name": "Brimstone Belt",
+	"icon": "inv_belt_02",
+	"popularity": 8,
+	"armor": 38,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Stamina": 3, "Intellect": 5 },
+	"source": "DROP",
+	"sourceId": 5849,
+	"sourceName": "Digger Flameforge",
+	"sourceZone": 17,
+	"sourceType": "NPC"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 52620,
-  "name": "Earth-Crusted Mail",
-  "icon": "inv_chest_chain_06",
-  "popularity": 9,
-  "armor": 120,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "strength": 2,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13584,
-  "sourceName": "Calming the Earth"
+	"id": 52620,
+	"name": "Earth-Crusted Mail",
+	"icon": "inv_chest_chain_06",
+	"popularity": 9,
+	"armor": 120,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Strength": 2, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 13584,
+	"sourceName": "Calming the Earth",
+	"sourceType": "QUEST"
 }

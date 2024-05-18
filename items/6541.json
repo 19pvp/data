@@ -1,13 +1,48 @@
 {
-  "id": 6541,
-  "name": "Willow Gloves",
-  "icon": "inv_gauntlets_23",
-  "popularity": 6,
-  "armor": 30,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 6541,
+	"name": "Willow Gloves",
+	"icon": "inv_gauntlets_23",
+	"popularity": 6,
+	"armor": 30,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": {},
+	"rand": {
+		"of the Eagle": {
+			"id": 845,
+			"chance": 28.3,
+			"stats": { "Intellect": 3, "Stamina": 3 }
+		},
+		"of the Owl": {
+			"id": 760,
+			"chance": 25.3,
+			"stats": { "Intellect": 3, "Spirit": 3 }
+		},
+		"of the Whale": {
+			"id": 1015,
+			"chance": 18,
+			"stats": { "Spirit": 3, "Stamina": 3 }
+		},
+		"of Spirit": { "id": 95, "chance": 8.2, "stats": { "Spirit": 4 } },
+		"of Intellect": { "id": 26, "chance": 5.5, "stats": { "Intellect": 3 } },
+		"of Healing": { "id": 2030, "chance": 3.8, "stats": { "Spell Power": 5 } },
+		"of Fiery Wrath": {
+			"id": 1878,
+			"chance": 3.8,
+			"stats": { "Fire Spell Damage": 6 }
+		},
+		"of the Monkey": {
+			"id": 590,
+			"chance": 3.7,
+			"stats": { "Agility": 3, "Stamina": 3 }
+		},
+		"of the Falcon": {
+			"id": 234,
+			"chance": 3.1,
+			"stats": { "Agility": 3, "Intellect": 3 }
+		}
+	},
+	"source": "DROP"
 }

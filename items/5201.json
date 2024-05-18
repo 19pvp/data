@@ -1,21 +1,17 @@
 {
-  "id": 5201,
-  "name": "Emberstone Staff",
-  "icon": "inv_staff_13",
-  "dmgMin": 42,
-  "dmgMax": 63,
-  "speed": 3,
-  "dps": 17.5,
-  "popularity": 13,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "STAFF",
-  "type": "TWO_HAND",
-  "stats": {
-    "crit": 6,
-    "stamina": 6,
-    "intellect": 6
-  },
-  "sourceType": "DROP",
-  "sourceZone": 1581
+	"id": 5201,
+	"name": "Emberstone Staff",
+	"icon": "inv_staff_13",
+	"dmgMin": 42,
+	"dmgMax": 63,
+	"speed": 3,
+	"dps": 17.5,
+	"popularity": 13,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "STAFF",
+	"type": "TWO_HAND",
+	"stats": { "Critical Strike Rating": 6, "Stamina": 6, "Intellect": 6 },
+	"source": "DROP",
+	"sourceZone": 1581
 }

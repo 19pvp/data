@@ -1,26 +1,24 @@
 {
-  "id": 28164,
-  "name": "Tranquillien Flamberge",
-  "icon": "inv_sword_07",
-  "dmgMin": 29,
-  "dmgMax": 44,
-  "speed": 3.6,
-  "dps": 10.14,
-  "popularity": 12,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "TWO_HANDED_SWORD",
-  "type": "TWO_HAND",
-  "stats": {
-    "crit": 2,
-    "strength": 3
-  },
-  "sourceType": "VENDOR",
-  "sourceId": 16528,
-  "sourceName": "Provisioner Vredigar",
-  "sourceZone": 3433,
-  "chanceOnHit": {
-    "spell": 16409,
-    "text": "Sends a shadowy bolt at the enemy causing 35 Shadow damage."
-  }
+	"id": 28164,
+	"name": "Tranquillien Flamberge",
+	"icon": "inv_sword_07",
+	"dmgMin": 29,
+	"dmgMax": 44,
+	"speed": 3.6,
+	"dps": 10.14,
+	"popularity": 12,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "TWO_HANDED_SWORD",
+	"type": "TWO_HAND",
+	"stats": { "Critical Strike Rating": 2, "Strength": 3 },
+	"source": "VENDOR",
+	"sourceId": 16528,
+	"sourceName": "Provisioner Vredigar",
+	"sourceZone": 3433,
+	"sourceType": "NPC",
+	"chanceOnHit": {
+		"spell": 16409,
+		"text": "Sends a shadowy bolt at the enemy causing 35 Shadow damage."
+	}
 }

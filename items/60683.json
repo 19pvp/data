@@ -1,19 +1,17 @@
 {
-  "id": 60683,
-  "name": "Tower Watch Bracers",
-  "icon": "inv_bracer_10",
-  "popularity": 5,
-  "armor": 20,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WRISTS",
-  "stats": {
-    "stamina": 2,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26504,
-  "sourceName": "Wanted: Redridge Gnolls"
+	"id": 60683,
+	"name": "Tower Watch Bracers",
+	"icon": "inv_bracer_10",
+	"popularity": 5,
+	"armor": 20,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WRISTS",
+	"stats": { "Stamina": 2, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 26504,
+	"sourceName": "Wanted: Redridge Gnolls",
+	"sourceType": "QUEST"
 }

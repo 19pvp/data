@@ -1,13 +1,62 @@
 {
-  "id": 9805,
-  "name": "Superior Cloak",
-  "icon": "inv_misc_cape_10",
-  "popularity": 6,
-  "armor": 33,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 9805,
+	"name": "Superior Cloak",
+	"icon": "inv_misc_cape_10",
+	"popularity": 6,
+	"armor": 33,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": {},
+	"rand": {
+		"of the Monkey": {
+			"id": 590,
+			"chance": 21.1,
+			"stats": { "Agility": 3, "Stamina": 3 }
+		},
+		"of the Owl": {
+			"id": 760,
+			"chance": 15.2,
+			"stats": { "Intellect": 3, "Spirit": 3 }
+		},
+		"of the Whale": {
+			"id": 1015,
+			"chance": 12.4,
+			"stats": { "Spirit": 3, "Stamina": 3 }
+		},
+		"of the Eagle": {
+			"id": 845,
+			"chance": 8.4,
+			"stats": { "Intellect": 3, "Stamina": 3 }
+		},
+		"of Agility": { "id": 111, "chance": 7.8, "stats": { "Agility": 5 } },
+		"of Stamina": { "id": 114, "chance": 7.3, "stats": { "Stamina": 5 } },
+		"of Intellect": { "id": 112, "chance": 6.4, "stats": { "Intellect": 5 } },
+		"of Spirit": { "id": 113, "chance": 5.2, "stats": { "Spirit": 5 } },
+		"of the Wolf": {
+			"id": 505,
+			"chance": 4,
+			"stats": { "Agility": 3, "Spirit": 3 }
+		},
+		"of the Falcon": {
+			"id": 234,
+			"chance": 3.8,
+			"stats": { "Agility": 3, "Intellect": 3 }
+		},
+		"of Defense": { "id": 147, "chance": 3.7, "stats": { "Dodge Rating": 5 } },
+		"of Dodge": { "chance": 2.1, "stats": { "Dodge Rating": 5 } },
+		"of Nature's Wrath": {
+			"id": 1993,
+			"chance": 1.4,
+			"stats": { "Nature Spell Damage": 7 }
+		},
+		"of Arcane Wrath": {
+			"id": 1803,
+			"chance": 0.7,
+			"stats": { "Arcane Spell Damage": 7 }
+		},
+		"of Healing": { "id": 2031, "chance": 0.6, "stats": { "Spell Power": 6 } }
+	},
+	"source": "DROP"
 }

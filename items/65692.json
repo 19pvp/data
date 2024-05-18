@@ -1,19 +1,17 @@
 {
-  "id": 65692,
-  "name": "Bear Hide Vest",
-  "icon": "inv_chest_cloth_45",
-  "popularity": 6,
-  "armor": 88,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "agility": 3,
-    "stamina": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 28114,
-  "sourceName": "Glorious Harvest"
+	"id": 65692,
+	"name": "Bear Hide Vest",
+	"icon": "inv_chest_cloth_45",
+	"popularity": 6,
+	"armor": 88,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Agility": 3, "Stamina": 5 },
+	"source": "QUEST",
+	"sourceId": 28114,
+	"sourceName": "Glorious Harvest",
+	"sourceType": "QUEST"
 }

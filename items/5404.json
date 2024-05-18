@@ -1,19 +1,17 @@
 {
-  "id": 5404,
-  "name": "Serpent's Shoulders",
-  "icon": "inv_shoulder_08",
-  "popularity": 21,
-  "armor": 75,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "SHOULDERS",
-  "stats": {
-    "agility": 6,
-    "stamina": 4
-  },
-  "sourceType": "DROP",
-  "sourceId": 3671,
-  "sourceName": "Lady Anacondra",
-  "sourceZone": 718
+	"id": 5404,
+	"name": "Serpent's Shoulders",
+	"icon": "inv_shoulder_08",
+	"popularity": 21,
+	"armor": 75,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "SHOULDERS",
+	"stats": { "Agility": 6, "Stamina": 4 },
+	"source": "DROP",
+	"sourceId": 3671,
+	"sourceName": "Lady Anacondra",
+	"sourceZone": 718,
+	"sourceType": "NPC"
 }

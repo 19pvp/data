@@ -1,20 +1,17 @@
 {
-  "id": 53436,
-  "name": "Robotronic Vest",
-  "icon": "inv_chest_chain_07",
-  "popularity": 7,
-  "armor": 131,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "crit": 3,
-    "strength": 3,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14249,
-  "sourceName": "Shear Will"
+	"id": 53436,
+	"name": "Robotronic Vest",
+	"icon": "inv_chest_chain_07",
+	"popularity": 7,
+	"armor": 131,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Critical Strike Rating": 3, "Strength": 3, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 14249,
+	"sourceName": "Shear Will",
+	"sourceType": "QUEST"
 }

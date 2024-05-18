@@ -1,19 +1,17 @@
 {
-  "id": 27400,
-  "name": "Peacekeeper's Buckler",
-  "icon": "inv_shield_02",
-  "popularity": 9,
-  "armor": 516,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "strength": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9646,
-  "sourceName": "WANTED: Deathclaw"
+	"id": 27400,
+	"name": "Peacekeeper's Buckler",
+	"icon": "inv_shield_02",
+	"popularity": 9,
+	"armor": 516,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Strength": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 9646,
+	"sourceName": "WANTED: Deathclaw",
+	"sourceType": "QUEST"
 }

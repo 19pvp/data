@@ -1,20 +1,17 @@
 {
-  "id": 58499,
-  "name": "Grasp of Victory",
-  "icon": "inv_gauntlets_12",
-  "popularity": 8,
-  "armor": 66,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "hit": 2,
-    "strength": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25265,
-  "sourceName": "Victory!"
+	"id": 58499,
+	"name": "Grasp of Victory",
+	"icon": "inv_gauntlets_12",
+	"popularity": 8,
+	"armor": 66,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Hit Rating": 2, "Strength": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 25265,
+	"sourceName": "Victory!",
+	"sourceType": "QUEST"
 }

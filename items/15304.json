@@ -1,13 +1,55 @@
 {
-  "id": 15304,
-  "name": "Grizzly Jerkin",
-  "icon": "inv_chest_leather_01",
-  "popularity": 29,
-  "armor": 74,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 15304,
+	"name": "Grizzly Jerkin",
+	"icon": "inv_chest_leather_01",
+	"popularity": 29,
+	"armor": 74,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": {},
+	"rand": {
+		"of the Monkey": {
+			"id": 590,
+			"chance": 18.6,
+			"stats": { "Agility": 3, "Stamina": 3 }
+		},
+		"of the Owl": {
+			"id": 760,
+			"chance": 13.6,
+			"stats": { "Intellect": 3, "Spirit": 3 }
+		},
+		"of the Eagle": {
+			"id": 845,
+			"chance": 11.9,
+			"stats": { "Intellect": 3, "Stamina": 3 }
+		},
+		"of the Whale": {
+			"id": 1015,
+			"chance": 10.4,
+			"stats": { "Spirit": 3, "Stamina": 3 }
+		},
+		"of Agility": { "id": 111, "chance": 9.8, "stats": { "Agility": 5 } },
+		"of Stamina": { "id": 114, "chance": 8.6, "stats": { "Stamina": 5 } },
+		"of Intellect": { "id": 112, "chance": 7.3, "stats": { "Intellect": 5 } },
+		"of Spirit": { "id": 113, "chance": 6.3, "stats": { "Spirit": 5 } },
+		"of the Wolf": {
+			"id": 505,
+			"chance": 4.3,
+			"stats": { "Agility": 3, "Spirit": 3 }
+		},
+		"of the Falcon": {
+			"id": 234,
+			"chance": 4.1,
+			"stats": { "Agility": 3, "Intellect": 3 }
+		},
+		"of Power": { "id": 1551, "chance": 3.7, "stats": { "Attack Power": 10 } },
+		"of Nature's Wrath": {
+			"id": 1993,
+			"chance": 1.5,
+			"stats": { "Nature Spell Damage": 7 }
+		}
+	},
+	"source": "DROP"
 }

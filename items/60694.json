@@ -1,20 +1,17 @@
 {
-  "id": 60694,
-  "name": "Starvation Vest",
-  "icon": "inv_chest_leather_08",
-  "popularity": 6,
-  "armor": 74,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "hit": 2,
-    "agility": 2,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26513,
-  "sourceName": "Like a Fart in the Wind"
+	"id": 60694,
+	"name": "Starvation Vest",
+	"icon": "inv_chest_leather_08",
+	"popularity": 6,
+	"armor": 74,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Hit Rating": 2, "Agility": 2, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 26513,
+	"sourceName": "Like a Fart in the Wind",
+	"sourceType": "QUEST"
 }

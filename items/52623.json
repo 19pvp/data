@@ -1,19 +1,17 @@
 {
-  "id": 52623,
-  "name": "Wild Bark Boots",
-  "icon": "inv_boots_chain_02",
-  "popularity": 6,
-  "armor": 74,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13844,
-  "sourceName": "The Looting of Althalaxx"
+	"id": 52623,
+	"name": "Wild Bark Boots",
+	"icon": "inv_boots_chain_02",
+	"popularity": 6,
+	"armor": 74,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 13844,
+	"sourceName": "The Looting of Althalaxx",
+	"sourceType": "QUEST"
 }

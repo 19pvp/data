@@ -1,18 +1,17 @@
 {
-  "id": 58915,
-  "name": "Harvester Boots",
-  "icon": "inv_boots_09",
-  "popularity": 13,
-  "armor": 28,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "FEET",
-  "stats": {
-    "crit": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26257,
-  "sourceName": "It's Alive!"
+	"id": 58915,
+	"name": "Harvester Boots",
+	"icon": "inv_boots_09",
+	"popularity": 13,
+	"armor": 28,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": { "Critical Strike Rating": 2 },
+	"source": "QUEST",
+	"sourceId": 26257,
+	"sourceName": "It's Alive!",
+	"sourceType": "QUEST"
 }

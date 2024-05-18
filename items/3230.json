@@ -1,18 +1,14 @@
 {
-  "id": 3230,
-  "name": "Black Wolf Bracers",
-  "icon": "inv_bracer_07",
-  "popularity": 37,
-  "armor": 44,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "crit": 3,
-    "agility": 3,
-    "stamina": 4
-  },
-  "sourceType": "DROP",
-  "sourceZone": 209
+	"id": 3230,
+	"name": "Black Wolf Bracers",
+	"icon": "inv_bracer_07",
+	"popularity": 37,
+	"armor": 44,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Critical Strike Rating": 3, "Agility": 3, "Stamina": 4 },
+	"source": "DROP",
+	"sourceZone": 209
 }

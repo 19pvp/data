@@ -1,19 +1,17 @@
 {
-  "id": 58919,
-  "name": "Spothide Leggings",
-  "icon": "inv_pants_06",
-  "popularity": 6,
-  "armor": 58,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "agility": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26288,
-  "sourceName": "Jango Spothide"
+	"id": 58919,
+	"name": "Spothide Leggings",
+	"icon": "inv_pants_06",
+	"popularity": 6,
+	"armor": 58,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Agility": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 26288,
+	"sourceName": "Jango Spothide",
+	"sourceType": "QUEST"
 }

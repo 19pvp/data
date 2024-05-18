@@ -1,19 +1,17 @@
 {
-  "id": 56721,
-  "name": "Meat Packer Ribbon",
-  "icon": "inv_belt_17",
-  "popularity": 6,
-  "armor": 35,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 4,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13920,
-  "sourceName": "Before You Go..."
+	"id": 56721,
+	"name": "Meat Packer Ribbon",
+	"icon": "inv_belt_17",
+	"popularity": 6,
+	"armor": 35,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Stamina": 4, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 13920,
+	"sourceName": "Before You Go...",
+	"sourceType": "QUEST"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 54997,
-  "name": "Arachnophobe's Breastplate",
-  "icon": "inv_chest_leather_08",
-  "popularity": 10,
-  "armor": 52,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24501,
-  "sourceName": "Queen-Sized Troubles"
+	"id": 54997,
+	"name": "Arachnophobe's Breastplate",
+	"icon": "inv_chest_leather_08",
+	"popularity": 10,
+	"armor": 52,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 24501,
+	"sourceName": "Queen-Sized Troubles",
+	"sourceType": "QUEST"
 }

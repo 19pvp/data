@@ -1,19 +1,17 @@
 {
-  "id": 42992,
-  "name": "Discerning Eye of the Beast",
-  "icon": "inv_jewelry_talisman_08",
-  "popularity": 94,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "TRINKETS",
-  "type": "TRINKET",
-  "stats": {
-    "intellect": 6
-  },
-  "sourceType": "VENDOR",
-  "equip": {
-    "spell": 59915,
-    "text": "Restores 2% of your maximum mana whenever you kill a target that yields experience or honor."
-  }
+	"id": 42992,
+	"name": "Discerning Eye of the Beast",
+	"icon": "inv_jewelry_talisman_08",
+	"popularity": 94,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "TRINKETS",
+	"type": "TRINKET",
+	"stats": { "Intellect": 6 },
+	"source": "VENDOR",
+	"equip": {
+		"spell": 59915,
+		"text": "Restores 2% of your maximum mana whenever you kill a target that yields experience or honor."
+	}
 }

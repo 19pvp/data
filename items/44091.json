@@ -1,21 +1,17 @@
 {
-  "id": 44091,
-  "name": "Sharpened Scarlet Kris",
-  "icon": "inv_weapon_shortblade_03",
-  "dmgMin": 16,
-  "dmgMax": 29,
-  "speed": 1.5,
-  "dps": 15,
-  "popularity": 72,
-  "class": "WEAPON",
-  "quality": "HEIRLOOM",
-  "subclass": "DAGGER",
-  "type": "ONE_HAND",
-  "stats": {
-    "resilience": 3,
-    "agility": 3,
-    "stamina": 4
-  },
-  "sourceType": "VENDOR",
-  "sourceZone": 4197
+	"id": 44091,
+	"name": "Sharpened Scarlet Kris",
+	"icon": "inv_weapon_shortblade_03",
+	"dmgMin": 16,
+	"dmgMax": 29,
+	"speed": 1.5,
+	"dps": 15,
+	"popularity": 72,
+	"class": "WEAPON",
+	"quality": "HEIRLOOM",
+	"subclass": "DAGGER",
+	"type": "ONE_HAND",
+	"stats": { "Resilience": 3, "Agility": 3, "Stamina": 4 },
+	"source": "VENDOR",
+	"sourceZone": 4197
 }

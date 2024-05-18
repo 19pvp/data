@@ -1,16 +1,13 @@
 {
-  "id": 3645,
-  "name": "Seer's Cuffs",
-  "icon": "inv_bracer_07",
-  "popularity": 5,
-  "armor": 22,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WRISTS",
-  "stats": {
-    "intellect": 1,
-    "spirit": 2
-  },
-  "sourceType": "DROP"
+	"id": 3645,
+	"name": "Seer's Cuffs",
+	"icon": "inv_bracer_07",
+	"popularity": 5,
+	"armor": 22,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WRISTS",
+	"stats": { "Intellect": 1, "Spirit": 2 },
+	"source": "DROP"
 }

@@ -1,19 +1,16 @@
 {
-  "id": 890,
-  "name": "Twisted Chanter's Staff",
-  "icon": "inv_staff_04",
-  "dmgMin": 55,
-  "dmgMax": 84,
-  "speed": 3.4,
-  "dps": 20.44,
-  "popularity": 13,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "STAFF",
-  "type": "TWO_HAND",
-  "stats": {
-    "stamina": 6,
-    "intellect": 10
-  },
-  "sourceType": "DROP"
+	"id": 890,
+	"name": "Twisted Chanter's Staff",
+	"icon": "inv_staff_04",
+	"dmgMin": 55,
+	"dmgMax": 84,
+	"speed": 3.4,
+	"dps": 20.44,
+	"popularity": 13,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "STAFF",
+	"type": "TWO_HAND",
+	"stats": { "Stamina": 6, "Intellect": 10 },
+	"source": "DROP"
 }

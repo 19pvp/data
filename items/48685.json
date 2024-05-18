@@ -1,17 +1,13 @@
 {
-  "id": 48685,
-  "name": "Polished Breastplate of Valor",
-  "icon": "inv_chest_plate03",
-  "popularity": 260,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "PLATE",
-  "type": "CHEST",
-  "stats": {
-    "crit": 6,
-    "strength": 7,
-    "stamina": 7
-  },
-  "sourceType": "VENDOR"
+	"id": 48685,
+	"name": "Polished Breastplate of Valor",
+	"icon": "inv_chest_plate03",
+	"popularity": 260,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "PLATE",
+	"type": "CHEST",
+	"stats": { "Critical Strike Rating": 6, "Strength": 7, "Stamina": 7 },
+	"source": "VENDOR"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 49448,
-  "name": "Uncorrupted Hands",
-  "icon": "inv_gauntlets_21",
-  "popularity": 24,
-  "armor": 33,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "agility": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14005,
-  "sourceName": "The Vengeance of Elune"
+	"id": 49448,
+	"name": "Uncorrupted Hands",
+	"icon": "inv_gauntlets_21",
+	"popularity": 24,
+	"armor": 33,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Agility": 1 },
+	"source": "QUEST",
+	"sourceId": 14005,
+	"sourceName": "The Vengeance of Elune",
+	"sourceType": "QUEST"
 }

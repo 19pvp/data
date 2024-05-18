@@ -1,18 +1,17 @@
 {
-  "id": 5111,
-  "name": "Rathorian's Cape",
-  "icon": "inv_helmet_48",
-  "popularity": 27,
-  "armor": 23,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "stamina": 2
-  },
-  "sourceType": "DROP",
-  "sourceId": 3470,
-  "sourceName": "Rathorian",
-  "sourceZone": 17
+	"id": 5111,
+	"name": "Rathorian's Cape",
+	"icon": "inv_helmet_48",
+	"popularity": 27,
+	"armor": 23,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Stamina": 2 },
+	"source": "DROP",
+	"sourceId": 3470,
+	"sourceName": "Rathorian",
+	"sourceZone": 17,
+	"sourceType": "NPC"
 }

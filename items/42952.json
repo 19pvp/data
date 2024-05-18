@@ -1,17 +1,13 @@
 {
-  "id": 42952,
-  "name": "Stained Shadowcraft Spaulders",
-  "icon": "inv_shoulder_07",
-  "popularity": 81,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "LEATHER",
-  "type": "SHOULDERS",
-  "stats": {
-    "hit": 4,
-    "agility": 7,
-    "stamina": 4
-  },
-  "sourceType": "VENDOR"
+	"id": 42952,
+	"name": "Stained Shadowcraft Spaulders",
+	"icon": "inv_shoulder_07",
+	"popularity": 81,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "LEATHER",
+	"type": "SHOULDERS",
+	"stats": { "Hit Rating": 4, "Agility": 7, "Stamina": 4 },
+	"source": "VENDOR"
 }

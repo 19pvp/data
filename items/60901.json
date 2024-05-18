@@ -1,18 +1,17 @@
 {
-  "id": 60901,
-  "name": "Dirty Rotten Gloves",
-  "icon": "inv_gauntlets_31",
-  "popularity": 3,
-  "armor": 93,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "strength": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26655,
-  "sourceName": "Deliver the Thread"
+	"id": 60901,
+	"name": "Dirty Rotten Gloves",
+	"icon": "inv_gauntlets_31",
+	"popularity": 3,
+	"armor": 93,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Strength": 5 },
+	"source": "QUEST",
+	"sourceId": 26655,
+	"sourceName": "Deliver the Thread",
+	"sourceType": "QUEST"
 }

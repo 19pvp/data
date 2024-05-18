@@ -1,13 +1,69 @@
 {
-  "id": 15011,
-  "name": "Lupine Cord",
-  "icon": "inv_belt_03",
-  "popularity": 28,
-  "armor": 39,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 15011,
+	"name": "Lupine Cord",
+	"icon": "inv_belt_03",
+	"popularity": 28,
+	"armor": 39,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": {},
+	"rand": {
+		"of the Monkey": {
+			"id": 587,
+			"chance": 19.8,
+			"stats": { "Agility": 2, "Stamina": 2 }
+		},
+		"of the Owl": {
+			"id": 757,
+			"chance": 14.9,
+			"stats": { "Intellect": 2, "Spirit": 2 }
+		},
+		"of the Whale": {
+			"id": 1012,
+			"chance": 12.6,
+			"stats": { "Spirit": 2, "Stamina": 2 }
+		},
+		"of the Eagle": {
+			"id": 842,
+			"chance": 11.5,
+			"stats": { "Intellect": 2, "Stamina": 2 }
+		},
+		"of the Wolf": {
+			"id": 502,
+			"chance": 8.6,
+			"stats": { "Agility": 2, "Spirit": 2 }
+		},
+		"of Intellect": { "id": 26, "chance": 8.6, "stats": { "Intellect": 3 } },
+		"of the Bear": {
+			"id": 1182,
+			"chance": 6.9,
+			"stats": { "Stamina": 2, "Strength": 2 }
+		},
+		"of the Falcon": {
+			"id": 238,
+			"chance": 4,
+			"stats": { "Agility": 2, "Intellect": 2 }
+		},
+		"of the Tiger": {
+			"id": 672,
+			"chance": 3.4,
+			"stats": { "Agility": 2, "Strength": 2 }
+		},
+		"of the Boar": {
+			"id": 1097,
+			"chance": 3.4,
+			"stats": { "Spirit": 2, "Strength": 2 }
+		},
+		"of Defense": { "id": 89, "chance": 2.9, "stats": { "Dodge Rating": 3 } },
+		"of Dodge": { "chance": 1.4, "stats": { "Dodge Rating": 3 } },
+		"of Healing": { "id": 2029, "chance": 0.9, "stats": { "Spell Power": 4 } },
+		"of Arcane Wrath": {
+			"id": 1801,
+			"chance": 0.9,
+			"stats": { "Arcane Spell Damage": 4 }
+		}
+	},
+	"source": "DROP"
 }

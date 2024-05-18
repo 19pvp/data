@@ -1,16 +1,57 @@
 {
-  "id": 8178,
-  "name": "Training Sword",
-  "icon": "inv_sword_45",
-  "dmgMin": 20,
-  "dmgMax": 30,
-  "speed": 3.5,
-  "dps": 7.14,
-  "popularity": 14,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "TWO_HANDED_SWORD",
-  "type": "TWO_HAND",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 8178,
+	"name": "Training Sword",
+	"icon": "inv_sword_45",
+	"dmgMin": 20,
+	"dmgMax": 30,
+	"speed": 3.5,
+	"dps": 7.14,
+	"popularity": 14,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "TWO_HANDED_SWORD",
+	"type": "TWO_HAND",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1182,
+			"chance": 12.8,
+			"stats": { "Stamina": 2, "Strength": 2 }
+		},
+		"of the Eagle": {
+			"id": 842,
+			"chance": 11.3,
+			"stats": { "Intellect": 2, "Stamina": 2 }
+		},
+		"of the Whale": {
+			"id": 1012,
+			"chance": 11.2,
+			"stats": { "Spirit": 2, "Stamina": 2 }
+		},
+		"of the Monkey": {
+			"id": 587,
+			"chance": 10.8,
+			"stats": { "Agility": 2, "Stamina": 2 }
+		},
+		"of the Tiger": {
+			"id": 672,
+			"chance": 10.8,
+			"stats": { "Agility": 2, "Strength": 2 }
+		},
+		"of the Boar": {
+			"id": 1097,
+			"chance": 10.8,
+			"stats": { "Spirit": 2, "Strength": 2 }
+		},
+		"of the Wolf": {
+			"id": 502,
+			"chance": 10.6,
+			"stats": { "Agility": 2, "Spirit": 2 }
+		},
+		"of Stamina": { "id": 96, "chance": 6.2, "stats": { "Stamina": 4 } },
+		"of Strength": { "id": 97, "chance": 6.2, "stats": { "Strength": 4 } },
+		"of Agility": { "id": 93, "chance": 6, "stats": { "Agility": 4 } },
+		"of Power": { "id": 1550, "chance": 2.8, "stats": { "Attack Power": 8 } }
+	},
+	"source": "DROP"
 }

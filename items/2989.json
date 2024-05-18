@@ -1,16 +1,13 @@
 {
-  "id": 2989,
-  "name": "Burnished Tunic",
-  "icon": "inv_chest_chain_06",
-  "popularity": 3,
-  "armor": 149,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "strength": 6,
-    "stamina": 3
-  },
-  "sourceType": "DROP"
+	"id": 2989,
+	"name": "Burnished Tunic",
+	"icon": "inv_chest_chain_06",
+	"popularity": 3,
+	"armor": 149,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Strength": 6, "Stamina": 3 },
+	"source": "DROP"
 }

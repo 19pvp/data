@@ -1,19 +1,17 @@
 {
-  "id": 7508,
-  "name": "Ley Orb",
-  "icon": "inv_misc_orb_01",
-  "popularity": 9,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "OFF_HAND_FRILLS",
-  "type": "HELD_IN_OFF_HAND",
-  "stats": {
-    "spirit": 1
-  },
-  "sourceType": "QUEST",
-  "use": {
-    "spell": 9252,
-    "text": "Restores 140 to 180 mana. (15 Min Cooldown)"
-  }
+	"id": 7508,
+	"name": "Ley Orb",
+	"icon": "inv_misc_orb_01",
+	"popularity": 9,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "OFF_HAND_FRILLS",
+	"type": "HELD_IN_OFF_HAND",
+	"stats": { "Spirit": 1 },
+	"source": "QUEST",
+	"use": {
+		"spell": 9252,
+		"text": "Restores 140 to 180 mana. (15 Min Cooldown)"
+	}
 }

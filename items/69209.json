@@ -1,17 +1,17 @@
 {
-  "id": 69209,
-  "name": "Illustrious Guild Tabard",
-  "icon": "inv_rareguildtabard",
-  "popularity": 188,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "TABARDS",
-  "type": "TABARD",
-  "stats": {},
-  "sourceType": "VENDOR",
-  "equip": {
-    "spell": 97340,
-    "text": "You champion the causes of your guild. All guild reputation gains are increased by 50%."
-  }
+	"id": 69209,
+	"name": "Illustrious Guild Tabard",
+	"icon": "inv_rareguildtabard",
+	"popularity": 188,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "TABARDS",
+	"type": "TABARD",
+	"stats": {},
+	"source": "VENDOR",
+	"equip": {
+		"spell": 97340,
+		"text": "You champion the causes of your guild. All guild reputation gains are increased by 50%."
+	}
 }

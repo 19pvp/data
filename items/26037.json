@@ -1,19 +1,17 @@
 {
-  "id": 26037,
-  "name": "Lightweight Mesh Boots",
-  "icon": "inv_boots_07",
-  "popularity": 8,
-  "armor": 94,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "strength": 2,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9579,
-  "sourceName": "Galaen's Fate"
+	"id": 26037,
+	"name": "Lightweight Mesh Boots",
+	"icon": "inv_boots_07",
+	"popularity": 8,
+	"armor": 94,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Strength": 2, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 9579,
+	"sourceName": "Galaen's Fate",
+	"sourceType": "QUEST"
 }

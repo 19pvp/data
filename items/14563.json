@@ -1,16 +1,13 @@
 {
-  "id": 14563,
-  "name": "Prospector's Cloak",
-  "icon": "inv_misc_cape_11",
-  "popularity": 24,
-  "armor": 25,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "strength": 1,
-    "stamina": 2
-  },
-  "sourceType": "DROP"
+	"id": 14563,
+	"name": "Prospector's Cloak",
+	"icon": "inv_misc_cape_11",
+	"popularity": 24,
+	"armor": 25,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Strength": 1, "Stamina": 2 },
+	"source": "DROP"
 }

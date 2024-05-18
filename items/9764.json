@@ -1,13 +1,50 @@
 {
-  "id": 9764,
-  "name": "Cadet Shield",
-  "icon": "inv_shield_09",
-  "popularity": 31,
-  "armor": 418,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 9764,
+	"name": "Cadet Shield",
+	"icon": "inv_shield_09",
+	"popularity": 31,
+	"armor": 418,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1179,
+			"chance": 17.5,
+			"stats": { "Stamina": 1, "Strength": 1 }
+		},
+		"of the Monkey": {
+			"id": 584,
+			"chance": 14.6,
+			"stats": { "Agility": 1, "Stamina": 1 }
+		},
+		"of the Tiger": {
+			"id": 669,
+			"chance": 14.5,
+			"stats": { "Agility": 1, "Strength": 1 }
+		},
+		"of Strength": { "id": 23, "chance": 10.4, "stats": { "Strength": 2 } },
+		"of Agility": { "id": 17, "chance": 10.2, "stats": { "Agility": 2 } },
+		"of the Gorilla": {
+			"id": 924,
+			"chance": 9,
+			"stats": { "Intellect": 1, "Strength": 1 }
+		},
+		"of Stamina": { "id": 19, "chance": 8.8, "stats": { "Stamina": 2 } },
+		"of the Boar": {
+			"id": 1094,
+			"chance": 7.9,
+			"stats": { "Spirit": 1, "Strength": 1 }
+		},
+		"of Blocking": {
+			"id": 1648,
+			"chance": 3.6,
+			"stats": { "Block Rating": 5, "Strength": 1 }
+		},
+		"of Defense": { "id": 74, "chance": 2.1, "stats": { "Dodge Rating": 2 } },
+		"of Dodge": { "chance": 1.3, "stats": { "Dodge Rating": 1 } }
+	},
+	"source": "DROP"
 }

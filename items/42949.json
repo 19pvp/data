@@ -1,17 +1,13 @@
 {
-  "id": 42949,
-  "name": "Polished Spaulders of Valor",
-  "icon": "inv_shoulder_30",
-  "popularity": 80,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "PLATE",
-  "type": "SHOULDERS",
-  "stats": {
-    "crit": 4,
-    "strength": 6,
-    "stamina": 6
-  },
-  "sourceType": "VENDOR"
+	"id": 42949,
+	"name": "Polished Spaulders of Valor",
+	"icon": "inv_shoulder_30",
+	"popularity": 80,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "PLATE",
+	"type": "SHOULDERS",
+	"stats": { "Critical Strike Rating": 4, "Strength": 6, "Stamina": 6 },
+	"source": "VENDOR"
 }

@@ -1,20 +1,17 @@
 {
-  "id": 52628,
-  "name": "Ancient Handguards",
-  "icon": "inv_gauntlets_10",
-  "popularity": 8,
-  "armor": 79,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "hit": 2,
-    "strength": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13891,
-  "sourceName": "The Devourer of Darkshore"
+	"id": 52628,
+	"name": "Ancient Handguards",
+	"icon": "inv_gauntlets_10",
+	"popularity": 8,
+	"armor": 79,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Hit Rating": 2, "Strength": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 13891,
+	"sourceName": "The Devourer of Darkshore",
+	"sourceType": "QUEST"
 }

@@ -1,19 +1,17 @@
 {
-  "id": 52917,
-  "name": "Gallywix Laborer's Gloves",
-  "icon": "inv_gauntlets_105v3",
-  "popularity": 7,
-  "armor": 57,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "strength": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25109,
-  "sourceName": "The Gallywix Labor Mine"
+	"id": 52917,
+	"name": "Gallywix Laborer's Gloves",
+	"icon": "inv_gauntlets_105v3",
+	"popularity": 7,
+	"armor": 57,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 25109,
+	"sourceName": "The Gallywix Labor Mine",
+	"sourceType": "QUEST"
 }

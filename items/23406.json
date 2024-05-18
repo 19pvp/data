@@ -1,19 +1,17 @@
 {
-  "id": 23406,
-  "name": "Sentry Bracers",
-  "icon": "inv_bracer_01",
-  "popularity": 5,
-  "armor": 60,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WRISTS",
-  "stats": {
-    "strength": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9277,
-  "sourceName": "Assault on Zeb'Nowa"
+	"id": 23406,
+	"name": "Sentry Bracers",
+	"icon": "inv_bracer_01",
+	"popularity": 5,
+	"armor": 60,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WRISTS",
+	"stats": { "Strength": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 9277,
+	"sourceName": "Assault on Zeb'Nowa",
+	"sourceType": "QUEST"
 }

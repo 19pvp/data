@@ -1,21 +1,17 @@
 {
-  "id": 6323,
-  "name": "Baron's Scepter",
-  "icon": "inv_mace_02",
-  "dmgMin": 23,
-  "dmgMax": 44,
-  "speed": 2.4,
-  "dps": 13.96,
-  "popularity": 11,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "ONE_HANDED_MACE",
-  "type": "ONE_HAND",
-  "stats": {
-    "hit": 2,
-    "strength": 2,
-    "stamina": 3
-  },
-  "sourceType": "DROP",
-  "sourceZone": 209
+	"id": 6323,
+	"name": "Baron's Scepter",
+	"icon": "inv_mace_02",
+	"dmgMin": 23,
+	"dmgMax": 44,
+	"speed": 2.4,
+	"dps": 13.96,
+	"popularity": 11,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "ONE_HANDED_MACE",
+	"type": "ONE_HAND",
+	"stats": { "Hit Rating": 2, "Strength": 2, "Stamina": 3 },
+	"source": "DROP",
+	"sourceZone": 209
 }

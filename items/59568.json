@@ -1,19 +1,15 @@
 {
-  "id": 59568,
-  "name": "Painstakingly Crafted Belt",
-  "icon": "inv_belt_26",
-  "popularity": 14,
-  "armor": 27,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "hit": 2,
-    "stamina": 2,
-    "intellect": 2
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 17
+	"id": 59568,
+	"name": "Painstakingly Crafted Belt",
+	"icon": "inv_belt_26",
+	"popularity": 14,
+	"armor": 27,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Hit Rating": 2, "Stamina": 2, "Intellect": 2 },
+	"source": "QUEST",
+	"sourceZone": 17
 }

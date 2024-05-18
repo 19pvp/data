@@ -1,15 +1,13 @@
 {
-  "id": 4998,
-  "name": "Blood Ring",
-  "icon": "inv_jewelry_ring_04",
-  "popularity": 7,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "stamina": 5
-  },
-  "sourceType": "DROP"
+	"id": 4998,
+	"name": "Blood Ring",
+	"icon": "inv_jewelry_ring_04",
+	"popularity": 7,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Stamina": 5 },
+	"source": "DROP"
 }

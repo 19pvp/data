@@ -1,19 +1,17 @@
 {
-  "id": 52593,
-  "name": "Becalmed Bracers",
-  "icon": "inv_bracer_13",
-  "popularity": 6,
-  "armor": 20,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WRISTS",
-  "stats": {
-    "stamina": 1,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13542,
-  "sourceName": "Against the Wind"
+	"id": 52593,
+	"name": "Becalmed Bracers",
+	"icon": "inv_bracer_13",
+	"popularity": 6,
+	"armor": 20,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WRISTS",
+	"stats": { "Stamina": 1, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 13542,
+	"sourceName": "Against the Wind",
+	"sourceType": "QUEST"
 }

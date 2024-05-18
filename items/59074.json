@@ -1,18 +1,17 @@
 {
-  "id": 59074,
-  "name": "Topsoil Bracers",
-  "icon": "inv_bracer_03",
-  "popularity": 20,
-  "armor": 38,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25722,
-  "sourceName": "Sedimentary, My Dear"
+	"id": 59074,
+	"name": "Topsoil Bracers",
+	"icon": "inv_bracer_03",
+	"popularity": 20,
+	"armor": 38,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 25722,
+	"sourceName": "Sedimentary, My Dear",
+	"sourceType": "QUEST"
 }

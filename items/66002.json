@@ -1,20 +1,17 @@
 {
-  "id": 66002,
-  "name": "Packleader's Pauldrons",
-  "icon": "inv_shoulder_15",
-  "popularity": 8,
-  "armor": 123,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "MAIL",
-  "type": "SHOULDERS",
-  "stats": {
-    "hit": 4,
-    "strength": 4,
-    "stamina": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27968,
-  "sourceName": "Fury of the Pack"
+	"id": 66002,
+	"name": "Packleader's Pauldrons",
+	"icon": "inv_shoulder_15",
+	"popularity": 8,
+	"armor": 123,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "MAIL",
+	"type": "SHOULDERS",
+	"stats": { "Hit Rating": 4, "Strength": 4, "Stamina": 5 },
+	"source": "QUEST",
+	"sourceId": 27968,
+	"sourceName": "Fury of the Pack",
+	"sourceType": "QUEST"
 }

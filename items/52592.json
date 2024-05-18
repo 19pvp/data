@@ -1,19 +1,17 @@
 {
-  "id": 52592,
-  "name": "Woolgathering Gloves",
-  "icon": "inv_gauntlets_15",
-  "popularity": 41,
-  "armor": 33,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 3,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13911,
-  "sourceName": "The Absent-Minded Prospector"
+	"id": 52592,
+	"name": "Woolgathering Gloves",
+	"icon": "inv_gauntlets_15",
+	"popularity": 41,
+	"armor": 33,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": { "Stamina": 3, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 13911,
+	"sourceName": "The Absent-Minded Prospector",
+	"sourceType": "QUEST"
 }

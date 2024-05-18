@@ -1,18 +1,17 @@
 {
-  "id": 57405,
-  "name": "Fine Leather Sash",
-  "icon": "inv_belt_05",
-  "popularity": 5,
-  "armor": 29,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 83,
-  "sourceName": "Fine Linen Goods"
+	"id": 57405,
+	"name": "Fine Leather Sash",
+	"icon": "inv_belt_05",
+	"popularity": 5,
+	"armor": 29,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 83,
+	"sourceName": "Fine Linen Goods",
+	"sourceType": "QUEST"
 }

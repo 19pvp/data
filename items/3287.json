@@ -1,16 +1,13 @@
 {
-  "id": 3287,
-  "name": "Tribal Pants",
-  "icon": "inv_pants_06",
-  "popularity": 8,
-  "armor": 52,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "agility": 1,
-    "stamina": 2
-  },
-  "sourceType": "DROP"
+	"id": 3287,
+	"name": "Tribal Pants",
+	"icon": "inv_pants_06",
+	"popularity": 8,
+	"armor": 52,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Agility": 1, "Stamina": 2 },
+	"source": "DROP"
 }

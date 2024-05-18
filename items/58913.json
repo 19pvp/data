@@ -1,20 +1,17 @@
 {
-  "id": 58913,
-  "name": "Sentinel Hill Vest",
-  "icon": "inv_chest_leather_09",
-  "popularity": 12,
-  "armor": 63,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "crit": 2,
-    "agility": 2,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26286,
-  "sourceName": "In Defense of Westfall"
+	"id": 58913,
+	"name": "Sentinel Hill Vest",
+	"icon": "inv_chest_leather_09",
+	"popularity": 12,
+	"armor": 63,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Critical Strike Rating": 2, "Agility": 2, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 26286,
+	"sourceName": "In Defense of Westfall",
+	"sourceType": "QUEST"
 }

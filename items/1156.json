@@ -1,17 +1,14 @@
 {
-  "id": 1156,
-  "name": "Lavishly Jeweled Ring",
-  "icon": "inv_jewelry_ring_09",
-  "popularity": 20,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "hit": 3,
-    "intellect": 5
-  },
-  "sourceType": "DROP",
-  "sourceZone": 1581
+	"id": 1156,
+	"name": "Lavishly Jeweled Ring",
+	"icon": "inv_jewelry_ring_09",
+	"popularity": 20,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Hit Rating": 3, "Intellect": 5 },
+	"source": "DROP",
+	"sourceZone": 1581
 }

@@ -1,18 +1,17 @@
 {
-  "id": 55133,
-  "name": "Wildkin Feather Belt",
-  "icon": "inv_belt_04",
-  "popularity": 6,
-  "armor": 43,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13578,
-  "sourceName": "Aroom's Farewell"
+	"id": 55133,
+	"name": "Wildkin Feather Belt",
+	"icon": "inv_belt_04",
+	"popularity": 6,
+	"armor": 43,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 13578,
+	"sourceName": "Aroom's Farewell",
+	"sourceType": "QUEST"
 }

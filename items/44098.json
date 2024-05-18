@@ -1,21 +1,19 @@
 {
-  "id": 44098,
-  "name": "Inherited Insignia of the Alliance",
-  "icon": "inv_jewelry_trinketpvp_01",
-  "popularity": 31,
-  "armor": 0,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "TRINKETS",
-  "type": "TRINKET",
-  "stats": {
-    "resilience": 6
-  },
-  "sourceType": "VENDOR",
-  "sourceZone": 4197,
-  "use": {
-    "spell": 42292,
-    "text": "Removes all movement impairing effects and all effects which cause loss of control of your character. (5 Min Cooldown)"
-  }
+	"id": 44098,
+	"name": "Inherited Insignia of the Alliance",
+	"icon": "inv_jewelry_trinketpvp_01",
+	"popularity": 31,
+	"armor": 0,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "TRINKETS",
+	"type": "TRINKET",
+	"stats": { "Resilience": 6 },
+	"source": "VENDOR",
+	"sourceZone": 4197,
+	"use": {
+		"spell": 42292,
+		"text": "Removes all movement impairing effects and all effects which cause loss of control of your character. (5 Min Cooldown)"
+	}
 }

@@ -1,18 +1,17 @@
 {
-  "id": 56657,
-  "name": "Gloves of Unforgotten Vows",
-  "icon": "inv_gauntlets_30",
-  "popularity": 23,
-  "armor": 97,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "strength": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13875,
-  "sourceName": "Gurtar's Request"
+	"id": 56657,
+	"name": "Gloves of Unforgotten Vows",
+	"icon": "inv_gauntlets_30",
+	"popularity": 23,
+	"armor": 97,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Strength": 5 },
+	"source": "QUEST",
+	"sourceId": 13875,
+	"sourceName": "Gurtar's Request",
+	"sourceType": "QUEST"
 }

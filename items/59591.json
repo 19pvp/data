@@ -1,19 +1,17 @@
 {
-  "id": 59591,
-  "name": "Shield of the Barrens",
-  "icon": "inv_shield_16",
-  "popularity": 30,
-  "armor": 672,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "stamina": 4,
-    "intellect": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 4021,
-  "sourceName": "Counterattack!"
+	"id": 59591,
+	"name": "Shield of the Barrens",
+	"icon": "inv_shield_16",
+	"popularity": 30,
+	"armor": 672,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Stamina": 4, "Intellect": 4 },
+	"source": "QUEST",
+	"sourceId": 4021,
+	"sourceName": "Counterattack!",
+	"sourceType": "QUEST"
 }

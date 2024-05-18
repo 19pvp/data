@@ -1,19 +1,17 @@
 {
-  "id": 52660,
-  "name": "Incorruptable Shawl",
-  "icon": "inv_misc_cape_11",
-  "popularity": 9,
-  "armor": 26,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "agility": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13891,
-  "sourceName": "The Devourer of Darkshore"
+	"id": 52660,
+	"name": "Incorruptable Shawl",
+	"icon": "inv_misc_cape_11",
+	"popularity": 9,
+	"armor": 26,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Agility": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 13891,
+	"sourceName": "The Devourer of Darkshore",
+	"sourceType": "QUEST"
 }

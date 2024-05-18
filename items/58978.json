@@ -1,20 +1,18 @@
 {
-  "id": 58978,
-  "name": "Filthy Paw",
-  "icon": "inv_hand_1h_bwdraid_d_01",
-  "dmgMin": 10,
-  "dmgMax": 20,
-  "speed": 2.6,
-  "dps": 5.77,
-  "popularity": 20,
-  "side": "ALLIANCE",
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "FIST_WEAPON",
-  "type": "OFF_HAND",
-  "stats": {
-    "agility": 1
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 38
+	"id": 58978,
+	"name": "Filthy Paw",
+	"icon": "inv_hand_1h_bwdraid_d_01",
+	"dmgMin": 10,
+	"dmgMax": 20,
+	"speed": 2.6,
+	"dps": 5.77,
+	"popularity": 20,
+	"side": "ALLIANCE",
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "FIST_WEAPON",
+	"type": "OFF_HAND",
+	"stats": { "Agility": 1 },
+	"source": "QUEST",
+	"sourceZone": 38
 }

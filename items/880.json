@@ -1,23 +1,24 @@
 {
-  "id": 880,
-  "name": "Staff of Horrors",
-  "icon": "inv_staff_25",
-  "dmgMin": 41,
-  "dmgMax": 62,
-  "speed": 3.4,
-  "dps": 15.15,
-  "popularity": 34,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "STAFF",
-  "type": "TWO_HAND",
-  "stats": {},
-  "sourceType": "DROP",
-  "sourceId": 202,
-  "sourceName": "Rotting Horror",
-  "sourceZone": 10,
-  "chanceOnHit": {
-    "spell": 8552,
-    "text": "Damage caused by the target is reduced by 5 for 2 min."
-  }
+	"id": 880,
+	"name": "Staff of Horrors",
+	"icon": "inv_staff_25",
+	"dmgMin": 41,
+	"dmgMax": 62,
+	"speed": 3.4,
+	"dps": 15.15,
+	"popularity": 34,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "STAFF",
+	"type": "TWO_HAND",
+	"stats": {},
+	"source": "DROP",
+	"sourceId": 202,
+	"sourceName": "Rotting Horror",
+	"sourceZone": 10,
+	"sourceType": "NPC",
+	"chanceOnHit": {
+		"spell": 8552,
+		"text": "Damage caused by the target is reduced by 5 for 2 min."
+	}
 }

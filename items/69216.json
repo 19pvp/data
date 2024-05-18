@@ -1,19 +1,17 @@
 {
-  "id": 69216,
-  "name": "Wild Rider's Gloves",
-  "icon": "inv_gauntlets_21",
-  "popularity": 33,
-  "armor": 53,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "crit": 5,
-    "stamina": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 29111,
-  "sourceName": "Mor'shan Caravan Delivery"
+	"id": 69216,
+	"name": "Wild Rider's Gloves",
+	"icon": "inv_gauntlets_21",
+	"popularity": 33,
+	"armor": 53,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Critical Strike Rating": 5, "Stamina": 5 },
+	"source": "QUEST",
+	"sourceId": 29111,
+	"sourceName": "Mor'shan Caravan Delivery",
+	"sourceType": "QUEST"
 }

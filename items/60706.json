@@ -1,18 +1,17 @@
 {
-  "id": 60706,
-  "name": "Sandals of the Neverending Bridge",
-  "icon": "inv_boots_cloth_01",
-  "popularity": 8,
-  "armor": 35,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "FEET",
-  "stats": {
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26569,
-  "sourceName": "Surveying Equipment"
+	"id": 60706,
+	"name": "Sandals of the Neverending Bridge",
+	"icon": "inv_boots_cloth_01",
+	"popularity": 8,
+	"armor": 35,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": { "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 26569,
+	"sourceName": "Surveying Equipment",
+	"sourceType": "QUEST"
 }

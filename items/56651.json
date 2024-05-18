@@ -1,20 +1,17 @@
 {
-  "id": 56651,
-  "name": "Legguards of Abandoned Virtue",
-  "icon": "inv_pants_mail_11",
-  "popularity": 19,
-  "armor": 130,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "crit": 3,
-    "stamina": 5,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13730,
-  "sourceName": "Playing With Felfire"
+	"id": 56651,
+	"name": "Legguards of Abandoned Virtue",
+	"icon": "inv_pants_mail_11",
+	"popularity": 19,
+	"armor": 130,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Critical Strike Rating": 3, "Stamina": 5, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 13730,
+	"sourceName": "Playing With Felfire",
+	"sourceType": "QUEST"
 }

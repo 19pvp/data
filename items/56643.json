@@ -1,18 +1,15 @@
 {
-  "id": 56643,
-  "name": "Woodguard Vest",
-  "icon": "inv_chest_chain_17",
-  "popularity": 9,
-  "armor": 149,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "crit": 4,
-    "stamina": 5
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 331
+	"id": 56643,
+	"name": "Woodguard Vest",
+	"icon": "inv_chest_chain_17",
+	"popularity": 9,
+	"armor": 149,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Critical Strike Rating": 4, "Stamina": 5 },
+	"source": "QUEST",
+	"sourceZone": 331
 }

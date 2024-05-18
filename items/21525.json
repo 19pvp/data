@@ -1,13 +1,13 @@
 {
-  "id": 21525,
-  "name": "Green Winter Hat",
-  "icon": "inv_helmet_68",
-  "popularity": 6,
-  "armor": 11,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MISC",
-  "type": "HEAD",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 21525,
+	"name": "Green Winter Hat",
+	"icon": "inv_helmet_68",
+	"popularity": 6,
+	"armor": 11,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MISC",
+	"type": "HEAD",
+	"stats": {},
+	"source": "DROP"
 }

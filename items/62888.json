@@ -1,18 +1,16 @@
 {
-  "id": 62888,
-  "name": "Leg Bone Covers",
-  "icon": "inv_pants_mail_02",
-  "popularity": 4,
-  "armor": 120,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "strength": 3,
-    "stamina": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27575,
-  "sourceName": "From the Belly of the Beast"
+	"id": 62888,
+	"name": "Leg Bone Covers",
+	"icon": "inv_pants_mail_02",
+	"popularity": 4,
+	"armor": 120,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Strength": 3, "Stamina": 5 },
+	"source": "QUEST",
+	"sourceId": 27575,
+	"sourceName": "From the Belly of the Beast",
+	"sourceType": "QUEST"
 }

@@ -1,15 +1,13 @@
 {
-  "id": 15944,
-  "name": "Ancestral Orb",
-  "icon": "inv_misc_orb_03",
-  "popularity": 20,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "OFF_HAND_FRILLS",
-  "type": "HELD_IN_OFF_HAND",
-  "stats": {
-    "intellect": 1
-  },
-  "sourceType": "DROP"
+	"id": 15944,
+	"name": "Ancestral Orb",
+	"icon": "inv_misc_orb_03",
+	"popularity": 20,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "OFF_HAND_FRILLS",
+	"type": "HELD_IN_OFF_HAND",
+	"stats": { "Intellect": 1 },
+	"source": "DROP"
 }

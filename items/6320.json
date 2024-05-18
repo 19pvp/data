@@ -1,20 +1,17 @@
 {
-  "id": 6320,
-  "name": "Commander's Crest",
-  "icon": "inv_shield_03",
-  "popularity": 19,
-  "armor": 700,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {
-    "dodge": 3,
-    "strength": 2,
-    "stamina": 4
-  },
-  "sourceType": "DROP",
-  "sourceId": 4278,
-  "sourceName": "Commander Springvale",
-  "sourceZone": 209
+	"id": 6320,
+	"name": "Commander's Crest",
+	"icon": "inv_shield_03",
+	"popularity": 19,
+	"armor": 700,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Dodge Rating": 3, "Strength": 2, "Stamina": 4 },
+	"source": "DROP",
+	"sourceId": 4278,
+	"sourceName": "Commander Springvale",
+	"sourceZone": 209,
+	"sourceType": "NPC"
 }

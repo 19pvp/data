@@ -1,18 +1,17 @@
 {
-  "id": 60687,
-  "name": "Belt of the Sons",
-  "icon": "inv_belt_45b",
-  "popularity": 18,
-  "armor": 64,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {
-    "strength": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26503,
-  "sourceName": "Still Assessing the Threat"
+	"id": 60687,
+	"name": "Belt of the Sons",
+	"icon": "inv_belt_45b",
+	"popularity": 18,
+	"armor": 64,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": { "Strength": 3 },
+	"source": "QUEST",
+	"sourceId": 26503,
+	"sourceName": "Still Assessing the Threat",
+	"sourceType": "QUEST"
 }

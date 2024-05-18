@@ -1,15 +1,13 @@
 {
-  "id": 3205,
-  "name": "Inscribed Leather Bracers",
-  "icon": "inv_bracer_07",
-  "popularity": 7,
-  "armor": 34,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "intellect": 3
-  },
-  "sourceType": "DROP"
+	"id": 3205,
+	"name": "Inscribed Leather Bracers",
+	"icon": "inv_bracer_07",
+	"popularity": 7,
+	"armor": 34,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Intellect": 3 },
+	"source": "DROP"
 }

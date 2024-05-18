@@ -1,13 +1,65 @@
 {
-  "id": 15117,
-  "name": "Rigid Leggings",
-  "icon": "inv_pants_02",
-  "popularity": 7,
-  "armor": 89,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 15117,
+	"name": "Rigid Leggings",
+	"icon": "inv_pants_02",
+	"popularity": 7,
+	"armor": 89,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": {},
+	"rand": {
+		"of the Monkey": {
+			"id": 596,
+			"chance": 16.8,
+			"stats": { "Agility": 5, "Stamina": 5 }
+		},
+		"of the Eagle": {
+			"id": 851,
+			"chance": 14.5,
+			"stats": { "Intellect": 5, "Stamina": 5 }
+		},
+		"of the Owl": {
+			"id": 766,
+			"chance": 13.9,
+			"stats": { "Intellect": 5, "Spirit": 5 }
+		},
+		"of Agility": { "id": 167, "chance": 9.1, "stats": { "Agility": 8 } },
+		"of the Whale": {
+			"id": 1021,
+			"chance": 7.7,
+			"stats": { "Spirit": 5, "Stamina": 5 }
+		},
+		"of the Falcon": {
+			"id": 247,
+			"chance": 7.5,
+			"stats": { "Agility": 5, "Intellect": 5 }
+		},
+		"of Spirit": { "id": 179, "chance": 7, "stats": { "Spirit": 8 } },
+		"of Power": { "id": 1554, "chance": 6.9, "stats": { "Attack Power": 16 } },
+		"of the Bear": {
+			"id": 1191,
+			"chance": 6.7,
+			"stats": { "Stamina": 5, "Strength": 5 }
+		},
+		"of the Wolf": {
+			"id": 511,
+			"chance": 3.9,
+			"stats": { "Agility": 5, "Spirit": 5 }
+		},
+		"of the Gorilla": {
+			"id": 936,
+			"chance": 3.1,
+			"stats": { "Intellect": 5, "Strength": 5 }
+		},
+		"of Intellect": { "id": 174, "chance": 1.3, "stats": { "Intellect": 8 } },
+		"of Healing": { "chance": 0.9, "stats": { "Spell Power": 9 } },
+		"of Arcane Wrath": {
+			"id": 1806,
+			"chance": 0.7,
+			"stats": { "Arcane Spell Damage": 11 }
+		}
+	},
+	"source": "DROP"
 }

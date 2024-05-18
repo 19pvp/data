@@ -1,16 +1,13 @@
 {
-  "id": 14564,
-  "name": "Prospector's Mitts",
-  "icon": "inv_gauntlets_18",
-  "popularity": 9,
-  "armor": 53,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "agility": 3,
-    "stamina": 3
-  },
-  "sourceType": "DROP"
+	"id": 14564,
+	"name": "Prospector's Mitts",
+	"icon": "inv_gauntlets_18",
+	"popularity": 9,
+	"armor": 53,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Agility": 3, "Stamina": 3 },
+	"source": "DROP"
 }

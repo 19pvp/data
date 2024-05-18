@@ -1,19 +1,17 @@
 {
-  "id": 26008,
-  "name": "Scholar's Gloves",
-  "icon": "inv_gauntlets_18",
-  "popularity": 5,
-  "armor": 26,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {
-    "intellect": 1,
-    "spirit": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9629,
-  "sourceName": "Catch and Release"
+	"id": 26008,
+	"name": "Scholar's Gloves",
+	"icon": "inv_gauntlets_18",
+	"popularity": 5,
+	"armor": 26,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": { "Intellect": 1, "Spirit": 1 },
+	"source": "QUEST",
+	"sourceId": 9629,
+	"sourceName": "Catch and Release",
+	"sourceType": "QUEST"
 }

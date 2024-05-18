@@ -1,20 +1,19 @@
 {
-  "id": 49560,
-  "name": "Proof of Death",
-  "icon": "inv_sword_23",
-  "dmgMin": 28,
-  "dmgMax": 43,
-  "speed": 3.3,
-  "dps": 10.76,
-  "popularity": 6,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "TWO_HANDED_SWORD",
-  "type": "TWO_HAND",
-  "stats": {
-    "strength": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 895,
-  "sourceName": "WANTED: Cap'n Garvey"
+	"id": 49560,
+	"name": "Proof of Death",
+	"icon": "inv_sword_23",
+	"dmgMin": 28,
+	"dmgMax": 43,
+	"speed": 3.3,
+	"dps": 10.76,
+	"popularity": 6,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "TWO_HANDED_SWORD",
+	"type": "TWO_HAND",
+	"stats": { "Strength": 4 },
+	"source": "QUEST",
+	"sourceId": 895,
+	"sourceName": "WANTED: Cap'n Garvey",
+	"sourceType": "QUEST"
 }

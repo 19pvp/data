@@ -1,19 +1,17 @@
 {
-  "id": 6477,
-  "name": "Grassland Sash",
-  "icon": "inv_belt_02",
-  "popularity": 10,
-  "armor": 32,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 3,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 899,
-  "sourceName": "Consumed by Hatred"
+	"id": 6477,
+	"name": "Grassland Sash",
+	"icon": "inv_belt_02",
+	"popularity": 10,
+	"armor": 32,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Stamina": 3, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 899,
+	"sourceName": "Consumed by Hatred",
+	"sourceType": "QUEST"
 }

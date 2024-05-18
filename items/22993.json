@@ -1,19 +1,17 @@
 {
-  "id": 22993,
-  "name": "Volunteer's Greaves",
-  "icon": "inv_boots_01",
-  "popularity": 7,
-  "armor": 78,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "strength": 2,
-    "stamina": 1
-  },
-  "sourceType": "VENDOR",
-  "sourceId": 16528,
-  "sourceName": "Provisioner Vredigar",
-  "sourceZone": 3433
+	"id": 22993,
+	"name": "Volunteer's Greaves",
+	"icon": "inv_boots_01",
+	"popularity": 7,
+	"armor": 78,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Strength": 2, "Stamina": 1 },
+	"source": "VENDOR",
+	"sourceId": 16528,
+	"sourceName": "Provisioner Vredigar",
+	"sourceZone": 3433,
+	"sourceType": "NPC"
 }

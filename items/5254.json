@@ -1,17 +1,14 @@
 {
-  "id": 5254,
-  "name": "Rugged Spaulders",
-  "icon": "inv_shoulder_08",
-  "popularity": 15,
-  "armor": 75,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "SHOULDERS",
-  "stats": {
-    "agility": 6,
-    "stamina": 4
-  },
-  "sourceType": "DROP",
-  "sourceZone": 209
+	"id": 5254,
+	"name": "Rugged Spaulders",
+	"icon": "inv_shoulder_08",
+	"popularity": 15,
+	"armor": 75,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "SHOULDERS",
+	"stats": { "Agility": 6, "Stamina": 4 },
+	"source": "DROP",
+	"sourceZone": 209
 }

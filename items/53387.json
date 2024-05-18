@@ -1,18 +1,17 @@
 {
-  "id": 53387,
-  "name": "Searing Bracers",
-  "icon": "inv_bracer_01",
-  "popularity": 5,
-  "armor": 26,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WRISTS",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25262,
-  "sourceName": "Skull Rock"
+	"id": 53387,
+	"name": "Searing Bracers",
+	"icon": "inv_bracer_01",
+	"popularity": 5,
+	"armor": 26,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 25262,
+	"sourceName": "Skull Rock",
+	"sourceType": "QUEST"
 }

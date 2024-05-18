@@ -1,19 +1,17 @@
 {
-  "id": 3563,
-  "name": "Seafarer's Pantaloons",
-  "icon": "inv_pants_02",
-  "popularity": 27,
-  "armor": 50,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 4,
-    "spirit": 4
-  },
-  "sourceType": "DROP",
-  "sourceId": 2476,
-  "sourceName": "Gosh-Haldir",
-  "sourceZone": 38
+	"id": 3563,
+	"name": "Seafarer's Pantaloons",
+	"icon": "inv_pants_02",
+	"popularity": 27,
+	"armor": 50,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Stamina": 4, "Spirit": 4 },
+	"source": "DROP",
+	"sourceId": 2476,
+	"sourceName": "Gosh-Haldir",
+	"sourceZone": 38,
+	"sourceType": "NPC"
 }

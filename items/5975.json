@@ -1,18 +1,17 @@
 {
-  "id": 5975,
-  "name": "Ruffian Belt",
-  "icon": "inv_belt_03",
-  "popularity": 12,
-  "armor": 55,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "WAIST",
-  "stats": {
-    "agility": 6
-  },
-  "sourceType": "DROP",
-  "sourceId": 1944,
-  "sourceName": "Rot Hide Bruiser",
-  "sourceZone": 130
+	"id": 5975,
+	"name": "Ruffian Belt",
+	"icon": "inv_belt_03",
+	"popularity": 12,
+	"armor": 55,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Agility": 6 },
+	"source": "DROP",
+	"sourceId": 1944,
+	"sourceName": "Rot Hide Bruiser",
+	"sourceZone": 130,
+	"sourceType": "NPC"
 }

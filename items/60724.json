@@ -1,19 +1,17 @@
 {
-  "id": 60724,
-  "name": "Bravo Company Shoulderguards",
-  "icon": "inv_shoulder_13",
-  "popularity": 11,
-  "armor": 66,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "SHOULDERS",
-  "stats": {
-    "agility": 3,
-    "stamina": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26708,
-  "sourceName": "AHHHHHHHHHHHH! AHHHHHHHHH!!!"
+	"id": 60724,
+	"name": "Bravo Company Shoulderguards",
+	"icon": "inv_shoulder_13",
+	"popularity": 11,
+	"armor": 66,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "SHOULDERS",
+	"stats": { "Agility": 3, "Stamina": 4 },
+	"source": "QUEST",
+	"sourceId": 26708,
+	"sourceName": "AHHHHHHHHHHHH! AHHHHHHHHH!!!",
+	"sourceType": "QUEST"
 }

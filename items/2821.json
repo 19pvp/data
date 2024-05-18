@@ -1,19 +1,17 @@
 {
-  "id": 2821,
-  "name": "Mo'grosh Masher",
-  "icon": "inv_hammer_15",
-  "dmgMin": 16,
-  "dmgMax": 30,
-  "speed": 2.5,
-  "dps": 9.2,
-  "popularity": 10,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "ONE_HANDED_MACE",
-  "type": "ONE_HAND",
-  "stats": {
-    "strength": 2
-  },
-  "sourceType": "DROP",
-  "sourceZone": 38
+	"id": 2821,
+	"name": "Mo'grosh Masher",
+	"icon": "inv_hammer_15",
+	"dmgMin": 16,
+	"dmgMax": 30,
+	"speed": 2.5,
+	"dps": 9.2,
+	"popularity": 10,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "ONE_HANDED_MACE",
+	"type": "ONE_HAND",
+	"stats": { "Strength": 2 },
+	"source": "DROP",
+	"sourceZone": 38
 }

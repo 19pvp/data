@@ -1,19 +1,17 @@
 {
-  "id": 58926,
-  "name": "Gryan's Boots",
-  "icon": "inv_boots_chain_02",
-  "popularity": 18,
-  "armor": 74,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "strength": 2,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26291,
-  "sourceName": "Big Trouble in Moonbrook"
+	"id": 58926,
+	"name": "Gryan's Boots",
+	"icon": "inv_boots_chain_02",
+	"popularity": 18,
+	"armor": 74,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Strength": 2, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 26291,
+	"sourceName": "Big Trouble in Moonbrook",
+	"sourceType": "QUEST"
 }

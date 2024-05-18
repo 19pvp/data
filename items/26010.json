@@ -1,19 +1,17 @@
 {
-  "id": 26010,
-  "name": "Vindicator's Soft Sole Slippers",
-  "icon": "inv_boots_05",
-  "popularity": 7,
-  "armor": 30,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "FEET",
-  "stats": {
-    "stamina": 1,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9700,
-  "sourceName": "I Shoot Magic Into the Darkness"
+	"id": 26010,
+	"name": "Vindicator's Soft Sole Slippers",
+	"icon": "inv_boots_05",
+	"popularity": 7,
+	"armor": 30,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": { "Stamina": 1, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 9700,
+	"sourceName": "I Shoot Magic Into the Darkness",
+	"sourceType": "QUEST"
 }

@@ -1,17 +1,13 @@
 {
-  "id": 48683,
-  "name": "Mystical Vest of Elements",
-  "icon": "inv_chest_chain_11",
-  "popularity": 64,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "crit": 6,
-    "stamina": 10,
-    "intellect": 6
-  },
-  "sourceType": "VENDOR"
+	"id": 48683,
+	"name": "Mystical Vest of Elements",
+	"icon": "inv_chest_chain_11",
+	"popularity": 64,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Critical Strike Rating": 6, "Stamina": 10, "Intellect": 6 },
+	"source": "VENDOR"
 }

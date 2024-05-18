@@ -1,20 +1,17 @@
 {
-  "id": 60711,
-  "name": "Messner's Cuffs",
-  "icon": "inv_bracer_13",
-  "popularity": 12,
-  "armor": 23,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WRISTS",
-  "stats": {
-    "hit": 1,
-    "stamina": 2,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26668,
-  "sourceName": "Detonation"
+	"id": 60711,
+	"name": "Messner's Cuffs",
+	"icon": "inv_bracer_13",
+	"popularity": 12,
+	"armor": 23,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WRISTS",
+	"stats": { "Hit Rating": 1, "Stamina": 2, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 26668,
+	"sourceName": "Detonation",
+	"sourceType": "QUEST"
 }

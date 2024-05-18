@@ -1,21 +1,17 @@
 {
-  "id": 44093,
-  "name": "Upgraded Dwarven Hand Cannon",
-  "icon": "inv_weapon_rifle_09",
-  "dmgMin": 40,
-  "dmgMax": 74,
-  "speed": 2.9,
-  "dps": 19.66,
-  "popularity": 68,
-  "class": "WEAPON",
-  "quality": "HEIRLOOM",
-  "subclass": "GUN",
-  "type": "RANGED",
-  "stats": {
-    "crit": 9,
-    "resilience": 4,
-    "agility": 5
-  },
-  "sourceType": "VENDOR",
-  "sourceZone": 4197
+	"id": 44093,
+	"name": "Upgraded Dwarven Hand Cannon",
+	"icon": "inv_weapon_rifle_09",
+	"dmgMin": 40,
+	"dmgMax": 74,
+	"speed": 2.9,
+	"dps": 19.66,
+	"popularity": 68,
+	"class": "WEAPON",
+	"quality": "HEIRLOOM",
+	"subclass": "GUN",
+	"type": "RANGED",
+	"stats": { "Critical Strike Rating": 9, "Resilience": 4, "Agility": 5 },
+	"source": "VENDOR",
+	"sourceZone": 4197
 }

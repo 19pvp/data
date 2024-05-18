@@ -1,16 +1,13 @@
 {
-  "id": 12979,
-  "name": "Firebane Cloak",
-  "icon": "inv_misc_cape_08",
-  "popularity": 21,
-  "armor": 33,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "stamina": 5,
-    "fireResistance": 5
-  },
-  "sourceType": "DROP"
+	"id": 12979,
+	"name": "Firebane Cloak",
+	"icon": "inv_misc_cape_08",
+	"popularity": 21,
+	"armor": 33,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Stamina": 5, "Fire Resistance": 5 },
+	"source": "DROP"
 }

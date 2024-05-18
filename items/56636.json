@@ -1,19 +1,17 @@
 {
-  "id": 56636,
-  "name": "Forest Grace Mantle",
-  "icon": "inv_shoulder_25",
-  "popularity": 6,
-  "armor": 45,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "SHOULDERS",
-  "stats": {
-    "stamina": 4,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13796,
-  "sourceName": "The Forest Heart"
+	"id": 56636,
+	"name": "Forest Grace Mantle",
+	"icon": "inv_shoulder_25",
+	"popularity": 6,
+	"armor": 45,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "SHOULDERS",
+	"stats": { "Stamina": 4, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 13796,
+	"sourceName": "The Forest Heart",
+	"sourceType": "QUEST"
 }

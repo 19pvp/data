@@ -1,15 +1,13 @@
 {
-  "id": 68749,
-  "name": "Imbued Disciple's Bracers",
-  "icon": "inv_bracer_12",
-  "popularity": 4,
-  "armor": 15,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WRISTS",
-  "stats": {
-    "stamina": 1
-  },
-  "sourceType": "DROP"
+	"id": 68749,
+	"name": "Imbued Disciple's Bracers",
+	"icon": "inv_bracer_12",
+	"popularity": 4,
+	"armor": 15,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WRISTS",
+	"stats": { "Stamina": 1 },
+	"source": "DROP"
 }

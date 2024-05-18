@@ -1,15 +1,13 @@
 {
-  "id": 68752,
-  "name": "Imbued Infantry Belt",
-  "icon": "inv_belt_22",
-  "popularity": 4,
-  "armor": 48,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "WAIST",
-  "stats": {
-    "strength": 1
-  },
-  "sourceType": "DROP"
+	"id": 68752,
+	"name": "Imbued Infantry Belt",
+	"icon": "inv_belt_22",
+	"popularity": 4,
+	"armor": 48,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": { "Strength": 1 },
+	"source": "DROP"
 }

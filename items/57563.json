@@ -1,20 +1,18 @@
 {
-  "id": 57563,
-  "name": "South Gate Blunderbuss",
-  "icon": "inv_weapon_rifle_01",
-  "dmgMin": 14,
-  "dmgMax": 26,
-  "speed": 2.8,
-  "dps": 7.14,
-  "popularity": 4,
-  "side": "ALLIANCE",
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "GUN",
-  "type": "RANGED",
-  "stats": {
-    "agility": 1
-  },
-  "sourceType": "QUEST",
-  "sourceZone": 1
+	"id": 57563,
+	"name": "South Gate Blunderbuss",
+	"icon": "inv_weapon_rifle_01",
+	"dmgMin": 14,
+	"dmgMax": 26,
+	"speed": 2.8,
+	"dps": 7.14,
+	"popularity": 4,
+	"side": "ALLIANCE",
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "GUN",
+	"type": "RANGED",
+	"stats": { "Agility": 1 },
+	"source": "QUEST",
+	"sourceZone": 1
 }

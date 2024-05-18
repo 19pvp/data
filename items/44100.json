@@ -1,19 +1,19 @@
 {
-  "id": 44100,
-  "name": "Pristine Lightforge Spaulders",
-  "icon": "inv_shoulder_10",
-  "popularity": 49,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "PLATE",
-  "type": "SHOULDERS",
-  "stats": {
-    "crit": 4,
-    "resilience": 4,
-    "stamina": 6,
-    "intellect": 4
-  },
-  "sourceType": "VENDOR",
-  "sourceZone": 4197
+	"id": 44100,
+	"name": "Pristine Lightforge Spaulders",
+	"icon": "inv_shoulder_10",
+	"popularity": 49,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "PLATE",
+	"type": "SHOULDERS",
+	"stats": {
+		"Critical Strike Rating": 4,
+		"Resilience": 4,
+		"Stamina": 6,
+		"Intellect": 4
+	},
+	"source": "VENDOR",
+	"sourceZone": 4197
 }

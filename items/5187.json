@@ -1,20 +1,17 @@
 {
-  "id": 5187,
-  "name": "Foe Reaper",
-  "icon": "inv_hammer_09",
-  "dmgMin": 50,
-  "dmgMax": 76,
-  "speed": 3.6,
-  "dps": 17.5,
-  "popularity": 17,
-  "class": "WEAPON",
-  "quality": "RARE",
-  "subclass": "TWO_HANDED_MACE",
-  "type": "TWO_HAND",
-  "stats": {
-    "hit": 7,
-    "strength": 7
-  },
-  "sourceType": "DROP",
-  "sourceZone": 1581
+	"id": 5187,
+	"name": "Foe Reaper",
+	"icon": "inv_hammer_09",
+	"dmgMin": 50,
+	"dmgMax": 76,
+	"speed": 3.6,
+	"dps": 17.5,
+	"popularity": 17,
+	"class": "WEAPON",
+	"quality": "RARE",
+	"subclass": "TWO_HANDED_MACE",
+	"type": "TWO_HAND",
+	"stats": { "Hit Rating": 7, "Strength": 7 },
+	"source": "DROP",
+	"sourceZone": 1581
 }

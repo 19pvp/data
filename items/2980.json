@@ -1,15 +1,13 @@
 {
-  "id": 2980,
-  "name": "Veteran Gloves",
-  "icon": "inv_gauntlets_05",
-  "popularity": 20,
-  "armor": 71,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "strength": 3
-  },
-  "sourceType": "DROP"
+	"id": 2980,
+	"name": "Veteran Gloves",
+	"icon": "inv_gauntlets_05",
+	"popularity": 20,
+	"armor": 71,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Strength": 3 },
+	"source": "DROP"
 }

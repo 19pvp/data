@@ -1,18 +1,17 @@
 {
-  "id": 59069,
-  "name": "Slabchisel Boots",
-  "icon": "inv_boots_chain_07",
-  "popularity": 19,
-  "armor": 98,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "FEET",
-  "stats": {
-    "stamina": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25736,
-  "sourceName": "The Floodsurge Core"
+	"id": 59069,
+	"name": "Slabchisel Boots",
+	"icon": "inv_boots_chain_07",
+	"popularity": 19,
+	"armor": 98,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Stamina": 5 },
+	"source": "QUEST",
+	"sourceId": 25736,
+	"sourceName": "The Floodsurge Core",
+	"sourceType": "QUEST"
 }

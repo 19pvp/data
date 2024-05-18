@@ -1,13 +1,54 @@
 {
-  "id": 14122,
-  "name": "Ritual Bands",
-  "icon": "inv_bracer_10",
-  "popularity": 11,
-  "armor": 23,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WRISTS",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 14122,
+	"name": "Ritual Bands",
+	"icon": "inv_bracer_10",
+	"popularity": 11,
+	"armor": 23,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WRISTS",
+	"stats": {},
+	"rand": {
+		"of Intellect": { "id": 26, "chance": 22.3, "stats": { "Intellect": 3 } },
+		"of the Owl": {
+			"id": 757,
+			"chance": 20.9,
+			"stats": { "Intellect": 2, "Spirit": 2 }
+		},
+		"of the Whale": {
+			"id": 1012,
+			"chance": 14.2,
+			"stats": { "Spirit": 2, "Stamina": 2 }
+		},
+		"of the Eagle": {
+			"id": 842,
+			"chance": 13.9,
+			"stats": { "Intellect": 2, "Stamina": 2 }
+		},
+		"of Spirit": { "id": 28, "chance": 6.4, "stats": { "Spirit": 3 } },
+		"of Stamina": { "id": 22, "chance": 6.1, "stats": { "Stamina": 3 } },
+		"of Healing": { "id": 2029, "chance": 4.1, "stats": { "Spell Power": 4 } },
+		"of Fiery Wrath": {
+			"id": 1877,
+			"chance": 4,
+			"stats": { "Fire Spell Damage": 4 }
+		},
+		"of Frozen Wrath": {
+			"id": 1953,
+			"chance": 2.8,
+			"stats": { "Frost Spell Damage": 4 }
+		},
+		"of Shadow Wrath": {
+			"id": 1839,
+			"chance": 2.8,
+			"stats": { "Shadow Spell Damage": 4 }
+		},
+		"of Arcane Wrath": {
+			"id": 1801,
+			"chance": 2.7,
+			"stats": { "Arcane Spell Damage": 4 }
+		}
+	},
+	"source": "DROP"
 }

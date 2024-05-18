@@ -1,18 +1,17 @@
 {
-  "id": 60902,
-  "name": "Abercrombie's Gloves",
-  "icon": "inv_gauntlets_25",
-  "popularity": 6,
-  "armor": 39,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "HANDS",
-  "stats": {
-    "intellect": 5
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26676,
-  "sourceName": "Juice Delivery"
+	"id": 60902,
+	"name": "Abercrombie's Gloves",
+	"icon": "inv_gauntlets_25",
+	"popularity": 6,
+	"armor": 39,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": { "Intellect": 5 },
+	"source": "QUEST",
+	"sourceId": 26676,
+	"sourceName": "Juice Delivery",
+	"sourceType": "QUEST"
 }

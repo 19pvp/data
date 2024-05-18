@@ -1,17 +1,13 @@
 {
-  "id": 42950,
-  "name": "Champion Herod's Shoulder",
-  "icon": "inv_shoulder_01",
-  "popularity": 72,
-  "armor": 0,
-  "class": "ARMOR",
-  "quality": "HEIRLOOM",
-  "subclass": "MAIL",
-  "type": "SHOULDERS",
-  "stats": {
-    "crit": 5,
-    "agility": 5,
-    "stamina": 7
-  },
-  "sourceType": "VENDOR"
+	"id": 42950,
+	"name": "Champion Herod's Shoulder",
+	"icon": "inv_shoulder_01",
+	"popularity": 72,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "HEIRLOOM",
+	"subclass": "MAIL",
+	"type": "SHOULDERS",
+	"stats": { "Critical Strike Rating": 5, "Agility": 5, "Stamina": 7 },
+	"source": "VENDOR"
 }

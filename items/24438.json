@@ -1,19 +1,17 @@
 {
-  "id": 24438,
-  "name": "Fur Covered Robe",
-  "icon": "inv_chest_cloth_21",
-  "popularity": 21,
-  "armor": 37,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 1,
-    "spirit": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 9564,
-  "sourceName": "Gurf's Dignity"
+	"id": 24438,
+	"name": "Fur Covered Robe",
+	"icon": "inv_chest_cloth_21",
+	"popularity": 21,
+	"armor": 37,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Stamina": 1, "Spirit": 1 },
+	"source": "QUEST",
+	"sourceId": 9564,
+	"sourceName": "Gurf's Dignity",
+	"sourceType": "QUEST"
 }

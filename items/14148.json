@@ -1,20 +1,17 @@
 {
-  "id": 14148,
-  "name": "Crystalline Cuffs",
-  "icon": "inv_bracer_13",
-  "popularity": 8,
-  "armor": 25,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOTH",
-  "type": "WRISTS",
-  "stats": {
-    "stamina": 3,
-    "intellect": 3,
-    "spirit": 2
-  },
-  "sourceType": "DROP",
-  "sourceId": 11520,
-  "sourceName": "Taragaman the Hungerer",
-  "sourceZone": 2437
+	"id": 14148,
+	"name": "Crystalline Cuffs",
+	"icon": "inv_bracer_13",
+	"popularity": 8,
+	"armor": 25,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "WRISTS",
+	"stats": { "Stamina": 3, "Intellect": 3, "Spirit": 2 },
+	"source": "DROP",
+	"sourceId": 11520,
+	"sourceName": "Taragaman the Hungerer",
+	"sourceZone": 2437,
+	"sourceType": "NPC"
 }

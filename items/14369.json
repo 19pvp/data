@@ -1,16 +1,13 @@
 {
-  "id": 14369,
-  "name": "Mystic's Wrap",
-  "icon": "inv_shirt_13",
-  "popularity": 29,
-  "armor": 64,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 3,
-    "intellect": 7
-  },
-  "sourceType": "DROP"
+	"id": 14369,
+	"name": "Mystic's Wrap",
+	"icon": "inv_shirt_13",
+	"popularity": 29,
+	"armor": 64,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Stamina": 3, "Intellect": 7 },
+	"source": "DROP"
 }

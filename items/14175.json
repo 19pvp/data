@@ -1,13 +1,48 @@
 {
-  "id": 14175,
-  "name": "Buccaneer's Vest",
-  "icon": "inv_shirt_08",
-  "popularity": 63,
-  "armor": 64,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "CHEST",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 14175,
+	"name": "Buccaneer's Vest",
+	"icon": "inv_shirt_08",
+	"popularity": 63,
+	"armor": 64,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": {},
+	"rand": {
+		"of the Owl": {
+			"id": 766,
+			"chance": 24.4,
+			"stats": { "Intellect": 5, "Spirit": 5 }
+		},
+		"of Intellect": { "id": 174, "chance": 17.5, "stats": { "Intellect": 8 } },
+		"of the Eagle": {
+			"id": 851,
+			"chance": 16.8,
+			"stats": { "Intellect": 5, "Stamina": 5 }
+		},
+		"of the Whale": {
+			"id": 1021,
+			"chance": 14.7,
+			"stats": { "Spirit": 5, "Stamina": 5 }
+		},
+		"of Spirit": { "id": 179, "chance": 12.8, "stats": { "Spirit": 8 } },
+		"of Stamina": { "id": 184, "chance": 6.6, "stats": { "Stamina": 8 } },
+		"of Frozen Wrath": {
+			"id": 1958,
+			"chance": 2.6,
+			"stats": { "Frost Spell Damage": 11 }
+		},
+		"of Shadow Wrath": {
+			"id": 1844,
+			"chance": 2.4,
+			"stats": { "Shadow Spell Damage": 11 }
+		},
+		"of Arcane Wrath": {
+			"id": 1806,
+			"chance": 2.2,
+			"stats": { "Arcane Spell Damage": 11 }
+		}
+	},
+	"source": "DROP"
 }

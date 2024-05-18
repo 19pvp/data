@@ -1,20 +1,17 @@
 {
-  "id": 66022,
-  "name": "Ragefire Leggings",
-  "icon": "inv_pants_08",
-  "popularity": 5,
-  "armor": 71,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "LEATHER",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 5,
-    "intellect": 4,
-    "spirit": 4
-  },
-  "sourceType": "QUEST",
-  "sourceId": 26858,
-  "sourceName": "Taragaman the Hungerer"
+	"id": 66022,
+	"name": "Ragefire Leggings",
+	"icon": "inv_pants_08",
+	"popularity": 5,
+	"armor": 71,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Stamina": 5, "Intellect": 4, "Spirit": 4 },
+	"source": "QUEST",
+	"sourceId": 26858,
+	"sourceName": "Taragaman the Hungerer",
+	"sourceType": "QUEST"
 }

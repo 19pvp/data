@@ -1,14 +1,14 @@
 {
-  "id": 33292,
-  "name": "Hallowed Helm",
-  "icon": "inv_misc_bag_28_halloween",
-  "popularity": 19,
-  "armor": 12,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOTH",
-  "type": "HEAD",
-  "stats": {},
-  "sourceType": "DROP",
-  "sourceZone": 796
+	"id": 33292,
+	"name": "Hallowed Helm",
+	"icon": "inv_misc_bag_28_halloween",
+	"popularity": 19,
+	"armor": 12,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "HEAD",
+	"stats": {},
+	"source": "DROP",
+	"sourceZone": 796
 }

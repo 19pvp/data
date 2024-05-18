@@ -1,19 +1,32 @@
 {
-  "id": 31268,
-  "name": "Abomination Cleaver",
-  "icon": "inv_axe_23",
-  "dmgMin": 13,
-  "dmgMax": 18,
-  "speed": 1.7,
-  "dps": 9.12,
-  "popularity": 4,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "ONE_HANDED_AXE",
-  "type": "ONE_HAND",
-  "stats": {},
-  "sourceType": "DROP",
-  "sourceId": 22062,
-  "sourceName": "Dr. Whitherlimb",
-  "sourceZone": 3433
+	"id": 31268,
+	"name": "Abomination Cleaver",
+	"icon": "inv_axe_23",
+	"dmgMin": 13,
+	"dmgMax": 18,
+	"speed": 1.7,
+	"dps": 9.12,
+	"popularity": 4,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "ONE_HANDED_AXE",
+	"type": "ONE_HAND",
+	"stats": {},
+	"rand": {
+		"of the Wild": {
+			"id": -60,
+			"chance": 50.7,
+			"stats": { "Agility": 1, "Stamina": 1, "Haste": 1 }
+		},
+		"of the Sun": {
+			"id": -58,
+			"chance": 49.3,
+			"stats": { "Critical Strike Rating": 1, "Stamina": 1, "Intellect": 1 }
+		}
+	},
+	"source": "DROP",
+	"sourceId": 22062,
+	"sourceName": "Dr. Whitherlimb",
+	"sourceZone": 3433,
+	"sourceType": "NPC"
 }

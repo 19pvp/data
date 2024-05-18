@@ -1,16 +1,13 @@
 {
-  "id": 2985,
-  "name": "Inscribed Leather Breastplate",
-  "icon": "inv_chest_leather_09",
-  "popularity": 8,
-  "armor": 91,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 5,
-    "spirit": 3
-  },
-  "sourceType": "DROP"
+	"id": 2985,
+	"name": "Inscribed Leather Breastplate",
+	"icon": "inv_chest_leather_09",
+	"popularity": 8,
+	"armor": 91,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Stamina": 5, "Spirit": 3 },
+	"source": "DROP"
 }

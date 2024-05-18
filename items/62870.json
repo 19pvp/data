@@ -1,19 +1,17 @@
 {
-  "id": 62870,
-  "name": "Rutsak Carriers",
-  "icon": "inv_gauntlets_24",
-  "popularity": 15,
-  "armor": 44,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "agility": 2,
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 27360,
-  "sourceName": "Vengeance for Our Soldiers"
+	"id": 62870,
+	"name": "Rutsak Carriers",
+	"icon": "inv_gauntlets_24",
+	"popularity": 15,
+	"armor": 44,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Agility": 2, "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 27360,
+	"sourceName": "Vengeance for Our Soldiers",
+	"sourceType": "QUEST"
 }

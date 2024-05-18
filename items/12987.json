@@ -1,17 +1,13 @@
 {
-  "id": 12987,
-  "name": "Darkweave Breeches",
-  "icon": "inv_pants_06",
-  "popularity": 8,
-  "armor": 60,
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "CLOTH",
-  "type": "LEGS",
-  "stats": {
-    "stamina": 4,
-    "intellect": 7,
-    "spirit": 6
-  },
-  "sourceType": "DROP"
+	"id": 12987,
+	"name": "Darkweave Breeches",
+	"icon": "inv_pants_06",
+	"popularity": 8,
+	"armor": 60,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Stamina": 4, "Intellect": 7, "Spirit": 6 },
+	"source": "DROP"
 }

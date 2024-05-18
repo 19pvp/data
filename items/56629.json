@@ -1,19 +1,17 @@
 {
-  "id": 56629,
-  "name": "Hands of Encouragement",
-  "icon": "inv_gauntlets_29",
-  "popularity": 6,
-  "armor": 93,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "stamina": 4,
-    "intellect": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13640,
-  "sourceName": "Management Material"
+	"id": 56629,
+	"name": "Hands of Encouragement",
+	"icon": "inv_gauntlets_29",
+	"popularity": 6,
+	"armor": 93,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Stamina": 4, "Intellect": 3 },
+	"source": "QUEST",
+	"sourceId": 13640,
+	"sourceName": "Management Material",
+	"sourceType": "QUEST"
 }

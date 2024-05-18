@@ -1,13 +1,50 @@
 {
-  "id": 6560,
-  "name": "Soldier's Shield",
-  "icon": "inv_shield_10",
-  "popularity": 8,
-  "armor": 516,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "SHIELDS",
-  "type": "SHIELD",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 6560,
+	"name": "Soldier's Shield",
+	"icon": "inv_shield_10",
+	"popularity": 8,
+	"armor": 516,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": {},
+	"rand": {
+		"of the Bear": {
+			"id": 1182,
+			"chance": 16,
+			"stats": { "Stamina": 2, "Strength": 2 }
+		},
+		"of the Tiger": {
+			"id": 672,
+			"chance": 14.3,
+			"stats": { "Agility": 2, "Strength": 2 }
+		},
+		"of the Monkey": {
+			"id": 587,
+			"chance": 14.1,
+			"stats": { "Agility": 2, "Stamina": 2 }
+		},
+		"of Stamina": { "id": 22, "chance": 9.8, "stats": { "Stamina": 3 } },
+		"of the Boar": {
+			"id": 1097,
+			"chance": 9,
+			"stats": { "Spirit": 2, "Strength": 2 }
+		},
+		"of Strength": { "id": 24, "chance": 9, "stats": { "Strength": 3 } },
+		"of Agility": { "id": 18, "chance": 8.5, "stats": { "Agility": 3 } },
+		"of the Gorilla": {
+			"id": 927,
+			"chance": 8.4,
+			"stats": { "Intellect": 2, "Strength": 2 }
+		},
+		"of Dodge": { "chance": 4.8, "stats": { "Dodge Rating": 3 } },
+		"of Blocking": {
+			"id": 1650,
+			"chance": 3.7,
+			"stats": { "Block Rating": 5, "Strength": 2 }
+		},
+		"of Defense": { "id": 89, "chance": 2.4, "stats": { "Dodge Rating": 3 } }
+	},
+	"source": "DROP"
 }

@@ -1,18 +1,17 @@
 {
-  "id": 59073,
-  "name": "Discolored Bracers",
-  "icon": "inv_bracer_12",
-  "popularity": 20,
-  "armor": 25,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WRISTS",
-  "stats": {
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25722,
-  "sourceName": "Sedimentary, My Dear"
+	"id": 59073,
+	"name": "Discolored Bracers",
+	"icon": "inv_bracer_12",
+	"popularity": 20,
+	"armor": 25,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WRISTS",
+	"stats": { "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 25722,
+	"sourceName": "Sedimentary, My Dear",
+	"sourceType": "QUEST"
 }

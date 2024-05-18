@@ -1,19 +1,17 @@
 {
-  "id": 53445,
-  "name": "Spongy Vest",
-  "icon": "inv_chest_leather_08",
-  "popularity": 6,
-  "armor": 77,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "agility": 3,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 14324,
-  "sourceName": "Full of Hot Water"
+	"id": 53445,
+	"name": "Spongy Vest",
+	"icon": "inv_chest_leather_08",
+	"popularity": 6,
+	"armor": 77,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Agility": 3, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 14324,
+	"sourceName": "Full of Hot Water",
+	"sourceType": "QUEST"
 }

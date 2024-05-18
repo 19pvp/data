@@ -1,19 +1,17 @@
 {
-  "id": 5351,
-  "name": "Bounty Hunter's Ring",
-  "icon": "inv_jewelry_ring_01",
-  "popularity": 10,
-  "armor": 0,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "agility": 3,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 852,
-  "sourceName": "Hezrul Bloodmark"
+	"id": 5351,
+	"name": "Bounty Hunter's Ring",
+	"icon": "inv_jewelry_ring_01",
+	"popularity": 10,
+	"armor": 0,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Agility": 3, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 852,
+	"sourceName": "Hezrul Bloodmark",
+	"sourceType": "QUEST"
 }

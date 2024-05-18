@@ -1,18 +1,17 @@
 {
-  "id": 54992,
-  "name": "Laborer's Belt",
-  "icon": "inv_belt_24",
-  "popularity": 17,
-  "armor": 23,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOTH",
-  "type": "WAIST",
-  "stats": {
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24674,
-  "sourceName": "Slaves to No One"
+	"id": 54992,
+	"name": "Laborer's Belt",
+	"icon": "inv_belt_24",
+	"popularity": 17,
+	"armor": 23,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WAIST",
+	"stats": { "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 24674,
+	"sourceName": "Slaves to No One",
+	"sourceType": "QUEST"
 }

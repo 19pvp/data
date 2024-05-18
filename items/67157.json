@@ -1,18 +1,17 @@
 {
-  "id": 67157,
-  "name": "Harness of Binding",
-  "icon": "inv_chest_leather_07",
-  "popularity": 7,
-  "armor": 59,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "stamina": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 25267,
-  "sourceName": "Message for Garrosh"
+	"id": 67157,
+	"name": "Harness of Binding",
+	"icon": "inv_chest_leather_07",
+	"popularity": 7,
+	"armor": 59,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Stamina": 2 },
+	"source": "QUEST",
+	"sourceId": 25267,
+	"sourceName": "Message for Garrosh",
+	"sourceType": "QUEST"
 }

@@ -1,16 +1,21 @@
 {
-  "id": 2078,
-  "name": "Northern Shortsword",
-  "icon": "inv_sword_20",
-  "dmgMin": 14,
-  "dmgMax": 26,
-  "speed": 2.2,
-  "dps": 9.09,
-  "popularity": 8,
-  "class": "WEAPON",
-  "quality": "UNCOMMON",
-  "subclass": "ONE_HANDED_SWORD",
-  "type": "ONE_HAND",
-  "stats": {},
-  "sourceType": "DROP"
+	"id": 2078,
+	"name": "Northern Shortsword",
+	"icon": "inv_sword_20",
+	"dmgMin": 14,
+	"dmgMax": 26,
+	"speed": 2.2,
+	"dps": 9.09,
+	"popularity": 8,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "ONE_HANDED_SWORD",
+	"type": "ONE_HAND",
+	"stats": {},
+	"rand": {
+		"of Strength": { "id": 23, "chance": 40.8, "stats": { "Strength": 2 } },
+		"of Stamina": { "id": 19, "chance": 38.3, "stats": { "Stamina": 2 } },
+		"of Power": { "id": 1548, "chance": 21, "stats": { "Attack Power": 4 } }
+	},
+	"source": "DROP"
 }

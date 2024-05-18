@@ -1,21 +1,21 @@
 {
-  "id": 42945,
-  "name": "Venerable Dal'Rend's Sacred Charge",
-  "icon": "inv_sword_43",
-  "dmgMin": 29,
-  "dmgMax": 55,
-  "speed": 2.8,
-  "dps": 15,
-  "popularity": 90,
-  "class": "WEAPON",
-  "quality": "HEIRLOOM",
-  "subclass": "ONE_HANDED_SWORD",
-  "type": "MAIN_HAND",
-  "stats": {
-    "crit": 3,
-    "agility": 3,
-    "stamina": 4,
-    "strength": 4
-  },
-  "sourceType": "VENDOR"
+	"id": 42945,
+	"name": "Venerable Dal'Rend's Sacred Charge",
+	"icon": "inv_sword_43",
+	"dmgMin": 29,
+	"dmgMax": 55,
+	"speed": 2.8,
+	"dps": 15,
+	"popularity": 90,
+	"class": "WEAPON",
+	"quality": "HEIRLOOM",
+	"subclass": "ONE_HANDED_SWORD",
+	"type": "MAIN_HAND",
+	"stats": {
+		"Critical Strike Rating": 3,
+		"Agility": 3,
+		"Stamina": 4,
+		"Strength": 4
+	},
+	"source": "VENDOR"
 }

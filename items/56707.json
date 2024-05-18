@@ -1,19 +1,17 @@
 {
-  "id": 56707,
-  "name": "Band of Perseverance",
-  "icon": "inv_jewelry_ring_30",
-  "popularity": 6,
-  "armor": 0,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "RINGS",
-  "type": "FINGER",
-  "stats": {
-    "dodge": 4,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13989,
-  "sourceName": "King of the Foulweald"
+	"id": 56707,
+	"name": "Band of Perseverance",
+	"icon": "inv_jewelry_ring_30",
+	"popularity": 6,
+	"armor": 0,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Dodge Rating": 4, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 13989,
+	"sourceName": "King of the Foulweald",
+	"sourceType": "QUEST"
 }

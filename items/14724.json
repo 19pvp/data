@@ -1,17 +1,13 @@
 {
-  "id": 14724,
-  "name": "War Paint Cloak",
-  "icon": "inv_misc_cape_18",
-  "popularity": 8,
-  "armor": 24,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "CLOAKS",
-  "type": "BACK",
-  "stats": {
-    "strength": 1,
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "DROP"
+	"id": 14724,
+	"name": "War Paint Cloak",
+	"icon": "inv_misc_cape_18",
+	"popularity": 8,
+	"armor": 24,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Strength": 1, "Agility": 1, "Stamina": 1 },
+	"source": "DROP"
 }

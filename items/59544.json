@@ -1,18 +1,17 @@
 {
-  "id": 59544,
-  "name": "Kargal's Breastplate",
-  "icon": "inv_chest_chain_08",
-  "popularity": 6,
-  "armor": 97,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "CHEST",
-  "stats": {
-    "strength": 2
-  },
-  "sourceType": "QUEST",
-  "sourceId": 872,
-  "sourceName": "The Far Watch Offensive"
+	"id": 59544,
+	"name": "Kargal's Breastplate",
+	"icon": "inv_chest_chain_08",
+	"popularity": 6,
+	"armor": 97,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Strength": 2 },
+	"source": "QUEST",
+	"sourceId": 872,
+	"sourceName": "The Far Watch Offensive",
+	"sourceType": "QUEST"
 }

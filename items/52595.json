@@ -1,19 +1,17 @@
 {
-  "id": 52595,
-  "name": "Goat Hide Vest",
-  "icon": "inv_chest_leather_07",
-  "popularity": 7,
-  "armor": 56,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "CHEST",
-  "stats": {
-    "agility": 1,
-    "stamina": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13529,
-  "sourceName": "The Corruption's Source"
+	"id": 52595,
+	"name": "Goat Hide Vest",
+	"icon": "inv_chest_leather_07",
+	"popularity": 7,
+	"armor": 56,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Agility": 1, "Stamina": 1 },
+	"source": "QUEST",
+	"sourceId": 13529,
+	"sourceName": "The Corruption's Source",
+	"sourceType": "QUEST"
 }

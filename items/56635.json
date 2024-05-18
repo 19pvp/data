@@ -1,19 +1,17 @@
 {
-  "id": 56635,
-  "name": "First Responder's Pauldrons",
-  "icon": "inv_shoulder_15",
-  "popularity": 6,
-  "armor": 112,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "SHOULDERS",
-  "stats": {
-    "strength": 3,
-    "stamina": 3
-  },
-  "sourceType": "QUEST",
-  "sourceId": 13613,
-  "sourceName": "Rescue the Fallen"
+	"id": 56635,
+	"name": "First Responder's Pauldrons",
+	"icon": "inv_shoulder_15",
+	"popularity": 6,
+	"armor": 112,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "SHOULDERS",
+	"stats": { "Strength": 3, "Stamina": 3 },
+	"source": "QUEST",
+	"sourceId": 13613,
+	"sourceName": "Rescue the Fallen",
+	"sourceType": "QUEST"
 }

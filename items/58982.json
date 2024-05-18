@@ -1,19 +1,17 @@
 {
-  "id": 58982,
-  "name": "Foreman Gloves",
-  "icon": "inv_gauntlets_24",
-  "popularity": 4,
-  "armor": 37,
-  "side": "ALLIANCE",
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "LEATHER",
-  "type": "HANDS",
-  "stats": {
-    "crit": 1,
-    "intellect": 1
-  },
-  "sourceType": "QUEST",
-  "sourceId": 309,
-  "sourceName": "Protecting the Shipment"
+	"id": 58982,
+	"name": "Foreman Gloves",
+	"icon": "inv_gauntlets_24",
+	"popularity": 4,
+	"armor": 37,
+	"side": "ALLIANCE",
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Critical Strike Rating": 1, "Intellect": 1 },
+	"source": "QUEST",
+	"sourceId": 309,
+	"sourceName": "Protecting the Shipment",
+	"sourceType": "QUEST"
 }

@@ -1,20 +1,17 @@
 {
-  "id": 53423,
-  "name": "Kalecgos' Gift",
-  "icon": "inv_pants_mail_02",
-  "popularity": 7,
-  "armor": 132,
-  "side": "HORDE",
-  "class": "ARMOR",
-  "quality": "RARE",
-  "subclass": "MAIL",
-  "type": "LEGS",
-  "stats": {
-    "strength": 7,
-    "stamina": 7,
-    "hit": 0
-  },
-  "sourceType": "QUEST",
-  "sourceId": 24467,
-  "sourceName": "Fade to Black"
+	"id": 53423,
+	"name": "Kalecgos' Gift",
+	"icon": "inv_pants_mail_02",
+	"popularity": 7,
+	"armor": 132,
+	"side": "HORDE",
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Strength": 7, "Stamina": 7, "Hit Rating": 0 },
+	"source": "QUEST",
+	"sourceId": 24467,
+	"sourceName": "Fade to Black",
+	"sourceType": "QUEST"
 }

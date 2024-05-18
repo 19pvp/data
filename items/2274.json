@@ -1,19 +1,17 @@
 {
-  "id": 2274,
-  "name": "Sapper's Gloves",
-  "icon": "inv_gauntlets_03",
-  "popularity": 7,
-  "armor": 79,
-  "class": "ARMOR",
-  "quality": "UNCOMMON",
-  "subclass": "MAIL",
-  "type": "HANDS",
-  "stats": {
-    "strength": 3,
-    "agility": 2
-  },
-  "sourceType": "DROP",
-  "sourceId": 1222,
-  "sourceName": "Dark Iron Sapper",
-  "sourceZone": 38
+	"id": 2274,
+	"name": "Sapper's Gloves",
+	"icon": "inv_gauntlets_03",
+	"popularity": 7,
+	"armor": 79,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Strength": 3, "Agility": 2 },
+	"source": "DROP",
+	"sourceId": 1222,
+	"sourceName": "Dark Iron Sapper",
+	"sourceZone": 38,
+	"sourceType": "NPC"
 }
