@@ -1,6 +1,7 @@
 import ProgressBar  from "https://deno.land/x/progress@v1.4.9/mod.ts"
 import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts"
 
+const log = s => console.log(JSON.parse(JSON.stringify(s)))
 const byteToHex = (byte) => byte.toString(16).padStart(2, '0')
 const SHA1 = async (message) => {
   const digest = await crypto.subtle.digest('SHA-1', new TextEncoder().encode(message))
@@ -21,20 +22,21 @@ const fetchText = async (url) => {
   }
 }
 
-const workers = 5
+const VERBOSE = Deno.stdout.isTerminal()
+const workers = 1
 const each = async (data, title, fn) => {
   const total = data.length
   if (!total) return
-  const progress = new ProgressBar({ display: `[:bar] :percent :time :completed/:total ${title}`, total })
+  const progress = VERBOSE && new ProgressBar({ display: `[:bar] :percent :time :completed/:total ${title}`, total })
   let i = -1
   const next = async () => {
     const j = ++i
     if (j >= total) return
-    await progress.render(Math.min(i, total))
+    VERBOSE && await progress.render(Math.min(i, total))
     return fn(data[j]).then(next)
   }
   await Promise.all([...Array(workers).keys()].map(() => next()))
-  await progress.render(total)
+  VERBOSE && await progress.render(total)
 }
 
 const WEAPON_SUBCLASS = {
@@ -75,7 +77,29 @@ const ARMOR_SUBCLASS = {
   "-8": "SHIRTS",
 }
 
-const CLASS = { 2: "WEAPON", 3: "GEM", 4: "ARMOR", 12: "QUEST" }
+const ITEM_CLASS = {
+  0: 'CONSUMABLE',
+  1: 'CONTAINER',
+  2: 'WEAPON',
+  3: 'GEM',
+  4: 'ARMOR',
+  5: 'REAGENT',
+  6: 'PROJECTILE',
+  7: 'TRADEGOODS',
+  8: 'ITEM_ENHANCEMENT',
+  9: 'RECIPE',
+  10: 'CURRENCY_TOKEN_OBSOLETE',
+  11: 'QUIVER',
+  12: 'QUEST',
+  13: 'KEY',
+  14: 'PERMANENT_OBSOLETE',
+  15: 'MISCELLANEOUS',
+  16: 'GLYPH',
+  17: 'BATTLEPET',
+  18: 'WOW_TOKEN',
+  19: 'PROFESSION',
+}
+
 const QUALITY = {
   0: "POOR",
   1: "COMMON",
@@ -220,12 +244,30 @@ const WH_TYPES = {
   28: "CHAMPION",
   29: "ICON",
 }
+
+const CONSUMABLE_SUBCLASS = {
+  0: 'GENERIC',
+  1: 'POTION',
+  2: 'ELIXIR',
+  3: 'FLASK',
+  4: 'SCROLL',
+  5: 'FOOD_DRINK',
+  6: 'ITEM_ENHANCEMENT',
+  7: 'BANDAGES',
+  8: 'OTHER',
+  [-3]: 'ITEM_ENHANCEMENT_TEMPORARY',
+}
+
 const SOURCE_TYPES = { 2: 'DROP', 4: 'QUEST', 5: 'VENDOR' }
 const SOURCE_MORE = {
   DROP: ['z', 'zone'],
   PVP: [],
 }
-const subclasses = { WEAPON: WEAPON_SUBCLASS, ARMOR: ARMOR_SUBCLASS }
+const SUBCLASSES = {
+  CONSUMABLE: CONSUMABLE_SUBCLASS,
+  WEAPON: WEAPON_SUBCLASS,
+  ARMOR: ARMOR_SUBCLASS,
+}
 
 const toDOM = text => new DOMParser().parseFromString(text, 'text/html')
 const ratingRates = {
@@ -282,10 +324,37 @@ const RANDOM_SUFFIXES = randomSuffixDOM.getElementsByTagName('h3').flatMap(h3 =>
   }
 })
 
-console.log(SUFFIXES.find(s => s.name.toLowerCase().includes('healing')))
+const SHATTERED_SUN_OFFENSIVE = 1077 // Not accessible lvl 19
+
+const itemBlackList = new Set([
+  38916, // 2h spirit enchant, deprecated
+  46026, // lvl 75 req Enchant Weapon - Blade Ward
+  46098, // lvl 75 req Enchant Weapon - Blood Draining
+])
+
+const slotsNamesAliases = [
+  ['TWO_HAND', '2H-WEAPON'],
+  ['TWO_HAND', '2H WEAPON'],
+  ['TWO_HAND', 'TWO-HANDED'],
+  ['MAIN_HAND', 'WEAPON'],
+  ['ONE_HAND', 'WEAPON'],
+  ['HANDS', 'GLOVES'],
+  ['FEET', 'BOOTS'],
+  ['BACK', 'CLOAK'],
+  ['WRISTS', 'BRACER'],
+  ['RANGED', 'BOW OR GUN'],
+  ['FISHING_POLE', 'FISHING POLE'],
+  ...Object.values(INVENTORY_TYPE).map(key => [key, key]),
+]
 const formatItemData = async (data) => {
+  const CLASS = ITEM_CLASS[data.classs]
+  const SUBCLASS = SUBCLASSES[CLASS]?.[data.subclass]
   if (data.reqskillrank > 150) return
-  if (data.quality < 2) return // White & Junk
+  if (itemBlackList.has(data.id)) return
+  if ((CLASS === 'ARMOR' || CLASS === 'WEAPON') && data.quality < 2) return // White & Junk
+  if (SUBCLASS === 'ITEM_ENHANCEMENT' && (data.level > 34 && !data.name.endsWith('Spike'))) return
+  if (data.reqfaction === SHATTERED_SUN_OFFENSIVE) return
+  if (data.name?.startsWith('Krom\'gar')) return // Bunch of vendor items without reqLevel but need a lvl 24 pre-quest
   const tooltipRes = await fetchText(`https://nether.wowhead.com/tooltip/item/${data.id}?dataEnv=11&locale=0&lvl=19`)
   const tooltipDOM = toDOM(JSON.parse(tooltipRes).tooltip)
   const tooltip = {}
@@ -300,6 +369,7 @@ const formatItemData = async (data) => {
       }
       value.push(child.nodeValue || child.value || child.innerHTML)
     }
+    tooltip.rest = value
   }
 
   // Handle random enchants
@@ -314,22 +384,21 @@ const formatItemData = async (data) => {
       const suffixName = name.textContent.trim().replace('...', '')
       const statsEntries = statsText.nodeValue.split(',').map(line => {
         if (line.includes(' - ')) {
-          const [_, sign, min, qty, text] = line.trim().split(/([+-])\(([0-9]+%|[0-9]+) - ([0-9]+%|[0-9]+)\) /)
+          // ex: +(6 - 7) Fire Spell Damage 
+          const [_, sign, min, qty, text] = line.trim().split(/([+-])\(([0-9]+) - ([0-9]+)\) /)
           return [text, Number(`${sign}${qty}`)]
         }
-        const [prefix, qty, suffix, extra] = line.trim().split(/ ?([+-][0-9]+%|[0-9]+%|[+-][0-9]+) ?/)
+        // ex: +5 Stamina
+        const [prefix, qty, suffix, extra] = line.trim().split(/ ?([+-][0-9]+) ?/)
         const text = prefix || suffix
-        return [text, qty.endsWith('%') ? Number(qty.slice(0, -1)) / 100 : Number(qty)]
+        return [text, Number(qty)]
       })
-      
+
       rand.push([
         suffixName,
         {
           id: SUFFIXES.find(s => s.name === suffixName && statsEntries.every(([k, v]) => s.effects[k] === v))?.id
-          || RANDOM_SUFFIXES
-              .filter(s => s.name === suffixName)
-              .sort((a, b) => statsEntries.reduce((score, [k]) => score + (k in a.effects) - (k in b.effects)).length)
-              .at(0)?.id,
+          || RANDOM_SUFFIXES.find(s => s.name === suffixName)?.id, // exact stats distribution may be wrong
           chance: Number(chance.textContent.split(/\(([0-9.]+)%/)[1]),
           stats: Object.fromEntries(statsEntries),
         },
@@ -337,15 +406,28 @@ const formatItemData = async (data) => {
     }
   }
 
-  const effects = (tooltip['itemEffects:1'] || [])
+  const effects = ([...(tooltip['itemEffects:1'] || []), ...tooltip.rest])
     .filter(e => e.includes('href=') && !e.includes('Experience gained'))
     .map(e => {
+      const eDOM = toDOM(e)
+      if (!e.includes(': ')) {
+        if (/<!--si([0-9]+):([0-9]+)-->/g.test(e)) {
+          // TODO: add set items info !
+          return
+        }
+        
+        return ['info', eDOM.textContent.replaceAll(' ', '')]
+      }
       const tt = e.split(':')[0].replace(/ ([A-Z])/ig, (_, m) => m.toUpperCase())
       const type = tt[0].toLowerCase() + tt.slice(1)
       const spell = Number(e.split(/href="\/cata\/spell=([0-9]+)/)[1])
-      const text = toDOM(e).textContent.split(': ')[1].replaceAll(' ', '')
-      return [type, {spell, text }]
-    })  
+      const text = eDOM.textContent.split(':')[1].trim().replaceAll(' ', '')
+      if (text.includes('This enchantment requires the wielder is at least level 75')) {
+        console.log(data.id, data.name)
+      }
+      return [type, { spell, text }]
+    })
+    .filter(Boolean)
 
   const stats = {
     // Parse ratings from tooltip
@@ -370,6 +452,69 @@ const formatItemData = async (data) => {
     ...Object.fromEntries(Object.entries(data.statsInfo || {}).map(([stat, {qty}]) => [STATS[stat], qty])),
   }
 
+  // Handle item enchants
+  if (SUBCLASS === 'ITEM_ENHANCEMENT') {
+    // TODO: list mats required too
+    const spellTextParts = tooltip.rest.join('').split(/href="\/cata\/spell=([0-9]+)/)
+    const spellId = Number(spellTextParts[1])
+    const spellRes = await fetchText(`https://www.wowhead.com/cata/spell=${spellId}`)
+    const spellDOM = toDOM(spellRes)
+    const el = [...spellDOM.querySelectorAll('#spelldetails tr td')]
+      .find(tr => tr.textContent.includes('Enchant Item: '))
+    const descriptionParts = [...el.childNodes]
+      .filter(child => child.tagName !== 'SMALL')
+      .map(child => (child.nodeValue || child.textContent || '').trim())
+      .filter(Boolean)
+
+    const enchantDescription = spellTextParts[2].toUpperCase()
+    if (enchantDescription.includes(' THREAT ')) return
+    let types = slotsNamesAliases
+      .filter(([k, v]) => enchantDescription.includes(v))
+      .map(([k]) => k)
+
+    if (types.includes('TWO_HAND')) {
+      types = ['TWO_HAND']
+    } else if (types.includes('ONE_HAND')) {
+      types.push('TWO_HAND')
+    }
+
+    const description = descriptionParts.slice(1, -1).join(' ').replaceAll(' ', '')
+    const enchantId = Number(descriptionParts.at(-1).trim().slice(1, -1))
+    const newStats = {}
+    let spell
+    for (const line of description.replaceAll(/[()]/g, '').split(' and ')) {
+      if (line.includes('Spike')) {
+        const [_, min, max] = line.split(/([0-9]+)-([0-9]+)/)
+        stats.Spike = Number(min) + Math.round((Number(max) - Number(min)) / 2)
+        continue
+      }
+      const [prefix, qty, suffix] = line.trim().split(/ ?([+-]?[0-9]+%?) ?/)
+      const text = suffix || prefix
+      const qtyValue = qty?.endsWith('%') ? Number(qty.slice(0, -1)) / 100 : Number(qty)
+      if (text === 'Minor Speed Increase') {
+        stats['Run Speed'] = 0.5
+      } else if (text === 'Counterweight') {
+        stats.Haste = qtyValue
+      } else if (text === 'All Stats') {
+        stats.Agility = qtyValue
+        stats.Strength = qtyValue
+        stats.Intellect = qtyValue
+        stats.Spirit = qtyValue
+        stats.Stamina = qtyValue
+      } else if (text.startsWith('All Resistance')) {
+        stats["Fire Resistance"] = qtyValue
+        stats["Frost Resistance"] = qtyValue
+        stats["Holy Resistance"] = qtyValue
+        stats["Shadow Resistance"] = qtyValue
+        stats["Nature Resistance"] = qtyValue
+        stats["Arcane Resistance"] = qtyValue
+      } else {
+        qtyValue ? (stats[text] = qtyValue) : (stats.enchant = text)
+      }
+    }
+    effects.push(['enchant', { description, id: enchantId, types }])
+  }
+
   // Wands & Heirloom fix
   if (data.speed && !data.dmgmin1 && tooltip.dps) {
     const dmgLine = tooltip.dps.join('\n').split('\n').find(l => l.includes('<!--dmg-->')) || ''
@@ -382,6 +527,7 @@ const formatItemData = async (data) => {
   return {
     id: data.id,
     name: data.name,
+    flag: data.flag,
     icon: data.icon,
     dmgMin: data.dmgmin1,
     dmgMax: data.dmgmax1,
@@ -390,11 +536,11 @@ const formatItemData = async (data) => {
     popularity: data.popularity,
     armor: data.armor,
     side: SIDE[data.side],
-    class: CLASS[data.classs],
+    class: ITEM_CLASS[data.classs],
     quality: QUALITY[data.quality],
-    subclass: subclasses[CLASS[data.classs]]?.[data.subclass],
+    subclass: SUBCLASSES[ITEM_CLASS[data.classs]]?.[data.subclass],
     type: INVENTORY_TYPE[data.slot],
-    stats,
+    stats: Object.keys(stats).length ? stats : undefined,
     rand: rand.length ? Object.fromEntries(rand) : undefined,
     source: SOURCE_TYPES[data.source?.[0]],
     sourceId: data.sourcemore?.[0]?.ti,
@@ -409,17 +555,35 @@ const scrapWH = async () => {
   const items = {}
   const quests = {}
   await each([
+
+    //// Quests
     'https://www.wowhead.com/cata/quests/min-level:2/max-level:55/max-req-level:19?filter-any=23:22;1:1;0:0',
 
     // Items must be after because it's more complete and we want to override quest matches
+
+    // Drops Items
     'https://www.wowhead.com/cata/items/weapons/min-level:1/max-level:25/max-req-level:19/quality:2:3?filter=128:161:195;4:1:1;0:0:0',
     'https://www.wowhead.com/cata/items/weapons/min-level:1/max-level:25/max-req-level:19/quality:2:3?filter=128:161:195;7:1:1;0:0:0',
     'https://www.wowhead.com/cata/items/armor/min-level:1/max-level:25/max-req-level:19/quality:2:3?filter=128:161:195;4:1:1;0:0:0',
     'https://www.wowhead.com/cata/items/armor/min-level:1/max-level:25/max-req-level:19/quality:2:3?filter=128:161:195;7:1:1;0:0:0',
+
+    // Quest Items
     'https://www.wowhead.com/cata/items/weapons/min-level:1/max-level:55/max-req-level:19/quality:2:3?filter=128:161:195;6:1:1;0:0:0',
     'https://www.wowhead.com/cata/items/armor/min-level:1/max-level:55/max-req-level:19/quality:2:3?filter=128:161:195;6:1:1;0:0:0',
+
+    // Vendor Items
+    'https://www.wowhead.com/cata/items/min-level:10/max-req-level:19/quality:2:3?filter=128:195;7:1;0:0',
+
+    // Crafted Items
+    'https://www.wowhead.com/cata/items/max-req-level:19?filter=128:195:111;3:1:4;0:0:150',
+
+    // Heirlooms
     'https://www.wowhead.com/cata/items/min-level:1/max-level:1/max-req-level:85/quality:7?filter=128:161:195;6:1:1;0:0:0',
     'https://www.wowhead.com/cata/items/min-level:1/max-level:1/max-req-level:85/quality:7?filter=128:161:195;7:1:1;0:0:0',
+
+    //*/// Permanent Enchants
+    'https://www.wowhead.com/cata/items/consumables/item-enhancements-permanent/max-req-level:19',
+
   ], 'scrapping wowhead search results', async url => {
     const body = await fetchText(url)
     const lines = body.split('\n')
@@ -454,10 +618,6 @@ const scrapWH = async () => {
     }
   })
 
-  const log = s => console.log(JSON.parse(JSON.stringify(s)))
-  // log(await formatItemData(items[51964]))
-  // log(await formatItemData(items[15331]))
-  // log(await formatItemData(items[15512]))
   await each(Object.values(quests), 'saving quests with tooltips', async (quest) => {
     const text = await fetchText(`https://nether.wowhead.com/tooltip/quest/${quest.id}?dataEnv=11&locale=0&lvl=19`)
     const { tooltip } = JSON.parse(text)
@@ -477,4 +637,5 @@ await scrapWH()
 
 // TODO:
 // - items from dungeons where req level > 19
+// - fix RANDOM_SUFFIXES match to have proper stat distribution
 
