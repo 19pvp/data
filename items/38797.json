@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Strength": 3 },
 	"sourceId": 13536,
 	"sourceName": "Enchant Bracer - Lesser Strength",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 13536,
 		"text": "Permanently enchant bracers to increase Strength by 3."
 	},
-	"enchant": { "description": "+3 Strength", "id": 823 }
+	"enchant": { "description": "+3 Strength", "id": 823, "types": ["WRISTS"] }
 }

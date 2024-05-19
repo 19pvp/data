@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Spirit": 3 },
 	"sourceId": 13380,
 	"sourceName": "Enchant 2H Weapon - Lesser Spirit",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 13380,
 		"text": "Permanently enchant a two-handed melee weapon to increase Spirit by 3."
 	},
-	"enchant": { "description": "+3 Spirit", "id": 255 }
+	"enchant": { "description": "+3 Spirit", "id": 255, "types": ["TWO_HAND"] }
 }

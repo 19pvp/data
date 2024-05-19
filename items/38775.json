@@ -7,6 +7,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Armor": 10 },
 	"sourceId": 7771,
 	"sourceName": "Enchant Cloak - Minor Protection",
 	"sourceType": "SPELL",
@@ -14,5 +15,5 @@
 		"spell": 7771,
 		"text": "Enchant a cloak to provide 10 additional points of armor."
 	},
-	"enchant": { "description": "+10 Armor", "id": 783 }
+	"enchant": { "description": "+10 Armor", "id": 783, "types": ["BACK"] }
 }

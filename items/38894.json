@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Reduced Threat": 0.02 },
 	"sourceId": 25084,
 	"sourceName": "Enchant Cloak - Subtlety",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 25084,
 		"text": "Permanently enchant a cloak to decrease threat from all attacks and spells by 2%."
 	},
-	"enchant": { "description": "2% Reduced Threat", "id": 2621 }
+	"enchant": {
+		"description": "2% Reduced Threat",
+		"id": 2621,
+		"types": ["BACK"]
+	}
 }

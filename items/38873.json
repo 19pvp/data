@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "enchant": "Crusader" },
 	"sourceId": 20034,
 	"sourceName": "Enchant Weapon - Crusader",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 20034,
 		"text": "Permanently enchant a melee weapon to often heal for 75 to 125 and increase Strength by 100 for 15 sec. when attacking in melee. Has a reduced effect for players above level 60."
 	},
-	"enchant": { "description": "Crusader", "id": 1900 }
+	"enchant": {
+		"description": "Crusader",
+		"id": 1900,
+		"types": ["MAIN_HAND", "ONE_HAND", "TWO_HAND"]
+	}
 }

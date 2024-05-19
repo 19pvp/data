@@ -6,6 +6,14 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": {
+		"Fire Resistance": 5,
+		"Frost Resistance": 5,
+		"Holy Resistance": 5,
+		"Shadow Resistance": 5,
+		"Nature Resistance": 5,
+		"Arcane Resistance": 5
+	},
 	"sourceId": 20014,
 	"sourceName": "Enchant Cloak - Greater Resistance",
 	"sourceType": "SPELL",
@@ -13,5 +21,9 @@
 		"spell": 20014,
 		"text": "Permanently enchant a cloak to increase all resistances by 5."
 	},
-	"enchant": { "description": "+5 All Resistances", "id": 1888 }
+	"enchant": {
+		"description": "+5 All Resistances",
+		"id": 1888,
+		"types": ["BACK"]
+	}
 }

@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Spirit": 7 },
 	"sourceId": 13905,
 	"sourceName": "Enchant Shield - Greater Spirit",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 13905,
 		"text": "Permanently enchant a shield to give +7 Spirit."
 	},
-	"enchant": { "description": "+7 Spirit", "id": 907 }
+	"enchant": { "description": "+7 Spirit", "id": 907, "types": ["SHIELD"] }
 }

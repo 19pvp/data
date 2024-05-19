@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Health": 5 },
 	"sourceId": 7420,
 	"sourceName": "Enchant Chest - Minor Health",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 7420,
 		"text": "Permanently enchant a piece of chest armor so that it increases the health of the wearer by 5."
 	},
-	"enchant": { "description": "+5 Health", "id": 41 }
+	"enchant": { "description": "+5 Health", "id": 41, "types": ["CHEST"] }
 }

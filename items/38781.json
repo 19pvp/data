@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Intellect": 3 },
 	"sourceId": 7793,
 	"sourceName": "Enchant 2H Weapon - Lesser Intellect",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 7793,
 		"text": "Permanently enchant a two-handed melee weapon to increase Intellect by 3."
 	},
-	"enchant": { "description": "+3 Intellect", "id": 723 }
+	"enchant": { "description": "+3 Intellect", "id": 723, "types": ["TWO_HAND"] }
 }

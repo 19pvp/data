@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Spirit": 20 },
 	"sourceId": 23803,
 	"sourceName": "Enchant Weapon - Mighty Spirit",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 23803,
 		"text": "Permanently enchant a melee weapon to increase Spirit by 20."
 	},
-	"enchant": { "description": "+20 Spirit", "id": 2567 }
+	"enchant": {
+		"description": "+20 Spirit",
+		"id": 2567,
+		"types": ["MAIN_HAND", "ONE_HAND", "TWO_HAND"]
+	}
 }

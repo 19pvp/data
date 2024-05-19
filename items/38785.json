@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Stamina": 1 },
 	"sourceId": 7863,
 	"sourceName": "Enchant Boots - Minor Stamina",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 7863,
 		"text": "Permanently enchant boots to increase Stamina by 1."
 	},
-	"enchant": { "description": "+1 Stamina", "id": 66 }
+	"enchant": { "description": "+1 Stamina", "id": 66, "types": ["FEET"] }
 }

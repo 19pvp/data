@@ -6,6 +6,14 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": {
+		"Fire Resistance": 3,
+		"Frost Resistance": 3,
+		"Holy Resistance": 3,
+		"Shadow Resistance": 3,
+		"Nature Resistance": 3,
+		"Arcane Resistance": 3
+	},
 	"sourceId": 13794,
 	"sourceName": "Enchant Cloak - Resistance",
 	"sourceType": "SPELL",
@@ -13,5 +21,9 @@
 		"spell": 13794,
 		"text": "Permanently enchant a cloak to give 3 to all resistances."
 	},
-	"enchant": { "description": "+3 All Resistances", "id": 903 }
+	"enchant": {
+		"description": "+3 All Resistances",
+		"id": 903,
+		"types": ["BACK"]
+	}
 }

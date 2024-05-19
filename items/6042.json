@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Spike": 10 },
 	"sourceId": 7221,
 	"sourceName": "Iron Shield Spike",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 7216,
 		"text": "Attaches an Iron Spike to your shield that deals damage every time you block with it."
 	},
-	"enchant": { "description": "Iron Spike (8-12)", "id": 43 }
+	"enchant": {
+		"description": "Iron Spike (8-12)",
+		"id": 43,
+		"types": ["SHIELD"]
+	}
 }

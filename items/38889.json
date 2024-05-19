@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Spell Power": 16 },
 	"sourceId": 25079,
 	"sourceName": "Enchant Gloves - Healing Power",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 25079,
 		"text": "Permanently enchant gloves to increase spell power by 16."
 	},
-	"enchant": { "description": "+16 Spell Power", "id": 2617 }
+	"enchant": {
+		"description": "+16 Spell Power",
+		"id": 2617,
+		"types": ["HANDS"]
+	}
 }

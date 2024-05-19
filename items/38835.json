@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Agility": 3 },
 	"sourceId": 13882,
 	"sourceName": "Enchant Cloak - Lesser Agility",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 13882,
 		"text": "Permanently enchant a cloak to increase Agility by 3."
 	},
-	"enchant": { "description": "+3 Agility", "id": 849 }
+	"enchant": { "description": "+3 Agility", "id": 849, "types": ["BACK"] }
 }

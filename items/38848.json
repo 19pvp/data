@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Weapon Damage": 4 },
 	"sourceId": 13943,
 	"sourceName": "Enchant Weapon - Greater Striking",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 13943,
 		"text": "Permanently enchant a melee weapon to do 4 additional points of damage."
 	},
-	"enchant": { "description": "+4 Weapon Damage", "id": 805 }
+	"enchant": {
+		"description": "+4 Weapon Damage",
+		"id": 805,
+		"types": ["MAIN_HAND", "ONE_HAND", "TWO_HAND"]
+	}
 }

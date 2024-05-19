@@ -7,6 +7,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Armor": 70 },
 	"sourceId": 20015,
 	"sourceName": "Enchant Cloak - Superior Defense",
 	"sourceType": "SPELL",
@@ -14,5 +15,5 @@
 		"spell": 20015,
 		"text": "Permanently enchant a cloak to increase armor by 70."
 	},
-	"enchant": { "description": "+70 Armor", "id": 1889 }
+	"enchant": { "description": "+70 Armor", "id": 1889, "types": ["BACK"] }
 }

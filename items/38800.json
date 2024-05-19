@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Mining": 2 },
 	"sourceId": 13612,
 	"sourceName": "Enchant Gloves - Mining",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 13612,
 		"text": "Permanently enchant gloves to increase mining skill by 2."
 	},
-	"enchant": { "description": "+2 Mining", "id": 844 }
+	"enchant": { "description": "+2 Mining", "id": 844, "types": ["HANDS"] }
 }

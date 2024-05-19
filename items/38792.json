@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Spirit": 3 },
 	"sourceId": 13485,
 	"sourceName": "Enchant Shield - Lesser Spirit",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 13485,
 		"text": "Permanently enchant a shield to give 3 spirit."
 	},
-	"enchant": { "description": "+3 Spirit", "id": 255 }
+	"enchant": { "description": "+3 Spirit", "id": 255, "types": ["SHIELD"] }
 }

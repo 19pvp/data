@@ -6,9 +6,14 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Fishing": 1 },
 	"use": {
 		"spell": 96286,
 		"text": "Replaces the fishing line on your fishing pole with something slightly stronger, permanently increasing Fishing skill by 1."
 	},
-	"enchant": { "description": "+1 Fishing", "id": 4259 }
+	"enchant": {
+		"description": "+1 Fishing",
+		"id": 4259,
+		"types": ["FISHING_POLE"]
+	}
 }

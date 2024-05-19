@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Stamina": 3 },
 	"sourceId": 13501,
 	"sourceName": "Enchant Bracer - Lesser Stamina",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 13501,
 		"text": "Permanently enchant a bracer so it increases the wearer's Stamina by 3."
 	},
-	"enchant": { "description": "+3 Stamina", "id": 724 }
+	"enchant": { "description": "+3 Stamina", "id": 724, "types": ["WRISTS"] }
 }

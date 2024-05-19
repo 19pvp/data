@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Haste Rating": 10 },
 	"sourceId": 13948,
 	"sourceName": "Enchant Gloves - Minor Haste",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 13948,
 		"text": "Permanently enchant gloves to increase haste rating by 10."
 	},
-	"enchant": { "description": "+10 Haste Rating", "id": 931 }
+	"enchant": {
+		"description": "+10 Haste Rating",
+		"id": 931,
+		"types": ["HANDS"]
+	}
 }

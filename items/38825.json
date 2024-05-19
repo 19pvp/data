@@ -7,6 +7,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Armor": 50 },
 	"sourceId": 13746,
 	"sourceName": "Enchant Cloak - Greater Defense",
 	"sourceType": "SPELL",
@@ -14,5 +15,5 @@
 		"spell": 13746,
 		"text": "Permanently enchant a cloak to give 50 additional armor."
 	},
-	"enchant": { "description": "+50 Armor", "id": 884 }
+	"enchant": { "description": "+50 Armor", "id": 884, "types": ["BACK"] }
 }

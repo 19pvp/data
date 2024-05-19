@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "enchant": "Lifestealing" },
 	"sourceId": 20032,
 	"sourceName": "Enchant Weapon - Lifestealing",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 20032,
 		"text": "Permanently enchant a melee weapon to often steal life from the enemy and give it to the wielder. Has a reduced effect for players above level 60."
 	},
-	"enchant": { "description": "Lifestealing", "id": 1898 }
+	"enchant": {
+		"description": "Lifestealing",
+		"id": 1898,
+		"types": ["MAIN_HAND", "ONE_HAND", "TWO_HAND"]
+	}
 }

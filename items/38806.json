@@ -7,6 +7,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Armor": 30 },
 	"sourceId": 13635,
 	"sourceName": "Enchant Cloak - Defense",
 	"sourceType": "SPELL",
@@ -14,5 +15,5 @@
 		"spell": 13635,
 		"text": "Permanently enchant a cloak to give 30 additional armor."
 	},
-	"enchant": { "description": "+30 Armor", "id": 848 }
+	"enchant": { "description": "+30 Armor", "id": 848, "types": ["BACK"] }
 }

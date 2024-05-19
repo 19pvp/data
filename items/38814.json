@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Elemental Slayer": 6 },
 	"sourceId": 13655,
 	"sourceName": "Enchant Weapon - Lesser Elemental Slayer",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 13655,
 		"text": "Permanently enchant a melee weapon to increase its damage to elementals by 6."
 	},
-	"enchant": { "description": "+6 Elemental Slayer", "id": 854 }
+	"enchant": {
+		"description": "+6 Elemental Slayer",
+		"id": 854,
+		"types": ["MAIN_HAND", "ONE_HAND", "TWO_HAND"]
+	}
 }

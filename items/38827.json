@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Agility": 5 },
 	"sourceId": 13815,
 	"sourceName": "Enchant Gloves - Agility",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 13815,
 		"text": "Permanently enchant gloves to grant +5 Agility."
 	},
-	"enchant": { "description": "+5 Agility", "id": 904 }
+	"enchant": { "description": "+5 Agility", "id": 904, "types": ["HANDS"] }
 }

@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Fire Resistance": 5 },
 	"sourceId": 7861,
 	"sourceName": "Enchant Cloak - Lesser Fire Resistance",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 7861,
 		"text": "Permanently enchant a cloak so that it increases resistance to fire by 5."
 	},
-	"enchant": { "description": "+5 Fire Resistance", "id": 256 }
+	"enchant": {
+		"description": "+5 Fire Resistance",
+		"id": 256,
+		"types": ["BACK"]
+	}
 }

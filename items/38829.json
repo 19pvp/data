@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Intellect": 5 },
 	"sourceId": 13822,
 	"sourceName": "Enchant Bracer - Intellect",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 13822,
 		"text": "Permanently enchants bracers to give +5 Intellect."
 	},
-	"enchant": { "description": "+5 Intellect", "id": 905 }
+	"enchant": { "description": "+5 Intellect", "id": 905, "types": ["WRISTS"] }
 }

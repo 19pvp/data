@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Weapon Damage": 9 },
 	"sourceId": 20030,
 	"sourceName": "Enchant 2H Weapon - Superior Impact",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 20030,
 		"text": "Permanently enchant a two-handed melee weapon to increase its damage by 9."
 	},
-	"enchant": { "description": "+9 Weapon Damage", "id": 1896 }
+	"enchant": {
+		"description": "+9 Weapon Damage",
+		"id": 1896,
+		"types": ["TWO_HAND"]
+	}
 }

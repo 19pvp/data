@@ -7,6 +7,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Armor": 20 },
 	"sourceId": 13421,
 	"sourceName": "Enchant Cloak - Lesser Protection",
 	"sourceType": "SPELL",
@@ -14,5 +15,5 @@
 		"spell": 13421,
 		"text": "Permanently enchant a cloak to increase armor by 20."
 	},
-	"enchant": { "description": "+20 Armor", "id": 744 }
+	"enchant": { "description": "+20 Armor", "id": 744, "types": ["BACK"] }
 }

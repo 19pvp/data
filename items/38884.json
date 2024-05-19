@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Intellect": 22 },
 	"sourceId": 23804,
 	"sourceName": "Enchant Weapon - Mighty Intellect",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 23804,
 		"text": "Permanently enchant a melee weapon to increase Intellect by 22."
 	},
-	"enchant": { "description": "+22 Intellect", "id": 2568 }
+	"enchant": {
+		"description": "+22 Intellect",
+		"id": 2568,
+		"types": ["MAIN_HAND", "ONE_HAND", "TWO_HAND"]
+	}
 }

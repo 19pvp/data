@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Frost Resistance": 8 },
 	"sourceId": 13933,
 	"sourceName": "Enchant Shield - Frost Resistance",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 13933,
 		"text": "Permanently enchant a shield to increase Frost resistance by 8."
 	},
-	"enchant": { "description": "+8 Frost Resistance", "id": 926 }
+	"enchant": {
+		"description": "+8 Frost Resistance",
+		"id": 926,
+		"types": ["SHIELD"]
+	}
 }

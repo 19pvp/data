@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Nature Resistance": 15 },
 	"sourceId": 25082,
 	"sourceName": "Enchant Cloak - Greater Nature Resistance",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 25082,
 		"text": "Permanently enchant a cloak to increase nature resistance by 15."
 	},
-	"enchant": { "description": "+15 Nature Resistance", "id": 2620 }
+	"enchant": {
+		"description": "+15 Nature Resistance",
+		"id": 2620,
+		"types": ["BACK"]
+	}
 }

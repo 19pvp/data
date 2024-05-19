@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Health": 35 },
 	"sourceId": 13640,
 	"sourceName": "Enchant Chest - Greater Health",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 13640,
 		"text": "Permanently enchant a piece of chest armor to give +35 health."
 	},
-	"enchant": { "description": "+35 Health", "id": 850 }
+	"enchant": { "description": "+35 Health", "id": 850, "types": ["CHEST"] }
 }

@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Mana": 5 },
 	"sourceId": 7443,
 	"sourceName": "Enchant Chest - Minor Mana",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 7443,
 		"text": "Permanently enchant chest armor to increase mana by 5."
 	},
-	"enchant": { "description": "+5 Mana", "id": 24 }
+	"enchant": { "description": "+5 Mana", "id": 24, "types": ["CHEST"] }
 }

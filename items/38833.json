@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Health": 50 },
 	"sourceId": 13858,
 	"sourceName": "Enchant Chest - Superior Health",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 13858,
 		"text": "Permanently enchant a piece of chest armor to grant +50 health."
 	},
-	"enchant": { "description": "+50 Health", "id": 908 }
+	"enchant": { "description": "+50 Health", "id": 908, "types": ["CHEST"] }
 }

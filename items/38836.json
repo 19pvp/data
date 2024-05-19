@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Strength": 5 },
 	"sourceId": 13887,
 	"sourceName": "Enchant Gloves - Strength",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 13887,
 		"text": "Permanently enchant gloves to grant +5 Strength."
 	},
-	"enchant": { "description": "+5 Strength", "id": 856 }
+	"enchant": { "description": "+5 Strength", "id": 856, "types": ["HANDS"] }
 }

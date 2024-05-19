@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Threat": 0.02 },
 	"sourceId": 25072,
 	"sourceName": "Enchant Gloves - Threat",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 25072,
 		"text": "Permanently enchant gloves to increase threat from all attacks and spells by 2%."
 	},
-	"enchant": { "description": "+2% Threat", "id": 2613 }
+	"enchant": { "description": "+2% Threat", "id": 2613, "types": ["HANDS"] }
 }

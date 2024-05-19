@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Mana": 100 },
 	"sourceId": 20028,
 	"sourceName": "Enchant Chest - Major Mana",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 20028,
 		"text": "Permanently enchant chest armor to increase mana by 100."
 	},
-	"enchant": { "description": "+100 Mana", "id": 1893 }
+	"enchant": { "description": "+100 Mana", "id": 1893, "types": ["CHEST"] }
 }

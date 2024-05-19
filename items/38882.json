@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Spell Power": 15 },
 	"sourceId": 23802,
 	"sourceName": "Enchant Bracer - Healing Power",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 23802,
 		"text": "Permanently enchant bracers to increase spell power by 15."
 	},
-	"enchant": { "description": "+15 Spell Power", "id": 2650 }
+	"enchant": {
+		"description": "+15 Spell Power",
+		"id": 2650,
+		"types": ["WRISTS"]
+	}
 }

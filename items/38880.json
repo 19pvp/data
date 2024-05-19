@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Agility": 15 },
 	"sourceId": 23800,
 	"sourceName": "Enchant Weapon - Agility",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 23800,
 		"text": "Permanently enchant a melee weapon to increase Agility by 15."
 	},
-	"enchant": { "description": "+15 Agility", "id": 2564 }
+	"enchant": {
+		"description": "+15 Agility",
+		"id": 2564,
+		"types": ["MAIN_HAND", "ONE_HAND", "TWO_HAND"]
+	}
 }

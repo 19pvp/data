@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Herbalism": 5 },
 	"sourceId": 13868,
 	"sourceName": "Enchant Gloves - Advanced Herbalism",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 13868,
 		"text": "Permanently enchant gloves to increase herbalism skill by 5."
 	},
-	"enchant": { "description": "+5 Herbalism", "id": 909 }
+	"enchant": { "description": "+5 Herbalism", "id": 909, "types": ["HANDS"] }
 }

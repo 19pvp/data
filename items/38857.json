@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Strength": 7 },
 	"sourceId": 20013,
 	"sourceName": "Enchant Gloves - Greater Strength",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 20013,
 		"text": "Permanently enchant gloves to increase Strength by 7."
 	},
-	"enchant": { "description": "+7 Strength", "id": 927 }
+	"enchant": { "description": "+7 Strength", "id": 927, "types": ["HANDS"] }
 }

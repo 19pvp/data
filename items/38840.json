@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "enchant": "Demonslaying" },
 	"sourceId": 13915,
 	"sourceName": "Enchant Weapon - Demonslaying",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 13915,
 		"text": "Permanently enchant a melee weapon to have a chance of stunning and doing additional damage against demons."
 	},
-	"enchant": { "description": "Demonslaying", "id": 912 }
+	"enchant": {
+		"description": "Demonslaying",
+		"id": 912,
+		"types": ["MAIN_HAND", "ONE_HAND", "TWO_HAND"]
+	}
 }

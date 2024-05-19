@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Weapon Damage": 2 },
 	"sourceId": 7745,
 	"sourceName": "Enchant 2H Weapon - Minor Impact",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 7745,
 		"text": "Permanently enchant a two-handed melee weapon to do 2 additional points of damage."
 	},
-	"enchant": { "description": "+2 Weapon Damage", "id": 241 }
+	"enchant": {
+		"description": "+2 Weapon Damage",
+		"id": 241,
+		"types": ["TWO_HAND"]
+	}
 }

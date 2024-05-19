@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Intellect": 3 },
 	"sourceId": 13622,
 	"sourceName": "Enchant Bracer - Lesser Intellect",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 13622,
 		"text": "Permanently enchant a bracer so it increases the wearer's Intellect by 3."
 	},
-	"enchant": { "description": "+3 Intellect", "id": 723 }
+	"enchant": { "description": "+3 Intellect", "id": 723, "types": ["WRISTS"] }
 }

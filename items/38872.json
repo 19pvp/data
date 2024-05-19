@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "enchant": "Unholy Weapon" },
 	"sourceId": 20033,
 	"sourceName": "Enchant Weapon - Unholy Weapon",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 20033,
 		"text": "Permanently enchant a melee weapon to often inflict a curse on the target, inflicting Shadow damage and reducing their melee damage."
 	},
-	"enchant": { "description": "Unholy Weapon", "id": 1899 }
+	"enchant": {
+		"description": "Unholy Weapon",
+		"id": 1899,
+		"types": ["MAIN_HAND", "ONE_HAND", "TWO_HAND"]
+	}
 }

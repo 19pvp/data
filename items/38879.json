@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Strength": 15 },
 	"sourceId": 23799,
 	"sourceName": "Enchant Weapon - Strength",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 23799,
 		"text": "Permanently enchant a melee weapon to increase Strength by 15."
 	},
-	"enchant": { "description": "+15 Strength", "id": 2563 }
+	"enchant": {
+		"description": "+15 Strength",
+		"id": 2563,
+		"types": ["MAIN_HAND", "ONE_HAND", "TWO_HAND"]
+	}
 }

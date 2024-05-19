@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "UNCOMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Spike": 32 },
 	"sourceId": 29657,
 	"sourceName": "Felsteel Shield Spike",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 29454,
 		"text": "Attaches a Felsteel Spike to your shield that deals 26-38 damage every time you block with it."
 	},
-	"enchant": { "description": "Felsteel Spike (26-38)", "id": 2714 }
+	"enchant": {
+		"description": "Felsteel Spike (26-38)",
+		"id": 2714,
+		"types": ["SHIELD"]
+	}
 }

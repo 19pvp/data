@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Beastslaying": 6 },
 	"sourceId": 13653,
 	"sourceName": "Enchant Weapon - Lesser Beastslayer",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 13653,
 		"text": "Permanently enchant a melee weapon to increase its damage to beasts by 6."
 	},
-	"enchant": { "description": "+6 Beastslaying", "id": 853 }
+	"enchant": {
+		"description": "+6 Beastslaying",
+		"id": 853,
+		"types": ["MAIN_HAND", "ONE_HAND", "TWO_HAND"]
+	}
 }

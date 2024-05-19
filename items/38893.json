@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Agility": 8, "Dodge Rating": 8 },
 	"sourceId": 25083,
 	"sourceName": "Enchant Cloak - Stealth",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 25083,
 		"text": "Permanently enchant a cloak to increase Agility and dodge rating by 8."
 	},
-	"enchant": { "description": "+8 Agility and +8 Dodge Rating", "id": 910 }
+	"enchant": {
+		"description": "+8 Agility and +8 Dodge Rating",
+		"id": 910,
+		"types": ["BACK"]
+	}
 }

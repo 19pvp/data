@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Spirit": 3 },
 	"sourceId": 7859,
 	"sourceName": "Enchant Bracer - Lesser Spirit",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 7859,
 		"text": "Permanently enchant bracers to increase Spirit by 3."
 	},
-	"enchant": { "description": "+3 Spirit", "id": 255 }
+	"enchant": { "description": "+3 Spirit", "id": 255, "types": ["WRISTS"] }
 }

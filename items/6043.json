@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Haste Rating": 20 },
 	"sourceId": 7222,
 	"sourceName": "Iron Counterweight",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 7218,
 		"text": "Attaches a counterweight to a two-handed sword, mace, axe or polearm increasing the wielder's haste rating by 20."
 	},
-	"enchant": { "description": "Counterweight (+20 Haste Rating)", "id": 34 }
+	"enchant": {
+		"description": "Counterweight (+20 Haste Rating)",
+		"id": 34,
+		"types": ["TWO_HAND"]
+	}
 }

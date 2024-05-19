@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Intellect": 7 },
 	"sourceId": 20008,
 	"sourceName": "Enchant Bracer - Greater Intellect",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 20008,
 		"text": "Permanently enchant bracers to increase Intellect by 7."
 	},
-	"enchant": { "description": "+7 Intellect", "id": 1883 }
+	"enchant": { "description": "+7 Intellect", "id": 1883, "types": ["WRISTS"] }
 }

@@ -6,6 +6,13 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": {
+		"Agility": 1,
+		"Strength": 1,
+		"Intellect": 1,
+		"Spirit": 1,
+		"Stamina": 1
+	},
 	"sourceId": 13626,
 	"sourceName": "Enchant Chest - Minor Stats",
 	"sourceType": "SPELL",
@@ -13,5 +20,5 @@
 		"spell": 13626,
 		"text": "Permanently enchant a piece of chest armor to grant +1 to all stats."
 	},
-	"enchant": { "description": "+1 All Stats", "id": 847 }
+	"enchant": { "description": "+1 All Stats", "id": 847, "types": ["CHEST"] }
 }

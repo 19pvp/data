@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Stamina": 3 },
 	"sourceId": 13631,
 	"sourceName": "Enchant Shield - Lesser Stamina",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 13631,
 		"text": "Permanently enchant a shield to give 3 Stamina."
 	},
-	"enchant": { "description": "+3 Stamina", "id": 724 }
+	"enchant": { "description": "+3 Stamina", "id": 724, "types": ["SHIELD"] }
 }

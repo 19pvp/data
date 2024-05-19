@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Weapon Damage": 3 },
 	"sourceId": 13693,
 	"sourceName": "Enchant Weapon - Striking",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 13693,
 		"text": "Permanently enchant a melee weapon to do 3 additional points of damage."
 	},
-	"enchant": { "description": "+3 Weapon Damage", "id": 943 }
+	"enchant": {
+		"description": "+3 Weapon Damage",
+		"id": 943,
+		"types": ["MAIN_HAND", "ONE_HAND", "TWO_HAND"]
+	}
 }

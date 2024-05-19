@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Spirit": 10, "Stamina": 10 },
 	"sourceId": 20016,
 	"sourceName": "Enchant Shield - Vitality",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 20016,
 		"text": "Permanently enchant a shield to increase Stamina and Spirit by 10."
 	},
-	"enchant": { "description": "+10 Spirit and +10 Stamina", "id": 1890 }
+	"enchant": {
+		"description": "+10 Spirit and +10 Stamina",
+		"id": 1890,
+		"types": ["SHIELD"]
+	}
 }

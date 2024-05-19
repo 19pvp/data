@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Agility": 7 },
 	"sourceId": 20012,
 	"sourceName": "Enchant Gloves - Greater Agility",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 20012,
 		"text": "Permanently enchant gloves to increase Agility by 7."
 	},
-	"enchant": { "description": "+7 Agility", "id": 1887 }
+	"enchant": { "description": "+7 Agility", "id": 1887, "types": ["HANDS"] }
 }

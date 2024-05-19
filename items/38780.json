@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Weapon Damage": 1 },
 	"sourceId": 7788,
 	"sourceName": "Enchant Weapon - Minor Striking",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 7788,
 		"text": "Permanently enchant a melee weapon to do 1 additional point of damage."
 	},
-	"enchant": { "description": "+1  Weapon Damage", "id": 250 }
+	"enchant": {
+		"description": "+1 Weapon Damage",
+		"id": 250,
+		"types": ["MAIN_HAND", "ONE_HAND", "TWO_HAND"]
+	}
 }

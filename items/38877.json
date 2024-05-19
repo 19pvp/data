@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Spell Power": 30 },
 	"sourceId": 22749,
 	"sourceName": "Enchant Weapon - Spellpower",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 22749,
 		"text": "Permanently enchant a melee weapon to increase spell power by 30."
 	},
-	"enchant": { "description": "+30 Spell Power", "id": 2504 }
+	"enchant": {
+		"description": "+30 Spell Power",
+		"id": 2504,
+		"types": ["MAIN_HAND", "ONE_HAND", "TWO_HAND"]
+	}
 }

@@ -6,6 +6,13 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": {
+		"Agility": 3,
+		"Strength": 3,
+		"Intellect": 3,
+		"Spirit": 3,
+		"Stamina": 3
+	},
 	"sourceId": 13941,
 	"sourceName": "Enchant Chest - Stats",
 	"sourceType": "SPELL",
@@ -13,5 +20,5 @@
 		"spell": 13941,
 		"text": "Permanently enchant a piece of chest armor to grant +3 to all stats."
 	},
-	"enchant": { "description": "+3 All Stats", "id": 928 }
+	"enchant": { "description": "+3 All Stats", "id": 928, "types": ["CHEST"] }
 }

@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Fire Spell Power": 20 },
 	"sourceId": 25078,
 	"sourceName": "Enchant Gloves - Fire Power",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 25078,
 		"text": "Permanently enchant gloves to increase fire spell power by 20."
 	},
-	"enchant": { "description": "+20 Fire Spell Power", "id": 2616 }
+	"enchant": {
+		"description": "+20 Fire Spell Power",
+		"id": 2616,
+		"types": ["HANDS"]
+	}
 }

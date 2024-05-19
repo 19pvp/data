@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Absorption": 25 },
 	"sourceId": 13538,
 	"sourceName": "Enchant Chest - Lesser Absorption",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 13538,
 		"text": "Enchant a piece of chest armor so it has a 5% chance per hit of giving you 25 points of damage absorption."
 	},
-	"enchant": { "description": "Absorption (25)", "id": 63 }
+	"enchant": { "description": "Absorption (25)", "id": 63, "types": ["CHEST"] }
 }

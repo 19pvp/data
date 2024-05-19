@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Spirit": 5 },
 	"sourceId": 20024,
 	"sourceName": "Enchant Boots - Spirit",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 20024,
 		"text": "Permanently enchant boots to increase Spirit by 5."
 	},
-	"enchant": { "description": "+5 Spirit", "id": 851 }
+	"enchant": { "description": "+5 Spirit", "id": 851, "types": ["FEET"] }
 }

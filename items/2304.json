@@ -7,6 +7,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Armor": 8 },
 	"sourceId": 2152,
 	"sourceName": "Light Armor Kit",
 	"sourceType": "SPELL",
@@ -14,5 +15,9 @@
 		"spell": 2831,
 		"text": "Permanently increase the armor value of an item worn on the chest, legs, hands or feet by 8."
 	},
-	"enchant": { "description": "Reinforced (+8 Armor)", "id": 15 }
+	"enchant": {
+		"description": "Reinforced (+8 Armor)",
+		"id": 15,
+		"types": ["CHEST", "LEGS", "FEET", "HANDS"]
+	}
 }

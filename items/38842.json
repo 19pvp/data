@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Dodge Rating": 5 },
 	"sourceId": 13931,
 	"sourceName": "Enchant Bracer - Dodge",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 13931,
 		"text": "Permanently enchant bracers to increase dodge rating by 5."
 	},
-	"enchant": { "description": "+5 Dodge Rating", "id": 923 }
+	"enchant": {
+		"description": "+5 Dodge Rating",
+		"id": 923,
+		"types": ["WRISTS"]
+	}
 }

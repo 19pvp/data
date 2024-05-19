@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Spirit": 9 },
 	"sourceId": 20009,
 	"sourceName": "Enchant Bracer - Superior Spirit",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 20009,
 		"text": "Permanently enchant bracers to increase Spirit by 9."
 	},
-	"enchant": { "description": "+9 Spirit", "id": 1884 }
+	"enchant": { "description": "+9 Spirit", "id": 1884, "types": ["WRISTS"] }
 }

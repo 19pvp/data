@@ -7,6 +7,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Armor": 16 },
 	"sourceId": 2165,
 	"sourceName": "Medium Armor Kit",
 	"sourceType": "SPELL",
@@ -14,5 +15,9 @@
 		"spell": 2832,
 		"text": "Permanently increase the armor value of an item worn on the chest, legs, hands or feet by 16."
 	},
-	"enchant": { "description": "Reinforced (+16 Armor)", "id": 16 }
+	"enchant": {
+		"description": "Reinforced (+16 Armor)",
+		"id": 16,
+		"types": ["CHEST", "LEGS", "FEET", "HANDS"]
+	}
 }

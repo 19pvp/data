@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Mana": 50 },
 	"sourceId": 13663,
 	"sourceName": "Enchant Chest - Greater Mana",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 13663,
 		"text": "Permanently enchant a piece of chest armor to give +50 mana."
 	},
-	"enchant": { "description": "+50 Mana", "id": 857 }
+	"enchant": { "description": "+50 Mana", "id": 857, "types": ["CHEST"] }
 }

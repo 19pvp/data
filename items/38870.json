@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Weapon Damage": 5 },
 	"sourceId": 20031,
 	"sourceName": "Enchant Weapon - Superior Striking",
 	"sourceType": "SPELL",
@@ -13,5 +14,9 @@
 		"spell": 20031,
 		"text": "Permanently enchant a melee weapon to increase its damage by 5."
 	},
-	"enchant": { "description": "+5 Weapon Damage", "id": 1897 }
+	"enchant": {
+		"description": "+5 Weapon Damage",
+		"id": 1897,
+		"types": ["MAIN_HAND", "ONE_HAND", "TWO_HAND"]
+	}
 }

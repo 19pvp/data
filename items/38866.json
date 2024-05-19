@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Health": 100 },
 	"sourceId": 20026,
 	"sourceName": "Enchant Chest - Major Health",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 20026,
 		"text": "Permanently enchant chest armor to increase health by 100."
 	},
-	"enchant": { "description": "+100 Health", "id": 1892 }
+	"enchant": { "description": "+100 Health", "id": 1892, "types": ["CHEST"] }
 }

@@ -7,6 +7,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Armor": 30 },
 	"sourceId": 13464,
 	"sourceName": "Enchant Shield - Lesser Protection",
 	"sourceType": "SPELL",
@@ -14,5 +15,5 @@
 		"spell": 13464,
 		"text": "Permanently enchant a shield to increase armor by 30."
 	},
-	"enchant": { "description": "+30 Armor", "id": 848 }
+	"enchant": { "description": "+30 Armor", "id": 848, "types": ["SHIELD"] }
 }

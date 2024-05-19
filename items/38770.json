@@ -6,6 +6,14 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": {
+		"Fire Resistance": 1,
+		"Frost Resistance": 1,
+		"Holy Resistance": 1,
+		"Shadow Resistance": 1,
+		"Nature Resistance": 1,
+		"Arcane Resistance": 1
+	},
 	"sourceId": 7454,
 	"sourceName": "Enchant Cloak - Minor Resistance",
 	"sourceType": "SPELL",
@@ -13,5 +21,9 @@
 		"spell": 7454,
 		"text": "Permanently enchant a cloak so that it increases the resistance to all schools of magic by 1."
 	},
-	"enchant": { "description": "+1 All Resistances", "id": 65 }
+	"enchant": {
+		"description": "+1 All Resistances",
+		"id": 65,
+		"types": ["BACK"]
+	}
 }

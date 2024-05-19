@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Stamina": 5 },
 	"sourceId": 13648,
 	"sourceName": "Enchant Bracer - Stamina",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 13648,
 		"text": "Permanently enchants bracers to give +5 Stamina."
 	},
-	"enchant": { "description": "+5 Stamina", "id": 852 }
+	"enchant": { "description": "+5 Stamina", "id": 852, "types": ["WRISTS"] }
 }

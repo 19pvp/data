@@ -6,6 +6,7 @@
 	"class": "CONSUMABLE",
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Strength": 1 },
 	"sourceId": 7782,
 	"sourceName": "Enchant Bracer - Minor Strength",
 	"sourceType": "SPELL",
@@ -13,5 +14,5 @@
 		"spell": 7782,
 		"text": "Permanently enchant bracers to increase Strength by 1."
 	},
-	"enchant": { "description": "+1 Strength", "id": 248 }
+	"enchant": { "description": "+1 Strength", "id": 248, "types": ["WRISTS"] }
 }
