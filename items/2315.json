@@ -1,0 +1,15 @@
+{
+	"id": 2315,
+	"name": "Dark Leather Boots",
+	"icon": "inv_boots_05",
+	"popularity": 6,
+	"armor": 60,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Agility": 5 },
+	"sourceId": 2167,
+	"sourceName": "Dark Leather Boots",
+	"sourceType": "SPELL"
+}

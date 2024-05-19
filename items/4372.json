@@ -1,0 +1,17 @@
+{
+	"id": 4372,
+	"name": "Lovingly Crafted Boomstick",
+	"icon": "inv_weapon_rifle_07",
+	"dmgMin": 20,
+	"dmgMax": 38,
+	"speed": 1.8,
+	"dps": 16.11,
+	"popularity": 19,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "GUN",
+	"type": "RANGED",
+	"sourceId": 3939,
+	"sourceName": "Lovingly Crafted Boomstick",
+	"sourceType": "SPELL"
+}

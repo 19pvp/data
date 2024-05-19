@@ -1,0 +1,15 @@
+{
+	"id": 2583,
+	"name": "Woolen Boots",
+	"icon": "inv_boots_09",
+	"popularity": 19,
+	"armor": 38,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": { "Stamina": 3, "Intellect": 2, "Spirit": 2 },
+	"sourceId": 2401,
+	"sourceName": "Woolen Boots",
+	"sourceType": "SPELL"
+}

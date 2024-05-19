@@ -1,0 +1,15 @@
+{
+	"id": 21932,
+	"name": "Heavy Copper Ring",
+	"icon": "inv_jewelry_ring_12",
+	"popularity": 12,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Stamina": 2 },
+	"sourceId": 26926,
+	"sourceName": "Heavy Copper Ring",
+	"sourceType": "SPELL"
+}

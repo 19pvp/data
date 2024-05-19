@@ -1,0 +1,15 @@
+{
+	"id": 7349,
+	"name": "Herbalist's Gloves",
+	"icon": "inv_gauntlets_18",
+	"popularity": 25,
+	"armor": 70,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"sourceId": 9146,
+	"sourceName": "Herbalist's Gloves",
+	"sourceType": "SPELL",
+	"equip": { "spell": 9134, "text": "Herbalism +5." }
+}

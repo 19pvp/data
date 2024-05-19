@@ -1,0 +1,15 @@
+{
+	"id": 2317,
+	"name": "Dark Leather Tunic",
+	"icon": "inv_chest_leather_03",
+	"popularity": 3,
+	"armor": 88,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Agility": 6 },
+	"sourceId": 2169,
+	"sourceName": "Dark Leather Tunic",
+	"sourceType": "SPELL"
+}

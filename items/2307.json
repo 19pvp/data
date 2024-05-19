@@ -1,0 +1,15 @@
+{
+	"id": 2307,
+	"name": "Fine Leather Boots",
+	"icon": "inv_boots_06",
+	"popularity": 13,
+	"armor": 55,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Agility": 4 },
+	"sourceId": 2158,
+	"sourceName": "Fine Leather Boots",
+	"sourceType": "SPELL"
+}

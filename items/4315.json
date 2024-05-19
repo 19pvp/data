@@ -1,0 +1,15 @@
+{
+	"id": 4315,
+	"name": "Reinforced Woolen Shoulders",
+	"icon": "inv_shoulder_09",
+	"popularity": 7,
+	"armor": 50,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "SHOULDERS",
+	"stats": { "Stamina": 4, "Intellect": 4 },
+	"sourceId": 3849,
+	"sourceName": "Reinforced Woolen Shoulders",
+	"sourceType": "SPELL"
+}

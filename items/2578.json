@@ -1,0 +1,15 @@
+{
+	"id": 2578,
+	"name": "Barbaric Linen Vest",
+	"icon": "inv_chest_fur",
+	"popularity": 5,
+	"armor": 43,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Stamina": 2, "Spirit": 2 },
+	"sourceId": 2395,
+	"sourceName": "Barbaric Linen Vest",
+	"sourceType": "SPELL"
+}

@@ -1,0 +1,18 @@
+{
+	"id": 2849,
+	"name": "Bronze Axe",
+	"icon": "inv_axe_17",
+	"dmgMin": 17,
+	"dmgMax": 32,
+	"speed": 2.1,
+	"dps": 11.67,
+	"popularity": 11,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "ONE_HANDED_AXE",
+	"type": "MAIN_HAND",
+	"stats": { "Stamina": 3 },
+	"sourceId": 2741,
+	"sourceName": "Bronze Axe",
+	"sourceType": "SPELL"
+}

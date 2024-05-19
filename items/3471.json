@@ -1,0 +1,15 @@
+{
+	"id": 3471,
+	"name": "Copper Chain Vest",
+	"icon": "inv_chest_chain",
+	"popularity": 12,
+	"armor": 85,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Strength": 1 },
+	"sourceId": 3321,
+	"sourceName": "Copper Chain Vest",
+	"sourceType": "SPELL"
+}

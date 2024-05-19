@@ -1,0 +1,15 @@
+{
+	"id": 4309,
+	"name": "Handstitched Linen Britches",
+	"icon": "inv_pants_07",
+	"popularity": 7,
+	"armor": 38,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Intellect": 2, "Spirit": 2 },
+	"sourceId": 3842,
+	"sourceName": "Handstitched Linen Britches",
+	"sourceType": "SPELL"
+}

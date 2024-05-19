@@ -1,0 +1,16 @@
+{
+	"id": 30804,
+	"name": "Bronze Band of Force",
+	"icon": "inv_jewelry_ring_34",
+	"popularity": 7,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Intellect": 5 },
+	"sourceId": 37818,
+	"sourceName": "Bronze Band of Force",
+	"sourceType": "SPELL",
+	"equip": { "spell": 26596, "text": "+1 Weapon Damage." }
+}

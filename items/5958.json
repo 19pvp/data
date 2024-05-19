@@ -1,0 +1,15 @@
+{
+	"id": 5958,
+	"name": "Fine Leather Pants",
+	"icon": "inv_pants_02",
+	"popularity": 10,
+	"armor": 80,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Stamina": 8, "Intellect": 4 },
+	"sourceId": 7133,
+	"sourceName": "Fine Leather Pants",
+	"sourceType": "SPELL"
+}

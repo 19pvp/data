@@ -1,0 +1,15 @@
+{
+	"id": 25438,
+	"name": "Malachite Pendant",
+	"icon": "inv_jewelry_necklace_01",
+	"popularity": 10,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "AMULETS",
+	"type": "NECK",
+	"stats": { "Agility": 2 },
+	"sourceId": 32178,
+	"sourceName": "Malachite Pendant",
+	"sourceType": "SPELL"
+}

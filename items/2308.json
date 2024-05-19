@@ -1,0 +1,15 @@
+{
+	"id": 2308,
+	"name": "Fine Leather Cloak",
+	"icon": "inv_misc_cape_10",
+	"popularity": 9,
+	"armor": 23,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Stamina": 2 },
+	"sourceId": 2159,
+	"sourceName": "Fine Leather Cloak",
+	"sourceType": "SPELL"
+}

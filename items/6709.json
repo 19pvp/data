@@ -1,0 +1,15 @@
+{
+	"id": 6709,
+	"name": "Moonglow Vest",
+	"icon": "inv_chest_leather_09",
+	"popularity": 19,
+	"armor": 81,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Stamina": 5, "Intellect": 4 },
+	"sourceId": 8322,
+	"sourceName": "Moonglow Vest",
+	"sourceType": "SPELL"
+}

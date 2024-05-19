@@ -1,0 +1,15 @@
+{
+	"id": 2311,
+	"name": "White Leather Jerkin",
+	"icon": "inv_chest_wolf",
+	"popularity": 9,
+	"armor": 63,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Agility": 3 },
+	"sourceId": 2163,
+	"sourceName": "White Leather Jerkin",
+	"sourceType": "SPELL"
+}

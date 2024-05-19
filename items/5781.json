@@ -1,0 +1,15 @@
+{
+	"id": 5781,
+	"name": "Murloc Scale Breastplate",
+	"icon": "inv_chest_chain_12",
+	"popularity": 9,
+	"armor": 84,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Agility": 5, "Stamina": 5 },
+	"sourceId": 6703,
+	"sourceName": "Murloc Scale Breastplate",
+	"sourceType": "SPELL"
+}

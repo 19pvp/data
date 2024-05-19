@@ -1,0 +1,15 @@
+{
+	"id": 2569,
+	"name": "Linen Boots",
+	"icon": "inv_boots_09",
+	"popularity": 6,
+	"armor": 28,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": { "Intellect": 1, "Spirit": 1 },
+	"sourceId": 2386,
+	"sourceName": "Linen Boots",
+	"sourceType": "SPELL"
+}

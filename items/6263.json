@@ -1,0 +1,15 @@
+{
+	"id": 6263,
+	"name": "Blue Overalls",
+	"icon": "inv_shirt_13",
+	"popularity": 36,
+	"armor": 57,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Stamina": 4, "Intellect": 4 },
+	"sourceId": 7639,
+	"sourceName": "Blue Overalls",
+	"sourceType": "SPELL"
+}

@@ -1,0 +1,15 @@
+{
+	"id": 2300,
+	"name": "Embossed Leather Vest",
+	"icon": "inv_chest_leather_09",
+	"popularity": 7,
+	"armor": 59,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Stamina": 2 },
+	"sourceId": 2160,
+	"sourceName": "Embossed Leather Vest",
+	"sourceType": "SPELL"
+}

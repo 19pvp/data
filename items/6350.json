@@ -1,0 +1,15 @@
+{
+	"id": 6350,
+	"name": "Rough Bronze Boots",
+	"icon": "inv_boots_01",
+	"popularity": 13,
+	"armor": 90,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "FEET",
+	"stats": { "Strength": 2, "Stamina": 3 },
+	"sourceId": 7817,
+	"sourceName": "Rough Bronze Boots",
+	"sourceType": "SPELL"
+}

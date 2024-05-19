@@ -1,0 +1,15 @@
+{
+	"id": 5542,
+	"name": "Pearl-Clasped Cloak",
+	"icon": "inv_misc_cape_11",
+	"popularity": 5,
+	"armor": 28,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Intellect": 3 },
+	"sourceId": 6521,
+	"sourceName": "Pearl-clasped Cloak",
+	"sourceType": "SPELL"
+}

@@ -1,0 +1,17 @@
+{
+	"id": 4369,
+	"name": "Deadly Blunderbuss",
+	"icon": "inv_weapon_rifle_07",
+	"dmgMin": 25,
+	"dmgMax": 47,
+	"speed": 2.6,
+	"dps": 13.85,
+	"popularity": 22,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "GUN",
+	"type": "RANGED",
+	"sourceId": 3936,
+	"sourceName": "Deadly Blunderbuss",
+	"sourceType": "SPELL"
+}

@@ -1,0 +1,18 @@
+{
+	"id": 2850,
+	"name": "Bronze Shortsword",
+	"icon": "inv_sword_04",
+	"dmgMin": 18,
+	"dmgMax": 34,
+	"speed": 2.1,
+	"dps": 12.38,
+	"popularity": 9,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "ONE_HANDED_SWORD",
+	"type": "MAIN_HAND",
+	"stats": { "Agility": 3 },
+	"sourceId": 2742,
+	"sourceName": "Bronze Shortsword",
+	"sourceType": "SPELL"
+}

@@ -1,0 +1,15 @@
+{
+	"id": 2312,
+	"name": "Fine Leather Gloves",
+	"icon": "inv_gauntlets_05",
+	"popularity": 3,
+	"armor": 44,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Stamina": 3, "Intellect": 2 },
+	"sourceId": 2164,
+	"sourceName": "Fine Leather Gloves",
+	"sourceType": "SPELL"
+}

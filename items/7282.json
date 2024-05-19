@@ -1,0 +1,15 @@
+{
+	"id": 7282,
+	"name": "Light Leather Pants",
+	"icon": "inv_pants_02",
+	"popularity": 3,
+	"armor": 74,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Agility": 5, "Stamina": 3 },
+	"sourceId": 9068,
+	"sourceName": "Light Leather Pants",
+	"sourceType": "SPELL"
+}

@@ -1,0 +1,15 @@
+{
+	"id": 2854,
+	"name": "Runed Copper Bracers",
+	"icon": "inv_bracer_03",
+	"popularity": 13,
+	"armor": 60,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WRISTS",
+	"stats": { "Strength": 3 },
+	"sourceId": 2664,
+	"sourceName": "Runed Copper Bracers",
+	"sourceType": "SPELL"
+}

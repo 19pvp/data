@@ -1,0 +1,15 @@
+{
+	"id": 20821,
+	"name": "Inlaid Malachite Ring",
+	"icon": "inv_jewelry_ring_23",
+	"popularity": 6,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Agility": 2 },
+	"sourceId": 25283,
+	"sourceName": "Inlaid Malachite Ring",
+	"sourceType": "SPELL"
+}

@@ -1,0 +1,15 @@
+{
+	"id": 2865,
+	"name": "Rough Bronze Leggings",
+	"icon": "inv_pants_03",
+	"popularity": 20,
+	"armor": 130,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Strength": 4, "Stamina": 5 },
+	"sourceId": 2668,
+	"sourceName": "Rough Bronze Leggings",
+	"sourceType": "SPELL"
+}

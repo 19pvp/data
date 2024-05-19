@@ -1,0 +1,15 @@
+{
+	"id": 4239,
+	"name": "Embossed Leather Gloves",
+	"icon": "inv_gauntlets_05",
+	"popularity": 22,
+	"armor": 39,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Agility": 2 },
+	"sourceId": 3756,
+	"sourceName": "Embossed Leather Gloves",
+	"sourceType": "SPELL"
+}

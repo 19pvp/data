@@ -1,0 +1,15 @@
+{
+	"id": 2309,
+	"name": "Embossed Leather Boots",
+	"icon": "inv_boots_05",
+	"popularity": 6,
+	"armor": 48,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "FEET",
+	"stats": { "Agility": 2, "Stamina": 2 },
+	"sourceId": 2161,
+	"sourceName": "Embossed Leather Boots",
+	"sourceType": "SPELL"
+}

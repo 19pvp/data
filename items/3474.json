@@ -1,0 +1,15 @@
+{
+	"id": 3474,
+	"name": "Gemmed Copper Gauntlets",
+	"icon": "inv_gauntlets_05",
+	"popularity": 11,
+	"armor": 71,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Critical Strike Rating": 3 },
+	"sourceId": 3325,
+	"sourceName": "Gemmed Copper Gauntlets",
+	"sourceType": "SPELL"
+}

@@ -1,0 +1,15 @@
+{
+	"id": 2585,
+	"name": "Gray Woolen Robe",
+	"icon": "inv_chest_cloth_13",
+	"popularity": 9,
+	"armor": 60,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Stamina": 4, "Intellect": 5 },
+	"sourceId": 2403,
+	"sourceName": "Gray Woolen Robe",
+	"sourceType": "SPELL"
+}

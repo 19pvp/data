@@ -1,0 +1,15 @@
+{
+	"id": 4314,
+	"name": "Double-Stitched Woolen Shoulders",
+	"icon": "inv_shoulder_06",
+	"popularity": 10,
+	"armor": 47,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "SHOULDERS",
+	"stats": { "Stamina": 5 },
+	"sourceId": 3848,
+	"sourceName": "Double-stitched Woolen Shoulders",
+	"sourceType": "SPELL"
+}

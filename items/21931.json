@@ -1,0 +1,15 @@
+{
+	"id": 21931,
+	"name": "Woven Copper Ring",
+	"icon": "inv_jewelry_ring_12",
+	"popularity": 14,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Intellect": 1 },
+	"sourceId": 26925,
+	"sourceName": "Woven Copper Ring",
+	"sourceType": "SPELL"
+}

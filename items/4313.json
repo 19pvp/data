@@ -1,0 +1,15 @@
+{
+	"id": 4313,
+	"name": "Red Woolen Boots",
+	"icon": "inv_boots_09",
+	"popularity": 5,
+	"armor": 39,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": { "Spirit": 5 },
+	"sourceId": 3847,
+	"sourceName": "Red Woolen Boots",
+	"sourceType": "SPELL"
+}

@@ -1,0 +1,18 @@
+{
+	"id": 33791,
+	"name": "Heavy Copper Longsword",
+	"icon": "inv_sword_25",
+	"dmgMin": 10,
+	"dmgMax": 20,
+	"speed": 2.5,
+	"dps": 6,
+	"popularity": 34,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "ONE_HANDED_SWORD",
+	"type": "ONE_HAND",
+	"stats": { "Agility": 1 },
+	"sourceId": 43549,
+	"sourceName": "Heavy Copper Longsword",
+	"sourceType": "SPELL"
+}

@@ -1,0 +1,15 @@
+{
+	"id": 21933,
+	"name": "Thick Bronze Necklace",
+	"icon": "inv_belt_19",
+	"popularity": 3,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "AMULETS",
+	"type": "NECK",
+	"stats": { "Stamina": 3 },
+	"sourceId": 26927,
+	"sourceName": "Thick Bronze Necklace",
+	"sourceType": "SPELL"
+}

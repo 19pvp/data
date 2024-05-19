@@ -1,0 +1,15 @@
+{
+	"id": 10048,
+	"name": "Colorful Kilt",
+	"icon": "inv_pants_02",
+	"popularity": 4,
+	"armor": 58,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Intellect": 5, "Spirit": 5 },
+	"sourceId": 12047,
+	"sourceName": "Colorful Kilt",
+	"sourceType": "SPELL"
+}

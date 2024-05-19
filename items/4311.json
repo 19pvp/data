@@ -1,0 +1,15 @@
+{
+	"id": 4311,
+	"name": "Heavy Woolen Cloak",
+	"icon": "inv_misc_cape_14",
+	"popularity": 21,
+	"armor": 30,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Spirit": 4 },
+	"sourceId": 3844,
+	"sourceName": "Heavy Woolen Cloak",
+	"sourceType": "SPELL"
+}

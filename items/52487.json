@@ -1,0 +1,14 @@
+{
+	"id": 52487,
+	"name": "Jeweler's Amber Monocle",
+	"icon": "inv_helmet_44",
+	"popularity": 22,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "MISC",
+	"type": "HEAD",
+	"sourceId": 73627,
+	"sourceName": "Jeweler's Amber Monocle",
+	"sourceType": "SPELL"
+}

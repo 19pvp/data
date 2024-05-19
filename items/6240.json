@@ -1,0 +1,15 @@
+{
+	"id": 6240,
+	"name": "Blue Linen Vest",
+	"icon": "inv_chest_cloth_37",
+	"popularity": 10,
+	"armor": 39,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Spirit": 2 },
+	"sourceId": 7630,
+	"sourceName": "Blue Linen Vest",
+	"sourceType": "SPELL"
+}

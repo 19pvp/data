@@ -1,0 +1,15 @@
+{
+	"id": 2857,
+	"name": "Runed Copper Belt",
+	"icon": "inv_belt_03",
+	"popularity": 26,
+	"armor": 74,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "WAIST",
+	"stats": { "Strength": 3, "Stamina": 2 },
+	"sourceId": 2666,
+	"sourceName": "Runed Copper Belt",
+	"sourceType": "SPELL"
+}

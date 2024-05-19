@@ -1,0 +1,15 @@
+{
+	"id": 4373,
+	"name": "Shadow Goggles",
+	"icon": "inv_helmet_47",
+	"popularity": 12,
+	"armor": 54,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HEAD",
+	"stats": { "Intellect": 5, "Spirit": 6 },
+	"sourceId": 3940,
+	"sourceName": "Shadow Goggles",
+	"sourceType": "SPELL"
+}

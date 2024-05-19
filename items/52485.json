@@ -1,0 +1,14 @@
+{
+	"id": 52485,
+	"name": "Jeweler's Ruby Monocle",
+	"icon": "inv_helmet_44",
+	"popularity": 34,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "MISC",
+	"type": "HEAD",
+	"sourceId": 73625,
+	"sourceName": "Jeweler's Ruby Monocle",
+	"sourceType": "SPELL"
+}

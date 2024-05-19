@@ -1,0 +1,15 @@
+{
+	"id": 6242,
+	"name": "Blue Linen Robe",
+	"icon": "inv_chest_cloth_23",
+	"popularity": 8,
+	"armor": 43,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Spirit": 3 },
+	"sourceId": 7633,
+	"sourceName": "Blue Linen Robe",
+	"sourceType": "SPELL"
+}

@@ -1,0 +1,15 @@
+{
+	"id": 6467,
+	"name": "Deviate Scale Gloves",
+	"icon": "inv_gauntlets_05",
+	"popularity": 7,
+	"armor": 57,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Agility": 3, "Stamina": 3 },
+	"sourceId": 7954,
+	"sourceName": "Deviate Scale Gloves",
+	"sourceType": "SPELL"
+}

@@ -1,0 +1,15 @@
+{
+	"id": 4243,
+	"name": "Fine Leather Tunic",
+	"icon": "inv_chest_leather_09",
+	"popularity": 17,
+	"armor": 77,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Agility": 4, "Stamina": 3 },
+	"sourceId": 3761,
+	"sourceName": "Fine Leather Tunic",
+	"sourceType": "SPELL"
+}

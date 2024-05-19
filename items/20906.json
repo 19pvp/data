@@ -1,0 +1,15 @@
+{
+	"id": 20906,
+	"name": "Braided Copper Ring",
+	"icon": "inv_jewelry_ring_13",
+	"popularity": 10,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Spirit": 1 },
+	"sourceId": 25493,
+	"sourceName": "Braided Copper Ring",
+	"sourceType": "SPELL"
+}

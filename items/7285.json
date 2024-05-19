@@ -1,0 +1,15 @@
+{
+	"id": 7285,
+	"name": "Nimble Leather Gloves",
+	"icon": "inv_gauntlets_05",
+	"popularity": 5,
+	"armor": 64,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "HANDS",
+	"stats": { "Expertise Rating": 4, "Agility": 4 },
+	"sourceId": 9074,
+	"sourceName": "Nimble Leather Gloves",
+	"sourceType": "SPELL"
+}

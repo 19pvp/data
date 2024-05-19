@@ -1,0 +1,17 @@
+{
+	"id": 11287,
+	"name": "Lesser Magic Wand",
+	"icon": "inv_staff_02",
+	"dmgMin": 7,
+	"dmgMax": 14,
+	"speed": 1.5,
+	"dps": 7,
+	"popularity": 18,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "WAND",
+	"type": "RANGED",
+	"sourceId": 14293,
+	"sourceName": "Lesser Magic Wand",
+	"sourceType": "SPELL"
+}

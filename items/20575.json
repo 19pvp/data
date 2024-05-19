@@ -1,0 +1,15 @@
+{
+	"id": 20575,
+	"name": "Black Whelp Tunic",
+	"icon": "inv_chest_cloth_45",
+	"popularity": 4,
+	"armor": 88,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Hit Rating": 5, "Agility": 3 },
+	"sourceId": 24940,
+	"sourceName": "Black Whelp Tunic",
+	"sourceType": "SPELL"
+}

@@ -1,0 +1,15 @@
+{
+	"id": 4244,
+	"name": "Hillman's Leather Vest",
+	"icon": "inv_chest_leather_10",
+	"popularity": 7,
+	"armor": 88,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Stamina": 4, "Intellect": 4 },
+	"sourceId": 3762,
+	"sourceName": "Hillman's Leather Vest",
+	"sourceType": "SPELL"
+}

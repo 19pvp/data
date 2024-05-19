@@ -1,0 +1,18 @@
+{
+	"id": 3489,
+	"name": "Thick War Axe",
+	"icon": "inv_throwingaxe_01",
+	"dmgMin": 15,
+	"dmgMax": 28,
+	"speed": 2.5,
+	"dps": 8.6,
+	"popularity": 17,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "ONE_HANDED_AXE",
+	"type": "ONE_HAND",
+	"stats": { "Strength": 1, "Stamina": 1 },
+	"sourceId": 3294,
+	"sourceName": "Thick War Axe",
+	"sourceType": "SPELL"
+}

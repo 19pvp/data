@@ -1,0 +1,15 @@
+{
+	"id": 3473,
+	"name": "Runed Copper Pants",
+	"icon": "inv_pants_03",
+	"popularity": 19,
+	"armor": 90,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "LEGS",
+	"stats": { "Strength": 2, "Stamina": 2 },
+	"sourceId": 3324,
+	"sourceName": "Runed Copper Pants",
+	"sourceType": "SPELL"
+}

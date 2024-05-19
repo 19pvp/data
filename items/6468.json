@@ -1,0 +1,15 @@
+{
+	"id": 6468,
+	"name": "Deviate Scale Belt",
+	"icon": "inv_belt_09",
+	"popularity": 10,
+	"armor": 56,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Hit Rating": 3, "Agility": 4, "Stamina": 5 },
+	"sourceId": 7955,
+	"sourceName": "Deviate Scale Belt",
+	"sourceType": "SPELL"
+}

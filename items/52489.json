@@ -1,0 +1,14 @@
+{
+	"id": 52489,
+	"name": "Rhinestone Sunglasses",
+	"icon": "inv_helmet_176",
+	"popularity": 32,
+	"armor": 10,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "MISC",
+	"type": "HEAD",
+	"sourceId": 73623,
+	"sourceName": "Rhinestone Sunglasses",
+	"sourceType": "SPELL"
+}

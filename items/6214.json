@@ -1,0 +1,18 @@
+{
+	"id": 6214,
+	"name": "Heavy Copper Maul",
+	"icon": "inv_hammer_18",
+	"dmgMin": 24,
+	"dmgMax": 36,
+	"speed": 2.8,
+	"dps": 10.71,
+	"popularity": 10,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "TWO_HANDED_MACE",
+	"type": "TWO_HAND",
+	"stats": { "Strength": 2, "Agility": 2, "Stamina": 2 },
+	"sourceId": 7408,
+	"sourceName": "Heavy Copper Maul",
+	"sourceType": "SPELL"
+}

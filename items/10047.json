@@ -1,0 +1,15 @@
+{
+	"id": 10047,
+	"name": "Simple Kilt",
+	"icon": "inv_pants_11",
+	"popularity": 13,
+	"armor": 40,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Intellect": 4 },
+	"sourceId": 12046,
+	"sourceName": "Simple Kilt",
+	"sourceType": "SPELL"
+}

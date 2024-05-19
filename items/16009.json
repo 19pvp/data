@@ -1,0 +1,18 @@
+{
+	"id": 16009,
+	"name": "Voice Amplification Modulator",
+	"icon": "inv_jewelry_amulet_07",
+	"popularity": 28,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "AMULETS",
+	"type": "NECK",
+	"sourceId": 19819,
+	"sourceName": "Voice Amplification Modulator",
+	"sourceType": "SPELL",
+	"equip": {
+		"spell": 42184,
+		"text": "Reduces the duration of any Silence or Interrupt effects used against the wearer by 10%. This effect does not stack with other similar effects."
+	}
+}

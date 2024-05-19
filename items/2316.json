@@ -1,0 +1,15 @@
+{
+	"id": 2316,
+	"name": "Dark Leather Cloak",
+	"icon": "inv_misc_cape_10",
+	"popularity": 7,
+	"armor": 31,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Agility": 3, "Stamina": 2 },
+	"sourceId": 2168,
+	"sourceName": "Dark Leather Cloak",
+	"sourceType": "SPELL"
+}

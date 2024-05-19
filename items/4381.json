@@ -1,0 +1,18 @@
+{
+	"id": 4381,
+	"name": "Minor Recombobulator",
+	"icon": "inv_gizmo_07",
+	"popularity": 3,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "TRINKETS",
+	"type": "TRINKET",
+	"sourceId": 3952,
+	"sourceName": "Minor Recombobulator",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 18805,
+		"text": "Restores 150 to 250 health and mana to a friendly target and attempts to dispel any polymorph effects from them. Reduced effectiveness against polymorph effects from casters of level 31 and higher. (5 Min Cooldown)"
+	}
+}

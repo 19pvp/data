@@ -1,0 +1,15 @@
+{
+	"id": 4320,
+	"name": "Spidersilk Boots",
+	"icon": "inv_boots_05",
+	"popularity": 21,
+	"armor": 50,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": { "Stamina": 8, "Intellect": 7 },
+	"sourceId": 3855,
+	"sourceName": "Spidersilk Boots",
+	"sourceType": "SPELL"
+}

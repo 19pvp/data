@@ -1,0 +1,15 @@
+{
+	"id": 6466,
+	"name": "Deviate Scale Cloak",
+	"icon": "inv_misc_monsterscales_03",
+	"popularity": 18,
+	"armor": 26,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Agility": 2, "Stamina": 2 },
+	"sourceId": 7953,
+	"sourceName": "Deviate Scale Cloak",
+	"sourceType": "SPELL"
+}

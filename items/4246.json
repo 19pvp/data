@@ -1,0 +1,15 @@
+{
+	"id": 4246,
+	"name": "Fine Leather Belt",
+	"icon": "inv_belt_04",
+	"popularity": 18,
+	"armor": 41,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WAIST",
+	"stats": { "Stamina": 2 },
+	"sourceId": 3763,
+	"sourceName": "Fine Leather Belt",
+	"sourceType": "SPELL"
+}

@@ -1,0 +1,15 @@
+{
+	"id": 7281,
+	"name": "Light Leather Bracers",
+	"icon": "inv_bracer_04",
+	"popularity": 21,
+	"armor": 29,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "WRISTS",
+	"stats": { "Stamina": 2 },
+	"sourceId": 9065,
+	"sourceName": "Light Leather Bracers",
+	"sourceType": "SPELL"
+}

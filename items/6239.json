@@ -1,0 +1,15 @@
+{
+	"id": 6239,
+	"name": "Red Linen Vest",
+	"icon": "inv_chest_cloth_40",
+	"popularity": 9,
+	"armor": 39,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Spirit": 2 },
+	"sourceId": 7629,
+	"sourceName": "Red Linen Vest",
+	"sourceType": "SPELL"
+}

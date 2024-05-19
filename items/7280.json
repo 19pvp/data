@@ -1,0 +1,15 @@
+{
+	"id": 7280,
+	"name": "Rugged Leather Pants",
+	"icon": "inv_pants_02",
+	"popularity": 6,
+	"armor": 49,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "LEATHER",
+	"type": "LEGS",
+	"stats": { "Stamina": 1 },
+	"sourceId": 9064,
+	"sourceName": "Rugged Leather Pants",
+	"sourceType": "SPELL"
+}

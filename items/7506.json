@@ -1,0 +1,18 @@
+{
+	"id": 7506,
+	"name": "Gnomish Universal Remote",
+	"icon": "inv_misc_pocketwatch_01",
+	"popularity": 7,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "TRINKETS",
+	"type": "TRINKET",
+	"sourceId": 9269,
+	"sourceName": "Gnomish Universal Remote",
+	"sourceType": "SPELL",
+	"use": {
+		"spell": 8344,
+		"text": "Allows control of a mechanical target for a short time. It may not always work and may just root the machine or make it very very angry. Gnomish engineering at its finest. (3 Min Cooldown)"
+	}
+}

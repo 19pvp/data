@@ -1,0 +1,18 @@
+{
+	"id": 3487,
+	"name": "Heavy Copper Broadsword",
+	"icon": "inv_sword_14",
+	"dmgMin": 27,
+	"dmgMax": 41,
+	"speed": 2.7,
+	"dps": 12.59,
+	"popularity": 8,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "TWO_HANDED_SWORD",
+	"type": "TWO_HAND",
+	"stats": { "Stamina": 6 },
+	"sourceId": 3292,
+	"sourceName": "Heavy Copper Broadsword",
+	"sourceType": "SPELL"
+}

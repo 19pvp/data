@@ -1,0 +1,15 @@
+{
+	"id": 20820,
+	"name": "Simple Pearl Ring",
+	"icon": "inv_jewelry_ring_28",
+	"popularity": 12,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Hit Rating": 4 },
+	"sourceId": 25284,
+	"sourceName": "Simple Pearl Ring",
+	"sourceType": "SPELL"
+}

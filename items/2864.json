@@ -1,0 +1,15 @@
+{
+	"id": 2864,
+	"name": "Runed Copper Breastplate",
+	"icon": "inv_chest_plate03",
+	"popularity": 4,
+	"armor": 131,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Strength": 4, "Stamina": 3 },
+	"sourceId": 2667,
+	"sourceName": "Runed Copper Breastplate",
+	"sourceType": "SPELL"
+}

@@ -1,0 +1,15 @@
+{
+	"id": 2866,
+	"name": "Rough Bronze Cuirass",
+	"icon": "inv_chest_chain_08",
+	"popularity": 3,
+	"armor": 160,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Strength": 8, "Stamina": 2 },
+	"sourceId": 2670,
+	"sourceName": "Rough Bronze Cuirass",
+	"sourceType": "SPELL"
+}

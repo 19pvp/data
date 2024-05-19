@@ -1,0 +1,15 @@
+{
+	"id": 6241,
+	"name": "White Linen Robe",
+	"icon": "inv_chest_cloth_04",
+	"popularity": 5,
+	"armor": 34,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Intellect": 1 },
+	"sourceId": 7624,
+	"sourceName": "White Linen Robe",
+	"sourceType": "SPELL"
+}

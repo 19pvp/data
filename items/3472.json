@@ -1,0 +1,15 @@
+{
+	"id": 3472,
+	"name": "Runed Copper Gauntlets",
+	"icon": "inv_gauntlets_04",
+	"popularity": 6,
+	"armor": 60,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "HANDS",
+	"stats": { "Strength": 2 },
+	"sourceId": 3323,
+	"sourceName": "Runed Copper Gauntlets",
+	"sourceType": "SPELL"
+}

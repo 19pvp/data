@@ -1,0 +1,15 @@
+{
+	"id": 2580,
+	"name": "Reinforced Linen Cape",
+	"icon": "inv_misc_cape_07",
+	"popularity": 10,
+	"armor": 19,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Intellect": 1 },
+	"sourceId": 2397,
+	"sourceName": "Reinforced Linen Cape",
+	"sourceType": "SPELL"
+}

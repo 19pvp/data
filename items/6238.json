@@ -1,0 +1,15 @@
+{
+	"id": 6238,
+	"name": "Brown Linen Robe",
+	"icon": "inv_chest_cloth_21",
+	"popularity": 5,
+	"armor": 34,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Spirit": 1 },
+	"sourceId": 7623,
+	"sourceName": "Brown Linen Robe",
+	"sourceType": "SPELL"
+}

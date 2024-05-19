@@ -1,0 +1,15 @@
+{
+	"id": 6731,
+	"name": "Ironforge Breastplate",
+	"icon": "inv_chest_plate05",
+	"popularity": 9,
+	"armor": 173,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "MAIL",
+	"type": "CHEST",
+	"stats": { "Strength": 3, "Stamina": 3 },
+	"sourceId": 8367,
+	"sourceName": "Ironforge Breastplate",
+	"sourceType": "SPELL"
+}

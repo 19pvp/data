@@ -1,0 +1,18 @@
+{
+	"id": 3848,
+	"name": "Big Bronze Knife",
+	"icon": "inv_weapon_shortblade_04",
+	"dmgMin": 13,
+	"dmgMax": 25,
+	"speed": 1.9,
+	"dps": 10,
+	"popularity": 4,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "DAGGER",
+	"type": "ONE_HAND",
+	"stats": { "Stamina": 3 },
+	"sourceId": 3491,
+	"sourceName": "Big Bronze Knife",
+	"sourceType": "SPELL"
+}

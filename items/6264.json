@@ -1,0 +1,15 @@
+{
+	"id": 6264,
+	"name": "Greater Adept's Robe",
+	"icon": "inv_chest_cloth_24",
+	"popularity": 9,
+	"armor": 64,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Stamina": 1, "Intellect": 2, "Spirit": 7 },
+	"sourceId": 7643,
+	"sourceName": "Greater Adept's Robe",
+	"sourceType": "SPELL"
+}

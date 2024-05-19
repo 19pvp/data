@@ -1,0 +1,15 @@
+{
+	"id": 4368,
+	"name": "Flying Tiger Goggles",
+	"icon": "inv_helmet_47",
+	"popularity": 29,
+	"armor": 47,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HEAD",
+	"stats": { "Hit Rating": 4, "Stamina": 4 },
+	"sourceId": 3934,
+	"sourceName": "Flying Tiger Goggles",
+	"sourceType": "SPELL"
+}

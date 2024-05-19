@@ -1,0 +1,15 @@
+{
+	"id": 20907,
+	"name": "Solid Bronze Ring",
+	"icon": "inv_jewelry_ring_14",
+	"popularity": 25,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Critical Strike Rating": 3, "Stamina": 3 },
+	"sourceId": 25490,
+	"sourceName": "Solid Bronze Ring",
+	"sourceType": "SPELL"
+}

@@ -1,0 +1,17 @@
+{
+	"id": 4362,
+	"name": "Rough Boomstick",
+	"icon": "inv_weapon_rifle_03",
+	"dmgMin": 11,
+	"dmgMax": 21,
+	"speed": 2.3,
+	"dps": 6.96,
+	"popularity": 3,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "GUN",
+	"type": "RANGED",
+	"sourceId": 3925,
+	"sourceName": "Rough Boomstick",
+	"sourceType": "SPELL"
+}

@@ -1,0 +1,15 @@
+{
+	"id": 43515,
+	"name": "Mystic Tome",
+	"icon": "inv_misc_book_11",
+	"popularity": 8,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "OFF_HAND_FRILLS",
+	"type": "HELD_IN_OFF_HAND",
+	"stats": { "Intellect": 7 },
+	"sourceId": 58565,
+	"sourceName": "Mystic Tome",
+	"sourceType": "SPELL"
+}

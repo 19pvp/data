@@ -1,0 +1,15 @@
+{
+	"id": 4312,
+	"name": "Soft-Soled Linen Boots",
+	"icon": "inv_boots_09",
+	"popularity": 4,
+	"armor": 33,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "FEET",
+	"stats": { "Stamina": 2, "Intellect": 2 },
+	"sourceId": 3845,
+	"sourceName": "Soft-soled Linen Boots",
+	"sourceType": "SPELL"
+}

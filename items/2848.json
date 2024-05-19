@@ -1,0 +1,18 @@
+{
+	"id": 2848,
+	"name": "Bronze Mace",
+	"icon": "inv_mace_08",
+	"dmgMin": 20,
+	"dmgMax": 38,
+	"speed": 2.6,
+	"dps": 11.15,
+	"popularity": 8,
+	"class": "WEAPON",
+	"quality": "UNCOMMON",
+	"subclass": "ONE_HANDED_MACE",
+	"type": "MAIN_HAND",
+	"stats": { "Hit Rating": 3 },
+	"sourceId": 2740,
+	"sourceName": "Bronze Mace",
+	"sourceType": "SPELL"
+}

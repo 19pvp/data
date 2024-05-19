@@ -1,0 +1,14 @@
+{
+	"id": 52486,
+	"name": "Jeweler's Sapphire Monocle",
+	"icon": "inv_helmet_44",
+	"popularity": 4,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "MISC",
+	"type": "HEAD",
+	"sourceId": 73626,
+	"sourceName": "Jeweler's Sapphire Monocle",
+	"sourceType": "SPELL"
+}

@@ -1,0 +1,15 @@
+{
+	"id": 4308,
+	"name": "Green Linen Bracers",
+	"icon": "inv_bracer_12",
+	"popularity": 3,
+	"armor": 17,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "WRISTS",
+	"stats": { "Stamina": 1 },
+	"sourceId": 3841,
+	"sourceName": "Green Linen Bracers",
+	"sourceType": "SPELL"
+}

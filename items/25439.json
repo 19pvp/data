@@ -1,0 +1,15 @@
+{
+	"id": 25439,
+	"name": "Tigerseye Band",
+	"icon": "inv_jewelry_ring_21",
+	"popularity": 8,
+	"armor": 0,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "RINGS",
+	"type": "FINGER",
+	"stats": { "Strength": 2 },
+	"sourceId": 32179,
+	"sourceName": "Tigerseye Band",
+	"sourceType": "SPELL"
+}

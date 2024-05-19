@@ -1,0 +1,15 @@
+{
+	"id": 4316,
+	"name": "Heavy Woolen Pants",
+	"icon": "inv_pants_01",
+	"popularity": 12,
+	"armor": 54,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "LEGS",
+	"stats": { "Intellect": 3, "Spirit": 6 },
+	"sourceId": 3850,
+	"sourceName": "Heavy Woolen Pants",
+	"sourceType": "SPELL"
+}

@@ -1,0 +1,15 @@
+{
+	"id": 2582,
+	"name": "Green Woolen Vest",
+	"icon": "inv_chest_cloth_39",
+	"popularity": 3,
+	"armor": 50,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "CHEST",
+	"stats": { "Critical Strike Rating": 3, "Stamina": 4 },
+	"sourceId": 2399,
+	"sourceName": "Green Woolen Vest",
+	"sourceType": "SPELL"
+}

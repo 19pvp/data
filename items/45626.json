@@ -1,0 +1,15 @@
+{
+	"id": 45626,
+	"name": "Spidersilk Drape",
+	"icon": "inv_misc_cape_16",
+	"popularity": 3,
+	"armor": 37,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Hit Rating": 4, "Stamina": 4, "Intellect": 3 },
+	"sourceId": 63742,
+	"sourceName": "Spidersilk Drape",
+	"sourceType": "SPELL"
+}

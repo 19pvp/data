@@ -1,0 +1,15 @@
+{
+	"id": 4310,
+	"name": "Heavy Woolen Gloves",
+	"icon": "inv_gauntlets_05",
+	"popularity": 10,
+	"armor": 32,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOTH",
+	"type": "HANDS",
+	"stats": { "Intellect": 2, "Spirit": 2 },
+	"sourceId": 3843,
+	"sourceName": "Heavy Woolen Gloves",
+	"sourceType": "SPELL"
+}

@@ -1,0 +1,15 @@
+{
+	"id": 2310,
+	"name": "Embossed Leather Cloak",
+	"icon": "inv_helmet_48",
+	"popularity": 9,
+	"armor": 21,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "CLOAKS",
+	"type": "BACK",
+	"stats": { "Agility": 1 },
+	"sourceId": 2162,
+	"sourceName": "Embossed Leather Cloak",
+	"sourceType": "SPELL"
+}

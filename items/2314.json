@@ -1,0 +1,15 @@
+{
+	"id": 2314,
+	"name": "Toughened Leather Armor",
+	"icon": "inv_chest_leather_10",
+	"popularity": 3,
+	"armor": 112,
+	"class": "ARMOR",
+	"quality": "RARE",
+	"subclass": "LEATHER",
+	"type": "CHEST",
+	"stats": { "Stamina": 13 },
+	"sourceId": 2166,
+	"sourceName": "Toughened Leather Armor",
+	"sourceType": "SPELL"
+}
