@@ -10,8 +10,11 @@
 	"sourceId": 13937,
 	"sourceName": "Enchant 2H Weapon - Greater Impact",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13937,
+	"spell": {
+		"type": "Use",
+		"id": 13937,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant 2H Weapon - Greater Impact",
 		"text": "Permanently enchant a two-handed melee weapon to do 7 additional points of damage."
 	},
 	"enchant": {

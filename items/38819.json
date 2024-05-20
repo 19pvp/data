@@ -10,8 +10,11 @@
 	"sourceId": 13687,
 	"sourceName": "Enchant Boots - Lesser Spirit",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13687,
+	"spell": {
+		"type": "Use",
+		"id": 13687,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Boots - Lesser Spirit",
 		"text": "Permanently enchant boots to increase Spirit by 3."
 	},
 	"enchant": { "description": "+3 Spirit", "id": 255, "types": ["FEET"] }

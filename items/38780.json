@@ -10,8 +10,11 @@
 	"sourceId": 7788,
 	"sourceName": "Enchant Weapon - Minor Striking",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 7788,
+	"spell": {
+		"type": "Use",
+		"id": 7788,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Weapon - Minor Striking",
 		"text": "Permanently enchant a melee weapon to do 1 additional point of damage."
 	},
 	"enchant": {

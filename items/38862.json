@@ -10,8 +10,11 @@
 	"sourceId": 20020,
 	"sourceName": "Enchant Boots - Greater Stamina",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 20020,
+	"spell": {
+		"type": "Use",
+		"id": 20020,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Boots - Greater Stamina",
 		"text": "Permanently enchant boots to increase Stamina by 7."
 	},
 	"enchant": { "description": "+7 Stamina", "id": 929, "types": ["FEET"] }

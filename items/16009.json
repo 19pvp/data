@@ -11,8 +11,11 @@
 	"sourceId": 19819,
 	"sourceName": "Voice Amplification Modulator",
 	"sourceType": "SPELL",
-	"equip": {
-		"spell": 42184,
+	"spell": {
+		"type": "Equip",
+		"id": 42184,
+		"icon": "spell_holy_mindsooth",
+		"name": "Silence Resistance 10%",
 		"text": "Reduces the duration of any Silence or Interrupt effects used against the wearer by 10%. This effect does not stack with other similar effects."
 	}
 }

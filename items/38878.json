@@ -10,8 +10,11 @@
 	"sourceId": 22750,
 	"sourceName": "Enchant Weapon - Healing Power",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 22750,
+	"spell": {
+		"type": "Use",
+		"id": 22750,
+		"icon": "inv_enchant_formulasuperior_01",
+		"name": "Enchant Weapon - Healing Power",
 		"text": "Permanently enchant a melee weapon to increase spell power by 29."
 	},
 	"enchant": {

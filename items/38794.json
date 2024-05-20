@@ -10,8 +10,11 @@
 	"sourceId": 13503,
 	"sourceName": "Enchant Weapon - Lesser Striking",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13503,
+	"spell": {
+		"type": "Use",
+		"id": 13503,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Weapon - Lesser Striking",
 		"text": "Permanently enchant a melee weapon to do 2 additional points of damage."
 	},
 	"enchant": {

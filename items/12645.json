@@ -10,8 +10,11 @@
 	"sourceId": 16651,
 	"sourceName": "Thorium Shield Spike",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 16623,
+	"spell": {
+		"type": "Use",
+		"id": 16623,
+		"icon": "trade_engineering",
+		"name": "Thorium Shield Spike",
 		"text": "Attaches a Thorium Spike to your shield that deals damage every time you block with it."
 	},
 	"enchant": {

@@ -9,8 +9,11 @@
 	"subclass": "TABARDS",
 	"type": "TABARD",
 	"source": "VENDOR",
-	"equip": {
-		"spell": 97340,
+	"spell": {
+		"type": "Equip",
+		"id": 97340,
+		"icon": "inv_rareguildtabard",
+		"name": "Guild Champion",
 		"text": "You champion the causes of your guild. All guild reputation gains are increased by 50%."
 	}
 }

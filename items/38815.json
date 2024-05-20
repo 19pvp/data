@@ -10,8 +10,11 @@
 	"sourceId": 13657,
 	"sourceName": "Enchant Cloak - Fire Resistance",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13657,
+	"spell": {
+		"type": "Use",
+		"id": 13657,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Cloak - Fire Resistance",
 		"text": "Permanently enchant a cloak to give 7 Fire Resistance."
 	},
 	"enchant": {

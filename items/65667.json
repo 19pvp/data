@@ -17,8 +17,11 @@
 	"sourceId": 28189,
 	"sourceName": "Do the Right Thing",
 	"sourceType": "QUEST",
-	"use": {
-		"spell": 89089,
+	"spell": {
+		"type": "Use",
+		"id": 89089,
+		"icon": "inv_misc_shovel_01",
+		"name": "Shovel",
 		"text": "Bashes in the skull of a Human Seedling. Do the right thing, buddy! (3 Sec Cooldown)"
 	}
 }

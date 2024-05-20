@@ -10,8 +10,11 @@
 	"sourceId": 13501,
 	"sourceName": "Enchant Bracer - Lesser Stamina",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13501,
+	"spell": {
+		"type": "Use",
+		"id": 13501,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Bracer - Lesser Stamina",
 		"text": "Permanently enchant a bracer so it increases the wearer's Stamina by 3."
 	},
 	"enchant": { "description": "+3 Stamina", "id": 724, "types": ["WRISTS"] }

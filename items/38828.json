@@ -10,8 +10,11 @@
 	"sourceId": 13817,
 	"sourceName": "Enchant Shield - Stamina",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13817,
+	"spell": {
+		"type": "Use",
+		"id": 13817,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Shield - Stamina",
 		"text": "Permanently enchant a shield to increase Stamina by 5."
 	},
 	"enchant": { "description": "+5 Stamina", "id": 852, "types": ["SHIELD"] }

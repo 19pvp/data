@@ -11,8 +11,11 @@
 	"sourceId": 9072,
 	"sourceName": "Red Whelp Gloves",
 	"sourceType": "SPELL",
-	"equip": {
-		"spell": 9233,
+	"spell": {
+		"type": "Equip",
+		"id": 9233,
+		"icon": "spell_holy_mindvision",
+		"name": "Firebolt",
 		"text": "5% chance of dealing 15 to 25 Fire damage on a successful melee attack. (Proc chance"
 	}
 }

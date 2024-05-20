@@ -10,8 +10,11 @@
 	"sourceId": 7786,
 	"sourceName": "Enchant Weapon - Minor Beastslayer",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 7786,
+	"spell": {
+		"type": "Use",
+		"id": 7786,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Weapon - Minor Beastslayer",
 		"text": "Permanently enchant a Melee Weapon to do 2 additional points of damage to beasts."
 	},
 	"enchant": {

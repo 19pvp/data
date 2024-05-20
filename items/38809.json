@@ -10,8 +10,11 @@
 	"sourceId": 13642,
 	"sourceName": "Enchant Bracer - Spirit",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13642,
+	"spell": {
+		"type": "Use",
+		"id": 13642,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Bracer - Spirit",
 		"text": "Permanently enchants bracers to give +5 Spirit."
 	},
 	"enchant": { "description": "+5 Spirit", "id": 851, "types": ["WRISTS"] }

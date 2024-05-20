@@ -2,8 +2,11 @@
 	"id": "5457",
 	"icon": "inv_misc_monsterclaw_03",
 	"quality": "COMMON",
-	"use": {
-		"spell": 8277,
+	"spell": {
+		"type": "Use",
+		"id": 8277,
+		"icon": "spell_shadow_curseofmannoroth",
+		"name": "Voodoo Hex",
 		"text": "Physical damage caused by the target is reduced by 5 for 2 min. (1 Min Cooldown)"
 	}
 }

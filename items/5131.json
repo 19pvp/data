@@ -2,8 +2,11 @@
 	"id": "5131",
 	"icon": "inv_scroll_05",
 	"quality": "COMMON",
-	"use": {
-		"spell": 5265,
+	"spell": {
+		"type": "Use",
+		"id": 5265,
+		"icon": "ability_rogue_disguise",
+		"name": "Stonesplinter Trogg Disguise",
 		"text": "Learn how to disguise yourself as a Stonesplinter Trogg."
 	},
 	"info": "Disguise yourself as a Stonesplinter Trogg."

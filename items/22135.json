@@ -2,8 +2,11 @@
 	"id": "22135",
 	"icon": "inv_misc_gift_05",
 	"quality": "COMMON",
-	"use": {
-		"spell": 27668,
+	"spell": {
+		"type": "Use",
+		"id": 27668,
+		"icon": "inv_valentinesboxofchocolates01",
+		"name": "Create Horde Gift Collection",
 		"text": "Combines an Orgrimmar Gift Collection, Thunder Bluff Gift Collection and Undercity Gift Collection into a Horde Gift Collection."
 	}
 }

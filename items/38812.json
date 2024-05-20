@@ -10,8 +10,11 @@
 	"sourceId": 13648,
 	"sourceName": "Enchant Bracer - Stamina",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13648,
+	"spell": {
+		"type": "Use",
+		"id": 13648,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Bracer - Stamina",
 		"text": "Permanently enchants bracers to give +5 Stamina."
 	},
 	"enchant": { "description": "+5 Stamina", "id": 852, "types": ["WRISTS"] }

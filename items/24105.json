@@ -2,8 +2,11 @@
 	"id": "24105",
 	"icon": "inv_misc_food_60",
 	"quality": "COMMON",
-	"use": {
-		"spell": 5004,
+	"spell": {
+		"type": "Use",
+		"id": 5004,
+		"icon": "inv_misc_fork-knife",
+		"name": "Food",
 		"text": "Restores 61.2 health over 18 sec. Must remain seated while eating. If you spend at least 10 seconds eating you will become well fed and gain 2 Stamina and Spirit for 15 min."
 	}
 }

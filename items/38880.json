@@ -10,8 +10,11 @@
 	"sourceId": 23800,
 	"sourceName": "Enchant Weapon - Agility",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 23800,
+	"spell": {
+		"type": "Use",
+		"id": 23800,
+		"icon": "inv_misc_note_01",
+		"name": "Enchant Weapon - Agility",
 		"text": "Permanently enchant a melee weapon to increase Agility by 15."
 	},
 	"enchant": {

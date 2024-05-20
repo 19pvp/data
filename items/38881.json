@@ -10,8 +10,11 @@
 	"sourceId": 23801,
 	"sourceName": "Enchant Bracer - Mana Regeneration",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 23801,
+	"spell": {
+		"type": "Use",
+		"id": 23801,
+		"icon": "inv_misc_note_01",
+		"name": "Enchant Bracer - Mana Regeneration",
 		"text": "Permanently enchant bracers to increase Spirit by 9."
 	},
 	"enchant": { "description": "+9 Spirit", "id": 2565, "types": ["WRISTS"] }

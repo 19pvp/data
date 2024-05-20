@@ -10,8 +10,11 @@
 	"sourceId": 7857,
 	"sourceName": "Enchant Chest - Health",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 7857,
+	"spell": {
+		"type": "Use",
+		"id": 7857,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Chest - Health",
 		"text": "Permanently enchant a piece of chest armor to increase the health of the wearer by 25."
 	},
 	"enchant": { "description": "+25 Health", "id": 254, "types": ["CHEST"] }

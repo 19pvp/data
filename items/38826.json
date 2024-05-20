@@ -17,8 +17,11 @@
 	"sourceId": 13794,
 	"sourceName": "Enchant Cloak - Resistance",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13794,
+	"spell": {
+		"type": "Use",
+		"id": 13794,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Cloak - Resistance",
 		"text": "Permanently enchant a cloak to give 3 to all resistances."
 	},
 	"enchant": {

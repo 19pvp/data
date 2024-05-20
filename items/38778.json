@@ -10,8 +10,11 @@
 	"sourceId": 7782,
 	"sourceName": "Enchant Bracer - Minor Strength",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 7782,
+	"spell": {
+		"type": "Use",
+		"id": 7782,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Bracer - Minor Strength",
 		"text": "Permanently enchant bracers to increase Strength by 1."
 	},
 	"enchant": { "description": "+1 Strength", "id": 248, "types": ["WRISTS"] }

@@ -10,8 +10,11 @@
 	"sourceId": 13644,
 	"sourceName": "Enchant Boots - Lesser Stamina",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13644,
+	"spell": {
+		"type": "Use",
+		"id": 13644,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Boots - Lesser Stamina",
 		"text": "Permanently enchant boots to give +3 Stamina."
 	},
 	"enchant": { "description": "+3 Stamina", "id": 724, "types": ["FEET"] }

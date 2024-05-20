@@ -11,8 +11,11 @@
 	"sourceId": 13635,
 	"sourceName": "Enchant Cloak - Defense",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13635,
+	"spell": {
+		"type": "Use",
+		"id": 13635,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Cloak - Defense",
 		"text": "Permanently enchant a cloak to give 30 additional armor."
 	},
 	"enchant": { "description": "+30 Armor", "id": 848, "types": ["BACK"] }

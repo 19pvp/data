@@ -10,8 +10,11 @@
 	"sourceId": 13689,
 	"sourceName": "Enchant Shield - Lesser Parry",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13689,
+	"spell": {
+		"type": "Use",
+		"id": 13689,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Shield - Lesser Parry",
 		"text": "Permanently enchant a shield to increase parry rating by 10."
 	},
 	"enchant": {

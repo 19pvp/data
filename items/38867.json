@@ -10,8 +10,11 @@
 	"sourceId": 20028,
 	"sourceName": "Enchant Chest - Major Mana",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 20028,
+	"spell": {
+		"type": "Use",
+		"id": 20028,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Chest - Major Mana",
 		"text": "Permanently enchant chest armor to increase mana by 100."
 	},
 	"enchant": { "description": "+100 Mana", "id": 1893, "types": ["CHEST"] }

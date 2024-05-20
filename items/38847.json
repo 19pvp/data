@@ -16,8 +16,11 @@
 	"sourceId": 13941,
 	"sourceName": "Enchant Chest - Stats",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13941,
+	"spell": {
+		"type": "Use",
+		"id": 13941,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Chest - Stats",
 		"text": "Permanently enchant a piece of chest armor to grant +3 to all stats."
 	},
 	"enchant": { "description": "+3 All Stats", "id": 928, "types": ["CHEST"] }

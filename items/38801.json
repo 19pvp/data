@@ -10,8 +10,11 @@
 	"sourceId": 13617,
 	"sourceName": "Enchant Gloves - Herbalism",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13617,
+	"spell": {
+		"type": "Use",
+		"id": 13617,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Gloves - Herbalism",
 		"text": "Permanently enchant gloves to increase herbalism skill by 2."
 	},
 	"enchant": { "description": "+2 Herbalism", "id": 845, "types": ["HANDS"] }

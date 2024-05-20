@@ -10,8 +10,11 @@
 	"type": "HELD_IN_OFF_HAND",
 	"stats": { "Spirit": 1 },
 	"source": "QUEST",
-	"use": {
-		"spell": 9252,
+	"spell": {
+		"type": "Use",
+		"id": 9252,
+		"icon": "inv_misc_gem_stone_01",
+		"name": "Replenish Mana I",
 		"text": "Restores 140 to 180 mana. (15 Min Cooldown)"
 	}
 }

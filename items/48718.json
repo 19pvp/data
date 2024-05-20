@@ -18,5 +18,11 @@
 		"Stamina": 10
 	},
 	"source": "VENDOR",
-	"equip": { "spell": 14595, "text": "+15 Fire Resistance." }
+	"spell": {
+		"type": "Equip",
+		"id": 14595,
+		"icon": "trade_engineering",
+		"name": "Increased Fire Resist 15",
+		"text": "+15 Fire Resistance."
+	}
 }

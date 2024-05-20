@@ -17,5 +17,11 @@
 	"sourceName": "Defias Conjurer",
 	"sourceZone": 40,
 	"sourceType": "NPC",
-	"use": { "spell": 8736, "text": "Conjures food to eat. (5 Min Cooldown)" }
+	"spell": {
+		"type": "Use",
+		"id": 8736,
+		"icon": "inv_misc_food_10",
+		"name": "Conjure Food",
+		"text": "Conjures food to eat. (5 Min Cooldown)"
+	}
 }

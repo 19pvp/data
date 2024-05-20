@@ -10,8 +10,11 @@
 	"sourceId": 20010,
 	"sourceName": "Enchant Bracer - Superior Strength",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 20010,
+	"spell": {
+		"type": "Use",
+		"id": 20010,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Bracer - Superior Strength",
 		"text": "Permanently enchant bracers to increase Strength by 9."
 	},
 	"enchant": { "description": "+9 Strength", "id": 1885, "types": ["WRISTS"] }

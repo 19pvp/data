@@ -10,8 +10,11 @@
 	"sourceId": 20032,
 	"sourceName": "Enchant Weapon - Lifestealing",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 20032,
+	"spell": {
+		"type": "Use",
+		"id": 20032,
+		"icon": "inv_enchant_formulasuperior_01",
+		"name": "Enchant Weapon - Lifestealing",
 		"text": "Permanently enchant a melee weapon to often steal life from the enemy and give it to the wielder. Has a reduced effect for players above level 60."
 	},
 	"enchant": {

@@ -10,8 +10,11 @@
 	"sourceId": 13939,
 	"sourceName": "Enchant Bracer - Greater Strength",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13939,
+	"spell": {
+		"type": "Use",
+		"id": 13939,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Bracer - Greater Strength",
 		"text": "Permanently enchants bracers to give +7 Strength."
 	},
 	"enchant": { "description": "+7 Strength", "id": 927, "types": ["WRISTS"] }

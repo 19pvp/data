@@ -17,8 +17,11 @@
 	"sourceId": 20014,
 	"sourceName": "Enchant Cloak - Greater Resistance",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 20014,
+	"spell": {
+		"type": "Use",
+		"id": 20014,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Cloak - Greater Resistance",
 		"text": "Permanently enchant a cloak to increase all resistances by 5."
 	},
 	"enchant": {

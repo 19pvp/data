@@ -10,8 +10,11 @@
 	"sourceId": 23803,
 	"sourceName": "Enchant Weapon - Mighty Spirit",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 23803,
+	"spell": {
+		"type": "Use",
+		"id": 23803,
+		"icon": "inv_misc_note_01",
+		"name": "Enchant Weapon - Mighty Spirit",
 		"text": "Permanently enchant a melee weapon to increase Spirit by 20."
 	},
 	"enchant": {

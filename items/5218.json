@@ -2,8 +2,11 @@
 	"id": "5218",
 	"icon": "inv_misc_organ_01",
 	"quality": "COMMON",
-	"use": {
-		"spell": 5666,
+	"spell": {
+		"type": "Use",
+		"id": 5666,
+		"icon": "spell_nature_protectionformnature",
+		"name": "Summon Timberling",
 		"text": "Summons a Timberling to protect you for 20 min."
 	}
 }

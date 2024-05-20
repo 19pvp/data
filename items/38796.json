@@ -10,8 +10,11 @@
 	"sourceId": 13529,
 	"sourceName": "Enchant 2H Weapon - Lesser Impact",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13529,
+	"spell": {
+		"type": "Use",
+		"id": 13529,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant 2H Weapon - Lesser Impact",
 		"text": "Permanently enchant a two-handed melee weapon to do 3 additional points of damage."
 	},
 	"enchant": {

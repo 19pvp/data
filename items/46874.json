@@ -13,8 +13,11 @@
 	"sourceName": "Dame Evniki Kapsalis",
 	"sourceZone": 210,
 	"sourceType": "NPC",
-	"use": {
-		"spell": 66238,
+	"spell": {
+		"type": "Use",
+		"id": 66238,
+		"icon": "spell_arcane_teleportshattrath",
+		"name": "Teleport: Argent Tournament",
 		"text": "Teleports the caster to the Argent Tournament Grounds. (30 Min Cooldown)"
 	}
 }

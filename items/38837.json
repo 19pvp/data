@@ -10,8 +10,11 @@
 	"sourceId": 13890,
 	"sourceName": "Enchant Boots - Minor Speed",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13890,
+	"spell": {
+		"type": "Use",
+		"id": 13890,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Boots - Minor Speed",
 		"text": "Permanently enchant boots to give a slight movement speed increase."
 	},
 	"enchant": {

@@ -10,8 +10,11 @@
 	"sourceId": 20035,
 	"sourceName": "Enchant 2H Weapon - Major Spirit",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 20035,
+	"spell": {
+		"type": "Use",
+		"id": 20035,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant 2H Weapon - Major Spirit",
 		"text": "Permanently enchant a two-handed melee weapon to increase Spirit by 9."
 	},
 	"enchant": { "description": "+9 Spirit", "id": 1903, "types": ["TWO_HAND"] }

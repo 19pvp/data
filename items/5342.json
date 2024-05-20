@@ -2,8 +2,11 @@
 	"id": "5342",
 	"icon": "inv_drink_04",
 	"quality": "COMMON",
-	"use": {
-		"spell": 6114,
+	"spell": {
+		"type": "Use",
+		"id": 6114,
+		"icon": "inv_drink_07",
+		"name": "Raptor Punch",
 		"text": "Increases your Intellect by 4 and decreases your Stamina by 5 for 5 min."
 	}
 }

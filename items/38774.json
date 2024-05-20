@@ -10,8 +10,11 @@
 	"sourceId": 7766,
 	"sourceName": "Enchant Bracer - Minor Spirit",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 7766,
+	"spell": {
+		"type": "Use",
+		"id": 7766,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Bracer - Minor Spirit",
 		"text": "Permanently enchant bracers to increase Spirit by 1."
 	},
 	"enchant": { "description": "+1 Spirit", "id": 243, "types": ["WRISTS"] }

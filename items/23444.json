@@ -2,8 +2,11 @@
 	"id": "23444",
 	"icon": "inv_potion_10",
 	"quality": "COMMON",
-	"use": {
-		"spell": 29348,
+	"spell": {
+		"type": "Use",
+		"id": 29348,
+		"icon": "inv_potion_10",
+		"name": "Goldenmist Special Brew",
 		"text": "Increases the player's maximum health by 27 for 15 min. Guardian Elixir. (3 Sec Cooldown)"
 	}
 }

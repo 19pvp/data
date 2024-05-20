@@ -10,8 +10,11 @@
 	"sourceId": 7863,
 	"sourceName": "Enchant Boots - Minor Stamina",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 7863,
+	"spell": {
+		"type": "Use",
+		"id": 7863,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Boots - Minor Stamina",
 		"text": "Permanently enchant boots to increase Stamina by 1."
 	},
 	"enchant": { "description": "+1 Stamina", "id": 66, "types": ["FEET"] }

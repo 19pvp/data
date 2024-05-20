@@ -10,8 +10,11 @@
 	"sourceId": 13663,
 	"sourceName": "Enchant Chest - Greater Mana",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13663,
+	"spell": {
+		"type": "Use",
+		"id": 13663,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Chest - Greater Mana",
 		"text": "Permanently enchant a piece of chest armor to give +50 mana."
 	},
 	"enchant": { "description": "+50 Mana", "id": 857, "types": ["CHEST"] }

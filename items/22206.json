@@ -9,8 +9,11 @@
 	"subclass": "OFF_HAND_FRILLS",
 	"type": "HELD_IN_OFF_HAND",
 	"source": "DROP",
-	"use": {
-		"spell": 27571,
+	"spell": {
+		"type": "Use",
+		"id": 27571,
+		"icon": "classic_inv_misc_dust_04",
+		"name": "Cascade of Roses",
 		"text": "Shower a nearby target with a cascade of rose petals! (5 Min Cooldown)"
 	}
 }

@@ -10,8 +10,11 @@
 	"sourceId": 44506,
 	"sourceName": "Enchant Gloves - Gatherer",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 44506,
+	"spell": {
+		"type": "Use",
+		"id": 44506,
+		"icon": "trade_engraving",
+		"name": "Enchant Gloves - Gatherer",
 		"text": "Permanently enchant gloves to increase Herbalism, Mining, and Skinning by 5."
 	},
 	"enchant": { "description": "Gatherer", "id": 3238, "types": ["HANDS"] }

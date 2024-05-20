@@ -10,8 +10,11 @@
 	"sourceId": 13945,
 	"sourceName": "Enchant Bracer - Greater Stamina",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13945,
+	"spell": {
+		"type": "Use",
+		"id": 13945,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Bracer - Greater Stamina",
 		"text": "Permanently enchant bracers to increase Stamina by 7."
 	},
 	"enchant": { "description": "+7 Stamina", "id": 929, "types": ["WRISTS"] }

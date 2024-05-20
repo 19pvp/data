@@ -10,8 +10,11 @@
 	"sourceId": 7443,
 	"sourceName": "Enchant Chest - Minor Mana",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 7443,
+	"spell": {
+		"type": "Use",
+		"id": 7443,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Chest - Minor Mana",
 		"text": "Permanently enchant chest armor to increase mana by 5."
 	},
 	"enchant": { "description": "+5 Mana", "id": 24, "types": ["CHEST"] }

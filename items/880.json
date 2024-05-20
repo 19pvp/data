@@ -16,8 +16,11 @@
 	"sourceName": "Rotting Horror",
 	"sourceZone": 10,
 	"sourceType": "NPC",
-	"chanceOnHit": {
-		"spell": 8552,
+	"spell": {
+		"type": "Chance on hit",
+		"id": 8552,
+		"icon": "spell_shadow_curseofmannoroth",
+		"name": "Curse of Weakness",
 		"text": "Damage caused by the target is reduced by 5 for 2 min."
 	}
 }

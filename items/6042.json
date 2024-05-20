@@ -10,8 +10,11 @@
 	"sourceId": 7221,
 	"sourceName": "Iron Shield Spike",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 7216,
+	"spell": {
+		"type": "Use",
+		"id": 7216,
+		"icon": "trade_engineering",
+		"name": "Iron Shield Spike",
 		"text": "Attaches an Iron Spike to your shield that deals damage every time you block with it."
 	},
 	"enchant": {

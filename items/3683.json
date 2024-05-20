@@ -2,8 +2,11 @@
 	"id": "3683",
 	"icon": "inv_scroll_03",
 	"quality": "COMMON",
-	"use": {
-		"spell": 5006,
+	"spell": {
+		"type": "Use",
+		"id": 5006,
+		"icon": "inv_misc_fork-knife",
+		"name": "Food",
 		"text": "Restores 552 health over 24 sec. Must remain seated while eating. If you spend at least 10 seconds eating you will become well fed and gain 6 Stamina and Spirit for 15 min."
 	},
 	"info": "Requires Gooey Spider Leg(2)"

@@ -10,8 +10,11 @@
 	"sourceId": 20024,
 	"sourceName": "Enchant Boots - Spirit",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 20024,
+	"spell": {
+		"type": "Use",
+		"id": 20024,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Boots - Spirit",
 		"text": "Permanently enchant boots to increase Spirit by 5."
 	},
 	"enchant": { "description": "+5 Spirit", "id": 851, "types": ["FEET"] }

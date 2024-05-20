@@ -10,8 +10,11 @@
 	"sourceId": 13536,
 	"sourceName": "Enchant Bracer - Lesser Strength",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13536,
+	"spell": {
+		"type": "Use",
+		"id": 13536,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Bracer - Lesser Strength",
 		"text": "Permanently enchant bracers to increase Strength by 3."
 	},
 	"enchant": { "description": "+3 Strength", "id": 823, "types": ["WRISTS"] }

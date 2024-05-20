@@ -10,8 +10,11 @@
 	"sourceId": 7745,
 	"sourceName": "Enchant 2H Weapon - Minor Impact",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 7745,
+	"spell": {
+		"type": "Use",
+		"id": 7745,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant 2H Weapon - Minor Impact",
 		"text": "Permanently enchant a two-handed melee weapon to do 2 additional points of damage."
 	},
 	"enchant": {

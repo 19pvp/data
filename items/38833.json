@@ -10,8 +10,11 @@
 	"sourceId": 13858,
 	"sourceName": "Enchant Chest - Superior Health",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13858,
+	"spell": {
+		"type": "Use",
+		"id": 13858,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Chest - Superior Health",
 		"text": "Permanently enchant a piece of chest armor to grant +50 health."
 	},
 	"enchant": { "description": "+50 Health", "id": 908, "types": ["CHEST"] }

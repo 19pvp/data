@@ -14,8 +14,11 @@
 	"stats": { "Resilience": 3 },
 	"source": "VENDOR",
 	"sourceZone": 4197,
-	"chanceOnHit": {
-		"spell": 59830,
+	"spell": {
+		"type": "Chance on hit",
+		"id": 59830,
+		"icon": "ability_warrior_punishingblow",
+		"name": "Battleworn Thrash Blade",
 		"text": "Grants an extra attack on your next swing."
 	}
 }

@@ -7,8 +7,11 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Fishing": 1 },
-	"use": {
-		"spell": 96286,
+	"spell": {
+		"type": "Use",
+		"id": 96286,
+		"icon": "trade_engineering",
+		"name": "Reinforced Fishing Line",
 		"text": "Replaces the fishing line on your fishing pole with something slightly stronger, permanently increasing Fishing skill by 1."
 	},
 	"enchant": {

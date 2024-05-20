@@ -2,8 +2,11 @@
 	"id": "2454",
 	"icon": "inv_potion_56",
 	"quality": "COMMON",
-	"use": {
-		"spell": 2367,
+	"spell": {
+		"type": "Use",
+		"id": 2367,
+		"icon": "inv_potion_58",
+		"name": "Lion's Strength",
 		"text": "Increases your Strength by 4 for 1 hour. Battle Elixir. (3 Sec Cooldown)"
 	}
 }

@@ -2,5 +2,11 @@
 	"id": "23986",
 	"icon": "inv_datacrystal01",
 	"quality": "COMMON",
-	"use": { "spell": 30847, "text": "Increases Intellect by 5. Lasts 30 mins." }
+	"spell": {
+		"type": "Use",
+		"id": 30847,
+		"icon": "spell_holy_spiritualguidence",
+		"name": "Tracker's Insight",
+		"text": "Increases Intellect by 5. Lasts 30 mins."
+	}
 }

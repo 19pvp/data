@@ -3,8 +3,11 @@
 	"icon": "inv_helmet_29",
 	"armor": 44,
 	"quality": "COMMON",
-	"use": {
-		"spell": 74589,
+	"spell": {
+		"type": "Use",
+		"id": 74589,
+		"icon": "ability_rogue_disguise",
+		"name": "Identity Crisis",
 		"text": "Relive your days as an apprentice. (30 Min Cooldown)"
 	}
 }

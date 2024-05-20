@@ -10,8 +10,11 @@
 	"sourceId": 13380,
 	"sourceName": "Enchant 2H Weapon - Lesser Spirit",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13380,
+	"spell": {
+		"type": "Use",
+		"id": 13380,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant 2H Weapon - Lesser Spirit",
 		"text": "Permanently enchant a two-handed melee weapon to increase Spirit by 3."
 	},
 	"enchant": { "description": "+3 Spirit", "id": 255, "types": ["TWO_HAND"] }

@@ -10,8 +10,11 @@
 	"sourceId": 13631,
 	"sourceName": "Enchant Shield - Lesser Stamina",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13631,
+	"spell": {
+		"type": "Use",
+		"id": 13631,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Shield - Lesser Stamina",
 		"text": "Permanently enchant a shield to give 3 Stamina."
 	},
 	"enchant": { "description": "+3 Stamina", "id": 724, "types": ["SHIELD"] }

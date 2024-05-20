@@ -10,8 +10,11 @@
 	"sourceId": 13882,
 	"sourceName": "Enchant Cloak - Lesser Agility",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13882,
+	"spell": {
+		"type": "Use",
+		"id": 13882,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Cloak - Lesser Agility",
 		"text": "Permanently enchant a cloak to increase Agility by 3."
 	},
 	"enchant": { "description": "+3 Agility", "id": 849, "types": ["BACK"] }

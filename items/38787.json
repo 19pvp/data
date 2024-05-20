@@ -10,8 +10,11 @@
 	"sourceId": 13378,
 	"sourceName": "Enchant Shield - Minor Stamina",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13378,
+	"spell": {
+		"type": "Use",
+		"id": 13378,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Shield - Minor Stamina",
 		"text": "Permanently enchant a shield so that it increases the Stamina of the bearer by 1."
 	},
 	"enchant": { "description": "+1 Stamina", "id": 66, "types": ["SHIELD"] }

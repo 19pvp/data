@@ -10,8 +10,11 @@
 	"sourceId": 13905,
 	"sourceName": "Enchant Shield - Greater Spirit",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13905,
+	"spell": {
+		"type": "Use",
+		"id": 13905,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Shield - Greater Spirit",
 		"text": "Permanently enchant a shield to give +7 Spirit."
 	},
 	"enchant": { "description": "+7 Spirit", "id": 907, "types": ["SHIELD"] }

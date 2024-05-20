@@ -10,8 +10,11 @@
 	"sourceId": 13653,
 	"sourceName": "Enchant Weapon - Lesser Beastslayer",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13653,
+	"spell": {
+		"type": "Use",
+		"id": 13653,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Weapon - Lesser Beastslayer",
 		"text": "Permanently enchant a melee weapon to increase its damage to beasts by 6."
 	},
 	"enchant": {

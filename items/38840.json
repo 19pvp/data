@@ -10,8 +10,11 @@
 	"sourceId": 13915,
 	"sourceName": "Enchant Weapon - Demonslaying",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13915,
+	"spell": {
+		"type": "Use",
+		"id": 13915,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Weapon - Demonslaying",
 		"text": "Permanently enchant a melee weapon to have a chance of stunning and doing additional damage against demons."
 	},
 	"enchant": {

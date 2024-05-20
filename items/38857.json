@@ -10,8 +10,11 @@
 	"sourceId": 20013,
 	"sourceName": "Enchant Gloves - Greater Strength",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 20013,
+	"spell": {
+		"type": "Use",
+		"id": 20013,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Gloves - Greater Strength",
 		"text": "Permanently enchant gloves to increase Strength by 7."
 	},
 	"enchant": { "description": "+7 Strength", "id": 927, "types": ["HANDS"] }

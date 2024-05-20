@@ -11,5 +11,11 @@
 	"sourceId": 9146,
 	"sourceName": "Herbalist's Gloves",
 	"sourceType": "SPELL",
-	"equip": { "spell": 9134, "text": "Herbalism +5." }
+	"spell": {
+		"type": "Equip",
+		"id": 9134,
+		"icon": "trade_herbalism",
+		"name": "Herbalism",
+		"text": "Herbalism +5."
+	}
 }

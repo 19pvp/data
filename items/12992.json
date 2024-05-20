@@ -12,8 +12,11 @@
 	"subclass": "TWO_HANDED_SWORD",
 	"type": "TWO_HAND",
 	"source": "DROP",
-	"chanceOnHit": {
-		"spell": 16413,
+	"spell": {
+		"type": "Chance on hit",
+		"id": 16413,
+		"icon": "spell_fire_firebolt02",
+		"name": "Fireball",
 		"text": "Hurls a fiery ball that causes 70 Fire damage and an additional 9 damage over 6 sec."
 	}
 }

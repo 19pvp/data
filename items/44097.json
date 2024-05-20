@@ -15,8 +15,11 @@
 	"sourceName": "Stone Guard Mukar",
 	"sourceZone": 4197,
 	"sourceType": "NPC",
-	"use": {
-		"spell": 42292,
+	"spell": {
+		"type": "Use",
+		"id": 42292,
+		"icon": "spell_holy_dispelmagic",
+		"name": "PvP Trinket",
 		"text": "Removes all movement impairing effects and all effects which cause loss of control of your character. (5 Min Cooldown)"
 	}
 }

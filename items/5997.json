@@ -3,8 +3,11 @@
 	"icon": "inv_potion_63",
 	"armor": 25,
 	"quality": "COMMON",
-	"use": {
-		"spell": 673,
+	"spell": {
+		"type": "Use",
+		"id": 673,
+		"icon": "inv_potion_65",
+		"name": "Minor Defense",
 		"text": "Increases your armor by 25 for 1 hour. Guardian Elixir. (3 Sec Cooldown)"
 	}
 }

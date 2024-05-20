@@ -10,8 +10,11 @@
 	"sourceId": 20009,
 	"sourceName": "Enchant Bracer - Superior Spirit",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 20009,
+	"spell": {
+		"type": "Use",
+		"id": 20009,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Bracer - Superior Spirit",
 		"text": "Permanently enchant bracers to increase Spirit by 9."
 	},
 	"enchant": { "description": "+9 Spirit", "id": 1884, "types": ["WRISTS"] }

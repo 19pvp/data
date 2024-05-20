@@ -12,8 +12,11 @@
 	"subclass": "MISCELLANEOUS",
 	"type": "ONE_HAND",
 	"source": "QUEST",
-	"use": {
-		"spell": 41920,
+	"spell": {
+		"type": "Use",
+		"id": 41920,
+		"icon": "inv_cask_04",
+		"name": "Filling",
 		"text": "Fills your Brewfest Stein at a Brewfest Festive Keg."
 	}
 }

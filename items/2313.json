@@ -11,8 +11,11 @@
 	"sourceId": 2165,
 	"sourceName": "Medium Armor Kit",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 2832,
+	"spell": {
+		"type": "Use",
+		"id": 2832,
+		"icon": "inv_misc_armorkit_15",
+		"name": "Armor +16",
 		"text": "Permanently increase the armor value of an item worn on the chest, legs, hands or feet by 16."
 	},
 	"enchant": {

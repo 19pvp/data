@@ -10,8 +10,11 @@
 	"sourceId": 20033,
 	"sourceName": "Enchant Weapon - Unholy Weapon",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 20033,
+	"spell": {
+		"type": "Use",
+		"id": 20033,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Weapon - Unholy Weapon",
 		"text": "Permanently enchant a melee weapon to often inflict a curse on the target, inflicting Shadow damage and reducing their melee damage."
 	},
 	"enchant": {

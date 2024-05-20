@@ -2,8 +2,11 @@
 	"id": "23500",
 	"icon": "inv_letter_05",
 	"quality": "COMMON",
-	"use": {
-		"spell": 29451,
+	"spell": {
+		"type": "Use",
+		"id": 29451,
+		"icon": "inv_letter_05",
+		"name": "Saltheril's Haven Party Invitation",
 		"text": "Allows the bearer full access to everything that the party at Saltheril's Haven has to offer."
 	}
 }

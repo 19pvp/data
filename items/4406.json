@@ -10,8 +10,11 @@
 	"sourceId": 3978,
 	"sourceName": "Standard Scope",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 3975,
+	"spell": {
+		"type": "Use",
+		"id": 3975,
+		"icon": "trade_engineering",
+		"name": "Standard Scope",
 		"text": "Attaches a permanent scope to a bow or gun that increases its damage by 2."
 	},
 	"enchant": {

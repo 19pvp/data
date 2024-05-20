@@ -2,8 +2,11 @@
 	"id": "6635",
 	"icon": "inv_potion_12",
 	"quality": "COMMON",
-	"use": {
-		"spell": 8202,
+	"spell": {
+		"type": "Use",
+		"id": 8202,
+		"icon": "ability_cheapshot",
+		"name": "Sapta Sight",
 		"text": "Allows the shaman to see elemental spirits."
 	}
 }

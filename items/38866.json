@@ -10,8 +10,11 @@
 	"sourceId": 20026,
 	"sourceName": "Enchant Chest - Major Health",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 20026,
+	"spell": {
+		"type": "Use",
+		"id": 20026,
+		"icon": "inv_misc_note_01",
+		"name": "Enchant Chest - Major Health",
 		"text": "Permanently enchant chest armor to increase health by 100."
 	},
 	"enchant": { "description": "+100 Health", "id": 1892, "types": ["CHEST"] }

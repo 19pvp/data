@@ -10,8 +10,11 @@
 	"sourceId": 71692,
 	"sourceName": "Enchant Gloves - Angler",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 71692,
+	"spell": {
+		"type": "Use",
+		"id": 71692,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Gloves - Angler",
 		"text": "Permanently enchant gloves to increase fishing skill by 5."
 	},
 	"enchant": { "description": "+5 Fishing", "id": 846, "types": ["HANDS"] }

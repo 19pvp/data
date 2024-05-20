@@ -10,8 +10,11 @@
 	"sourceId": 13822,
 	"sourceName": "Enchant Bracer - Intellect",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13822,
+	"spell": {
+		"type": "Use",
+		"id": 13822,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Bracer - Intellect",
 		"text": "Permanently enchants bracers to give +5 Intellect."
 	},
 	"enchant": { "description": "+5 Intellect", "id": 905, "types": ["WRISTS"] }

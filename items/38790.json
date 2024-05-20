@@ -11,8 +11,11 @@
 	"sourceId": 13421,
 	"sourceName": "Enchant Cloak - Lesser Protection",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13421,
+	"spell": {
+		"type": "Use",
+		"id": 13421,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Cloak - Lesser Protection",
 		"text": "Permanently enchant a cloak to increase armor by 20."
 	},
 	"enchant": { "description": "+20 Armor", "id": 744, "types": ["BACK"] }

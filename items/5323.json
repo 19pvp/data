@@ -11,8 +11,11 @@
 	"type": "HELD_IN_OFF_HAND",
 	"stats": { "Spirit": 3 },
 	"source": "QUEST",
-	"use": {
-		"spell": 14053,
+	"spell": {
+		"type": "Use",
+		"id": 14053,
+		"icon": "spell_holy_lesserheal02",
+		"name": "Heal",
 		"text": "Heal your target for 135 to 165. (30 Min Cooldown)"
 	}
 }

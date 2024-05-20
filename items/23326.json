@@ -2,5 +2,11 @@
 	"id": "23326",
 	"icon": "inv_misc_food_53",
 	"quality": "COMMON",
-	"use": { "spell": 29333, "text": "Increases haste rating by 30 for 1 hour." }
+	"spell": {
+		"type": "Use",
+		"id": 29333,
+		"icon": "inv_misc_food_53",
+		"name": "Midsummer Sausage",
+		"text": "Increases haste rating by 30 for 1 hour."
+	}
 }

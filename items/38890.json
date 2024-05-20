@@ -10,8 +10,11 @@
 	"sourceId": 25080,
 	"sourceName": "Enchant Gloves - Superior Agility",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 25080,
+	"spell": {
+		"type": "Use",
+		"id": 25080,
+		"icon": "inv_enchant_formulasuperior_01",
+		"name": "Enchant Gloves - Superior Agility",
 		"text": "Permanently enchant gloves to increase Agility by 15."
 	},
 	"enchant": { "description": "+15 Agility", "id": 2564, "types": ["HANDS"] }

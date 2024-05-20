@@ -10,8 +10,11 @@
 	"sourceId": 13698,
 	"sourceName": "Enchant Gloves - Skinning",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13698,
+	"spell": {
+		"type": "Use",
+		"id": 13698,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Gloves - Skinning",
 		"text": "Permanently enchant gloves to increase skinning skill by 5."
 	},
 	"enchant": { "description": "+5 Skinning", "id": 865, "types": ["HANDS"] }

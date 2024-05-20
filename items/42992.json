@@ -10,8 +10,11 @@
 	"type": "TRINKET",
 	"stats": { "Intellect": 6 },
 	"source": "VENDOR",
-	"equip": {
-		"spell": 59915,
+	"spell": {
+		"type": "Equip",
+		"id": 59915,
+		"icon": "spell_deathknight_vendetta",
+		"name": "Discerning Eye of the Beast",
 		"text": "Restores 2% of your maximum mana whenever you kill a target that yields experience or honor."
 	}
 }

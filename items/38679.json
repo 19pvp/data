@@ -10,8 +10,11 @@
 	"sourceId": 7418,
 	"sourceName": "Enchant Bracer - Minor Health",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 7418,
+	"spell": {
+		"type": "Use",
+		"id": 7418,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Bracer - Minor Health",
 		"text": "Permanently enchant bracers to increase the health of the wearer by 5."
 	},
 	"enchant": { "description": "+5 Health", "id": 41, "types": ["WRISTS"] }

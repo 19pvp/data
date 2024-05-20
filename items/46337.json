@@ -6,5 +6,11 @@
 	"speed": 3,
 	"dps": 5.67,
 	"quality": "COMMON",
-	"equip": { "spell": 15956, "text": "Fishing skill increased by 3." }
+	"spell": {
+		"type": "Equip",
+		"id": 15956,
+		"icon": "trade_fishing",
+		"name": "Fishing Skill +3",
+		"text": "Fishing skill increased by 3."
+	}
 }

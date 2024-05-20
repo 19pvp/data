@@ -12,5 +12,11 @@
 	"sourceId": 37818,
 	"sourceName": "Bronze Band of Force",
 	"sourceType": "SPELL",
-	"equip": { "spell": 26596, "text": "+1 Weapon Damage." }
+	"spell": {
+		"type": "Equip",
+		"id": 26596,
+		"icon": "trade_engineering",
+		"name": "Weapon Damage",
+		"text": "+1 Weapon Damage."
+	}
 }

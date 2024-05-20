@@ -2,8 +2,11 @@
 	"id": "22131",
 	"icon": "inv_misc_gift_03",
 	"quality": "COMMON",
-	"use": {
-		"spell": 27667,
+	"spell": {
+		"type": "Use",
+		"id": 27667,
+		"icon": "inv_valentinesboxofchocolates01",
+		"name": "Create Alliance Gift Collection",
 		"text": "Combines a Darnassus Gift Collection, Ironforge Gift Collection and Stormwind Gift Collection into an Alliance Gift Collection."
 	}
 }

@@ -14,8 +14,11 @@
 	"sourceId": 9176,
 	"sourceName": "The Twin Ziggurats",
 	"sourceType": "QUEST",
-	"use": {
-		"spell": 28516,
+	"spell": {
+		"type": "Use",
+		"id": 28516,
+		"icon": "spell_holy_excorcism",
+		"name": "Sunwell Torrent",
 		"text": "Use on Dar'Khan Drathir to release the energy contained in this item causing 500 Arcane damage over 5 sec and silencing the target. (10 Min Cooldown)"
 	}
 }

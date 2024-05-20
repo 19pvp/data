@@ -10,8 +10,11 @@
 	"sourceId": 23802,
 	"sourceName": "Enchant Bracer - Healing Power",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 23802,
+	"spell": {
+		"type": "Use",
+		"id": 23802,
+		"icon": "inv_misc_note_01",
+		"name": "Enchant Bracer - Healing Power",
 		"text": "Permanently enchant bracers to increase spell power by 15."
 	},
 	"enchant": {

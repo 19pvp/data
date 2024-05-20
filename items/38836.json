@@ -10,8 +10,11 @@
 	"sourceId": 13887,
 	"sourceName": "Enchant Gloves - Strength",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13887,
+	"spell": {
+		"type": "Use",
+		"id": 13887,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Gloves - Strength",
 		"text": "Permanently enchant gloves to grant +5 Strength."
 	},
 	"enchant": { "description": "+5 Strength", "id": 856, "types": ["HANDS"] }

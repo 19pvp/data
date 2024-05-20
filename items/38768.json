@@ -10,8 +10,11 @@
 	"sourceId": 7428,
 	"sourceName": "Enchant Bracer - Minor Dodge",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 7428,
+	"spell": {
+		"type": "Use",
+		"id": 7428,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Bracer - Minor Dodge",
 		"text": "Permanently enchant bracers to increase dodge rating by 2."
 	},
 	"enchant": {

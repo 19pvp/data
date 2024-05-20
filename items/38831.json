@@ -10,8 +10,11 @@
 	"sourceId": 13841,
 	"sourceName": "Enchant Gloves - Advanced Mining",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13841,
+	"spell": {
+		"type": "Use",
+		"id": 13841,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Gloves - Advanced Mining",
 		"text": "Permanently enchant gloves to increase mining skill by 5."
 	},
 	"enchant": { "description": "+5 Mining", "id": 906, "types": ["HANDS"] }

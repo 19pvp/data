@@ -16,8 +16,11 @@
 	"sourceId": 20025,
 	"sourceName": "Enchant Chest - Greater Stats",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 20025,
+	"spell": {
+		"type": "Use",
+		"id": 20025,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Chest - Greater Stats",
 		"text": "Permanently enchant chest armor to increase all stats by 4."
 	},
 	"enchant": { "description": "+4 All Stats", "id": 1891, "types": ["CHEST"] }

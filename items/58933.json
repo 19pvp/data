@@ -2,5 +2,11 @@
 	"id": "58933",
 	"icon": "inv_misc_food_146_cakeslice",
 	"quality": "COMMON",
-	"use": { "spell": 80760, "text": "Makes your stomach rumble." }
+	"spell": {
+		"type": "Use",
+		"id": 80760,
+		"icon": "inv_misc_food_146_cakeslice",
+		"name": "Westfall Mud Pie",
+		"text": "Makes your stomach rumble."
+	}
 }

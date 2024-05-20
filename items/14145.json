@@ -16,8 +16,11 @@
 	"sourceName": "Taragaman the Hungerer",
 	"sourceZone": 2437,
 	"sourceType": "NPC",
-	"chanceOnHit": {
-		"spell": 18381,
+	"spell": {
+		"type": "Chance on hit",
+		"id": 18381,
+		"icon": "spell_shadow_curseofmannoroth",
+		"name": "Cripple",
 		"text": "Reduces target enemy's attack power by 25 for 30 sec."
 	}
 }

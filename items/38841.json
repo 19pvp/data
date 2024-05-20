@@ -10,8 +10,11 @@
 	"sourceId": 13917,
 	"sourceName": "Enchant Chest - Superior Mana",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13917,
+	"spell": {
+		"type": "Use",
+		"id": 13917,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Chest - Superior Mana",
 		"text": "Permanently enchant a piece of chest armor to give +65 mana."
 	},
 	"enchant": { "description": "+65 Mana", "id": 913, "types": ["CHEST"] }

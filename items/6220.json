@@ -13,8 +13,11 @@
 	"type": "ONE_HAND",
 	"source": "DROP",
 	"sourceZone": 209,
-	"chanceOnHit": {
-		"spell": 13442,
+	"spell": {
+		"type": "Chance on hit",
+		"id": 13442,
+		"icon": "spell_fire_firebolt02",
+		"name": "Firebolt",
 		"text": "Blasts a target for 35 Fire damage."
 	}
 }

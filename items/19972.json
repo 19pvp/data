@@ -13,5 +13,11 @@
 	"sourceId": 8221,
 	"sourceName": "Rare Fish - Keefer's Angelfish",
 	"sourceType": "QUEST",
-	"equip": { "spell": 7823, "text": "Fishing skill increased by 5." }
+	"spell": {
+		"type": "Equip",
+		"id": 7823,
+		"icon": "trade_fishing",
+		"name": "Fishing Skill +5",
+		"text": "Fishing skill increased by 5."
+	}
 }

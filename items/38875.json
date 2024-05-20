@@ -10,8 +10,11 @@
 	"sourceId": 20036,
 	"sourceName": "Enchant 2H Weapon - Major Intellect",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 20036,
+	"spell": {
+		"type": "Use",
+		"id": 20036,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant 2H Weapon - Major Intellect",
 		"text": "Permanently enchant a two-handed melee weapon to increase Intellect by 9."
 	},
 	"enchant": {

@@ -10,8 +10,11 @@
 	"sourceId": 27837,
 	"sourceName": "Enchant 2H Weapon - Agility",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 27837,
+	"spell": {
+		"type": "Use",
+		"id": 27837,
+		"icon": "inv_misc_note_01",
+		"name": "Enchant 2H Weapon - Agility",
 		"text": "Permanently enchant a two-handed melee weapon to increase Agility by 25."
 	},
 	"enchant": { "description": "+25 Agility", "id": 2646, "types": ["TWO_HAND"] }

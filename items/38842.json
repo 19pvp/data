@@ -10,8 +10,11 @@
 	"sourceId": 13931,
 	"sourceName": "Enchant Bracer - Dodge",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13931,
+	"spell": {
+		"type": "Use",
+		"id": 13931,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Bracer - Dodge",
 		"text": "Permanently enchant bracers to increase dodge rating by 5."
 	},
 	"enchant": {

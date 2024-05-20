@@ -14,8 +14,11 @@
 	"sourceName": "Leech Widow",
 	"sourceZone": 11,
 	"sourceType": "NPC",
-	"use": {
-		"spell": 14253,
+	"spell": {
+		"type": "Use",
+		"id": 14253,
+		"icon": "spell_nature_nullifypoison_02",
+		"name": "Abolish Poison",
 		"text": "Attempts to cure 1 poison effect on the target. (5 Min Cooldown)"
 	}
 }

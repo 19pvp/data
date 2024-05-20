@@ -2,8 +2,11 @@
 	"id": "22779",
 	"icon": "inv_potion_13",
 	"quality": "COMMON",
-	"use": {
-		"spell": 28486,
+	"spell": {
+		"type": "Use",
+		"id": 28486,
+		"icon": "spell_holy_excorcism_02",
+		"name": "Scourgebane Draught",
 		"text": "Increases attack power by 30 against undead. Lasts 30 min. (3 Sec Cooldown)"
 	}
 }

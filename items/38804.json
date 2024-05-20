@@ -16,8 +16,11 @@
 	"sourceId": 13626,
 	"sourceName": "Enchant Chest - Minor Stats",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13626,
+	"spell": {
+		"type": "Use",
+		"id": 13626,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Chest - Minor Stats",
 		"text": "Permanently enchant a piece of chest armor to grant +1 to all stats."
 	},
 	"enchant": { "description": "+1 All Stats", "id": 847, "types": ["CHEST"] }

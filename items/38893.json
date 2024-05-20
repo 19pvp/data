@@ -10,8 +10,11 @@
 	"sourceId": 25083,
 	"sourceName": "Enchant Cloak - Stealth",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 25083,
+	"spell": {
+		"type": "Use",
+		"id": 25083,
+		"icon": "inv_enchant_formulasuperior_01",
+		"name": "Enchant Cloak - Stealth",
 		"text": "Permanently enchant a cloak to increase Agility and dodge rating by 8."
 	},
 	"enchant": {

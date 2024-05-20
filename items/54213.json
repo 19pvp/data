@@ -2,8 +2,11 @@
 	"id": "54213",
 	"icon": "inv_potion_95",
 	"quality": "COMMON",
-	"use": {
-		"spell": 2379,
+	"spell": {
+		"type": "Use",
+		"id": 2379,
+		"icon": "ability_kick",
+		"name": "Speed",
 		"text": "Increases run speed by 50% for 15 sec. (1 Min Cooldown)"
 	}
 }

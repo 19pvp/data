@@ -10,8 +10,11 @@
 	"sourceId": 63746,
 	"sourceName": "Enchant Boots - Lesser Accuracy",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 63746,
+	"spell": {
+		"type": "Use",
+		"id": 63746,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Boots - Lesser Accuracy",
 		"text": "Permanently enchant boots to increase your hit rating by 5."
 	},
 	"enchant": { "description": "+5 Hit Rating", "id": 3858, "types": ["FEET"] }

@@ -16,8 +16,11 @@
 	"sourceName": "Gesharahan",
 	"sourceZone": 17,
 	"sourceType": "NPC",
-	"chanceOnHit": {
-		"spell": 18092,
+	"spell": {
+		"type": "Chance on hit",
+		"id": 18092,
+		"icon": "spell_frost_frostbolt02",
+		"name": "Frost Blast",
 		"text": "Blasts a target for 35 Frost damage."
 	}
 }

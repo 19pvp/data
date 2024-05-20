@@ -2,8 +2,11 @@
 	"id": "23989",
 	"icon": "inv_datacrystal12",
 	"quality": "COMMON",
-	"use": {
-		"spell": 30848,
+	"spell": {
+		"type": "Use",
+		"id": 30848,
+		"icon": "spell_shadow_summonfelhunter",
+		"name": "Tracker's Ferocity",
 		"text": "Increases attack power by 10. Lasts 30 mins."
 	}
 }

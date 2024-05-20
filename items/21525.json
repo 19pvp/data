@@ -9,6 +9,5 @@
 	"subclass": "MISC",
 	"type": "HEAD",
 	"source": "DROP",
-	"info": "Winter Garb (0/3)",
-	"<span>(3)Set ": { "spell": 55000, "text": "Full Winter Garb" }
+	"info": "Winter Garb (0/3)"
 }

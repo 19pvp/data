@@ -17,8 +17,11 @@
 	"sourceId": 7454,
 	"sourceName": "Enchant Cloak - Minor Resistance",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 7454,
+	"spell": {
+		"type": "Use",
+		"id": 7454,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Cloak - Minor Resistance",
 		"text": "Permanently enchant a cloak so that it increases the resistance to all schools of magic by 1."
 	},
 	"enchant": {

@@ -10,8 +10,11 @@
 	"sourceId": 20029,
 	"sourceName": "Enchant Weapon - Icy Chill",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 20029,
+	"spell": {
+		"type": "Use",
+		"id": 20029,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Weapon - Icy Chill",
 		"text": "Permanently enchant a melee weapon to often chill the target, reducing their movement and attack speed. Has a reduced effect for players above level 60."
 	},
 	"enchant": {

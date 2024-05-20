@@ -13,8 +13,11 @@
 	"type": "TWO_HAND",
 	"source": "DROP",
 	"sourceZone": 209,
-	"chanceOnHit": {
-		"spell": 18217,
+	"spell": {
+		"type": "Chance on hit",
+		"id": 18217,
+		"icon": "spell_shadow_shadowbolt",
+		"name": "Shadow Bolt",
 		"text": "Sends a shadowy bolt at the enemy causing 60 to 100 Shadow damage."
 	}
 }

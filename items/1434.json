@@ -4,8 +4,11 @@
 	"speed": 2,
 	"armor": -50,
 	"quality": "COMMON",
-	"use": {
-		"spell": 13424,
+	"spell": {
+		"type": "Use",
+		"id": 13424,
+		"icon": "spell_nature_faeriefire",
+		"name": "Faerie Fire",
 		"text": "Decrease the armor of the target by 50 for 30 sec. While affected, the target cannot stealth or turn invisible. (1 Min Cooldown)"
 	}
 }

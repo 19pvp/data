@@ -11,8 +11,11 @@
 	"sourceId": 9269,
 	"sourceName": "Gnomish Universal Remote",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 8344,
+	"spell": {
+		"type": "Use",
+		"id": 8344,
+		"icon": "inv_gizmo_02",
+		"name": "Universal Remote",
 		"text": "Allows control of a mechanical target for a short time. It may not always work and may just root the machine or make it very very angry. Gnomish engineering at its finest. (3 Min Cooldown)"
 	}
 }

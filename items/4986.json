@@ -2,5 +2,11 @@
 	"id": "4986",
 	"icon": "inv_misc_gem_diamond_02",
 	"quality": "COMMON",
-	"use": { "spell": 5099, "text": "Place upon the Altar of Fire" }
+	"spell": {
+		"type": "Use",
+		"id": 5099,
+		"icon": "trade_engineering",
+		"name": "Disruption",
+		"text": "Place upon the Altar of Fire"
+	}
 }

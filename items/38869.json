@@ -10,8 +10,11 @@
 	"sourceId": 20030,
 	"sourceName": "Enchant 2H Weapon - Superior Impact",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 20030,
+	"spell": {
+		"type": "Use",
+		"id": 20030,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant 2H Weapon - Superior Impact",
 		"text": "Permanently enchant a two-handed melee weapon to increase its damage by 9."
 	},
 	"enchant": {

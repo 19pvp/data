@@ -10,8 +10,11 @@
 	"sourceId": 13522,
 	"sourceName": "Enchant Cloak - Lesser Shadow Resistance",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13522,
+	"spell": {
+		"type": "Use",
+		"id": 13522,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Cloak - Lesser Shadow Resistance",
 		"text": "Permanently enchant a cloak to increase shadow resistance by 10."
 	},
 	"enchant": {

@@ -10,8 +10,11 @@
 	"type": "TRINKET",
 	"stats": { "Haste Rating": 6 },
 	"source": "VENDOR",
-	"equip": {
-		"spell": 59906,
+	"spell": {
+		"type": "Equip",
+		"id": 59906,
+		"icon": "spell_deathknight_vendetta",
+		"name": "Swift Hand of Justice",
 		"text": "Heals you for 2% of your maximum health whenever you kill a target that yields experience or honor."
 	}
 }

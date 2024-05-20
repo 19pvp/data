@@ -10,8 +10,11 @@
 	"sourceId": 25079,
 	"sourceName": "Enchant Gloves - Healing Power",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 25079,
+	"spell": {
+		"type": "Use",
+		"id": 25079,
+		"icon": "inv_enchant_formulasuperior_01",
+		"name": "Enchant Gloves - Healing Power",
 		"text": "Permanently enchant gloves to increase spell power by 16."
 	},
 	"enchant": {

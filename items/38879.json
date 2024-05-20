@@ -10,8 +10,11 @@
 	"sourceId": 23799,
 	"sourceName": "Enchant Weapon - Strength",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 23799,
+	"spell": {
+		"type": "Use",
+		"id": 23799,
+		"icon": "inv_misc_note_01",
+		"name": "Enchant Weapon - Strength",
 		"text": "Permanently enchant a melee weapon to increase Strength by 15."
 	},
 	"enchant": {

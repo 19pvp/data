@@ -10,8 +10,11 @@
 	"sourceId": 13637,
 	"sourceName": "Enchant Boots - Lesser Agility",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13637,
+	"spell": {
+		"type": "Use",
+		"id": 13637,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Boots - Lesser Agility",
 		"text": "Permanently enchant boots to give +3 Agility."
 	},
 	"enchant": { "description": "+3 Agility", "id": 849, "types": ["FEET"] }

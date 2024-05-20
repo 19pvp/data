@@ -2,5 +2,11 @@
 	"id": "118",
 	"icon": "inv_potion_49",
 	"quality": "COMMON",
-	"use": { "spell": 439, "text": "Restores 70 to 90 health. (1 Min Cooldown)" }
+	"spell": {
+		"type": "Use",
+		"id": 439,
+		"icon": "inv_potion_49",
+		"name": "Healing Potion",
+		"text": "Restores 70 to 90 health. (1 Min Cooldown)"
+	}
 }

@@ -11,8 +11,11 @@
 	"sourceId": 3952,
 	"sourceName": "Minor Recombobulator",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 18805,
+	"spell": {
+		"type": "Use",
+		"id": 18805,
+		"icon": "trade_engineering",
+		"name": "Recombobulate",
 		"text": "Restores 150 to 250 health and mana to a friendly target and attempts to dispel any polymorph effects from them. Reduced effectiveness against polymorph effects from casters of level 31 and higher. (5 Min Cooldown)"
 	}
 }

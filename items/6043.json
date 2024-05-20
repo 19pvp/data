@@ -10,8 +10,11 @@
 	"sourceId": 7222,
 	"sourceName": "Iron Counterweight",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 7218,
+	"spell": {
+		"type": "Use",
+		"id": 7218,
+		"icon": "trade_engineering",
+		"name": "Weapon Counterweight",
 		"text": "Attaches a counterweight to a two-handed sword, mace, axe or polearm increasing the wielder's haste rating by 20."
 	},
 	"enchant": {

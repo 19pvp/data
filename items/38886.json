@@ -10,8 +10,11 @@
 	"sourceId": 25073,
 	"sourceName": "Enchant Gloves - Shadow Power",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 25073,
+	"spell": {
+		"type": "Use",
+		"id": 25073,
+		"icon": "inv_enchant_formulasuperior_01",
+		"name": "Enchant Gloves - Shadow Power",
 		"text": "Permanently enchant gloves to increase shadow spell power by 20."
 	},
 	"enchant": {

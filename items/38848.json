@@ -10,8 +10,11 @@
 	"sourceId": 13943,
 	"sourceName": "Enchant Weapon - Greater Striking",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13943,
+	"spell": {
+		"type": "Use",
+		"id": 13943,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Weapon - Greater Striking",
 		"text": "Permanently enchant a melee weapon to do 4 additional points of damage."
 	},
 	"enchant": {

@@ -10,8 +10,11 @@
 	"sourceId": 13419,
 	"sourceName": "Enchant Cloak - Minor Agility",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13419,
+	"spell": {
+		"type": "Use",
+		"id": 13419,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Cloak - Minor Agility",
 		"text": "Permanently enchant a cloak to increase Agility by 1."
 	},
 	"enchant": { "description": "+1 Agility", "id": 247, "types": ["BACK"] }

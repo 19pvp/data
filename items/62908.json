@@ -2,5 +2,11 @@
 	"id": "62908",
 	"icon": "inv_drink_18",
 	"quality": "COMMON",
-	"use": { "spell": 11008, "text": "A typical alcoholic beverage." }
+	"spell": {
+		"type": "Use",
+		"id": 11008,
+		"icon": "inv_drink_09",
+		"name": "Standard Alcohol",
+		"text": "A typical alcoholic beverage."
+	}
 }

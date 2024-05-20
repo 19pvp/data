@@ -10,8 +10,11 @@
 	"sourceId": 13622,
 	"sourceName": "Enchant Bracer - Lesser Intellect",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13622,
+	"spell": {
+		"type": "Use",
+		"id": 13622,
+		"icon": "spell_holy_greaterheal",
+		"name": "Enchant Bracer - Lesser Intellect",
 		"text": "Permanently enchant a bracer so it increases the wearer's Intellect by 3."
 	},
 	"enchant": { "description": "+3 Intellect", "id": 723, "types": ["WRISTS"] }

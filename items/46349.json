@@ -9,5 +9,11 @@
 	"subclass": "MISC",
 	"type": "HEAD",
 	"source": "VENDOR",
-	"equip": { "spell": 67556, "text": "Allows you to cook faster." }
+	"spell": {
+		"type": "Equip",
+		"id": 67556,
+		"icon": "achievement_profession_chefhat",
+		"name": "Cooking Speed",
+		"text": "Allows you to cook faster."
+	}
 }

@@ -13,5 +13,11 @@
 	"type": "TWO_HAND",
 	"source": "QUEST",
 	"sourceZone": 47,
-	"equip": { "spell": 7826, "text": "Fishing skill increased by 20." }
+	"spell": {
+		"type": "Equip",
+		"id": 7826,
+		"icon": "trade_fishing",
+		"name": "Fishing Skill +20",
+		"text": "Fishing skill increased by 20."
+	}
 }

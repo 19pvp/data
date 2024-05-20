@@ -10,8 +10,11 @@
 	"sourceId": 20016,
 	"sourceName": "Enchant Shield - Vitality",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 20016,
+	"spell": {
+		"type": "Use",
+		"id": 20016,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Shield - Vitality",
 		"text": "Permanently enchant a shield to increase Stamina and Spirit by 10."
 	},
 	"enchant": {

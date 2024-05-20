@@ -2,8 +2,11 @@
 	"id": "2863",
 	"icon": "inv_stone_sharpeningstone_02",
 	"quality": "COMMON",
-	"use": {
-		"spell": 2829,
+	"spell": {
+		"type": "Use",
+		"id": 2829,
+		"icon": "inv_stone_sharpeningstone_02",
+		"name": "Sharpen Blade II",
 		"text": "Sharpens your bladed weapon, increasing weapon damage by 3 for 1 hour. Cannot be applied to items higher than level 200."
 	}
 }

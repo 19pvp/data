@@ -11,8 +11,11 @@
 	"sourceId": 20015,
 	"sourceName": "Enchant Cloak - Superior Defense",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 20015,
+	"spell": {
+		"type": "Use",
+		"id": 20015,
+		"icon": "inv_misc_note_01",
+		"name": "Enchant Cloak - Superior Defense",
 		"text": "Permanently enchant a cloak to increase armor by 70."
 	},
 	"enchant": { "description": "+70 Armor", "id": 1889, "types": ["BACK"] }

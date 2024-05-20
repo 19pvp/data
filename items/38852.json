@@ -10,8 +10,11 @@
 	"sourceId": 20008,
 	"sourceName": "Enchant Bracer - Greater Intellect",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 20008,
+	"spell": {
+		"type": "Use",
+		"id": 20008,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Bracer - Greater Intellect",
 		"text": "Permanently enchant bracers to increase Intellect by 7."
 	},
 	"enchant": { "description": "+7 Intellect", "id": 1883, "types": ["WRISTS"] }

@@ -16,8 +16,11 @@
 	"sourceId": 29396,
 	"sourceName": "A New Supplier of Souvenirs",
 	"sourceType": "QUEST",
-	"use": {
-		"spell": 101582,
+	"spell": {
+		"type": "Use",
+		"id": 101582,
+		"icon": "trade_engineering",
+		"name": "Enjoying A Cold One",
 		"text": "A weak alcoholic beverage. (30 Sec Cooldown)"
 	}
 }

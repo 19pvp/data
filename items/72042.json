@@ -2,8 +2,11 @@
 	"id": "72042",
 	"icon": "achievement_pvp_a_16",
 	"quality": "COMMON",
-	"use": {
-		"spell": 101986,
+	"spell": {
+		"type": "Use",
+		"id": 101986,
+		"icon": "achievement_pvp_a_16",
+		"name": "Alliance Balloon",
 		"text": "Teaches you how to summon this companion."
 	},
 	"info": "Right click to summon and dismiss your Alliance balloon."

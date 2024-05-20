@@ -11,8 +11,11 @@
 	"sourceId": 2152,
 	"sourceName": "Light Armor Kit",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 2831,
+	"spell": {
+		"type": "Use",
+		"id": 2831,
+		"icon": "inv_misc_armorkit_17",
+		"name": "Armor +8",
 		"text": "Permanently increase the armor value of an item worn on the chest, legs, hands or feet by 8."
 	},
 	"enchant": {

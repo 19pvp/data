@@ -10,8 +10,11 @@
 	"sourceId": 29657,
 	"sourceName": "Felsteel Shield Spike",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 29454,
+	"spell": {
+		"type": "Use",
+		"id": 29454,
+		"icon": "trade_engineering",
+		"name": "Felsteel Shield Spike",
 		"text": "Attaches a Felsteel Spike to your shield that deals 26-38 damage every time you block with it."
 	},
 	"enchant": {

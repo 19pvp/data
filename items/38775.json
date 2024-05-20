@@ -11,8 +11,11 @@
 	"sourceId": 7771,
 	"sourceName": "Enchant Cloak - Minor Protection",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 7771,
+	"spell": {
+		"type": "Use",
+		"id": 7771,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Cloak - Minor Protection",
 		"text": "Enchant a cloak to provide 10 additional points of armor."
 	},
 	"enchant": { "description": "+10 Armor", "id": 783, "types": ["BACK"] }

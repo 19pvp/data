@@ -10,8 +10,11 @@
 	"sourceId": 20031,
 	"sourceName": "Enchant Weapon - Superior Striking",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 20031,
+	"spell": {
+		"type": "Use",
+		"id": 20031,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Weapon - Superior Striking",
 		"text": "Permanently enchant a melee weapon to increase its damage by 5."
 	},
 	"enchant": {

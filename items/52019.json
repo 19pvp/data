@@ -13,5 +13,11 @@
 	"sourceName": "Precious",
 	"sourceZone": 4812,
 	"sourceType": "NPC",
-	"equip": { "spell": 72968, "text": "A ribbon of affection." }
+	"spell": {
+		"type": "Equip",
+		"id": 72968,
+		"icon": "inv_misc_ribbon_01",
+		"name": "Precious's Ribbon",
+		"text": "A ribbon of affection."
+	}
 }

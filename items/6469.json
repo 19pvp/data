@@ -16,8 +16,11 @@
 	"sourceName": "Lord Serpentis",
 	"sourceZone": 718,
 	"sourceType": "NPC",
-	"equip": {
-		"spell": 29636,
+	"spell": {
+		"type": "Equip",
+		"id": 29636,
+		"icon": "spell_holy_mindvision",
+		"name": "Venom Shot",
 		"text": "Chance to strike your ranged target with a Venom Shot for 31 to 45 Nature damage."
 	}
 }

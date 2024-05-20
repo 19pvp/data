@@ -10,8 +10,11 @@
 	"sourceId": 13947,
 	"sourceName": "Enchant Gloves - Riding Skill",
 	"sourceType": "SPELL",
-	"use": {
-		"spell": 13947,
+	"spell": {
+		"type": "Use",
+		"id": 13947,
+		"icon": "inv_enchant_formulagood_01",
+		"name": "Enchant Gloves - Riding Skill",
 		"text": "Permanently enchant gloves to increase mount speed by 2%. Must be level 70 or lower to gain this benefit."
 	},
 	"enchant": { "description": "+2% Mount Speed", "id": 930, "types": ["HANDS"] }
