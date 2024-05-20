@@ -9,7 +9,7 @@
 	"quality": "RARE",
 	"subclass": "MAIL",
 	"type": "LEGS",
-	"stats": { "Strength": 7, "Stamina": 7, "Hit Rating": 0 },
+	"stats": { "Strength": 7, "Stamina": 7 },
 	"source": "QUEST",
 	"sourceId": 24467,
 	"sourceName": "Fade to Black",

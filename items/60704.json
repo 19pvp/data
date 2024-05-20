@@ -9,7 +9,7 @@
 	"quality": "UNCOMMON",
 	"subclass": "LEATHER",
 	"type": "LEGS",
-	"stats": { "Agility": 4, "Critical Strike Rating": 0 },
+	"stats": { "Agility": 4 },
 	"source": "QUEST",
 	"sourceId": 26545,
 	"sourceName": "Yowler Must Die!",

@@ -11,11 +11,6 @@
 	"quality": "HEIRLOOM",
 	"subclass": "ONE_HANDED_SWORD",
 	"type": "MAIN_HAND",
-	"stats": {
-		"Critical Strike Rating": 3,
-		"Agility": 3,
-		"Stamina": 4,
-		"Strength": 4
-	},
+	"stats": { "Critical Strike Rating": 3, "Agility": 3, "Stamina": 4 },
 	"source": "VENDOR"
 }

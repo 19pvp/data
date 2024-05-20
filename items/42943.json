@@ -11,6 +11,6 @@
 	"quality": "HEIRLOOM",
 	"subclass": "TWO_HANDED_AXE",
 	"type": "TWO_HAND",
-	"stats": { "Critical Strike Rating": 6, "Strength": 6, "Stamina": 13 },
+	"stats": { "Critical Strike Rating": 6, "Strength": 6, "Stamina": 10 },
 	"source": "VENDOR"
 }

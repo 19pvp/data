@@ -11,6 +11,6 @@
 	"quality": "HEIRLOOM",
 	"subclass": "ONE_HANDED_SWORD",
 	"type": "MAIN_HAND",
-	"stats": { "Parry Rating": 3, "Strength": 4, "Stamina": 4 },
+	"stats": { "Parry Rating": 3, "Strength": 3, "Stamina": 4 },
 	"source": "VENDOR"
 }

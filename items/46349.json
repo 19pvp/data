@@ -8,7 +8,6 @@
 	"quality": "RARE",
 	"subclass": "MISC",
 	"type": "HEAD",
-	"stats": { "Armor": 40 },
 	"source": "VENDOR",
 	"equip": { "spell": 67556, "text": "Allows you to cook faster." }
 }
