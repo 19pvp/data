@@ -1,5 +1,6 @@
 {
 	"id": 52876,
+	"bind": "Binds when picked up",
 	"name": "Darkspear Battle Axe",
 	"icon": "inv_axe_01",
 	"dmgMin": 3.4,

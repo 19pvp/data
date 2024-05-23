@@ -1,5 +1,6 @@
 {
 	"id": 62888,
+	"bind": "Binds when picked up",
 	"name": "Leg Bone Covers",
 	"icon": "inv_pants_mail_02",
 	"popularity": 4,

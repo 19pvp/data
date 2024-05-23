@@ -1,5 +1,6 @@
 {
 	"id": 54988,
+	"bind": "Binds when picked up",
 	"name": "Cloak of the Clarion Call",
 	"icon": "inv_misc_cape_13",
 	"popularity": 10,

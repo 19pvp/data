@@ -1,5 +1,6 @@
 {
 	"id": 62831,
+	"bind": "Binds when picked up",
 	"name": "Treads of the Survivor",
 	"icon": "inv_boots_cloth_03",
 	"popularity": 4,

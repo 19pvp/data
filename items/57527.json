@@ -1,5 +1,6 @@
 {
 	"id": 57527,
+	"bind": "Binds when picked up",
 	"name": "Stone Cairne Boots",
 	"icon": "inv_boots_chain_01",
 	"popularity": 23,

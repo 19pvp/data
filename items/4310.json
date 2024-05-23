@@ -1,5 +1,6 @@
 {
 	"id": 4310,
+	"bind": "Binds when equipped",
 	"name": "Heavy Woolen Gloves",
 	"icon": "inv_gauntlets_05",
 	"popularity": 10,
@@ -9,7 +10,8 @@
 	"subclass": "CLOTH",
 	"type": "HANDS",
 	"stats": { "Intellect": 2, "Spirit": 2 },
+	"source": "CRAFT",
 	"sourceId": 3843,
-	"sourceName": "Heavy Woolen Gloves",
+	"sourceName": "Tailoring",
 	"sourceType": "SPELL"
 }

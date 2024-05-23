@@ -1,5 +1,6 @@
 {
 	"id": 53447,
+	"bind": "Binds when picked up",
 	"name": "Standard Issue Airborne Belt",
 	"icon": "inv_belt_25",
 	"popularity": 6,

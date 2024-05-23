@@ -9,6 +9,6 @@
 	"subclass": "RINGS",
 	"type": "FINGER",
 	"stats": { "Hit Rating": 3, "Intellect": 5 },
-	"source": "DROP",
-	"sourceZone": 1581
+	"source": "DUNGEON",
+	"sourceZone": "The Deadmines"
 }

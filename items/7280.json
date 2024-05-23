@@ -1,5 +1,6 @@
 {
 	"id": 7280,
+	"bind": "Binds when equipped",
 	"name": "Rugged Leather Pants",
 	"icon": "inv_pants_02",
 	"popularity": 6,
@@ -9,7 +10,8 @@
 	"subclass": "LEATHER",
 	"type": "LEGS",
 	"stats": { "Stamina": 1 },
+	"source": "CRAFT",
 	"sourceId": 9064,
-	"sourceName": "Rugged Leather Pants",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL"
 }

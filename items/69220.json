@@ -1,5 +1,6 @@
 {
 	"id": 69220,
+	"bind": "Binds when picked up",
 	"name": "Nozzlepot's Vest",
 	"icon": "inv_shirt_04",
 	"popularity": 4,

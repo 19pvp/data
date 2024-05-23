@@ -1,5 +1,6 @@
 {
 	"id": 28150,
+	"bind": "Binds when picked up",
 	"name": "Renzithen's Dusty Cloak",
 	"icon": "inv_misc_cape_04",
 	"popularity": 10,

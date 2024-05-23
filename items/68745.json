@@ -1,5 +1,6 @@
 {
 	"id": 68745,
+	"bind": "Binds when equipped",
 	"name": "Imbued Primal Belt",
 	"icon": "inv_belt_23",
 	"popularity": 22,

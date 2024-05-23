@@ -1,5 +1,6 @@
 {
 	"id": 60712,
+	"bind": "Binds when picked up",
 	"name": "Exterminator's Armbands",
 	"icon": "inv_bracer_02",
 	"popularity": 4,

@@ -1,5 +1,6 @@
 {
 	"id": 14561,
+	"bind": "Binds when equipped",
 	"name": "Prospector's Cuffs",
 	"icon": "inv_bracer_07",
 	"popularity": 6,

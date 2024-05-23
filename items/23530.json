@@ -7,8 +7,9 @@
 	"quality": "UNCOMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Spike": 32 },
+	"source": "CRAFT",
 	"sourceId": 29657,
-	"sourceName": "Felsteel Shield Spike",
+	"sourceName": "Blacksmithing",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

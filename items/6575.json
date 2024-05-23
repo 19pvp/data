@@ -1,5 +1,6 @@
 {
 	"id": 6575,
+	"bind": "Binds when equipped",
 	"name": "Defender Cloak",
 	"icon": "inv_misc_cape_05",
 	"popularity": 6,

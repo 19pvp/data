@@ -1,5 +1,6 @@
 {
 	"id": 56644,
+	"bind": "Binds when picked up",
 	"name": "Gorat's Bequest",
 	"icon": "inv_shoulder_13",
 	"popularity": 14,

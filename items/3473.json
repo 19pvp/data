@@ -1,5 +1,6 @@
 {
 	"id": 3473,
+	"bind": "Binds when equipped",
 	"name": "Runed Copper Pants",
 	"icon": "inv_pants_03",
 	"popularity": 19,
@@ -9,7 +10,8 @@
 	"subclass": "MAIL",
 	"type": "LEGS",
 	"stats": { "Strength": 2, "Stamina": 2 },
+	"source": "CRAFT",
 	"sourceId": 3324,
-	"sourceName": "Runed Copper Pants",
+	"sourceName": "Blacksmithing",
 	"sourceType": "SPELL"
 }

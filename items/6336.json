@@ -1,5 +1,6 @@
 {
 	"id": 6336,
+	"bind": "Binds when equipped",
 	"name": "Infantry Tunic",
 	"icon": "inv_chest_chain",
 	"popularity": 10,

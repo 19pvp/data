@@ -1,5 +1,6 @@
 {
 	"id": 65984,
+	"bind": "Binds when picked up",
 	"name": "Breastplate of the Terrible Price",
 	"icon": "inv_chest_chain_12",
 	"popularity": 6,

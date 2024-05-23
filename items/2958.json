@@ -1,5 +1,6 @@
 {
 	"id": 2958,
+	"bind": "Binds when equipped",
 	"name": "Journeyman's Pants",
 	"icon": "inv_pants_10",
 	"popularity": 8,

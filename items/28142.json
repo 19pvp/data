@@ -1,5 +1,6 @@
 {
 	"id": 28142,
+	"bind": "Binds when picked up",
 	"name": "Farstrider's Belt",
 	"icon": "inv_belt_03",
 	"popularity": 7,

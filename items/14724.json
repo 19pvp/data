@@ -1,5 +1,6 @@
 {
 	"id": 14724,
+	"bind": "Binds when equipped",
 	"name": "War Paint Cloak",
 	"icon": "inv_misc_cape_18",
 	"popularity": 8,

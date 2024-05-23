@@ -1,5 +1,6 @@
 {
 	"id": 6527,
+	"bind": "Binds when equipped",
 	"name": "Ancestral Robe",
 	"icon": "inv_chest_cloth_13",
 	"popularity": 3,

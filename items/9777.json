@@ -1,5 +1,6 @@
 {
 	"id": 9777,
+	"bind": "Binds when equipped",
 	"name": "Bandit Bracers",
 	"icon": "inv_bracer_05",
 	"popularity": 8,

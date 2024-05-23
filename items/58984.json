@@ -1,5 +1,6 @@
 {
 	"id": 58984,
+	"bind": "Binds when picked up",
 	"name": "Stonesplinter Staff",
 	"icon": "inv_staff_21",
 	"dmgMin": 22,

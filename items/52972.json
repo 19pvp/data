@@ -1,5 +1,6 @@
 {
 	"id": 52972,
+	"bind": "Binds when picked up",
 	"name": "Ex-Stealer's Gloves",
 	"icon": "inv_gauntlets_16",
 	"popularity": 11,

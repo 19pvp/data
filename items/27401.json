@@ -1,5 +1,6 @@
 {
 	"id": 27401,
+	"bind": "Binds when picked up",
 	"name": "Arugoo's Crossbow of Destruction",
 	"icon": "inv_weapon_crossbow_04",
 	"dmgMin": 18,

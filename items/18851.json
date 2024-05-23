@@ -10,7 +10,7 @@
 	"subclass": "TRINKETS",
 	"type": "TRINKET",
 	"source": "VENDOR",
-	"sourceZone": 1637,
+	"sourceZone": "Orgrimmar",
 	"spell": {
 		"type": "Use",
 		"id": 42292,

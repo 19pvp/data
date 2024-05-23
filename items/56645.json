@@ -1,5 +1,6 @@
 {
 	"id": 56645,
+	"bind": "Binds when picked up",
 	"name": "Kadrak's Breastplate",
 	"icon": "inv_chest_chain_17",
 	"popularity": 19,

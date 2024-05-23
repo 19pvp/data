@@ -1,5 +1,6 @@
 {
 	"id": 15491,
+	"bind": "Binds when equipped",
 	"name": "Bloodspattered Gloves",
 	"icon": "inv_gauntlets_15",
 	"popularity": 6,

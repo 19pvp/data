@@ -1,5 +1,6 @@
 {
 	"id": 3074,
+	"bind": "Binds when equipped",
 	"name": "Smoldering Gloves",
 	"icon": "inv_gauntlets_05",
 	"popularity": 8,
@@ -9,9 +10,9 @@
 	"subclass": "CLOTH",
 	"type": "HANDS",
 	"stats": { "Stamina": 3, "Spirit": 5 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 1043,
 	"sourceName": "Lost Whelp",
-	"sourceZone": 11,
+	"sourceZone": "Wetlands",
 	"sourceType": "NPC"
 }

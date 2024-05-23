@@ -1,5 +1,6 @@
 {
 	"id": 4569,
+	"bind": "Binds when equipped",
 	"name": "Staunch Hammer",
 	"icon": "inv_hammer_08",
 	"dmgMin": 11,

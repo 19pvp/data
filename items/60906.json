@@ -1,5 +1,6 @@
 {
 	"id": 60906,
+	"bind": "Binds when picked up",
 	"name": "Stitches' Stitchings",
 	"icon": "inv_misc_cape_18",
 	"popularity": 4,

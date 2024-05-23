@@ -1,5 +1,6 @@
 {
 	"id": 62850,
+	"bind": "Binds when picked up",
 	"name": "Drunken Style Bracers",
 	"icon": "inv_bracer_02",
 	"popularity": 5,

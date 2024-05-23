@@ -1,5 +1,6 @@
 {
 	"id": 56721,
+	"bind": "Binds when picked up",
 	"name": "Meat Packer Ribbon",
 	"icon": "inv_belt_17",
 	"popularity": 6,

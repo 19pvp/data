@@ -1,5 +1,6 @@
 {
 	"id": 3440,
+	"bind": "Binds when picked up",
 	"name": "Bonecracker",
 	"icon": "inv_mace_04",
 	"dmgMin": 23,
@@ -14,5 +15,5 @@
 	"type": "TWO_HAND",
 	"stats": { "Strength": 3 },
 	"source": "QUEST",
-	"sourceZone": 85
+	"sourceZone": "Tirisfal Glades"
 }

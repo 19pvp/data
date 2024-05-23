@@ -1,5 +1,6 @@
 {
 	"id": 10554,
+	"bind": "Binds when equipped",
 	"name": "Foreman Pants",
 	"icon": "inv_pants_07",
 	"popularity": 27,
@@ -9,9 +10,9 @@
 	"subclass": "CLOTH",
 	"type": "LEGS",
 	"stats": { "Stamina": 1, "Intellect": 1 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 8503,
 	"sourceName": "Gibblewilt",
-	"sourceZone": 1,
+	"sourceZone": "Dun Morogh",
 	"sourceType": "NPC"
 }

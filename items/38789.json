@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Agility": 1 },
+	"source": "CRAFT",
 	"sourceId": 13419,
-	"sourceName": "Enchant Cloak - Minor Agility",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

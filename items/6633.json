@@ -1,5 +1,6 @@
 {
 	"id": 6633,
+	"bind": "Binds when picked up",
 	"name": "Butcher's Slicer",
 	"icon": "inv_sword_16",
 	"dmgMin": 25,
@@ -12,9 +13,9 @@
 	"subclass": "ONE_HANDED_SWORD",
 	"type": "ONE_HAND",
 	"stats": { "Hit Rating": 2, "Strength": 2, "Stamina": 3 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 3886,
 	"sourceName": "Razorclaw the Butcher",
-	"sourceZone": 209,
+	"sourceZone": "Shadowfang Keep",
 	"sourceType": "NPC"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 6542,
+	"bind": "Binds when equipped",
 	"name": "Willow Cape",
 	"icon": "inv_misc_cape_17",
 	"popularity": 3,

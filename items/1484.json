@@ -1,5 +1,6 @@
 {
 	"id": 1484,
+	"bind": "Binds when equipped",
 	"name": "Witching Stave",
 	"icon": "inv_wand_04",
 	"dmgMin": 52,
@@ -12,6 +13,6 @@
 	"subclass": "STAFF",
 	"type": "TWO_HAND",
 	"stats": { "Stamina": 6, "Intellect": 8 },
-	"source": "DROP",
-	"sourceZone": 209
+	"source": "DUNGEON",
+	"sourceZone": "Shadowfang Keep"
 }

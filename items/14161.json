@@ -1,5 +1,6 @@
 {
 	"id": 14161,
+	"bind": "Binds when equipped",
 	"name": "Pagan Cape",
 	"icon": "inv_misc_cape_10",
 	"popularity": 6,

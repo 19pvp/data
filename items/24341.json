@@ -1,5 +1,6 @@
 {
 	"id": 24341,
+	"bind": "Binds when picked up",
 	"name": "Fortified Oven Mitts",
 	"icon": "inv_gauntlets_05",
 	"popularity": 6,

@@ -1,5 +1,6 @@
 {
 	"id": 52628,
+	"bind": "Binds when picked up",
 	"name": "Ancient Handguards",
 	"icon": "inv_gauntlets_10",
 	"popularity": 8,

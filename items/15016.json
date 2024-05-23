@@ -1,5 +1,6 @@
 {
 	"id": 15016,
+	"bind": "Binds when equipped",
 	"name": "Lupine Handwraps",
 	"icon": "inv_gauntlets_15",
 	"popularity": 8,

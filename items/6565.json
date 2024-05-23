@@ -1,5 +1,6 @@
 {
 	"id": 6565,
+	"bind": "Binds when equipped",
 	"name": "Shimmering Gloves",
 	"icon": "inv_gauntlets_16",
 	"popularity": 16,

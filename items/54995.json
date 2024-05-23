@@ -1,5 +1,6 @@
 {
 	"id": 54995,
+	"bind": "Binds when picked up",
 	"name": "Hailwood Chestpiece",
 	"icon": "inv_chest_mail_16v2",
 	"popularity": 12,

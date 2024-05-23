@@ -8,8 +8,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Armor": 30 },
+	"source": "CRAFT",
 	"sourceId": 13464,
-	"sourceName": "Enchant Shield - Lesser Protection",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

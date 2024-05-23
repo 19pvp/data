@@ -1,5 +1,6 @@
 {
 	"id": 60941,
+	"bind": "Binds when picked up",
 	"name": "Shoulderwraps of Honor",
 	"icon": "inv_shoulder_02",
 	"popularity": 6,

@@ -1,5 +1,6 @@
 {
 	"id": 29201,
+	"bind": "Binds when equipped",
 	"name": "Thick Bronze Darts",
 	"icon": "inv_spear_05",
 	"dmgMin": 23,
@@ -12,7 +13,8 @@
 	"subclass": "THROWN",
 	"type": "THROWN",
 	"stats": { "Strength": 2 },
+	"source": "CRAFT",
 	"sourceId": 34979,
-	"sourceName": "Thick Bronze Darts",
+	"sourceName": "Blacksmithing",
 	"sourceType": "SPELL"
 }

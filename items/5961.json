@@ -1,5 +1,6 @@
 {
 	"id": 5961,
+	"bind": "Binds when equipped",
 	"name": "Dark Leather Pants",
 	"icon": "inv_pants_09",
 	"popularity": 13,
@@ -9,7 +10,8 @@
 	"subclass": "LEATHER",
 	"type": "LEGS",
 	"stats": { "Agility": 8 },
+	"source": "CRAFT",
 	"sourceId": 7135,
-	"sourceName": "Dark Leather Pants",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL"
 }

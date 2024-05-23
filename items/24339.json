@@ -1,5 +1,6 @@
 {
 	"id": 24339,
+	"bind": "Binds when picked up",
 	"name": "Stung",
 	"icon": "inv_sword_06",
 	"dmgMin": 10,

@@ -1,5 +1,6 @@
 {
 	"id": 52650,
+	"bind": "Binds when picked up",
 	"name": "Dryad's Wand",
 	"icon": "inv_wand_07",
 	"dmgMin": 10,

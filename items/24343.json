@@ -1,5 +1,6 @@
 {
 	"id": 24343,
+	"bind": "Binds when picked up",
 	"name": "The Thumper",
 	"icon": "inv_hammer_09",
 	"dmgMin": 13,

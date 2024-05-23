@@ -1,5 +1,6 @@
 {
 	"id": 52936,
+	"bind": "Binds when picked up",
 	"name": "S.B.R.B. Prototype 3",
 	"icon": "inv_boots_mail_11v2",
 	"popularity": 27,

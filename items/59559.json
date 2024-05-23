@@ -1,5 +1,6 @@
 {
 	"id": 59559,
+	"bind": "Binds when picked up",
 	"name": "Bellipotent Gloves",
 	"icon": "inv_gauntlets_11",
 	"popularity": 4,

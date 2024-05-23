@@ -1,5 +1,6 @@
 {
 	"id": 56676,
+	"bind": "Binds when picked up",
 	"name": "Whitemoon Gloves",
 	"icon": "inv_gauntlets_23",
 	"popularity": 9,

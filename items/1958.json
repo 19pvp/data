@@ -1,5 +1,6 @@
 {
 	"id": 1958,
+	"bind": "Binds when equipped",
 	"name": "Petrified Shinbone",
 	"icon": "inv_misc_bone_01",
 	"dmgMin": 22,

@@ -1,5 +1,6 @@
 {
 	"id": 53448,
+	"bind": "Binds when picked up",
 	"name": "Stolen Talrendis Boots",
 	"icon": "inv_boots_04",
 	"popularity": 10,

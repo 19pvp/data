@@ -1,5 +1,6 @@
 {
 	"id": 55012,
+	"bind": "Binds when picked up",
 	"name": "Night Elven Bow",
 	"icon": "inv_weapon_bow_01",
 	"dmgMin": 19,

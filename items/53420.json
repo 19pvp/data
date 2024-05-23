@@ -1,5 +1,6 @@
 {
 	"id": 53420,
+	"bind": "Binds when picked up",
 	"name": "Joanna's Sash",
 	"icon": "inv_belt_26",
 	"popularity": 5,

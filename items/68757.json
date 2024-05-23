@@ -1,5 +1,6 @@
 {
 	"id": 68757,
+	"bind": "Binds when equipped",
 	"name": "Imbued Pioneer Gloves",
 	"icon": "inv_gauntlets_05",
 	"popularity": 6,

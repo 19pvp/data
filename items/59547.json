@@ -1,5 +1,6 @@
 {
 	"id": 59547,
+	"bind": "Binds when picked up",
 	"name": "Out-of-Date Manual",
 	"icon": "inv_misc_book_08",
 	"popularity": 6,

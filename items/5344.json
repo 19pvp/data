@@ -1,5 +1,6 @@
 {
 	"id": 5344,
+	"bind": "Binds when picked up",
 	"name": "Pointed Axe",
 	"icon": "inv_throwingaxe_01",
 	"dmgMin": 9,

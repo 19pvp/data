@@ -1,5 +1,6 @@
 {
 	"id": 6583,
+	"bind": "Binds when equipped",
 	"name": "Scouting Bracers",
 	"icon": "inv_bracer_07",
 	"popularity": 7,

@@ -1,5 +1,6 @@
 {
 	"id": 60942,
+	"bind": "Binds when picked up",
 	"name": "Watch Master's Breastplate",
 	"icon": "inv_chest_cloth_45",
 	"popularity": 6,

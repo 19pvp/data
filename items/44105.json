@@ -1,5 +1,6 @@
 {
 	"id": 44105,
+	"bind": "<br>Item Level <!--ilvl-->1",
 	"name": "Lasting Feralheart Spaulders",
 	"icon": "inv_shoulder_01",
 	"popularity": 34,
@@ -15,5 +16,5 @@
 		"Intellect": 5
 	},
 	"source": "VENDOR",
-	"sourceZone": 4197
+	"sourceZone": "Wintergrasp"
 }

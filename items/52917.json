@@ -1,5 +1,6 @@
 {
 	"id": 52917,
+	"bind": "Binds when picked up",
 	"name": "Gallywix Laborer's Gloves",
 	"icon": "inv_gauntlets_105v3",
 	"popularity": 7,

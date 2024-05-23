@@ -1,5 +1,6 @@
 {
 	"id": 49548,
+	"bind": "Binds when picked up",
 	"name": "Gazlowe's Gloves",
 	"icon": "inv_gauntlets_24",
 	"popularity": 26,

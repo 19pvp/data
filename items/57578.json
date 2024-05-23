@@ -1,5 +1,6 @@
 {
 	"id": 57578,
+	"bind": "Binds when picked up",
 	"name": "Dark Iron Hobnail Boots",
 	"icon": "inv_boots_chain_01",
 	"popularity": 10,

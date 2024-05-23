@@ -1,5 +1,6 @@
 {
 	"id": 6563,
+	"bind": "Binds when equipped",
 	"name": "Shimmering Bracers",
 	"icon": "inv_bracer_12",
 	"popularity": 4,

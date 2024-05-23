@@ -1,5 +1,6 @@
 {
 	"id": 1405,
+	"bind": "Binds when equipped",
 	"name": "Foamspittle Staff",
 	"icon": "inv_staff_06",
 	"dmgMin": 29,
@@ -12,9 +13,9 @@
 	"subclass": "STAFF",
 	"type": "TWO_HAND",
 	"stats": { "Spirit": 5 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 517,
 	"sourceName": "Murloc Oracle",
-	"sourceZone": 40,
+	"sourceZone": "Westfall",
 	"sourceType": "NPC"
 }

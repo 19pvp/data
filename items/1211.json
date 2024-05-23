@@ -1,5 +1,6 @@
 {
 	"id": 1211,
+	"bind": "Binds when equipped",
 	"name": "Gnoll War Harness",
 	"icon": "inv_chest_leather_04",
 	"popularity": 7,
@@ -9,9 +10,9 @@
 	"subclass": "LEATHER",
 	"type": "CHEST",
 	"stats": { "Agility": 2, "Stamina": 2 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 423,
 	"sourceName": "Redridge Mongrel",
-	"sourceZone": 44,
+	"sourceZone": "Redridge Mountains",
 	"sourceType": "NPC"
 }

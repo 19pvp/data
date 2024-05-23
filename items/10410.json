@@ -1,5 +1,6 @@
 {
 	"id": 10410,
+	"bind": "Binds when picked up",
 	"name": "Leggings of the Fang",
 	"icon": "inv_pants_11",
 	"popularity": 13,
@@ -9,10 +10,10 @@
 	"subclass": "LEATHER",
 	"type": "LEGS",
 	"stats": { "Agility": 7, "Stamina": 7 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 3669,
 	"sourceName": "Lord Cobrahn",
-	"sourceZone": 718,
+	"sourceZone": "Wailing Caverns",
 	"sourceType": "NPC",
 	"info": "Belt of the FangFootpads of the FangGloves of the FangLeggings of the FangArmor of the Fang"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 55126,
+	"bind": "Binds when picked up",
 	"name": "Thistle Bear Girdle",
 	"icon": "inv_belt_45c",
 	"popularity": 7,

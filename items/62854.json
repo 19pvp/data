@@ -1,5 +1,6 @@
 {
 	"id": 62854,
+	"bind": "Binds when picked up",
 	"name": "Mace of Calculated Loss",
 	"icon": "inv_mace_03",
 	"dmgMin": 7,

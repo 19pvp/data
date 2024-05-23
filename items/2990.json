@@ -1,5 +1,6 @@
 {
 	"id": 2990,
+	"bind": "Binds when equipped",
 	"name": "Burnished Leggings",
 	"icon": "inv_pants_02",
 	"popularity": 22,

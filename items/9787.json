@@ -1,5 +1,6 @@
 {
 	"id": 9787,
+	"bind": "Binds when equipped",
 	"name": "Raider's Gauntlets",
 	"icon": "inv_gauntlets_04",
 	"popularity": 7,

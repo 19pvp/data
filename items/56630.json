@@ -1,5 +1,6 @@
 {
 	"id": 56630,
+	"bind": "Binds when picked up",
 	"name": "Delgren's Leggings",
 	"icon": "inv_pants_05",
 	"popularity": 7,

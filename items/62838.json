@@ -1,5 +1,6 @@
 {
 	"id": 62838,
+	"bind": "Binds when picked up",
 	"name": "Nub's Wand",
 	"icon": "inv_wand_02",
 	"dmgMin": 9,

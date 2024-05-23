@@ -1,5 +1,6 @@
 {
 	"id": 5426,
+	"bind": "Binds when equipped",
 	"name": "Serpent's Kiss",
 	"icon": "inv_axe_23",
 	"dmgMin": 24,
@@ -11,10 +12,10 @@
 	"quality": "RARE",
 	"subclass": "ONE_HANDED_AXE",
 	"type": "ONE_HAND",
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 3652,
 	"sourceName": "Trigore the Lasher",
-	"sourceZone": 17,
+	"sourceZone": "Northern Barrens",
 	"sourceType": "NPC",
 	"spell": {
 		"type": "Chance on hit",

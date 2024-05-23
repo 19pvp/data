@@ -1,5 +1,6 @@
 {
 	"id": 57236,
+	"bind": "Binds when picked up",
 	"name": "Plainstrider Leg Armor",
 	"icon": "inv_pants_mail_05",
 	"popularity": 4,

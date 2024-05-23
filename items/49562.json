@@ -1,5 +1,6 @@
 {
 	"id": 49562,
+	"bind": "Binds when picked up",
 	"name": "Durable Drape",
 	"icon": "inv_misc_cape_11",
 	"popularity": 52,

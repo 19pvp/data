@@ -1,5 +1,6 @@
 {
 	"id": 57214,
+	"bind": "Binds when picked up",
 	"name": "Stunted Tree Root",
 	"icon": "inv_spear_05",
 	"dmgMin": 18,

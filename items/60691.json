@@ -1,5 +1,6 @@
 {
 	"id": 60691,
+	"bind": "Binds when picked up",
 	"name": "Unfortunate Treads",
 	"icon": "inv_boots_chain_06",
 	"popularity": 8,
@@ -11,5 +12,5 @@
 	"type": "FEET",
 	"stats": { "Critical Strike Rating": 2, "Stamina": 2 },
 	"source": "QUEST",
-	"sourceZone": 44
+	"sourceZone": "Redridge Mountains"
 }

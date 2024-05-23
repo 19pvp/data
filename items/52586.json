@@ -1,5 +1,6 @@
 {
 	"id": 52586,
+	"bind": "Binds when picked up",
 	"name": "Archaeologist's Dungarees",
 	"icon": "inv_pants_11",
 	"popularity": 12,

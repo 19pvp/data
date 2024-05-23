@@ -1,5 +1,6 @@
 {
 	"id": 14097,
+	"bind": "Binds when equipped",
 	"name": "Native Pants",
 	"icon": "inv_pants_02",
 	"popularity": 15,

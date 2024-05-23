@@ -8,8 +8,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Armor": 16 },
+	"source": "CRAFT",
 	"sourceId": 2165,
-	"sourceName": "Medium Armor Kit",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

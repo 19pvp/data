@@ -1,5 +1,6 @@
 {
 	"id": 13245,
+	"bind": "Binds when picked up",
 	"name": "Kresh's Back",
 	"icon": "inv_shield_18",
 	"popularity": 9,
@@ -9,9 +10,9 @@
 	"subclass": "SHIELDS",
 	"type": "SHIELD",
 	"stats": { "Dodge Rating": 5, "Stamina": 3 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 3653,
 	"sourceName": "Kresh",
-	"sourceZone": 718,
+	"sourceZone": "Wailing Caverns",
 	"sourceType": "NPC"
 }

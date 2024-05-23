@@ -1,5 +1,6 @@
 {
 	"id": 6709,
+	"bind": "Binds when equipped",
 	"name": "Moonglow Vest",
 	"icon": "inv_chest_leather_09",
 	"popularity": 19,
@@ -9,7 +10,8 @@
 	"subclass": "LEATHER",
 	"type": "CHEST",
 	"stats": { "Stamina": 5, "Intellect": 4 },
+	"source": "CRAFT",
 	"sourceId": 8322,
-	"sourceName": "Moonglow Vest",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL"
 }

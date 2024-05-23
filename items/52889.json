@@ -1,5 +1,6 @@
 {
 	"id": 52889,
+	"bind": "Binds when picked up",
 	"name": "Blooded Darkspear Dagger",
 	"icon": "inv_weapon_shortblade_10",
 	"dmgMin": 1.7999999999999998,

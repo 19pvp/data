@@ -1,5 +1,6 @@
 {
 	"id": 58903,
+	"bind": "Binds when picked up",
 	"name": "Kobold Candle",
 	"icon": "inv_misc_candle_03",
 	"popularity": 25,

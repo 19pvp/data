@@ -9,9 +9,9 @@
 	"subclass": "RINGS",
 	"type": "FINGER",
 	"stats": { "Stamina": 1, "Intellect": 1, "Spirit": 6 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 7016,
 	"sourceName": "Lady Vespira",
-	"sourceZone": 148,
+	"sourceZone": "Darkshore",
 	"sourceType": "NPC"
 }

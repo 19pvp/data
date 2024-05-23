@@ -1,5 +1,6 @@
 {
 	"id": 54989,
+	"bind": "Binds when picked up",
 	"name": "Rallying Charge",
 	"icon": "inv_sword_05",
 	"dmgMin": 34,

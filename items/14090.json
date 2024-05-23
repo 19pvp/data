@@ -1,5 +1,6 @@
 {
 	"id": 14090,
+	"bind": "Binds when equipped",
 	"name": "Beaded Britches",
 	"icon": "inv_pants_02",
 	"popularity": 5,

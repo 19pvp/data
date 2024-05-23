@@ -1,5 +1,6 @@
 {
 	"id": 24438,
+	"bind": "Binds when picked up",
 	"name": "Fur Covered Robe",
 	"icon": "inv_chest_cloth_21",
 	"popularity": 21,

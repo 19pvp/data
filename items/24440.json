@@ -1,5 +1,6 @@
 {
 	"id": 24440,
+	"bind": "Binds when picked up",
 	"name": "Heavy Chain Leggings",
 	"icon": "inv_pants_03",
 	"popularity": 5,

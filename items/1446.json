@@ -1,5 +1,6 @@
 {
 	"id": 1446,
+	"bind": "Binds when equipped",
 	"name": "Blackrock Boots",
 	"icon": "inv_boots_01",
 	"popularity": 5,
@@ -9,9 +10,9 @@
 	"subclass": "MAIL",
 	"type": "FEET",
 	"stats": { "Strength": 3, "Stamina": 3 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 440,
 	"sourceName": "Blackrock Grunt",
-	"sourceZone": 44,
+	"sourceZone": "Redridge Mountains",
 	"sourceType": "NPC"
 }

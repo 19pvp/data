@@ -1,5 +1,6 @@
 {
 	"id": 62893,
+	"bind": "Binds when picked up",
 	"name": "Lorna's Signet",
 	"icon": "inv_jewelry_ring_75",
 	"popularity": 3,

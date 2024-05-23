@@ -1,5 +1,6 @@
 {
 	"id": 42948,
+	"bind": "<br>Item Level <!--ilvl-->1",
 	"name": "Devout Aurastone Hammer",
 	"icon": "inv_hammer_05",
 	"dmgMin": 28,

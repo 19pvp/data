@@ -1,5 +1,6 @@
 {
 	"id": 56628,
+	"bind": "Binds when picked up",
 	"name": "Manager's Mantle",
 	"icon": "inv_shoulder_12",
 	"popularity": 10,

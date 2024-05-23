@@ -1,5 +1,6 @@
 {
 	"id": 6180,
+	"bind": "Binds when equipped",
 	"name": "Slarkskin",
 	"icon": "inv_chest_chain_12",
 	"popularity": 5,
@@ -9,9 +10,9 @@
 	"subclass": "MAIL",
 	"type": "CHEST",
 	"stats": { "Agility": 3, "Stamina": 2 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 519,
 	"sourceName": "Slark",
-	"sourceZone": 40,
+	"sourceZone": "Westfall",
 	"sourceType": "NPC"
 }

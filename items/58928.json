@@ -1,5 +1,6 @@
 {
 	"id": 58928,
+	"bind": "Binds when picked up",
 	"name": "House Wrynn Halberd",
 	"icon": "inv_weapon_halberd_23",
 	"dmgMin": 29,

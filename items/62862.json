@@ -1,5 +1,6 @@
 {
 	"id": 62862,
+	"bind": "Binds when picked up",
 	"name": "Belmont's Bracers",
 	"icon": "inv_bracer_27a",
 	"popularity": 5,

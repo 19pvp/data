@@ -1,5 +1,6 @@
 {
 	"id": 48718,
+	"bind": "<br>Item Level <!--ilvl-->1",
 	"name": "Repurposed Lava Dredger",
 	"icon": "inv_gizmo_02",
 	"dmgMin": 45,

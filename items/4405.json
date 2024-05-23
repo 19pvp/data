@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Damage": 1 },
+	"source": "CRAFT",
 	"sourceId": 3977,
-	"sourceName": "Crude Scope",
+	"sourceName": "Engineering",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

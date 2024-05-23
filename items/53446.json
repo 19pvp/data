@@ -1,5 +1,6 @@
 {
 	"id": 53446,
+	"bind": "Binds when picked up",
 	"name": "Spring Gadget",
 	"icon": "inv_gizmo_goblingtonkcontroller",
 	"popularity": 17,

@@ -1,5 +1,6 @@
 {
 	"id": 56648,
+	"bind": "Binds when picked up",
 	"name": "Forestkeeper Legguards",
 	"icon": "inv_pants_mail_11",
 	"popularity": 12,

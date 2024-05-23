@@ -1,5 +1,6 @@
 {
 	"id": 9603,
+	"bind": "Binds when picked up",
 	"name": "Gritroot Staff",
 	"icon": "inv_staff_22",
 	"dmgMin": 14,

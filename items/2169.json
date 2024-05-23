@@ -1,5 +1,6 @@
 {
 	"id": 2169,
+	"bind": "Binds when picked up",
 	"name": "Buzzer Blade",
 	"icon": "inv_weapon_shortblade_05",
 	"dmgMin": 13,
@@ -12,6 +13,6 @@
 	"subclass": "DAGGER",
 	"type": "ONE_HAND",
 	"stats": { "Critical Strike Rating": 5 },
-	"source": "DROP",
-	"sourceZone": 1581
+	"source": "DUNGEON",
+	"sourceZone": "The Deadmines"
 }

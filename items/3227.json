@@ -1,5 +1,6 @@
 {
 	"id": 3227,
+	"bind": "Binds when equipped",
 	"name": "Nightbane Staff",
 	"icon": "inv_staff_12",
 	"dmgMin": 32,
@@ -12,9 +13,9 @@
 	"subclass": "STAFF",
 	"type": "TWO_HAND",
 	"stats": { "Shadow Resistance": 7 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 521,
 	"sourceName": "Lupos",
-	"sourceZone": 10,
+	"sourceZone": "Duskwood",
 	"sourceType": "NPC"
 }

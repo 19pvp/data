@@ -1,5 +1,6 @@
 {
 	"id": 52656,
+	"bind": "Binds when picked up",
 	"name": "Scorched Shield",
 	"icon": "inv_shield_09",
 	"popularity": 10,

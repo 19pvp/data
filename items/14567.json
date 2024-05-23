@@ -1,5 +1,6 @@
 {
 	"id": 14567,
+	"bind": "Binds when equipped",
 	"name": "Bristlebark Belt",
 	"icon": "inv_belt_03",
 	"popularity": 7,

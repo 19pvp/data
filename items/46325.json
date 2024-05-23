@@ -1,5 +1,6 @@
 {
 	"id": "46325",
+	"bind": "Binds when picked up",
 	"icon": "ability_druid_forceofnature",
 	"quality": "COMMON",
 	"spell": {

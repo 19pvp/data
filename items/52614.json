@@ -1,5 +1,6 @@
 {
 	"id": 52614,
+	"bind": "Binds when picked up",
 	"name": "Thessera's Gift",
 	"icon": "inv_gauntlets_21",
 	"popularity": 7,

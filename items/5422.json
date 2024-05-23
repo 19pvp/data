@@ -1,5 +1,6 @@
 {
 	"id": 5422,
+	"bind": "Binds when equipped",
 	"name": "Brambleweed Leggings",
 	"icon": "inv_pants_02",
 	"popularity": 8,

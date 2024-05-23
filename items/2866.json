@@ -1,5 +1,6 @@
 {
 	"id": 2866,
+	"bind": "Binds when equipped",
 	"name": "Rough Bronze Cuirass",
 	"icon": "inv_chest_chain_08",
 	"popularity": 3,
@@ -9,7 +10,8 @@
 	"subclass": "MAIL",
 	"type": "CHEST",
 	"stats": { "Strength": 8, "Stamina": 2 },
+	"source": "CRAFT",
 	"sourceId": 2670,
-	"sourceName": "Rough Bronze Cuirass",
+	"sourceName": "Blacksmithing",
 	"sourceType": "SPELL"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 15117,
+	"bind": "Binds when equipped",
 	"name": "Rigid Leggings",
 	"icon": "inv_pants_02",
 	"popularity": 7,

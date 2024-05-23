@@ -1,5 +1,6 @@
 {
 	"id": 1355,
+	"bind": "Binds when equipped",
 	"name": "Buckskin Cape",
 	"icon": "inv_misc_pelt_bear_02",
 	"popularity": 19,
@@ -9,9 +10,9 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Agility": 2 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 5837,
 	"sourceName": "Stonearm",
-	"sourceZone": 17,
+	"sourceZone": "Northern Barrens",
 	"sourceType": "NPC"
 }

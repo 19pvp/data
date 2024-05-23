@@ -1,5 +1,6 @@
 {
 	"id": 3291,
+	"bind": "Binds when equipped",
 	"name": "Ancestral Woollies",
 	"icon": "inv_pants_wolf",
 	"popularity": 11,

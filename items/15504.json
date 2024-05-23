@@ -1,5 +1,6 @@
 {
 	"id": 15504,
+	"bind": "Binds when equipped",
 	"name": "Outrunner's Shield",
 	"icon": "inv_shield_10",
 	"popularity": 7,

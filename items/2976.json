@@ -1,5 +1,6 @@
 {
 	"id": 2976,
+	"bind": "Binds when equipped",
 	"name": "Hunting Gloves",
 	"icon": "inv_gauntlets_05",
 	"popularity": 6,

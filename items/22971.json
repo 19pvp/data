@@ -1,5 +1,6 @@
 {
 	"id": 22971,
+	"bind": "Binds when picked up",
 	"name": "Hoodoo Wand",
 	"icon": "inv_staff_02",
 	"dmgMin": 9,

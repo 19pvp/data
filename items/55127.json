@@ -1,5 +1,6 @@
 {
 	"id": 55127,
+	"bind": "Binds when picked up",
 	"name": "Tharill's Blessing",
 	"icon": "inv_gauntlets_21",
 	"popularity": 5,

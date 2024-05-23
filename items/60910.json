@@ -1,5 +1,6 @@
 {
 	"id": 60910,
+	"bind": "Binds when picked up",
 	"name": "Starry Band",
 	"icon": "inv_jewelry_ring_42",
 	"popularity": 4,

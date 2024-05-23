@@ -1,5 +1,6 @@
 {
 	"id": 54872,
+	"bind": "Binds when picked up",
 	"name": "Shackled Bindings",
 	"icon": "inv_pants_08",
 	"popularity": 9,

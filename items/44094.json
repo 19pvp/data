@@ -1,5 +1,6 @@
 {
 	"id": 44094,
+	"bind": "<br>Item Level <!--ilvl-->1",
 	"name": "The Blessed Hammer of Grace",
 	"icon": "inv_hammer_07",
 	"dmgMin": 28,
@@ -13,5 +14,5 @@
 	"type": "MAIN_HAND",
 	"stats": { "Resilience": 3, "Spell Power": 39, "Stamina": 3, "Spirit": 2 },
 	"source": "VENDOR",
-	"sourceZone": 4197
+	"sourceZone": "Wintergrasp"
 }

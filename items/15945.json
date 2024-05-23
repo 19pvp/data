@@ -1,5 +1,6 @@
 {
 	"id": 15945,
+	"bind": "Binds when equipped",
 	"name": "Runic Stave",
 	"icon": "inv_staff_16",
 	"popularity": 10,

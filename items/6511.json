@@ -1,5 +1,6 @@
 {
 	"id": 6511,
+	"bind": "Binds when equipped",
 	"name": "Journeyman's Robe",
 	"icon": "inv_shirt_08",
 	"popularity": 19,

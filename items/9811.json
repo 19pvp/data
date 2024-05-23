@@ -1,5 +1,6 @@
 {
 	"id": 9811,
+	"bind": "Binds when equipped",
 	"name": "Fortified Bracers",
 	"icon": "inv_bracer_03",
 	"popularity": 6,

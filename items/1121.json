@@ -1,5 +1,6 @@
 {
 	"id": 1121,
+	"bind": "Binds when equipped",
 	"name": "Feet of the Lynx",
 	"icon": "inv_boots_wolf",
 	"popularity": 18,

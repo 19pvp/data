@@ -1,5 +1,6 @@
 {
 	"id": 2167,
+	"bind": "Binds when equipped",
 	"name": "Foreman's Gloves",
 	"icon": "inv_gauntlets_21",
 	"popularity": 26,
@@ -9,9 +10,9 @@
 	"subclass": "LEATHER",
 	"type": "HANDS",
 	"stats": { "Expertise Rating": 5, "Agility": 5 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 626,
 	"sourceName": "Foreman Thistlenettle",
-	"sourceZone": 40,
+	"sourceZone": "Westfall",
 	"sourceType": "NPC"
 }

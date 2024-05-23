@@ -1,5 +1,6 @@
 {
 	"id": 26026,
+	"bind": "Binds when picked up",
 	"name": "Ornately Tooled Belt",
 	"icon": "inv_belt_25",
 	"popularity": 20,

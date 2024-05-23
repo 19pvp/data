@@ -1,5 +1,6 @@
 {
 	"id": 52654,
+	"bind": "Binds when picked up",
 	"name": "Forlorn Shield",
 	"icon": "inv_shield_09",
 	"popularity": 5,

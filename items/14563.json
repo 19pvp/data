@@ -1,5 +1,6 @@
 {
 	"id": 14563,
+	"bind": "Binds when equipped",
 	"name": "Prospector's Cloak",
 	"icon": "inv_misc_cape_11",
 	"popularity": 24,

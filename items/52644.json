@@ -1,5 +1,6 @@
 {
 	"id": 52644,
+	"bind": "Binds when picked up",
 	"name": "Scaling Knife",
 	"icon": "inv_weapon_shortblade_02",
 	"dmgMin": 10,

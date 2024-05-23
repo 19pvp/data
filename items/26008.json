@@ -1,5 +1,6 @@
 {
 	"id": 26008,
+	"bind": "Binds when picked up",
 	"name": "Scholar's Gloves",
 	"icon": "inv_gauntlets_18",
 	"popularity": 5,

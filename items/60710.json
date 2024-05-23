@@ -1,5 +1,6 @@
 {
 	"id": 60710,
+	"bind": "Binds when picked up",
 	"name": "Troteman's Bracers",
 	"icon": "inv_bracer_29",
 	"popularity": 6,

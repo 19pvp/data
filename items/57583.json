@@ -1,5 +1,6 @@
 {
 	"id": 57583,
+	"bind": "Binds when picked up",
 	"name": "The Slaghammer",
 	"icon": "inv_hammer_20",
 	"dmgMin": 10,

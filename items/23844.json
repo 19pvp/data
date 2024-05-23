@@ -1,5 +1,6 @@
 {
 	"id": 23844,
+	"bind": "Binds when picked up",
 	"name": "Nolkai's Lantern",
 	"icon": "inv_misc_lantern_01",
 	"popularity": 14,

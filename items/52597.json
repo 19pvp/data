@@ -1,5 +1,6 @@
 {
 	"id": 52597,
+	"bind": "Binds when picked up",
 	"name": "Tysha's Chestguard",
 	"icon": "inv_chest_leather_03",
 	"popularity": 13,

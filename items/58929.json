@@ -1,5 +1,6 @@
 {
 	"id": 58929,
+	"bind": "Binds when picked up",
 	"name": "House Wrynn Crossbow",
 	"icon": "inv_weapon_crossbow_01",
 	"dmgMin": 27,

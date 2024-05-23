@@ -1,5 +1,6 @@
 {
 	"id": 57584,
+	"bind": "Binds when picked up",
 	"name": "Battleaxe of the Sober Dwarf",
 	"icon": "inv_axe_09",
 	"dmgMin": 18,

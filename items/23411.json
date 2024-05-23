@@ -1,5 +1,6 @@
 {
 	"id": 23411,
+	"bind": "Binds when picked up",
 	"name": "Well Crafted Staff",
 	"icon": "inv_staff_31",
 	"dmgMin": 26,

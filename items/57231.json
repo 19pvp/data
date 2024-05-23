@@ -1,5 +1,6 @@
 {
 	"id": "57231",
+	"bind": "Binds when picked up",
 	"icon": "inv_weapon_shortblade_05",
 	"dmgMin": 1,
 	"dmgMax": 3,

@@ -1,5 +1,6 @@
 {
 	"id": 52595,
+	"bind": "Binds when picked up",
 	"name": "Goat Hide Vest",
 	"icon": "inv_chest_leather_07",
 	"popularity": 7,

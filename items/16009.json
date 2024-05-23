@@ -1,5 +1,6 @@
 {
 	"id": 16009,
+	"bind": "Binds when equipped",
 	"name": "Voice Amplification Modulator",
 	"icon": "inv_jewelry_amulet_07",
 	"popularity": 28,
@@ -8,8 +9,9 @@
 	"quality": "UNCOMMON",
 	"subclass": "AMULETS",
 	"type": "NECK",
+	"source": "CRAFT",
 	"sourceId": 19819,
-	"sourceName": "Voice Amplification Modulator",
+	"sourceName": "Engineering",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Equip",

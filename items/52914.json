@@ -1,5 +1,6 @@
 {
 	"id": 52914,
+	"bind": "Binds when picked up",
 	"name": "Rescue Ladder Cord",
 	"icon": "inv_belt_05",
 	"popularity": 6,

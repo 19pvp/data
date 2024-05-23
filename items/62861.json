@@ -1,5 +1,6 @@
 {
 	"id": 62861,
+	"bind": "Binds when picked up",
 	"name": "Wolfsbane Vest",
 	"icon": "inv_chest_leather_09",
 	"popularity": 7,

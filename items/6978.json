@@ -1,5 +1,6 @@
 {
 	"id": 6978,
+	"bind": "Binds when picked up",
 	"name": "Umbral Axe",
 	"icon": "inv_axe_17",
 	"dmgMin": 14,

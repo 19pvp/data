@@ -1,5 +1,6 @@
 {
 	"id": 59563,
+	"bind": "Binds when picked up",
 	"name": "Waptor Thwapper",
 	"icon": "inv_mace_10",
 	"dmgMin": 15,

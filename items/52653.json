@@ -1,5 +1,6 @@
 {
 	"id": 52653,
+	"bind": "Binds when picked up",
 	"name": "Unidentified Cooking Utensil",
 	"icon": "inv_drink_17",
 	"speed": 2,

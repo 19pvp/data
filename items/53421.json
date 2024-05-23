@@ -1,5 +1,6 @@
 {
 	"id": 53421,
+	"bind": "Binds when picked up",
 	"name": "Juicy Bracers",
 	"icon": "inv_bracer_05",
 	"popularity": 7,

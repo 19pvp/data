@@ -1,5 +1,6 @@
 {
 	"id": 62841,
+	"bind": "Binds when picked up",
 	"name": "Bloodfang Vest",
 	"icon": "inv_chest_leather_07",
 	"popularity": 11,

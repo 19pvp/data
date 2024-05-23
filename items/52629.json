@@ -1,5 +1,6 @@
 {
 	"id": 52629,
+	"bind": "Binds when picked up",
 	"name": "Naga Scale Bracers",
 	"icon": "inv_bracer_27b",
 	"popularity": 14,

@@ -1,5 +1,6 @@
 {
 	"id": 3645,
+	"bind": "Binds when equipped",
 	"name": "Seer's Cuffs",
 	"icon": "inv_bracer_07",
 	"popularity": 5,

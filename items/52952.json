@@ -1,5 +1,6 @@
 {
 	"id": 52952,
+	"bind": "Binds when picked up",
 	"name": "The Hammer",
 	"icon": "inv_hammer_20",
 	"dmgMin": 8,

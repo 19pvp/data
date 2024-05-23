@@ -1,5 +1,6 @@
 {
 	"id": 49446,
+	"bind": "Binds when picked up",
 	"name": "Retainer Vest",
 	"icon": "inv_chest_leather_08",
 	"popularity": 18,

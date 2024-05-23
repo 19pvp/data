@@ -1,5 +1,6 @@
 {
 	"id": 9812,
+	"bind": "Binds when equipped",
 	"name": "Fortified Cloak",
 	"icon": "inv_misc_cape_14",
 	"popularity": 6,

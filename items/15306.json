@@ -1,5 +1,6 @@
 {
 	"id": 15306,
+	"bind": "Binds when equipped",
 	"name": "Feral Bindings",
 	"icon": "inv_bracer_05",
 	"popularity": 16,

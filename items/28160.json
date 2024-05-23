@@ -1,5 +1,6 @@
 {
 	"id": 28160,
+	"bind": "Binds when picked up",
 	"name": "An'telas Scale Shirt",
 	"icon": "inv_chest_chain_12",
 	"popularity": 10,

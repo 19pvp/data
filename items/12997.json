@@ -1,5 +1,6 @@
 {
 	"id": 12997,
+	"bind": "Binds when equipped",
 	"name": "Redbeard Crest",
 	"icon": "inv_shield_02",
 	"popularity": 7,

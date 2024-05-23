@@ -1,5 +1,6 @@
 {
 	"id": 6380,
+	"bind": "Binds when equipped",
 	"name": "Inscribed Buckler",
 	"icon": "inv_shield_09",
 	"popularity": 41,

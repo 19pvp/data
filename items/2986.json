@@ -1,5 +1,6 @@
 {
 	"id": 2986,
+	"bind": "Binds when equipped",
 	"name": "Inscribed Leather Pants",
 	"icon": "inv_pants_02",
 	"popularity": 6,

@@ -1,5 +1,6 @@
 {
 	"id": 53404,
+	"bind": "Binds when picked up",
 	"name": "Bottom-Wader Boots",
 	"icon": "inv_boots_06",
 	"popularity": 9,

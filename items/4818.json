@@ -1,5 +1,6 @@
 {
 	"id": 4818,
+	"bind": "Binds when equipped",
 	"name": "Executioner's Sword",
 	"icon": "inv_sword_28",
 	"dmgMin": 43,

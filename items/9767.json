@@ -1,5 +1,6 @@
 {
 	"id": 9767,
+	"bind": "Binds when equipped",
 	"name": "Greenweave Sandals",
 	"icon": "inv_boots_03",
 	"popularity": 7,

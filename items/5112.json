@@ -1,5 +1,6 @@
 {
 	"id": 5112,
+	"bind": "Binds when equipped",
 	"name": "Ritual Blade",
 	"icon": "inv_weapon_shortblade_02",
 	"dmgMin": 7,
@@ -12,9 +13,9 @@
 	"subclass": "DAGGER",
 	"type": "ONE_HAND",
 	"stats": { "Agility": 1 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 3470,
 	"sourceName": "Rathorian",
-	"sourceZone": 17,
+	"sourceZone": "Northern Barrens",
 	"sourceType": "NPC"
 }

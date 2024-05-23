@@ -7,8 +7,9 @@
 	"quality": "UNCOMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Spike": 25 },
+	"source": "CRAFT",
 	"sourceId": 16651,
-	"sourceName": "Thorium Shield Spike",
+	"sourceName": "Blacksmithing",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

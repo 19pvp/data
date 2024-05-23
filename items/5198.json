@@ -1,5 +1,6 @@
 {
 	"id": 5198,
+	"bind": "Binds when picked up",
 	"name": "Cookie's Stirring Rod",
 	"icon": "inv_staff_02",
 	"dmgMin": 20,
@@ -12,6 +13,6 @@
 	"subclass": "WAND",
 	"type": "RANGED",
 	"stats": { "Critical Strike Rating": 2, "Intellect": 2 },
-	"source": "DROP",
-	"sourceZone": 1581
+	"source": "DUNGEON",
+	"sourceZone": "The Deadmines"
 }

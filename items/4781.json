@@ -1,5 +1,6 @@
 {
 	"id": 4781,
+	"bind": "Binds when equipped",
 	"name": "Whispering Vest",
 	"icon": "inv_shirt_10",
 	"popularity": 6,

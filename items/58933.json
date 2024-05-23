@@ -1,5 +1,6 @@
 {
 	"id": "58933",
+	"bind": "Binds when picked up",
 	"icon": "inv_misc_food_146_cakeslice",
 	"quality": "COMMON",
 	"spell": {

@@ -1,5 +1,6 @@
 {
 	"id": 26037,
+	"bind": "Binds when picked up",
 	"name": "Lightweight Mesh Boots",
 	"icon": "inv_boots_07",
 	"popularity": 8,

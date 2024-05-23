@@ -1,5 +1,6 @@
 {
 	"id": 60722,
+	"bind": "Binds when picked up",
 	"name": "Bravo Company Mantle",
 	"icon": "inv_shoulder_25",
 	"popularity": 5,

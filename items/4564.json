@@ -1,5 +1,6 @@
 {
 	"id": 4564,
+	"bind": "Binds when equipped",
 	"name": "Spiked Club",
 	"icon": "inv_mace_14",
 	"dmgMin": 22,

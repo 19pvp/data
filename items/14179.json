@@ -1,5 +1,6 @@
 {
 	"id": 14179,
+	"bind": "Binds when equipped",
 	"name": "Watcher's Cape",
 	"icon": "inv_misc_cape_15",
 	"popularity": 7,

@@ -1,5 +1,6 @@
 {
 	"id": 14729,
+	"bind": "Binds when equipped",
 	"name": "War Paint Shield",
 	"icon": "inv_shield_18",
 	"popularity": 6,

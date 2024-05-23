@@ -1,5 +1,6 @@
 {
 	"id": 22784,
+	"bind": "Binds when picked up",
 	"name": "Sunwell Orb",
 	"icon": "inv_misc_orb_01",
 	"popularity": 6,

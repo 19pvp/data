@@ -1,5 +1,6 @@
 {
 	"id": 1933,
+	"bind": "Binds when equipped",
 	"name": "Staff of Conjuring",
 	"icon": "inv_staff_13",
 	"dmgMin": 42,
@@ -12,10 +13,10 @@
 	"subclass": "STAFF",
 	"type": "TWO_HAND",
 	"stats": { "Intellect": 7 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 619,
 	"sourceName": "Defias Conjurer",
-	"sourceZone": 40,
+	"sourceZone": "Westfall",
 	"sourceType": "NPC",
 	"spell": {
 		"type": "Use",

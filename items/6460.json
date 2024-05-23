@@ -1,5 +1,6 @@
 {
 	"id": 6460,
+	"bind": "Binds when picked up",
 	"name": "Cobrahn's Grasp",
 	"icon": "inv_belt_03",
 	"popularity": 7,
@@ -9,9 +10,9 @@
 	"subclass": "MAIL",
 	"type": "WAIST",
 	"stats": { "Hit Rating": 4, "Strength": 6 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 3669,
 	"sourceName": "Lord Cobrahn",
-	"sourceZone": 718,
+	"sourceZone": "Wailing Caverns",
 	"sourceType": "NPC"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 62859,
+	"bind": "Binds when picked up",
 	"name": "Sword of Insurgence",
 	"icon": "inv_sword_94",
 	"dmgMin": 12,

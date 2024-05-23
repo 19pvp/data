@@ -1,5 +1,6 @@
 {
 	"id": 14730,
+	"bind": "Binds when equipped",
 	"name": "War Paint Chestpiece",
 	"icon": "inv_chest_chain",
 	"popularity": 5,

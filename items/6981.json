@@ -1,5 +1,6 @@
 {
 	"id": 6981,
+	"bind": "Binds when picked up",
 	"name": "Umbral Dagger",
 	"icon": "inv_weapon_shortblade_15",
 	"dmgMin": 9,

@@ -1,5 +1,6 @@
 {
 	"id": 53408,
+	"bind": "Binds when picked up",
 	"name": "Detonation Ring",
 	"icon": "inv_jewelry_ring_65",
 	"popularity": 19,

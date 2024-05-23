@@ -1,5 +1,6 @@
 {
 	"id": 6447,
+	"bind": "Binds when picked up",
 	"name": "Worn Turtle Shell Shield",
 	"icon": "inv_shield_21",
 	"popularity": 6,
@@ -8,9 +9,9 @@
 	"quality": "RARE",
 	"subclass": "SHIELDS",
 	"type": "SHIELD",
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 3653,
 	"sourceName": "Kresh",
-	"sourceZone": 718,
+	"sourceZone": "Wailing Caverns",
 	"sourceType": "NPC"
 }

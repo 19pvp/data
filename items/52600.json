@@ -1,5 +1,6 @@
 {
 	"id": 52600,
+	"bind": "Binds when picked up",
 	"name": "Oblivious Leggings",
 	"icon": "inv_pants_07",
 	"popularity": 8,

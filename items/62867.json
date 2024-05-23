@@ -1,5 +1,6 @@
 {
 	"id": 62867,
+	"bind": "Binds when picked up",
 	"name": "Belt of the Second Head",
 	"icon": "inv_belt_24",
 	"popularity": 7,

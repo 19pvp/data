@@ -1,5 +1,6 @@
 {
 	"id": 56634,
+	"bind": "Binds when picked up",
 	"name": "Halfmoon Gloves",
 	"icon": "inv_gauntlets_18",
 	"popularity": 10,

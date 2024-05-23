@@ -1,5 +1,6 @@
 {
 	"id": 49448,
+	"bind": "Binds when picked up",
 	"name": "Uncorrupted Hands",
 	"icon": "inv_gauntlets_21",
 	"popularity": 24,

@@ -1,5 +1,6 @@
 {
 	"id": 54993,
+	"bind": "Binds when picked up",
 	"name": "Emberstone Mail",
 	"icon": "inv_pants_mail_04",
 	"popularity": 22,

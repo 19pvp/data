@@ -1,5 +1,6 @@
 {
 	"id": 54992,
+	"bind": "Binds when picked up",
 	"name": "Laborer's Belt",
 	"icon": "inv_belt_24",
 	"popularity": 17,

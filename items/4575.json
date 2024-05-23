@@ -1,5 +1,6 @@
 {
 	"id": 4575,
+	"bind": "Binds when equipped",
 	"name": "Medicine Staff",
 	"icon": "inv_staff_31",
 	"dmgMin": 25,

@@ -1,5 +1,6 @@
 {
 	"id": 5240,
+	"bind": "Binds when picked up",
 	"name": "Torchlight Wand",
 	"icon": "inv_staff_02",
 	"dmgMin": 14,
@@ -14,5 +15,5 @@
 	"type": "RANGED",
 	"stats": { "Stamina": 1, "Intellect": 1 },
 	"source": "QUEST",
-	"sourceZone": 40
+	"sourceZone": "Westfall"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 4701,
+	"bind": "Binds when equipped",
 	"name": "Inscribed Cloak",
 	"icon": "inv_misc_cape_11",
 	"popularity": 5,

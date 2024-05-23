@@ -1,5 +1,6 @@
 {
 	"id": 2254,
+	"bind": "Binds when equipped",
 	"name": "Icepane Warhammer",
 	"icon": "inv_hammer_04",
 	"dmgMin": 22,
@@ -12,9 +13,9 @@
 	"subclass": "TWO_HANDED_MACE",
 	"type": "TWO_HAND",
 	"stats": { "Strength": 2 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 1119,
 	"sourceName": "Hammerspine",
-	"sourceZone": 1,
+	"sourceZone": "Dun Morogh",
 	"sourceType": "NPC"
 }

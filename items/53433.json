@@ -1,5 +1,6 @@
 {
 	"id": 53433,
+	"bind": "Binds when picked up",
 	"name": "Quick Buck Leggings",
 	"icon": "inv_pants_07",
 	"popularity": 16,

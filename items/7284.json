@@ -1,5 +1,6 @@
 {
 	"id": 7284,
+	"bind": "Binds when equipped",
 	"name": "Red Whelp Gloves",
 	"icon": "inv_gauntlets_05",
 	"popularity": 10,
@@ -8,8 +9,9 @@
 	"quality": "UNCOMMON",
 	"subclass": "LEATHER",
 	"type": "HANDS",
+	"source": "CRAFT",
 	"sourceId": 9072,
-	"sourceName": "Red Whelp Gloves",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Equip",

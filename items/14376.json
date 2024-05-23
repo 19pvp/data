@@ -1,5 +1,6 @@
 {
 	"id": 14376,
+	"bind": "Binds when equipped",
 	"name": "Sanguine Cape",
 	"icon": "inv_misc_cape_18",
 	"popularity": 19,

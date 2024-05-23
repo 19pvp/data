@@ -1,5 +1,6 @@
 {
 	"id": 58923,
+	"bind": "Binds when picked up",
 	"name": "Gregorky's Bracers",
 	"icon": "inv_bracer_27a",
 	"popularity": 23,

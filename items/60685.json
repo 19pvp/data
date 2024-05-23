@@ -1,5 +1,6 @@
 {
 	"id": 60685,
+	"bind": "Binds when picked up",
 	"name": "Yowling Cloak",
 	"icon": "inv_misc_cape_08",
 	"popularity": 18,

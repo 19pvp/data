@@ -1,5 +1,6 @@
 {
 	"id": 24107,
+	"bind": "Binds when picked up",
 	"name": "Ravager Chitin Tunic",
 	"icon": "inv_chest_chain_08",
 	"popularity": 8,

@@ -1,5 +1,6 @@
 {
 	"id": 24120,
+	"bind": "Binds when picked up",
 	"name": "Seal of Argas",
 	"icon": "inv_jewelry_ring_08",
 	"popularity": 40,
@@ -10,5 +11,5 @@
 	"type": "FINGER",
 	"stats": { "Stamina": 5, "Intellect": 6 },
 	"source": "QUEST",
-	"sourceZone": 331
+	"sourceZone": "Ashenvale"
 }

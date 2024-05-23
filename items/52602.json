@@ -1,5 +1,6 @@
 {
 	"id": 52602,
+	"bind": "Binds when picked up",
 	"name": "Archaeologist's Britches",
 	"icon": "inv_pants_08",
 	"popularity": 5,

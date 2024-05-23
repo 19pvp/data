@@ -1,5 +1,6 @@
 {
 	"id": 58917,
+	"bind": "Binds when picked up",
 	"name": "Saldean's Working Gloves",
 	"icon": "inv_gauntlets_04",
 	"popularity": 4,

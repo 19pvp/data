@@ -1,5 +1,6 @@
 {
 	"id": 2256,
+	"bind": "Binds when equipped",
 	"name": "Skeletal Club",
 	"icon": "inv_misc_bone_elfskull_01",
 	"dmgMin": 28,

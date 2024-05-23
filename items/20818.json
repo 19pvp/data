@@ -9,7 +9,8 @@
 	"subclass": "RINGS",
 	"type": "FINGER",
 	"stats": { "Intellect": 2, "Spirit": 2 },
+	"source": "CRAFT",
 	"sourceId": 25280,
-	"sourceName": "Elegant Silver Ring",
+	"sourceName": "Jewelcrafting",
 	"sourceType": "SPELL"
 }

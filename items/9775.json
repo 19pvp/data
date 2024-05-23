@@ -1,5 +1,6 @@
 {
 	"id": 9775,
+	"bind": "Binds when equipped",
 	"name": "Bandit Cinch",
 	"icon": "inv_belt_03",
 	"popularity": 7,

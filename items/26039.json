@@ -1,5 +1,6 @@
 {
 	"id": 26039,
+	"bind": "Binds when picked up",
 	"name": "Kessel's Sturdy Riding Handle",
 	"icon": "inv_belt_03",
 	"popularity": 18,

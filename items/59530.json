@@ -1,5 +1,6 @@
 {
 	"id": 59530,
+	"bind": "Binds when picked up",
 	"name": "Wolf Tender's Boots",
 	"icon": "inv_boots_04",
 	"popularity": 7,

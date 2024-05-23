@@ -1,5 +1,6 @@
 {
 	"id": 5596,
+	"bind": "Binds when picked up",
 	"name": "Ashwood Bow",
 	"icon": "inv_weapon_bow_01",
 	"dmgMin": 11,

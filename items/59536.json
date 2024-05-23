@@ -1,5 +1,6 @@
 {
 	"id": 59536,
+	"bind": "Binds when picked up",
 	"name": "Bloodeye Belt",
 	"icon": "inv_belt_25",
 	"popularity": 3,

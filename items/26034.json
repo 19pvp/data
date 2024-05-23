@@ -1,5 +1,6 @@
 {
 	"id": 26034,
+	"bind": "Binds when picked up",
 	"name": "Protective Field Gloves",
 	"icon": "inv_gauntlets_29",
 	"popularity": 6,

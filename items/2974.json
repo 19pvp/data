@@ -1,5 +1,6 @@
 {
 	"id": 2974,
+	"bind": "Binds when equipped",
 	"name": "Hunting Pants",
 	"icon": "inv_pants_wolf",
 	"popularity": 8,

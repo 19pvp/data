@@ -1,5 +1,6 @@
 {
 	"id": 53438,
+	"bind": "Binds when picked up",
 	"name": "Scalding Gloves",
 	"icon": "inv_gauntlets_10",
 	"popularity": 5,

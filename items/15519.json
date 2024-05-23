@@ -1,5 +1,6 @@
 {
 	"id": 15519,
+	"bind": "Binds when equipped",
 	"name": "Spiked Chain Cloak",
 	"icon": "inv_misc_cape_20",
 	"popularity": 8,

@@ -1,5 +1,6 @@
 {
 	"id": 23403,
+	"bind": "Binds when picked up",
 	"name": "Salvaged Mail Leggings",
 	"icon": "inv_pants_10",
 	"popularity": 5,

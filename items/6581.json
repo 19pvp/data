@@ -1,5 +1,6 @@
 {
 	"id": 6581,
+	"bind": "Binds when equipped",
 	"name": "Scouting Belt",
 	"icon": "inv_belt_16",
 	"popularity": 13,

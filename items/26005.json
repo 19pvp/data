@@ -1,5 +1,6 @@
 {
 	"id": 26005,
+	"bind": "Binds when picked up",
 	"name": "Maatparm's Fungus Lined Tunic",
 	"icon": "inv_shirt_07",
 	"popularity": 31,

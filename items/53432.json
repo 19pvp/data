@@ -1,5 +1,6 @@
 {
 	"id": 53432,
+	"bind": "Binds when picked up",
 	"name": "Pricey Bracers",
 	"icon": "inv_bracer_27a",
 	"popularity": 5,

@@ -1,5 +1,6 @@
 {
 	"id": 65961,
+	"bind": "Binds when picked up",
 	"name": "Cobrahn's Boots",
 	"icon": "inv_boots_09",
 	"popularity": 27,

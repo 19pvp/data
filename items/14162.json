@@ -1,5 +1,6 @@
 {
 	"id": 14162,
+	"bind": "Binds when equipped",
 	"name": "Pagan Mitts",
 	"icon": "inv_gauntlets_05",
 	"popularity": 15,

@@ -1,5 +1,6 @@
 {
 	"id": 25438,
+	"bind": "Binds when equipped",
 	"name": "Malachite Pendant",
 	"icon": "inv_jewelry_necklace_01",
 	"popularity": 10,
@@ -9,7 +10,8 @@
 	"subclass": "AMULETS",
 	"type": "NECK",
 	"stats": { "Agility": 2 },
+	"source": "CRAFT",
 	"sourceId": 32178,
-	"sourceName": "Malachite Pendant",
+	"sourceName": "Jewelcrafting",
 	"sourceType": "SPELL"
 }

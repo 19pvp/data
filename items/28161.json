@@ -1,5 +1,6 @@
 {
 	"id": 28161,
+	"bind": "Binds when picked up",
 	"name": "Tranquillien Scale Leggings",
 	"icon": "inv_pants_03",
 	"popularity": 9,

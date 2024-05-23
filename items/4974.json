@@ -1,5 +1,6 @@
 {
 	"id": 4974,
+	"bind": "Binds when picked up",
 	"name": "Compact Fighting Knife",
 	"icon": "inv_weapon_shortblade_05",
 	"dmgMin": 6,

@@ -1,5 +1,6 @@
 {
 	"id": 57405,
+	"bind": "Binds when picked up",
 	"name": "Fine Leather Sash",
 	"icon": "inv_belt_05",
 	"popularity": 5,

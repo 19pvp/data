@@ -1,5 +1,6 @@
 {
 	"id": 59070,
+	"bind": "Binds when picked up",
 	"name": "Surveyor's Leggings",
 	"icon": "inv_pants_05",
 	"popularity": 4,

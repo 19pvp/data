@@ -1,5 +1,6 @@
 {
 	"id": 58914,
+	"bind": "Binds when picked up",
 	"name": "Sentinel Hill Breastplate",
 	"icon": "inv_chest_chain_07",
 	"popularity": 19,

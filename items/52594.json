@@ -1,5 +1,6 @@
 {
 	"id": 52594,
+	"bind": "Binds when picked up",
 	"name": "Hovel Digger Bands",
 	"icon": "inv_bracer_13",
 	"popularity": 12,

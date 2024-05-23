@@ -1,5 +1,6 @@
 {
 	"id": 52646,
+	"bind": "Binds when picked up",
 	"name": "Shipwreck Bow",
 	"icon": "inv_weapon_bow_03",
 	"dmgMin": 17,

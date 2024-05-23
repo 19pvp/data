@@ -1,5 +1,6 @@
 {
 	"id": 56632,
+	"bind": "Binds when picked up",
 	"name": "Feero's Pauldrons",
 	"icon": "inv_shoulder_15",
 	"popularity": 5,

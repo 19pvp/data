@@ -1,5 +1,6 @@
 {
 	"id": 11288,
+	"bind": "Binds when equipped",
 	"name": "Greater Magic Wand",
 	"icon": "inv_staff_07",
 	"dmgMin": 17,
@@ -12,7 +13,8 @@
 	"subclass": "WAND",
 	"type": "RANGED",
 	"stats": { "Intellect": 2 },
+	"source": "CRAFT",
 	"sourceId": 14807,
-	"sourceName": "Greater Magic Wand",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL"
 }

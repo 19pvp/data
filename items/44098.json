@@ -11,7 +11,7 @@
 	"type": "TRINKET",
 	"stats": { "Resilience": 6 },
 	"source": "VENDOR",
-	"sourceZone": 4197,
+	"sourceZone": "Wintergrasp",
 	"spell": {
 		"type": "Use",
 		"id": 42292,

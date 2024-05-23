@@ -1,5 +1,6 @@
 {
 	"id": 59550,
+	"bind": "Binds when picked up",
 	"name": "Darkthorn Piercer",
 	"icon": "inv_sword_05",
 	"dmgMin": 13,

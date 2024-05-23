@@ -1,5 +1,6 @@
 {
 	"id": 59590,
+	"bind": "Binds when picked up",
 	"name": "Darsok's Ring",
 	"icon": "inv_jewelry_ring_23",
 	"popularity": 4,

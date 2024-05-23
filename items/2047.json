@@ -1,5 +1,6 @@
 {
 	"id": "2047",
+	"bind": "Binds when picked up",
 	"icon": "inv_throwingaxe_01",
 	"dmgMin": 2,
 	"dmgMax": 4,

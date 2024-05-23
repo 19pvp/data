@@ -1,5 +1,6 @@
 {
 	"id": 59587,
+	"bind": "Binds when picked up",
 	"name": "Fractured Belt",
 	"icon": "inv_belt_45",
 	"popularity": 7,

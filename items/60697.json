@@ -1,5 +1,6 @@
 {
 	"id": 60697,
+	"bind": "Binds when picked up",
 	"name": "Indiscriminate Wand",
 	"icon": "inv_misc_bone_humanskull_01",
 	"dmgMin": 13,

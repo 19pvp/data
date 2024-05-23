@@ -1,5 +1,6 @@
 {
 	"id": 12988,
+	"bind": "Binds when equipped",
 	"name": "Starsight Tunic",
 	"icon": "inv_chest_leather_10",
 	"popularity": 9,

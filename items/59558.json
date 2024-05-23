@@ -1,5 +1,6 @@
 {
 	"id": 59558,
+	"bind": "Binds when picked up",
 	"name": "Gouging Staff",
 	"icon": "inv_staff_21",
 	"dmgMin": 28,

@@ -1,5 +1,6 @@
 {
 	"id": 56711,
+	"bind": "Binds when picked up",
 	"name": "Impish Blade",
 	"icon": "inv_weapon_shortblade_18",
 	"dmgMin": 18,

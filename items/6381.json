@@ -1,5 +1,6 @@
 {
 	"id": 6381,
+	"bind": "Binds when equipped",
 	"name": "Bright Cloak",
 	"icon": "inv_misc_cape_10",
 	"popularity": 21,

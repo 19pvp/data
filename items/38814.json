@@ -7,8 +7,9 @@
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Elemental Slayer": 6 },
+	"source": "CRAFT",
 	"sourceId": 13655,
-	"sourceName": "Enchant Weapon - Lesser Elemental Slayer",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

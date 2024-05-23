@@ -1,5 +1,6 @@
 {
 	"id": 62335,
+	"bind": "Binds when picked up",
 	"name": "Thrall's Gift",
 	"icon": "inv_bracer_04",
 	"popularity": 19,

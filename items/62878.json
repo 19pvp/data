@@ -1,5 +1,6 @@
 {
 	"id": 62878,
+	"bind": "Binds when picked up",
 	"name": "Codex Breaker",
 	"icon": "inv_mace_06",
 	"dmgMin": 31,

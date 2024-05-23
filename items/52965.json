@@ -1,5 +1,6 @@
 {
 	"id": 52965,
+	"bind": "Binds when picked up",
 	"name": "Heartache Dagger",
 	"icon": "inv_weapon_shortblade_15",
 	"dmgMin": 8,

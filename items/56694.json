@@ -1,5 +1,6 @@
 {
 	"id": 56694,
+	"bind": "Binds when picked up",
 	"name": "Silverwind Bracers",
 	"icon": "inv_bracer_03",
 	"popularity": 7,
@@ -11,5 +12,5 @@
 	"type": "WRISTS",
 	"stats": { "Hit Rating": 3, "Agility": 2, "Stamina": 2 },
 	"source": "QUEST",
-	"sourceZone": 331
+	"sourceZone": "Ashenvale"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 1158,
+	"bind": "Binds when picked up",
 	"name": "Solid Metal Club",
 	"icon": "inv_mace_01",
 	"dmgMin": 10,

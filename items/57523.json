@@ -1,5 +1,6 @@
 {
 	"id": 57523,
+	"bind": "Binds when picked up",
 	"name": "Wolf Fur Boots",
 	"icon": "inv_boots_cloth_03",
 	"popularity": 6,

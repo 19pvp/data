@@ -1,5 +1,6 @@
 {
 	"id": 54997,
+	"bind": "Binds when picked up",
 	"name": "Arachnophobe's Breastplate",
 	"icon": "inv_chest_leather_08",
 	"popularity": 10,

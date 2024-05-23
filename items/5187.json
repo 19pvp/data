@@ -1,5 +1,6 @@
 {
 	"id": 5187,
+	"bind": "Binds when picked up",
 	"name": "Foe Reaper",
 	"icon": "inv_hammer_09",
 	"dmgMin": 50,
@@ -12,6 +13,6 @@
 	"subclass": "TWO_HANDED_MACE",
 	"type": "TWO_HAND",
 	"stats": { "Hit Rating": 7, "Strength": 7 },
-	"source": "DROP",
-	"sourceZone": 1581
+	"source": "DUNGEON",
+	"sourceZone": "The Deadmines"
 }

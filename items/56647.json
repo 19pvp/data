@@ -1,5 +1,6 @@
 {
 	"id": 56647,
+	"bind": "Binds when picked up",
 	"name": "Powder Burn Vest",
 	"icon": "inv_chest_cloth_08",
 	"popularity": 7,

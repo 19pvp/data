@@ -1,5 +1,6 @@
 {
 	"id": 15479,
+	"bind": "Binds when equipped",
 	"name": "Charger's Armor",
 	"icon": "inv_chest_chain_16",
 	"popularity": 10,

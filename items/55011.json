@@ -1,5 +1,6 @@
 {
 	"id": 55011,
+	"bind": "Binds when picked up",
 	"name": "Mace of the Blood Price",
 	"icon": "inv_mace_66",
 	"dmgMin": 34,

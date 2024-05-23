@@ -1,5 +1,6 @@
 {
 	"id": 15485,
+	"bind": "Binds when equipped",
 	"name": "War Torn Pants",
 	"icon": "inv_pants_06",
 	"popularity": 21,

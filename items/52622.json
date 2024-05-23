@@ -1,5 +1,6 @@
 {
 	"id": 52622,
+	"bind": "Binds when picked up",
 	"name": "Auberdine Chainmail",
 	"icon": "inv_pants_03",
 	"popularity": 10,

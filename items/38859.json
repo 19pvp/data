@@ -8,8 +8,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Armor": 70 },
+	"source": "CRAFT",
 	"sourceId": 20015,
-	"sourceName": "Enchant Cloak - Superior Defense",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

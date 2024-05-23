@@ -1,5 +1,6 @@
 {
 	"id": 6382,
+	"bind": "Binds when equipped",
 	"name": "Forest Leather Belt",
 	"icon": "inv_belt_03",
 	"popularity": 5,

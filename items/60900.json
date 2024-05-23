@@ -1,5 +1,6 @@
 {
 	"id": 60900,
+	"bind": "Binds when picked up",
 	"name": "Beggar's Belt",
 	"icon": "inv_belt_37b",
 	"popularity": 4,

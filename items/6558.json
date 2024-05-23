@@ -1,5 +1,6 @@
 {
 	"id": 6558,
+	"bind": "Binds when equipped",
 	"name": "Bard's Belt",
 	"icon": "inv_belt_03",
 	"popularity": 13,

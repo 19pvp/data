@@ -1,5 +1,6 @@
 {
 	"id": 62868,
+	"bind": "Binds when picked up",
 	"name": "Korok's Ring",
 	"icon": "inv_belt_45b",
 	"popularity": 6,

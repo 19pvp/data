@@ -1,5 +1,6 @@
 {
 	"id": 4312,
+	"bind": "Binds when equipped",
 	"name": "Soft-Soled Linen Boots",
 	"icon": "inv_boots_09",
 	"popularity": 4,
@@ -9,7 +10,8 @@
 	"subclass": "CLOTH",
 	"type": "FEET",
 	"stats": { "Stamina": 2, "Intellect": 2 },
+	"source": "CRAFT",
 	"sourceId": 3845,
-	"sourceName": "Soft-soled Linen Boots",
+	"sourceName": "Tailoring",
 	"sourceType": "SPELL"
 }

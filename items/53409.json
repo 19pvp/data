@@ -1,5 +1,6 @@
 {
 	"id": 53409,
+	"bind": "Binds when picked up",
 	"name": "Diplomatic Belt",
 	"icon": "inv_belt_04",
 	"popularity": 21,

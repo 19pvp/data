@@ -1,5 +1,6 @@
 {
 	"id": 65985,
+	"bind": "Binds when picked up",
 	"name": "Cleansed Pauldrons",
 	"icon": "inv_shoulder_14",
 	"popularity": 9,

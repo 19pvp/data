@@ -1,5 +1,6 @@
 {
 	"id": 24354,
+	"bind": "Binds when picked up",
 	"name": "Staff of the Hand",
 	"icon": "inv_staff_draenei_a_01",
 	"dmgMin": 27,

@@ -1,5 +1,6 @@
 {
 	"id": 15011,
+	"bind": "Binds when equipped",
 	"name": "Lupine Cord",
 	"icon": "inv_belt_03",
 	"popularity": 28,

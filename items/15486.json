@@ -1,5 +1,6 @@
 {
 	"id": 15486,
+	"bind": "Binds when equipped",
 	"name": "War Torn Shield",
 	"icon": "inv_shield_08",
 	"popularity": 7,

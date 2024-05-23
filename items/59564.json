@@ -1,5 +1,6 @@
 {
 	"id": 59564,
+	"bind": "Binds when picked up",
 	"name": "Waptor Skin Boots",
 	"icon": "inv_boots_06",
 	"popularity": 6,

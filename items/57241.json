@@ -1,5 +1,6 @@
 {
 	"id": 57241,
+	"bind": "Binds when picked up",
 	"name": "Dreamwalking Staff",
 	"icon": "inv_staff_08",
 	"dmgMin": 18,

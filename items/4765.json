@@ -1,5 +1,6 @@
 {
 	"id": 4765,
+	"bind": "Binds when equipped",
 	"name": "Enamelled Broadsword",
 	"icon": "inv_sword_20",
 	"dmgMin": 12,

@@ -1,5 +1,6 @@
 {
 	"id": 31264,
+	"bind": "Binds when equipped",
 	"name": "Silvermoon Robes",
 	"icon": "inv_chest_cloth_25",
 	"popularity": 18,
@@ -20,9 +21,9 @@
 			"stats": { "Critical Strike Rating": 2, "Stamina": 2, "Intellect": 2 }
 		}
 	},
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 22060,
 	"sourceName": "Fenissa the Assassin",
-	"sourceZone": 3525,
+	"sourceZone": "Bloodmyst Isle",
 	"sourceType": "NPC"
 }

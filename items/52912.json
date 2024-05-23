@@ -1,5 +1,6 @@
 {
 	"id": 52912,
+	"bind": "Binds when picked up",
 	"name": "S.B.R.B. Prototype 1",
 	"icon": "inv_boots_cloth_31v2",
 	"popularity": 6,

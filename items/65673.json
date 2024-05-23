@@ -1,5 +1,6 @@
 {
 	"id": 65673,
+	"bind": "Binds when picked up",
 	"name": "Aberrant Vest",
 	"icon": "inv_chest_cloth_08",
 	"popularity": 22,

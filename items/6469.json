@@ -1,5 +1,6 @@
 {
 	"id": 6469,
+	"bind": "Binds when picked up",
 	"name": "Venomstrike",
 	"icon": "inv_weapon_bow_10",
 	"dmgMin": 34,
@@ -11,10 +12,10 @@
 	"quality": "RARE",
 	"subclass": "BOW",
 	"type": "RANGED",
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 3673,
 	"sourceName": "Lord Serpentis",
-	"sourceZone": 718,
+	"sourceZone": "Wailing Caverns",
 	"sourceType": "NPC",
 	"spell": {
 		"type": "Equip",

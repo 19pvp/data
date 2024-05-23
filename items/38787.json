@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Stamina": 1 },
+	"source": "CRAFT",
 	"sourceId": 13378,
-	"sourceName": "Enchant Shield - Minor Stamina",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

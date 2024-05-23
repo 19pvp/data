@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Mana": 65 },
+	"source": "CRAFT",
 	"sourceId": 13917,
-	"sourceName": "Enchant Chest - Superior Mana",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

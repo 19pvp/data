@@ -1,5 +1,6 @@
 {
 	"id": 62882,
+	"bind": "Binds when picked up",
 	"name": "Edge of Unlifted Burdens",
 	"icon": "inv_axe_30",
 	"dmgMin": 16,

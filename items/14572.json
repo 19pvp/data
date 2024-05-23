@@ -1,5 +1,6 @@
 {
 	"id": 14572,
+	"bind": "Binds when equipped",
 	"name": "Bristlebark Gloves",
 	"icon": "inv_gauntlets_21",
 	"popularity": 12,

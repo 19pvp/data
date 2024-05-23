@@ -1,5 +1,6 @@
 {
 	"id": 56717,
+	"bind": "Binds when picked up",
 	"name": "Mystlash Bracers",
 	"icon": "inv_bracer_30c",
 	"popularity": 23,

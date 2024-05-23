@@ -1,5 +1,6 @@
 {
 	"id": 52922,
+	"bind": "Binds when picked up",
 	"name": "Demolitionist's Boots",
 	"icon": "inv_boots_06",
 	"popularity": 13,

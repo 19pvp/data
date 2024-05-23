@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Spirit": 7 },
+	"source": "CRAFT",
 	"sourceId": 13905,
-	"sourceName": "Enchant Shield - Greater Spirit",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

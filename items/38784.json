@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Fire Resistance": 5 },
+	"source": "CRAFT",
 	"sourceId": 7861,
-	"sourceName": "Enchant Cloak - Lesser Fire Resistance",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

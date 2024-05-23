@@ -1,5 +1,6 @@
 {
 	"id": 58991,
+	"bind": "Binds when picked up",
 	"name": "Star Shooter",
 	"icon": "inv_wand_02",
 	"dmgMin": 9,

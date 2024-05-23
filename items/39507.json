@@ -1,5 +1,6 @@
 {
 	"id": 39507,
+	"bind": "Binds when equipped",
 	"name": "Darkmoon Chain Shirt",
 	"icon": "inv_chest_chain_04",
 	"popularity": 11,

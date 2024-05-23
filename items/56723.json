@@ -1,5 +1,6 @@
 {
 	"id": 56723,
+	"bind": "Binds when picked up",
 	"name": "Deerstalker Leggings",
 	"icon": "inv_pants_mail_12",
 	"popularity": 8,

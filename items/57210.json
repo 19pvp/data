@@ -1,5 +1,6 @@
 {
 	"id": "57210",
+	"bind": "Binds when picked up",
 	"icon": "inv_gauntlets_102v4",
 	"armor": 27,
 	"quality": "COMMON"

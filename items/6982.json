@@ -1,5 +1,6 @@
 {
 	"id": 6982,
+	"bind": "Binds when picked up",
 	"name": "Umbral Mace",
 	"icon": "inv_mace_12",
 	"dmgMin": 12,

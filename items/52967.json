@@ -1,5 +1,6 @@
 {
 	"id": 52967,
+	"bind": "Binds when picked up",
 	"name": "Oil-Stained Leggings",
 	"icon": "inv_pants_mail_05",
 	"popularity": 7,

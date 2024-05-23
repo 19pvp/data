@@ -1,5 +1,6 @@
 {
 	"id": 14127,
+	"bind": "Binds when equipped",
 	"name": "Ritual Shroud",
 	"icon": "inv_chest_cloth_18",
 	"popularity": 17,

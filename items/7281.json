@@ -1,5 +1,6 @@
 {
 	"id": 7281,
+	"bind": "Binds when equipped",
 	"name": "Light Leather Bracers",
 	"icon": "inv_bracer_04",
 	"popularity": 21,
@@ -9,7 +10,8 @@
 	"subclass": "LEATHER",
 	"type": "WRISTS",
 	"stats": { "Stamina": 2 },
+	"source": "CRAFT",
 	"sourceId": 9065,
-	"sourceName": "Light Leather Bracers",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL"
 }

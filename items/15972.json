@@ -1,5 +1,6 @@
 {
 	"id": 15972,
+	"bind": "Binds when equipped",
 	"name": "Ritual Stein",
 	"icon": "inv_drink_08",
 	"speed": 2,

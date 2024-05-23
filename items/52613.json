@@ -1,5 +1,6 @@
 {
 	"id": 52613,
+	"bind": "Binds when picked up",
 	"name": "Morra's Gloves",
 	"icon": "inv_gauntlets_05",
 	"popularity": 9,

@@ -1,5 +1,6 @@
 {
 	"id": 53403,
+	"bind": "Binds when picked up",
 	"name": "Bedlam Gun",
 	"icon": "inv_weapon_rifle_08",
 	"dmgMin": 29,

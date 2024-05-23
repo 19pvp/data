@@ -1,5 +1,6 @@
 {
 	"id": 10411,
+	"bind": "Binds when picked up",
 	"name": "Footpads of the Fang",
 	"icon": "inv_boots_04",
 	"popularity": 10,
@@ -9,10 +10,10 @@
 	"subclass": "LEATHER",
 	"type": "FEET",
 	"stats": { "Agility": 5, "Stamina": 5 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 3673,
 	"sourceName": "Lord Serpentis",
-	"sourceZone": 718,
+	"sourceZone": "Wailing Caverns",
 	"sourceType": "NPC",
 	"info": "Belt of the FangFootpads of the FangGloves of the FangLeggings of the FangArmor of the Fang"
 }

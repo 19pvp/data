@@ -1,5 +1,6 @@
 {
 	"id": 5820,
+	"bind": "Binds when picked up",
 	"name": "Faerie Mantle",
 	"icon": "inv_shoulder_05",
 	"popularity": 24,
@@ -11,5 +12,5 @@
 	"type": "SHOULDERS",
 	"stats": { "Intellect": 6, "Spirit": 6 },
 	"source": "QUEST",
-	"sourceZone": 331
+	"sourceZone": "Ashenvale"
 }

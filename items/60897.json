@@ -1,5 +1,6 @@
 {
 	"id": 60897,
+	"bind": "Binds when picked up",
 	"name": "Night Watch Boots",
 	"icon": "inv_boots_chain_07",
 	"popularity": 5,

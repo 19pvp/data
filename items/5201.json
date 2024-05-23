@@ -1,5 +1,6 @@
 {
 	"id": 5201,
+	"bind": "Binds when picked up",
 	"name": "Emberstone Staff",
 	"icon": "inv_staff_13",
 	"dmgMin": 42,
@@ -12,6 +13,6 @@
 	"subclass": "STAFF",
 	"type": "TWO_HAND",
 	"stats": { "Critical Strike Rating": 6, "Stamina": 6, "Intellect": 6 },
-	"source": "DROP",
-	"sourceZone": 1581
+	"source": "DUNGEON",
+	"sourceZone": "The Deadmines"
 }

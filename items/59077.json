@@ -1,5 +1,6 @@
 {
 	"id": 59077,
+	"bind": "Binds when picked up",
 	"name": "Stoutfist Breastplate",
 	"icon": "inv_chest_cloth_45",
 	"popularity": 21,

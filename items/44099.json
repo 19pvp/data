@@ -1,5 +1,6 @@
 {
 	"id": 44099,
+	"bind": "<br>Item Level <!--ilvl-->1",
 	"name": "Strengthened Stockade Pauldrons",
 	"icon": "inv_shoulder_20",
 	"popularity": 76,
@@ -10,5 +11,5 @@
 	"type": "SHOULDERS",
 	"stats": { "Resilience": 5, "Strength": 5, "Stamina": 7 },
 	"source": "VENDOR",
-	"sourceZone": 4197
+	"sourceZone": "Wintergrasp"
 }

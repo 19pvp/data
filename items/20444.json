@@ -1,5 +1,6 @@
 {
 	"id": 20444,
+	"bind": "Binds when picked up",
 	"name": "Sentinel's Medallion",
 	"icon": "inv_jewelry_necklace_13",
 	"popularity": 12,
@@ -13,6 +14,6 @@
 	"source": "VENDOR",
 	"sourceId": 14753,
 	"sourceName": "Illiyana Moonblaze",
-	"sourceZone": 331,
+	"sourceZone": "Ashenvale",
 	"sourceType": "NPC"
 }

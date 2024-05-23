@@ -1,5 +1,6 @@
 {
 	"id": 59567,
+	"bind": "Binds when picked up",
 	"name": "Murderous Bracers",
 	"icon": "inv_bracer_01",
 	"popularity": 23,

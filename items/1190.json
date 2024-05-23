@@ -1,5 +1,6 @@
 {
 	"id": 1190,
+	"bind": "Binds when equipped",
 	"name": "Overseer's Cloak",
 	"icon": "inv_misc_cape_08",
 	"popularity": 6,
@@ -9,9 +10,9 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Stamina": 3 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 125,
 	"sourceName": "Riverpaw Overseer",
-	"sourceZone": 40,
+	"sourceZone": "Westfall",
 	"sourceType": "NPC"
 }

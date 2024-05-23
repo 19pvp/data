@@ -1,5 +1,6 @@
 {
 	"id": 14096,
+	"bind": "Binds when equipped",
 	"name": "Native Vest",
 	"icon": "inv_shirt_05",
 	"popularity": 6,

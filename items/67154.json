@@ -1,5 +1,6 @@
 {
 	"id": 67154,
+	"bind": "Binds when picked up",
 	"name": "Staff of the Unwelcome",
 	"icon": "inv_staff_21",
 	"dmgMin": 22,

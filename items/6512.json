@@ -1,5 +1,6 @@
 {
 	"id": 6512,
+	"bind": "Binds when equipped",
 	"name": "Disciple's Robe",
 	"icon": "inv_chest_cloth_22",
 	"popularity": 3,

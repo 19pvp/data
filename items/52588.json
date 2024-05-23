@@ -1,5 +1,6 @@
 {
 	"id": 52588,
+	"bind": "Binds when picked up",
 	"name": "Ritual Stopper's Slippers",
 	"icon": "inv_boots_cloth_05",
 	"popularity": 5,

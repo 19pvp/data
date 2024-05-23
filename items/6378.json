@@ -1,5 +1,6 @@
 {
 	"id": 6378,
+	"bind": "Binds when equipped",
 	"name": "Seer's Cape",
 	"icon": "inv_misc_cape_05",
 	"popularity": 6,

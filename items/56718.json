@@ -1,5 +1,6 @@
 {
 	"id": 56718,
+	"bind": "Binds when picked up",
 	"name": "Detective Buckler",
 	"icon": "inv_shield_09",
 	"popularity": 22,

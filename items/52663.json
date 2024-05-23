@@ -1,5 +1,6 @@
 {
 	"id": 52663,
+	"bind": "Binds when picked up",
 	"name": "Groff's Tarpaulin",
 	"icon": "inv_misc_cape_11",
 	"popularity": 4,

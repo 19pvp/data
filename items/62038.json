@@ -1,5 +1,6 @@
 {
 	"id": 62038,
+	"bind": "<br>Item Level <!--ilvl-->1",
 	"name": "Worn Stoneskin Gargoyle Cape",
 	"icon": "inv_misc_cape_19",
 	"popularity": 90,

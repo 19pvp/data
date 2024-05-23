@@ -1,5 +1,6 @@
 {
 	"id": 5202,
+	"bind": "Binds when picked up",
 	"name": "Corsair's Overshirt",
 	"icon": "inv_shirt_08",
 	"popularity": 58,
@@ -9,6 +10,6 @@
 	"subclass": "CLOTH",
 	"type": "CHEST",
 	"stats": { "Stamina": 6, "Intellect": 8 },
-	"source": "DROP",
-	"sourceZone": 1581
+	"source": "DUNGEON",
+	"sourceZone": "The Deadmines"
 }

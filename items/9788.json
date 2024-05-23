@@ -1,5 +1,6 @@
 {
 	"id": 9788,
+	"bind": "Binds when equipped",
 	"name": "Raider's Belt",
 	"icon": "inv_belt_11",
 	"popularity": 13,

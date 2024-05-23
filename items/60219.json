@@ -1,5 +1,6 @@
 {
 	"id": 60219,
+	"bind": "Binds when picked up",
 	"name": "Balanced Spell Staff",
 	"icon": "inv_staff_08",
 	"dmgMin": 18,

@@ -1,5 +1,6 @@
 {
 	"id": 14167,
+	"bind": "Binds when equipped",
 	"name": "Buccaneer's Cape",
 	"icon": "inv_misc_cape_18",
 	"popularity": 7,

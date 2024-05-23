@@ -1,5 +1,6 @@
 {
 	"id": 6350,
+	"bind": "Binds when equipped",
 	"name": "Rough Bronze Boots",
 	"icon": "inv_boots_01",
 	"popularity": 13,
@@ -9,7 +10,8 @@
 	"subclass": "MAIL",
 	"type": "FEET",
 	"stats": { "Strength": 2, "Stamina": 3 },
+	"source": "CRAFT",
 	"sourceId": 7817,
-	"sourceName": "Rough Bronze Boots",
+	"sourceName": "Blacksmithing",
 	"sourceType": "SPELL"
 }

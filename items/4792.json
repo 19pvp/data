@@ -1,5 +1,6 @@
 {
 	"id": 4792,
+	"bind": "Binds when equipped",
 	"name": "Spirit Cloak",
 	"icon": "inv_misc_cape_11",
 	"popularity": 6,

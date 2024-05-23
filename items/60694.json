@@ -1,5 +1,6 @@
 {
 	"id": 60694,
+	"bind": "Binds when picked up",
 	"name": "Starvation Vest",
 	"icon": "inv_chest_leather_08",
 	"popularity": 6,

@@ -1,5 +1,6 @@
 {
 	"id": 53439,
+	"bind": "Binds when picked up",
 	"name": "Scissor Blade",
 	"icon": "inv_weapon_shortblade_14",
 	"dmgMin": 11,

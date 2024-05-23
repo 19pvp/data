@@ -1,5 +1,6 @@
 {
 	"id": 58918,
+	"bind": "Binds when picked up",
 	"name": "Mystic Riverpaw Wand",
 	"icon": "inv_staff_17",
 	"dmgMin": 11,

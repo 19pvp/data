@@ -1,5 +1,6 @@
 {
 	"id": 59571,
+	"bind": "Binds when picked up",
 	"name": "Irregular Belt",
 	"icon": "inv_belt_05",
 	"popularity": 11,
@@ -11,5 +12,5 @@
 	"type": "WAIST",
 	"stats": { "Hit Rating": 2, "Stamina": 2, "Intellect": 2 },
 	"source": "QUEST",
-	"sourceZone": 17
+	"sourceZone": "Northern Barrens"
 }

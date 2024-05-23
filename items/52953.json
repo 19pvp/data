@@ -1,5 +1,6 @@
 {
 	"id": 52953,
+	"bind": "Binds when picked up",
 	"name": "Banner Cloak",
 	"icon": "inv_misc_cape_11",
 	"popularity": 18,

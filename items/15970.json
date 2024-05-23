@@ -1,5 +1,6 @@
 {
 	"id": 15970,
+	"bind": "Binds when equipped",
 	"name": "Native Branch",
 	"icon": "inv_wand_03",
 	"speed": 2,

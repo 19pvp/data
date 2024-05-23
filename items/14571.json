@@ -1,5 +1,6 @@
 {
 	"id": 14571,
+	"bind": "Binds when equipped",
 	"name": "Bristlebark Cape",
 	"icon": "inv_misc_cape_09",
 	"popularity": 23,

@@ -1,5 +1,6 @@
 {
 	"id": 2977,
+	"bind": "Binds when equipped",
 	"name": "Veteran Armor",
 	"icon": "inv_chest_chain_09",
 	"popularity": 11,

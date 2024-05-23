@@ -1,5 +1,6 @@
 {
 	"id": 22783,
+	"bind": "Binds when picked up",
 	"name": "Sunwell Blade",
 	"icon": "inv_sword_06",
 	"dmgMin": 18,

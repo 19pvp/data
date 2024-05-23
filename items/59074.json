@@ -1,5 +1,6 @@
 {
 	"id": 59074,
+	"bind": "Binds when picked up",
 	"name": "Topsoil Bracers",
 	"icon": "inv_bracer_03",
 	"popularity": 20,

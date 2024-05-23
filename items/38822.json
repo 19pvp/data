@@ -7,8 +7,9 @@
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Weapon Damage": 5 },
+	"source": "CRAFT",
 	"sourceId": 13695,
-	"sourceName": "Enchant 2H Weapon - Impact",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

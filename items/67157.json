@@ -1,5 +1,6 @@
 {
 	"id": 67157,
+	"bind": "Binds when picked up",
 	"name": "Harness of Binding",
 	"icon": "inv_chest_leather_07",
 	"popularity": 7,

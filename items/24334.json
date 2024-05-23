@@ -1,5 +1,6 @@
 {
 	"id": 24334,
+	"bind": "Binds when picked up",
 	"name": "Wheel of the Lost Hope",
 	"icon": "inv_shield_09",
 	"popularity": 34,

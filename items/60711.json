@@ -1,5 +1,6 @@
 {
 	"id": 60711,
+	"bind": "Binds when picked up",
 	"name": "Messner's Cuffs",
 	"icon": "inv_bracer_13",
 	"popularity": 12,

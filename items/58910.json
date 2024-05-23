@@ -1,5 +1,6 @@
 {
 	"id": 58910,
+	"bind": "Binds when picked up",
 	"name": "Boiled Boots",
 	"icon": "inv_boots_06",
 	"popularity": 6,

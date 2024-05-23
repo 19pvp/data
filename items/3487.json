@@ -1,5 +1,6 @@
 {
 	"id": 3487,
+	"bind": "Binds when equipped",
 	"name": "Heavy Copper Broadsword",
 	"icon": "inv_sword_14",
 	"dmgMin": 27,
@@ -12,7 +13,8 @@
 	"subclass": "TWO_HANDED_SWORD",
 	"type": "TWO_HAND",
 	"stats": { "Stamina": 6 },
+	"source": "CRAFT",
 	"sourceId": 3292,
-	"sourceName": "Heavy Copper Broadsword",
+	"sourceName": "Blacksmithing",
 	"sourceType": "SPELL"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 59566,
+	"bind": "Binds when picked up",
 	"name": "Robe of Shame",
 	"icon": "inv_chest_cloth_31",
 	"popularity": 7,

@@ -1,5 +1,6 @@
 {
 	"id": "4931",
+	"bind": "Binds when picked up",
 	"icon": "inv_weapon_bow_05",
 	"dmgMin": 9,
 	"dmgMax": 17,

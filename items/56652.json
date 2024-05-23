@@ -1,5 +1,6 @@
 {
 	"id": 56652,
+	"bind": "Binds when picked up",
 	"name": "Ablution Slippers",
 	"icon": "inv_boots_cloth_04",
 	"popularity": 4,

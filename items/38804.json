@@ -13,8 +13,9 @@
 		"Spirit": 1,
 		"Stamina": 1
 	},
+	"source": "CRAFT",
 	"sourceId": 13626,
-	"sourceName": "Enchant Chest - Minor Stats",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

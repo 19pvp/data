@@ -1,5 +1,6 @@
 {
 	"id": 58499,
+	"bind": "Binds when picked up",
 	"name": "Grasp of Victory",
 	"icon": "inv_gauntlets_12",
 	"popularity": 8,

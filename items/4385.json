@@ -1,5 +1,6 @@
 {
 	"id": 4385,
+	"bind": "Binds when equipped",
 	"name": "Green Tinted Goggles",
 	"icon": "inv_helmet_47",
 	"popularity": 18,
@@ -9,7 +10,8 @@
 	"subclass": "CLOTH",
 	"type": "HEAD",
 	"stats": { "Stamina": 8, "Spirit": 7 },
+	"source": "CRAFT",
 	"sourceId": 3956,
-	"sourceName": "Green Tinted Goggles",
+	"sourceName": "Engineering",
 	"sourceType": "SPELL"
 }

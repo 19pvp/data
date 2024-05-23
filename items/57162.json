@@ -1,1 +1,7 @@
-{ "id": "57162", "icon": "inv_bracer_74v4", "armor": 20, "quality": "COMMON" }
+{
+	"id": "57162",
+	"bind": "Binds when picked up",
+	"icon": "inv_bracer_74v4",
+	"armor": 20,
+	"quality": "COMMON"
+}

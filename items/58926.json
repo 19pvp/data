@@ -1,5 +1,6 @@
 {
 	"id": 58926,
+	"bind": "Binds when picked up",
 	"name": "Gryan's Boots",
 	"icon": "inv_boots_chain_02",
 	"popularity": 18,

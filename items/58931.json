@@ -1,5 +1,6 @@
 {
 	"id": 58931,
+	"bind": "Binds when picked up",
 	"name": "House Wrynn Claymore",
 	"icon": "inv_sword_25",
 	"dmgMin": 36,

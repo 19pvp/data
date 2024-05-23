@@ -1,5 +1,6 @@
 {
 	"id": 2580,
+	"bind": "Binds when equipped",
 	"name": "Reinforced Linen Cape",
 	"icon": "inv_misc_cape_07",
 	"popularity": 10,
@@ -9,7 +10,8 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Intellect": 1 },
+	"source": "CRAFT",
 	"sourceId": 2397,
-	"sourceName": "Reinforced Linen Cape",
+	"sourceName": "Tailoring",
 	"sourceType": "SPELL"
 }

@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Health": 5 },
+	"source": "CRAFT",
 	"sourceId": 7418,
-	"sourceName": "Enchant Bracer - Minor Health",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

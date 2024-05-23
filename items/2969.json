@@ -1,5 +1,6 @@
 {
 	"id": 2969,
+	"bind": "Binds when equipped",
 	"name": "Spellbinder Vest",
 	"icon": "inv_chest_cloth_06",
 	"popularity": 29,

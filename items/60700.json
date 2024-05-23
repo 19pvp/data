@@ -1,5 +1,6 @@
 {
 	"id": 60700,
+	"bind": "Binds when picked up",
 	"name": "Solomon's Gavel",
 	"icon": "inv_hammer_23",
 	"dmgMin": 9,

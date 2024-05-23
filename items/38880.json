@@ -7,8 +7,9 @@
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Agility": 15 },
+	"source": "CRAFT",
 	"sourceId": 23800,
-	"sourceName": "Enchant Weapon - Agility",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

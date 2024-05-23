@@ -1,5 +1,6 @@
 {
 	"id": 55129,
+	"bind": "Binds when picked up",
 	"name": "Silver Scaled Belt",
 	"icon": "inv_belt_45b",
 	"popularity": 11,

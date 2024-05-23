@@ -1,5 +1,6 @@
 {
 	"id": 14123,
+	"bind": "Binds when equipped",
 	"name": "Ritual Cape",
 	"icon": "inv_misc_cape_14",
 	"popularity": 19,

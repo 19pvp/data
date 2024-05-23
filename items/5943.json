@@ -1,5 +1,6 @@
 {
 	"id": 5943,
+	"bind": "Binds when picked up",
 	"name": "Rift Bracers",
 	"icon": "inv_bracer_03",
 	"popularity": 10,
@@ -9,6 +10,6 @@
 	"subclass": "MAIL",
 	"type": "WRISTS",
 	"stats": { "Critical Strike Rating": 3, "Strength": 3, "Stamina": 4 },
-	"source": "DROP",
-	"sourceZone": 209
+	"source": "DUNGEON",
+	"sourceZone": "Shadowfang Keep"
 }

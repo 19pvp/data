@@ -1,5 +1,6 @@
 {
 	"id": 3018,
+	"bind": "Binds when equipped",
 	"name": "Hide of Lupos",
 	"icon": "inv_misc_pelt_wolf_02",
 	"popularity": 8,
@@ -9,9 +10,9 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Agility": 3, "Stamina": 2 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 521,
 	"sourceName": "Lupos",
-	"sourceZone": 10,
+	"sourceZone": "Duskwood",
 	"sourceType": "NPC"
 }

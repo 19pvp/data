@@ -1,5 +1,6 @@
 {
 	"id": 59576,
+	"bind": "Binds when picked up",
 	"name": "Mutineer's Cloak",
 	"icon": "inv_misc_cape_18",
 	"popularity": 4,

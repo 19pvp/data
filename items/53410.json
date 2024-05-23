@@ -1,5 +1,6 @@
 {
 	"id": 53410,
+	"bind": "Binds when picked up",
 	"name": "Disposable Cloak",
 	"icon": "inv_misc_cape_15",
 	"popularity": 6,

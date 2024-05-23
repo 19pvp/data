@@ -1,5 +1,6 @@
 {
 	"id": 4434,
+	"bind": "Binds when equipped",
 	"name": "Scarecrow Trousers",
 	"icon": "inv_pants_02",
 	"popularity": 14,
@@ -9,9 +10,9 @@
 	"subclass": "CLOTH",
 	"type": "LEGS",
 	"stats": { "Spirit": 6 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 573,
 	"sourceName": "Foe Reaper 4000",
-	"sourceZone": 40,
+	"sourceZone": "Westfall",
 	"sourceType": "NPC"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 4343,
+	"bind": "Binds when equipped",
 	"name": "Brown Linen Pants",
 	"icon": "inv_pants_06",
 	"popularity": 13,
@@ -9,7 +10,8 @@
 	"subclass": "CLOTH",
 	"type": "LEGS",
 	"stats": { "Intellect": 1 },
+	"source": "CRAFT",
 	"sourceId": 3914,
-	"sourceName": "Brown Linen Pants",
+	"sourceName": "Tailoring",
 	"sourceType": "SPELL"
 }

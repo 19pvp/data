@@ -1,5 +1,6 @@
 {
 	"id": 59531,
+	"bind": "Binds when picked up",
 	"name": "Far Watch Musket",
 	"icon": "inv_weapon_rifle_01",
 	"dmgMin": 16,

@@ -1,5 +1,6 @@
 {
 	"id": 3848,
+	"bind": "Binds when equipped",
 	"name": "Big Bronze Knife",
 	"icon": "inv_weapon_shortblade_04",
 	"dmgMin": 13,
@@ -12,7 +13,8 @@
 	"subclass": "DAGGER",
 	"type": "ONE_HAND",
 	"stats": { "Stamina": 3 },
+	"source": "CRAFT",
 	"sourceId": 3491,
-	"sourceName": "Big Bronze Knife",
+	"sourceName": "Blacksmithing",
 	"sourceType": "SPELL"
 }

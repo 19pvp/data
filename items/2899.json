@@ -1,5 +1,6 @@
 {
 	"id": 2899,
+	"bind": "Binds when equipped",
 	"name": "Wendigo Collar",
 	"icon": "inv_belt_01",
 	"popularity": 13,
@@ -9,9 +10,9 @@
 	"subclass": "LEATHER",
 	"type": "WAIST",
 	"stats": { "Agility": 3 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 1271,
 	"sourceName": "Old Icebeard",
-	"sourceZone": 1,
+	"sourceZone": "Dun Morogh",
 	"sourceType": "NPC"
 }

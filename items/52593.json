@@ -1,5 +1,6 @@
 {
 	"id": 52593,
+	"bind": "Binds when picked up",
 	"name": "Becalmed Bracers",
 	"icon": "inv_bracer_13",
 	"popularity": 6,

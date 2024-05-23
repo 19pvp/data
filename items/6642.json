@@ -1,5 +1,6 @@
 {
 	"id": 6642,
+	"bind": "Binds when picked up",
 	"name": "Phantom Armor",
 	"icon": "inv_chest_chain_05",
 	"popularity": 22,
@@ -9,6 +10,6 @@
 	"subclass": "MAIL",
 	"type": "CHEST",
 	"stats": { "Critical Strike Rating": 5, "Strength": 5, "Stamina": 7 },
-	"source": "DROP",
-	"sourceZone": 209
+	"source": "DUNGEON",
+	"sourceZone": "Shadowfang Keep"
 }

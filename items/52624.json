@@ -1,5 +1,6 @@
 {
 	"id": 52624,
+	"bind": "Binds when picked up",
 	"name": "Fire Stompers",
 	"icon": "inv_boots_chain_08",
 	"popularity": 5,

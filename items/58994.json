@@ -1,5 +1,6 @@
 {
 	"id": 58994,
+	"bind": "Binds when picked up",
 	"name": "Trogg-Slayer Boots",
 	"icon": "inv_boots_cloth_03",
 	"popularity": 10,

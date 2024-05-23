@@ -1,5 +1,6 @@
 {
 	"id": 52652,
+	"bind": "Binds when picked up",
 	"name": "Glowing Murloc Eye",
 	"icon": "inv_misc_eye_01",
 	"speed": 2,

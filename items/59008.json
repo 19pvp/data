@@ -1,5 +1,6 @@
 {
 	"id": 59008,
+	"bind": "Binds when picked up",
 	"name": "Unsanitary Gloves",
 	"icon": "inv_gauntlets_27",
 	"popularity": 8,

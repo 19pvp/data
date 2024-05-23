@@ -1,5 +1,6 @@
 {
 	"id": 56637,
+	"bind": "Binds when picked up",
 	"name": "Severed Druid's Leggings",
 	"icon": "inv_pants_leather_21",
 	"popularity": 7,

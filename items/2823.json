@@ -1,5 +1,6 @@
 {
 	"id": 2823,
+	"bind": "Binds when equipped",
 	"name": "Mo'grosh Can Opener",
 	"icon": "inv_axe_06",
 	"dmgMin": 32,
@@ -12,9 +13,9 @@
 	"subclass": "TWO_HANDED_AXE",
 	"type": "TWO_HAND",
 	"stats": { "Strength": 6 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 1180,
 	"sourceName": "Mo'grosh Brute",
-	"sourceZone": 38,
+	"sourceZone": "Loch Modan",
 	"sourceType": "NPC"
 }

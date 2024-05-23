@@ -1,5 +1,6 @@
 {
 	"id": 6560,
+	"bind": "Binds when equipped",
 	"name": "Soldier's Shield",
 	"icon": "inv_shield_10",
 	"popularity": 8,

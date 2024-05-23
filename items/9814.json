@@ -1,5 +1,6 @@
 {
 	"id": 9814,
+	"bind": "Binds when equipped",
 	"name": "Fortified Belt",
 	"icon": "inv_belt_04",
 	"popularity": 9,

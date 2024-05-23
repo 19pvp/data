@@ -1,5 +1,6 @@
 {
 	"id": 53402,
+	"bind": "Binds when picked up",
 	"name": "Azure Scale Vest",
 	"icon": "inv_chest_leather_03",
 	"popularity": 21,

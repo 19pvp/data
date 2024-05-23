@@ -1,5 +1,6 @@
 {
 	"id": 5781,
+	"bind": "Binds when equipped",
 	"name": "Murloc Scale Breastplate",
 	"icon": "inv_chest_chain_12",
 	"popularity": 9,
@@ -9,7 +10,8 @@
 	"subclass": "LEATHER",
 	"type": "CHEST",
 	"stats": { "Agility": 5, "Stamina": 5 },
+	"source": "CRAFT",
 	"sourceId": 6703,
-	"sourceName": "Murloc Scale Breastplate",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL"
 }

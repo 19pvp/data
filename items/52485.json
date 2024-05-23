@@ -1,5 +1,6 @@
 {
 	"id": 52485,
+	"bind": "Binds when equipped",
 	"name": "Jeweler's Ruby Monocle",
 	"icon": "inv_helmet_44",
 	"popularity": 34,
@@ -8,7 +9,8 @@
 	"quality": "RARE",
 	"subclass": "MISC",
 	"type": "HEAD",
+	"source": "CRAFT",
 	"sourceId": 73625,
-	"sourceName": "Jeweler's Ruby Monocle",
+	"sourceName": "Jewelcrafting",
 	"sourceType": "SPELL"
 }

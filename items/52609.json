@@ -1,5 +1,6 @@
 {
 	"id": 52609,
+	"bind": "Binds when picked up",
 	"name": "Diver's Cord",
 	"icon": "inv_belt_02",
 	"popularity": 9,

@@ -1,5 +1,6 @@
 {
 	"id": 53444,
+	"bind": "Binds when picked up",
 	"name": "Sniper's Band",
 	"icon": "inv_jewelry_ring_03",
 	"popularity": 38,

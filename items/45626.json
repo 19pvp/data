@@ -1,5 +1,6 @@
 {
 	"id": 45626,
+	"bind": "Binds when equipped",
 	"name": "Spidersilk Drape",
 	"icon": "inv_misc_cape_16",
 	"popularity": 3,
@@ -9,7 +10,8 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Hit Rating": 4, "Stamina": 4, "Intellect": 3 },
+	"source": "CRAFT",
 	"sourceId": 63742,
-	"sourceName": "Spidersilk Drape",
+	"sourceName": "Tailoring",
 	"sourceType": "SPELL"
 }

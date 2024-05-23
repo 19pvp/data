@@ -1,5 +1,6 @@
 {
 	"id": 59546,
+	"bind": "Binds when picked up",
 	"name": "Ointment-Coated Bracers",
 	"icon": "inv_bracer_27a",
 	"popularity": 6,

@@ -1,5 +1,6 @@
 {
 	"id": 56720,
+	"bind": "Binds when picked up",
 	"name": "Security Crossbow",
 	"icon": "inv_weapon_crossbow_04",
 	"dmgMin": 28,

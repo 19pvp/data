@@ -1,5 +1,6 @@
 {
 	"id": 3740,
+	"bind": "Binds when equipped",
 	"name": "Decapitating Sword",
 	"icon": "inv_weapon_shortblade_26",
 	"dmgMin": 22,

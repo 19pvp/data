@@ -1,5 +1,6 @@
 {
 	"id": 56725,
+	"bind": "Binds when picked up",
 	"name": "Belt of Secret Signs",
 	"icon": "inv_belt_41",
 	"popularity": 6,

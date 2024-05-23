@@ -1,5 +1,6 @@
 {
 	"id": 6214,
+	"bind": "Binds when equipped",
 	"name": "Heavy Copper Maul",
 	"icon": "inv_hammer_18",
 	"dmgMin": 24,
@@ -12,7 +13,8 @@
 	"subclass": "TWO_HANDED_MACE",
 	"type": "TWO_HAND",
 	"stats": { "Strength": 2, "Agility": 2, "Stamina": 2 },
+	"source": "CRAFT",
 	"sourceId": 7408,
-	"sourceName": "Heavy Copper Maul",
+	"sourceName": "Blacksmithing",
 	"sourceType": "SPELL"
 }

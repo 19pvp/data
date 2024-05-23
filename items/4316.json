@@ -1,5 +1,6 @@
 {
 	"id": 4316,
+	"bind": "Binds when equipped",
 	"name": "Heavy Woolen Pants",
 	"icon": "inv_pants_01",
 	"popularity": 12,
@@ -9,7 +10,8 @@
 	"subclass": "CLOTH",
 	"type": "LEGS",
 	"stats": { "Intellect": 3, "Spirit": 6 },
+	"source": "CRAFT",
 	"sourceId": 3850,
-	"sourceName": "Heavy Woolen Pants",
+	"sourceName": "Tailoring",
 	"sourceType": "SPELL"
 }

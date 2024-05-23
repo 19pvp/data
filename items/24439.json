@@ -1,5 +1,6 @@
 {
 	"id": 24439,
+	"bind": "Binds when picked up",
 	"name": "Savage Leggings",
 	"icon": "inv_pants_02",
 	"popularity": 22,

@@ -1,5 +1,6 @@
 {
 	"id": 4964,
+	"bind": "Binds when picked up",
 	"name": "Goblin Smasher",
 	"icon": "inv_hammer_15",
 	"dmgMin": 20,

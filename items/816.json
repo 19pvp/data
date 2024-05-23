@@ -1,5 +1,6 @@
 {
 	"id": 816,
+	"bind": "Binds when equipped",
 	"name": "Small Hand Blade",
 	"icon": "inv_weapon_shortblade_01",
 	"dmgMin": 6,
@@ -12,9 +13,9 @@
 	"subclass": "DAGGER",
 	"type": "ONE_HAND",
 	"stats": { "Agility": 1 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 36,
 	"sourceName": "Harvest Golem",
-	"sourceZone": 40,
+	"sourceZone": "Westfall",
 	"sourceType": "NPC"
 }

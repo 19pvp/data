@@ -1,5 +1,6 @@
 {
 	"id": 60902,
+	"bind": "Binds when picked up",
 	"name": "Abercrombie's Gloves",
 	"icon": "inv_gauntlets_25",
 	"popularity": 6,

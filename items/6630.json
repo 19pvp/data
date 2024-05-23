@@ -1,5 +1,6 @@
 {
 	"id": 6630,
+	"bind": "Binds when picked up",
 	"name": "Seedcloud Buckler",
 	"icon": "inv_shield_10",
 	"popularity": 8,
@@ -9,9 +10,9 @@
 	"subclass": "SHIELDS",
 	"type": "SHIELD",
 	"stats": { "Intellect": 5, "Spirit": 3 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 5775,
 	"sourceName": "Verdan the Everliving",
-	"sourceZone": 718,
+	"sourceZone": "Wailing Caverns",
 	"sourceType": "NPC"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 2087,
+	"bind": "Binds when equipped",
 	"name": "Hard Crawler Carapace",
 	"icon": "inv_chest_wolf",
 	"popularity": 13,
@@ -9,9 +10,9 @@
 	"subclass": "LEATHER",
 	"type": "CHEST",
 	"stats": { "Agility": 2, "Stamina": 1 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 830,
 	"sourceName": "Sand Crawler",
-	"sourceZone": 40,
+	"sourceZone": "Westfall",
 	"sourceType": "NPC"
 }

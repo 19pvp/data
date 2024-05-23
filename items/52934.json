@@ -1,5 +1,6 @@
 {
 	"id": 52934,
+	"bind": "Binds when picked up",
 	"name": "Pygmy Cloak",
 	"icon": "inv_misc_cape_15",
 	"popularity": 7,

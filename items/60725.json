@@ -1,5 +1,6 @@
 {
 	"id": 60725,
+	"bind": "Binds when picked up",
 	"name": "Bravo Company Pauldrons",
 	"icon": "inv_shoulder_15",
 	"popularity": 7,

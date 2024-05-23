@@ -1,5 +1,6 @@
 {
 	"id": 57228,
+	"bind": "Binds when picked up",
 	"name": "Cord of Tragic Memory",
 	"icon": "inv_belt_02",
 	"popularity": 21,

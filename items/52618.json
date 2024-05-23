@@ -1,5 +1,6 @@
 {
 	"id": 52618,
+	"bind": "Binds when picked up",
 	"name": "Ancient Cuffs",
 	"icon": "inv_bracer_02",
 	"popularity": 9,

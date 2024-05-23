@@ -1,5 +1,6 @@
 {
 	"id": 54998,
+	"bind": "Binds when picked up",
 	"name": "Braided Gossamer Armbands",
 	"icon": "inv_bracer_27b",
 	"popularity": 13,

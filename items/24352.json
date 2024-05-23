@@ -1,5 +1,6 @@
 {
 	"id": 24352,
+	"bind": "Binds when picked up",
 	"name": "Blade of the Hand",
 	"icon": "inv_sword_draenei_06",
 	"dmgMin": 27,

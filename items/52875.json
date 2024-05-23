@@ -1,5 +1,6 @@
 {
 	"id": 52875,
+	"bind": "Binds when picked up",
 	"name": "Darkspear Shamanic Staff",
 	"icon": "inv_staff_20",
 	"dmgMin": 2.8,

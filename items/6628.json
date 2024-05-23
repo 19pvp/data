@@ -1,5 +1,6 @@
 {
 	"id": 6628,
+	"bind": "Binds when equipped",
 	"name": "Raven's Claws",
 	"icon": "spell_nature_ravenform",
 	"popularity": 10,
@@ -9,9 +10,9 @@
 	"subclass": "CLOTH",
 	"type": "HANDS",
 	"stats": { "Stamina": 4, "Intellect": 3 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 2283,
 	"sourceName": "Ravenclaw Regent",
-	"sourceZone": 130,
+	"sourceZone": "Silverpine Forest",
 	"sourceType": "NPC"
 }

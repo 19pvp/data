@@ -1,5 +1,6 @@
 {
 	"id": 53400,
+	"bind": "Binds when picked up",
 	"name": "Arborcide Axe",
 	"icon": "inv_axe_11",
 	"dmgMin": 20,

@@ -1,5 +1,6 @@
 {
 	"id": 6379,
+	"bind": "Binds when equipped",
 	"name": "Inscribed Leather Belt",
 	"icon": "inv_belt_26",
 	"popularity": 7,

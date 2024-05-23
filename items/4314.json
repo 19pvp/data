@@ -1,5 +1,6 @@
 {
 	"id": 4314,
+	"bind": "Binds when equipped",
 	"name": "Double-Stitched Woolen Shoulders",
 	"icon": "inv_shoulder_06",
 	"popularity": 10,
@@ -9,7 +10,8 @@
 	"subclass": "CLOTH",
 	"type": "SHOULDERS",
 	"stats": { "Stamina": 5 },
+	"source": "CRAFT",
 	"sourceId": 3848,
-	"sourceName": "Double-stitched Woolen Shoulders",
+	"sourceName": "Tailoring",
 	"sourceType": "SPELL"
 }

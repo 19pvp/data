@@ -1,5 +1,6 @@
 {
 	"id": 54871,
+	"bind": "Binds when picked up",
 	"name": "Cloudsbreak Gloves",
 	"icon": "inv_gauntlets_24",
 	"popularity": 9,

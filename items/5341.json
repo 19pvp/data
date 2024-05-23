@@ -1,5 +1,6 @@
 {
 	"id": 5341,
+	"bind": "Binds when picked up",
 	"name": "Spore-Covered Tunic",
 	"icon": "inv_shirt_07",
 	"popularity": 15,

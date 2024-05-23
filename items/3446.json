@@ -1,5 +1,6 @@
 {
 	"id": 3446,
+	"bind": "Binds when picked up",
 	"name": "Darkwood Staff",
 	"icon": "inv_staff_16",
 	"dmgMin": 23,
@@ -14,5 +15,5 @@
 	"type": "TWO_HAND",
 	"stats": { "Stamina": 3 },
 	"source": "QUEST",
-	"sourceZone": 85
+	"sourceZone": "Tirisfal Glades"
 }

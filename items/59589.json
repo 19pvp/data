@@ -1,5 +1,6 @@
 {
 	"id": 59589,
+	"bind": "Binds when picked up",
 	"name": "Bloodfeather Ring",
 	"icon": "inv_jewelry_ring_36",
 	"popularity": 5,

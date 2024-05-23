@@ -1,5 +1,6 @@
 {
 	"id": 5591,
+	"bind": "Binds when picked up",
 	"name": "Rain-Spotted Cape",
 	"icon": "inv_misc_cape_12",
 	"popularity": 8,

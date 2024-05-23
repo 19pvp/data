@@ -1,5 +1,6 @@
 {
 	"id": 55132,
+	"bind": "Binds when picked up",
 	"name": "Darkshore Bow",
 	"icon": "inv_weapon_bow_02",
 	"dmgMin": 16,

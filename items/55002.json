@@ -1,5 +1,6 @@
 {
 	"id": 55002,
+	"bind": "Binds when picked up",
 	"name": "Blue-Bloodied Boots",
 	"icon": "inv_boots_06",
 	"popularity": 6,

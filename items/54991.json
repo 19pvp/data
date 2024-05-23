@@ -1,5 +1,6 @@
 {
 	"id": 54991,
+	"bind": "Binds when picked up",
 	"name": "Marcus' Pickaxe",
 	"icon": "inv_pick_03",
 	"dmgMin": 12,

@@ -1,5 +1,6 @@
 {
 	"id": 44102,
+	"bind": "<br>Item Level <!--ilvl-->1",
 	"name": "Aged Pauldrons of The Five Thunders",
 	"icon": "inv_shoulder_29",
 	"popularity": 27,
@@ -10,5 +11,5 @@
 	"type": "SHOULDERS",
 	"stats": { "Resilience": 5, "Stamina": 7, "Intellect": 5 },
 	"source": "VENDOR",
-	"sourceZone": 4197
+	"sourceZone": "Wintergrasp"
 }

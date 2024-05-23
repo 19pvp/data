@@ -1,5 +1,6 @@
 {
 	"id": 3217,
+	"bind": "Binds when picked up",
 	"name": "Foreman Belt",
 	"icon": "inv_belt_23",
 	"popularity": 6,

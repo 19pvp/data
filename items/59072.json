@@ -1,5 +1,6 @@
 {
 	"id": 59072,
+	"bind": "Binds when picked up",
 	"name": "Addled Blotter Bracers",
 	"icon": "inv_bracer_30a",
 	"popularity": 10,

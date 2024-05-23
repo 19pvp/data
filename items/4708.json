@@ -1,5 +1,6 @@
 {
 	"id": 4708,
+	"bind": "Binds when equipped",
 	"name": "Bright Belt",
 	"icon": "inv_belt_11",
 	"popularity": 8,

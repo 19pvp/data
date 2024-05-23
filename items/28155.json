@@ -1,5 +1,6 @@
 {
 	"id": 28155,
+	"bind": "Binds when picked up",
 	"name": "Apothecary's Waistband",
 	"icon": "inv_misc_bandana_03",
 	"popularity": 55,
@@ -12,6 +13,6 @@
 	"source": "VENDOR",
 	"sourceId": 16528,
 	"sourceName": "Provisioner Vredigar",
-	"sourceZone": 3433,
+	"sourceZone": "Ghostlands",
 	"sourceType": "NPC"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 4800,
+	"bind": "Binds when equipped",
 	"name": "Mighty Chain Pants",
 	"icon": "inv_pants_03",
 	"popularity": 7,

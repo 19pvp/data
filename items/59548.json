@@ -1,5 +1,6 @@
 {
 	"id": 59548,
+	"bind": "Binds when picked up",
 	"name": "Scrap Metal Shield",
 	"icon": "inv_shield_77",
 	"popularity": 10,

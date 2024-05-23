@@ -1,5 +1,6 @@
 {
 	"id": 3309,
+	"bind": "Binds when equipped",
 	"name": "Barbaric Loincloth",
 	"icon": "inv_pants_wolf",
 	"popularity": 23,

@@ -1,5 +1,6 @@
 {
 	"id": 59562,
+	"bind": "Binds when picked up",
 	"name": "Dividend Leggings",
 	"icon": "inv_pants_03",
 	"popularity": 15,

@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Spell Power": 16 },
+	"source": "CRAFT",
 	"sourceId": 25079,
-	"sourceName": "Enchant Gloves - Healing Power",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

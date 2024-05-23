@@ -1,5 +1,6 @@
 {
 	"id": 56636,
+	"bind": "Binds when picked up",
 	"name": "Forest Grace Mantle",
 	"icon": "inv_shoulder_25",
 	"popularity": 6,

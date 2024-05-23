@@ -1,5 +1,6 @@
 {
 	"id": 52970,
+	"bind": "Binds when picked up",
 	"name": "Fickle Belt",
 	"icon": "inv_belt_02",
 	"popularity": 5,

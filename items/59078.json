@@ -1,5 +1,6 @@
 {
 	"id": 59078,
+	"bind": "Binds when picked up",
 	"name": "Flarecrazed Cloak",
 	"icon": "inv_misc_cape_18",
 	"popularity": 5,

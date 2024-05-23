@@ -1,5 +1,6 @@
 {
 	"id": 62896,
+	"bind": "Binds when picked up",
 	"name": "Belt of Beginnings",
 	"icon": "inv_belt_37c",
 	"popularity": 8,

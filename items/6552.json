@@ -1,5 +1,6 @@
 {
 	"id": 6552,
+	"bind": "Binds when equipped",
 	"name": "Bard's Tunic",
 	"icon": "inv_shirt_11",
 	"popularity": 12,

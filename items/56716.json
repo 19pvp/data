@@ -1,5 +1,6 @@
 {
 	"id": 56716,
+	"bind": "Binds when picked up",
 	"name": "Alighted Boots",
 	"icon": "inv_boots_cloth_04",
 	"popularity": 12,

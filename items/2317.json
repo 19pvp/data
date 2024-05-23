@@ -1,5 +1,6 @@
 {
 	"id": 2317,
+	"bind": "Binds when equipped",
 	"name": "Dark Leather Tunic",
 	"icon": "inv_chest_leather_03",
 	"popularity": 3,
@@ -9,7 +10,8 @@
 	"subclass": "LEATHER",
 	"type": "CHEST",
 	"stats": { "Agility": 6 },
+	"source": "CRAFT",
 	"sourceId": 2169,
-	"sourceName": "Dark Leather Tunic",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL"
 }

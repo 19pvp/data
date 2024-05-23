@@ -1,5 +1,6 @@
 {
 	"id": 14168,
+	"bind": "Binds when equipped",
 	"name": "Buccaneer's Gloves",
 	"icon": "inv_gauntlets_16",
 	"popularity": 8,

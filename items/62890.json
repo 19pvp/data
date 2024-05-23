@@ -1,5 +1,6 @@
 {
 	"id": 62890,
+	"bind": "Binds when picked up",
 	"name": "Ataeric's Gloves",
 	"icon": "inv_gauntlets_15",
 	"popularity": 5,

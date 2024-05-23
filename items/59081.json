@@ -1,5 +1,6 @@
 {
 	"id": 59081,
+	"bind": "Binds when picked up",
 	"name": "Merchant Marine Boots",
 	"icon": "inv_boots_03",
 	"popularity": 5,

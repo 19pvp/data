@@ -1,5 +1,6 @@
 {
 	"id": 14117,
+	"bind": "Binds when equipped",
 	"name": "Aboriginal Gloves",
 	"icon": "inv_gauntlets_18",
 	"popularity": 12,

@@ -1,5 +1,6 @@
 {
 	"id": 62869,
+	"bind": "Binds when picked up",
 	"name": "Submariner Killer",
 	"icon": "inv_weapon_shortblade_09",
 	"dmgMin": 12,

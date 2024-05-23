@@ -1,5 +1,6 @@
 {
 	"id": 44091,
+	"bind": "<br>Item Level <!--ilvl-->1",
 	"name": "Sharpened Scarlet Kris",
 	"icon": "inv_weapon_shortblade_03",
 	"dmgMin": 16,
@@ -13,5 +14,5 @@
 	"type": "ONE_HAND",
 	"stats": { "Resilience": 3, "Agility": 3, "Stamina": 4 },
 	"source": "VENDOR",
-	"sourceZone": 4197
+	"sourceZone": "Wintergrasp"
 }

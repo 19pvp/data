@@ -1,5 +1,6 @@
 {
 	"id": 24111,
+	"bind": "Binds when picked up",
 	"name": "Kurken Hide Jerkin",
 	"icon": "inv_chest_fur",
 	"popularity": 8,

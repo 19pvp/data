@@ -1,5 +1,6 @@
 {
 	"id": 52961,
+	"bind": "Binds when picked up",
 	"name": "Gnomish Parachute Scrap",
 	"icon": "inv_misc_cape_11",
 	"popularity": 10,

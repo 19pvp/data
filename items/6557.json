@@ -1,5 +1,6 @@
 {
 	"id": 6557,
+	"bind": "Binds when equipped",
 	"name": "Bard's Boots",
 	"icon": "inv_boots_05",
 	"popularity": 23,

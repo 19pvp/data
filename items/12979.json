@@ -1,5 +1,6 @@
 {
 	"id": 12979,
+	"bind": "Binds when equipped",
 	"name": "Firebane Cloak",
 	"icon": "inv_misc_cape_08",
 	"popularity": 21,

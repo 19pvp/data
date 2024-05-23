@@ -1,5 +1,6 @@
 {
 	"id": 62892,
+	"bind": "Binds when picked up",
 	"name": "Windrunner Band",
 	"icon": "inv_jewelry_ring_34",
 	"popularity": 20,

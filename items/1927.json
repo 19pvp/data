@@ -1,5 +1,6 @@
 {
 	"id": 1927,
+	"bind": "Binds when equipped",
 	"name": "Deadmines Cleaver",
 	"icon": "inv_axe_11",
 	"dmgMin": 24,
@@ -12,9 +13,9 @@
 	"subclass": "ONE_HANDED_AXE",
 	"type": "ONE_HAND",
 	"stats": { "Agility": 3, "Stamina": 3 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 594,
 	"sourceName": "Defias Henchman",
-	"sourceZone": 40,
+	"sourceZone": "Westfall",
 	"sourceType": "NPC"
 }

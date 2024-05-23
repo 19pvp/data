@@ -1,5 +1,6 @@
 {
 	"id": 14743,
+	"bind": "Binds when equipped",
 	"name": "Hulking Bands",
 	"icon": "inv_bracer_09",
 	"popularity": 21,

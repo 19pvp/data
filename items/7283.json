@@ -1,5 +1,6 @@
 {
 	"id": 7283,
+	"bind": "Binds when equipped",
 	"name": "Black Whelp Cloak",
 	"icon": "inv_misc_monsterscales_03",
 	"popularity": 15,
@@ -9,7 +10,8 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Stamina": 3 },
+	"source": "CRAFT",
 	"sourceId": 9070,
-	"sourceName": "Black Whelp Cloak",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL"
 }

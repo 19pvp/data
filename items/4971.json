@@ -1,5 +1,6 @@
 {
 	"id": 4971,
+	"bind": "Binds when picked up",
 	"name": "Skorn's Hammer",
 	"icon": "inv_hammer_09",
 	"dmgMin": 12,

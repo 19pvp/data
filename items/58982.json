@@ -1,5 +1,6 @@
 {
 	"id": 58982,
+	"bind": "Binds when picked up",
 	"name": "Foreman Gloves",
 	"icon": "inv_gauntlets_24",
 	"popularity": 4,

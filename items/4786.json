@@ -1,5 +1,6 @@
 {
 	"id": 4786,
+	"bind": "Binds when equipped",
 	"name": "Wise Man's Belt",
 	"icon": "inv_belt_02",
 	"popularity": 3,

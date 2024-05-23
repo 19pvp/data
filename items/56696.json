@@ -1,5 +1,6 @@
 {
 	"id": 56696,
+	"bind": "Binds when picked up",
 	"name": "Legacy of Teronis",
 	"icon": "inv_sword_06",
 	"dmgMin": 23,
@@ -14,5 +15,5 @@
 	"type": "ONE_HAND",
 	"stats": { "Hit Rating": 2, "Strength": 3, "Stamina": 1 },
 	"source": "QUEST",
-	"sourceZone": 331
+	"sourceZone": "Ashenvale"
 }

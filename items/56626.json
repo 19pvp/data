@@ -1,5 +1,6 @@
 {
 	"id": 56626,
+	"bind": "Binds when picked up",
 	"name": "Maestra's Gloves",
 	"icon": "inv_gauntlets_29",
 	"popularity": 5,
@@ -11,5 +12,5 @@
 	"type": "HANDS",
 	"stats": { "Stamina": 3, "Intellect": 3 },
 	"source": "QUEST",
-	"sourceZone": 331
+	"sourceZone": "Ashenvale"
 }

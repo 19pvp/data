@@ -1,5 +1,6 @@
 {
 	"id": 59579,
+	"bind": "Binds when picked up",
 	"name": "Nozzlepot Leggings",
 	"icon": "inv_pants_06",
 	"popularity": 5,

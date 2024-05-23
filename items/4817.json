@@ -1,5 +1,6 @@
 {
 	"id": 4817,
+	"bind": "Binds when equipped",
 	"name": "Blessed Claymore",
 	"icon": "inv_sword_13",
 	"dmgMin": 29,

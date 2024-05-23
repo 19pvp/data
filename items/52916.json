@@ -1,5 +1,6 @@
 {
 	"id": 52916,
+	"bind": "Binds when picked up",
 	"name": "Gunner's Gloves",
 	"icon": "inv_gauntlets_24",
 	"popularity": 19,

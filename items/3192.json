@@ -1,5 +1,6 @@
 {
 	"id": 3192,
+	"bind": "Binds when equipped",
 	"name": "Short Bastard Sword",
 	"icon": "inv_sword_40",
 	"dmgMin": 20,

@@ -1,5 +1,6 @@
 {
 	"id": 46874,
+	"bind": "Binds when picked up",
 	"name": "Argent Crusader's Tabard",
 	"icon": "inv_shirt_guildtabard_01",
 	"popularity": 169,
@@ -11,7 +12,7 @@
 	"source": "VENDOR",
 	"sourceId": 34885,
 	"sourceName": "Dame Evniki Kapsalis",
-	"sourceZone": 210,
+	"sourceZone": "Icecrown",
 	"sourceType": "NPC",
 	"spell": {
 		"type": "Use",

@@ -1,5 +1,6 @@
 {
 	"id": 68755,
+	"bind": "Binds when equipped",
 	"name": "Imbued Disciple's Gloves",
 	"icon": "inv_gauntlets_21",
 	"popularity": 20,

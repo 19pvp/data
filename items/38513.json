@@ -1,5 +1,6 @@
 {
 	"id": 38513,
+	"bind": "Binds when equipped",
 	"name": "Boarhide Leggings",
 	"icon": "inv_pants_12",
 	"popularity": 25,
@@ -9,9 +10,9 @@
 	"subclass": "LEATHER",
 	"type": "LEGS",
 	"stats": { "Agility": 2, "Stamina": 3 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 100,
 	"sourceName": "Gruff Swiftbite",
-	"sourceZone": 12,
+	"sourceZone": "Elwynn Forest",
 	"sourceType": "NPC"
 }

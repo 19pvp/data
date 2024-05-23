@@ -1,5 +1,6 @@
 {
 	"id": 17692,
+	"bind": "Binds when picked up",
 	"name": "Horn Ring",
 	"icon": "inv_jewelry_ring_02",
 	"popularity": 8,

@@ -1,5 +1,6 @@
 {
 	"id": 52913,
+	"bind": "Binds when picked up",
 	"name": "Witchdoctor Leggings",
 	"icon": "inv_pants_02",
 	"popularity": 10,

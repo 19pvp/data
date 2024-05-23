@@ -1,5 +1,6 @@
 {
 	"id": 57166,
+	"bind": "Binds when picked up",
 	"name": "Advanced Night Web Crossbow",
 	"icon": "inv_weapon_crossbow_02",
 	"dmgMin": 14,

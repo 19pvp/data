@@ -1,5 +1,6 @@
 {
 	"id": 3065,
+	"bind": "Binds when equipped",
 	"name": "Bright Boots",
 	"icon": "inv_boots_07",
 	"popularity": 6,

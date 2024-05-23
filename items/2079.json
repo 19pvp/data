@@ -1,5 +1,6 @@
 {
 	"id": 2079,
+	"bind": "Binds when equipped",
 	"name": "Sergeant's Warhammer",
 	"icon": "inv_hammer_11",
 	"dmgMin": 12,

@@ -1,5 +1,6 @@
 {
 	"id": 2059,
+	"bind": "Binds when equipped",
 	"name": "Sentry Cloak",
 	"icon": "inv_misc_cape_04",
 	"popularity": 4,

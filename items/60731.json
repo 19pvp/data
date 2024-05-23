@@ -1,1 +1,6 @@
-{ "id": "60731", "icon": "inv_misc_bag_12", "quality": "COMMON" }
+{
+	"id": "60731",
+	"bind": "Binds when picked up",
+	"icon": "inv_misc_bag_12",
+	"quality": "COMMON"
+}

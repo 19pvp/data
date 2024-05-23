@@ -1,5 +1,6 @@
 {
 	"id": 14114,
+	"bind": "Binds when equipped",
 	"name": "Aboriginal Footwraps",
 	"icon": "inv_boots_wolf",
 	"popularity": 16,

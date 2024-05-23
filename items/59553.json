@@ -1,5 +1,6 @@
 {
 	"id": 59553,
+	"bind": "Binds when picked up",
 	"name": "Highstrider Boots",
 	"icon": "inv_boots_chain_02",
 	"popularity": 7,

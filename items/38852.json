@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Intellect": 7 },
+	"source": "CRAFT",
 	"sourceId": 20008,
-	"sourceName": "Enchant Bracer - Greater Intellect",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

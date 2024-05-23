@@ -1,5 +1,6 @@
 {
 	"id": 59544,
+	"bind": "Binds when picked up",
 	"name": "Kargal's Breastplate",
 	"icon": "inv_chest_chain_08",
 	"popularity": 6,

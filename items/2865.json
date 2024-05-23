@@ -1,5 +1,6 @@
 {
 	"id": 2865,
+	"bind": "Binds when equipped",
 	"name": "Rough Bronze Leggings",
 	"icon": "inv_pants_03",
 	"popularity": 20,
@@ -9,7 +10,8 @@
 	"subclass": "MAIL",
 	"type": "LEGS",
 	"stats": { "Strength": 4, "Stamina": 5 },
+	"source": "CRAFT",
 	"sourceId": 2668,
-	"sourceName": "Rough Bronze Leggings",
+	"sourceName": "Blacksmithing",
 	"sourceType": "SPELL"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 52627,
+	"bind": "Binds when picked up",
 	"name": "Gloves of the Mailed Fist",
 	"icon": "inv_gauntlets_04",
 	"popularity": 22,

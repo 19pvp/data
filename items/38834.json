@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Herbalism": 5 },
+	"source": "CRAFT",
 	"sourceId": 13868,
-	"sourceName": "Enchant Gloves - Advanced Herbalism",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

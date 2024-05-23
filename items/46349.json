@@ -1,5 +1,6 @@
 {
 	"id": 46349,
+	"bind": "Binds when picked up",
 	"name": "Chef's Hat",
 	"icon": "achievement_profession_chefhat",
 	"popularity": 44,

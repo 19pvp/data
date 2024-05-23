@@ -9,9 +9,9 @@
 	"subclass": "RINGS",
 	"type": "FINGER",
 	"stats": { "Stamina": -5, "Intellect": 7 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 1112,
 	"sourceName": "Leech Widow",
-	"sourceZone": 11,
+	"sourceZone": "Wetlands",
 	"sourceType": "NPC"
 }

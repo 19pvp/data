@@ -1,5 +1,6 @@
 {
 	"id": 2309,
+	"bind": "Binds when equipped",
 	"name": "Embossed Leather Boots",
 	"icon": "inv_boots_05",
 	"popularity": 6,
@@ -9,7 +10,8 @@
 	"subclass": "LEATHER",
 	"type": "FEET",
 	"stats": { "Agility": 2, "Stamina": 2 },
+	"source": "CRAFT",
 	"sourceId": 2161,
-	"sourceName": "Embossed Leather Boots",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL"
 }

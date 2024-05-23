@@ -1,5 +1,6 @@
 {
 	"id": 56657,
+	"bind": "Binds when picked up",
 	"name": "Gloves of Unforgotten Vows",
 	"icon": "inv_gauntlets_30",
 	"popularity": 23,

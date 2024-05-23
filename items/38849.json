@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Stamina": 7 },
+	"source": "CRAFT",
 	"sourceId": 13945,
-	"sourceName": "Enchant Bracer - Greater Stamina",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

@@ -1,5 +1,6 @@
 {
 	"id": 60715,
+	"bind": "Binds when picked up",
 	"name": "Vial of Chloroform",
 	"icon": "inv_alchemy_leadedvial",
 	"popularity": 6,

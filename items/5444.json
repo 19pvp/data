@@ -1,5 +1,6 @@
 {
 	"id": 5444,
+	"bind": "Binds when picked up",
 	"name": "Miner's Cape",
 	"icon": "inv_misc_cape_11",
 	"popularity": 6,
@@ -9,6 +10,6 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Critical Strike Rating": 4, "Strength": 4 },
-	"source": "DROP",
-	"sourceZone": 1581
+	"source": "DUNGEON",
+	"sourceZone": "The Deadmines"
 }

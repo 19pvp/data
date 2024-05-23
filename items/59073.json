@@ -1,5 +1,6 @@
 {
 	"id": 59073,
+	"bind": "Binds when picked up",
 	"name": "Discolored Bracers",
 	"icon": "inv_bracer_12",
 	"popularity": 20,

@@ -1,5 +1,6 @@
 {
 	"id": 5326,
+	"bind": "Binds when picked up",
 	"name": "Flaring Baton",
 	"icon": "inv_staff_02",
 	"dmgMin": 18,

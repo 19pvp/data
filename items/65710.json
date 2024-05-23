@@ -1,5 +1,6 @@
 {
 	"id": 65710,
+	"bind": "Binds when picked up",
 	"name": "Creeping Boots",
 	"icon": "inv_boots_chain_07",
 	"popularity": 4,

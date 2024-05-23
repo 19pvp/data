@@ -1,5 +1,6 @@
 {
 	"id": 52486,
+	"bind": "Binds when equipped",
 	"name": "Jeweler's Sapphire Monocle",
 	"icon": "inv_helmet_44",
 	"popularity": 4,
@@ -8,7 +9,8 @@
 	"quality": "RARE",
 	"subclass": "MISC",
 	"type": "HEAD",
+	"source": "CRAFT",
 	"sourceId": 73626,
-	"sourceName": "Jeweler's Sapphire Monocle",
+	"sourceName": "Jewelcrafting",
 	"sourceType": "SPELL"
 }

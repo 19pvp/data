@@ -1,5 +1,6 @@
 {
 	"id": 58930,
+	"bind": "Binds when picked up",
 	"name": "House Wrynn Staff",
 	"icon": "inv_staff_07",
 	"dmgMin": 36,

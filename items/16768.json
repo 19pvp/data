@@ -1,5 +1,6 @@
 {
 	"id": 16768,
+	"bind": "Binds when picked up",
 	"name": "Furbolg Medicine Pouch",
 	"icon": "inv_misc_bag_11",
 	"popularity": 39,
@@ -12,7 +13,7 @@
 	"source": "VENDOR",
 	"sourceId": 11555,
 	"sourceName": "Gorn One Eye",
-	"sourceZone": 361,
+	"sourceZone": "Felwood",
 	"sourceType": "NPC",
 	"spell": {
 		"type": "Use",

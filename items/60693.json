@@ -1,5 +1,6 @@
 {
 	"id": 60693,
+	"bind": "Binds when picked up",
 	"name": "Ventillated Leggings",
 	"icon": "inv_pants_08",
 	"popularity": 18,

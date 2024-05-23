@@ -1,5 +1,6 @@
 {
 	"id": 58998,
+	"bind": "Binds when picked up",
 	"name": "Trogg Kickers",
 	"icon": "inv_boots_08",
 	"popularity": 26,
@@ -11,5 +12,5 @@
 	"type": "FEET",
 	"stats": { "Agility": 1, "Stamina": 1 },
 	"source": "QUEST",
-	"sourceZone": 38
+	"sourceZone": "Loch Modan"
 }

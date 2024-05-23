@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Fishing": 5 },
+	"source": "CRAFT",
 	"sourceId": 71692,
-	"sourceName": "Enchant Gloves - Angler",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

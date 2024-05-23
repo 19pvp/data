@@ -1,5 +1,6 @@
 {
 	"id": 69222,
+	"bind": "Binds when picked up",
 	"name": "Kadrak's Axe",
 	"icon": "inv_axe_11",
 	"dmgMin": 40,

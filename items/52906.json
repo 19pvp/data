@@ -1,5 +1,6 @@
 {
 	"id": 52906,
+	"bind": "Binds when picked up",
 	"name": "Leftover Mechachicken Legs",
 	"icon": "inv_pants_mail_36v2",
 	"popularity": 17,

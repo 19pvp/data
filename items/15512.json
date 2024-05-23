@@ -1,5 +1,6 @@
 {
 	"id": 15512,
+	"bind": "Binds when equipped",
 	"name": "Grunt's Shield",
 	"icon": "inv_shield_11",
 	"popularity": 5,

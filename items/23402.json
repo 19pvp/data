@@ -1,5 +1,6 @@
 {
 	"id": 23402,
+	"bind": "Binds when picked up",
 	"name": "Arcanist's Dagger",
 	"icon": "inv_weapon_shortblade_05",
 	"dmgMin": 8,

@@ -1,5 +1,6 @@
 {
 	"id": 21934,
+	"bind": "Binds when equipped",
 	"name": "Ornate Tigerseye Necklace",
 	"icon": "inv_jewelry_necklace_02",
 	"popularity": 7,
@@ -9,7 +10,8 @@
 	"subclass": "AMULETS",
 	"type": "NECK",
 	"stats": { "Spirit": 2 },
+	"source": "CRAFT",
 	"sourceId": 26928,
-	"sourceName": "Ornate Tigerseye Necklace",
+	"sourceName": "Jewelcrafting",
 	"sourceType": "SPELL"
 }

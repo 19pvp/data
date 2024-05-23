@@ -7,8 +7,9 @@
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Weapon Damage": 2 },
+	"source": "CRAFT",
 	"sourceId": 13503,
-	"sourceName": "Enchant Weapon - Lesser Striking",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

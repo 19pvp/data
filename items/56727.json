@@ -1,5 +1,6 @@
 {
 	"id": 56727,
+	"bind": "Binds when picked up",
 	"name": "Scrupleless Bracers",
 	"icon": "inv_bracer_07",
 	"popularity": 5,

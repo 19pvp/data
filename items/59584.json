@@ -1,5 +1,6 @@
 {
 	"id": 59584,
+	"bind": "Binds when picked up",
 	"name": "Foolhardy Bracers",
 	"icon": "inv_bracer_29",
 	"popularity": 8,

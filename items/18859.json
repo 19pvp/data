@@ -10,7 +10,7 @@
 	"subclass": "TRINKETS",
 	"type": "TRINKET",
 	"source": "VENDOR",
-	"sourceZone": 1519,
+	"sourceZone": "Stormwind City",
 	"spell": {
 		"type": "Use",
 		"id": 42292,

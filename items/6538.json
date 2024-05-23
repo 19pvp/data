@@ -1,5 +1,6 @@
 {
 	"id": 6538,
+	"bind": "Binds when equipped",
 	"name": "Willow Robe",
 	"icon": "inv_chest_cloth_15",
 	"popularity": 15,

@@ -1,5 +1,6 @@
 {
 	"id": 14746,
+	"bind": "Binds when equipped",
 	"name": "Hulking Belt",
 	"icon": "inv_belt_22",
 	"popularity": 9,

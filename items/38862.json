@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Stamina": 7 },
+	"source": "CRAFT",
 	"sourceId": 20020,
-	"sourceName": "Enchant Boots - Greater Stamina",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

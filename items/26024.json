@@ -1,5 +1,6 @@
 {
 	"id": 26024,
+	"bind": "Binds when picked up",
 	"name": "Vindicator's Leather Moccasins",
 	"icon": "inv_boots_fabric_01",
 	"popularity": 6,

@@ -1,5 +1,6 @@
 {
 	"id": 14174,
+	"bind": "Binds when equipped",
 	"name": "Buccaneer's Boots",
 	"icon": "inv_boots_05",
 	"popularity": 12,

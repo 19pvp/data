@@ -1,5 +1,6 @@
 {
 	"id": 15009,
+	"bind": "Binds when equipped",
 	"name": "Primal Leggings",
 	"icon": "inv_pants_05",
 	"popularity": 7,

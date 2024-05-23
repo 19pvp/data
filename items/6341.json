@@ -1,5 +1,6 @@
 {
 	"id": 6341,
+	"bind": "Binds when picked up",
 	"name": "Eerie Stable Lantern",
 	"icon": "inv_misc_lantern_01",
 	"popularity": 13,
@@ -9,6 +10,6 @@
 	"subclass": "OFF_HAND_FRILLS",
 	"type": "HELD_IN_OFF_HAND",
 	"stats": { "Stamina": 4, "Intellect": 4 },
-	"source": "DROP",
-	"sourceZone": 209
+	"source": "DUNGEON",
+	"sourceZone": "Shadowfang Keep"
 }

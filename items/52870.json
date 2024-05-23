@@ -1,5 +1,6 @@
 {
 	"id": 52870,
+	"bind": "Binds when picked up",
 	"name": "Darkspear Druidic Staff",
 	"icon": "inv_staff_18",
 	"dmgMin": 2.8,

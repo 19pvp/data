@@ -1,5 +1,6 @@
 {
 	"id": 14725,
+	"bind": "Binds when equipped",
 	"name": "War Paint Waistband",
 	"icon": "inv_belt_25",
 	"popularity": 7,

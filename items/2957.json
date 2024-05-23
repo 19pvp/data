@@ -1,5 +1,6 @@
 {
 	"id": 2957,
+	"bind": "Binds when equipped",
 	"name": "Journeyman's Vest",
 	"icon": "inv_chest_cloth_06",
 	"popularity": 12,

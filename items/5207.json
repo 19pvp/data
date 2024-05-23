@@ -1,5 +1,6 @@
 {
 	"id": 5207,
+	"bind": "Binds when equipped",
 	"name": "Opaque Wand",
 	"icon": "inv_wand_07",
 	"dmgMin": 14,

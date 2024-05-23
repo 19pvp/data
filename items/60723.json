@@ -1,5 +1,6 @@
 {
 	"id": 60723,
+	"bind": "Binds when picked up",
 	"name": "Bravo Company Monnions",
 	"icon": "inv_shoulder_12",
 	"popularity": 18,

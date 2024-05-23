@@ -1,5 +1,6 @@
 {
 	"id": 53450,
+	"bind": "Binds when picked up",
 	"name": "Treaty Breaker Gloves",
 	"icon": "inv_gauntlets_15",
 	"popularity": 21,

@@ -1,5 +1,6 @@
 {
 	"id": 59574,
+	"bind": "Binds when picked up",
 	"name": "Conspirator's Slippers",
 	"icon": "inv_boots_cloth_01",
 	"popularity": 27,

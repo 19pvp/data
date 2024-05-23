@@ -1,5 +1,6 @@
 {
 	"id": 3223,
+	"bind": "Binds when equipped",
 	"name": "Frostmane Scepter",
 	"icon": "inv_mace_07",
 	"dmgMin": 9,
@@ -12,9 +13,9 @@
 	"subclass": "ONE_HANDED_MACE",
 	"type": "ONE_HAND",
 	"stats": { "Stamina": 1 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 1260,
 	"sourceName": "Great Father Arctikus",
-	"sourceZone": 1,
+	"sourceZone": "Dun Morogh",
 	"sourceType": "NPC"
 }

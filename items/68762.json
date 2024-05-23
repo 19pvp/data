@@ -1,5 +1,6 @@
 {
 	"id": 68762,
+	"bind": "Binds when equipped",
 	"name": "Imbued Cadet Cloak",
 	"icon": "inv_misc_cape_01",
 	"popularity": 8,

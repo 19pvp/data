@@ -1,5 +1,6 @@
 {
 	"id": 65670,
+	"bind": "Binds when picked up",
 	"name": "Spider-Handler's Mantle",
 	"icon": "inv_shoulder_25",
 	"popularity": 6,

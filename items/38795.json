@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Shadow Resistance": 10 },
+	"source": "CRAFT",
 	"sourceId": 13522,
-	"sourceName": "Enchant Cloak - Lesser Shadow Resistance",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

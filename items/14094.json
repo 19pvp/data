@@ -1,5 +1,6 @@
 {
 	"id": 14094,
+	"bind": "Binds when equipped",
 	"name": "Beaded Wraps",
 	"icon": "inv_shirt_05",
 	"popularity": 5,

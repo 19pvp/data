@@ -8,6 +8,6 @@
 	"quality": "RARE",
 	"subclass": "CLOTH",
 	"type": "HEAD",
-	"source": "DROP",
-	"sourceZone": 796
+	"source": "DUNGEON",
+	"sourceZone": "Scarlet Monastery"
 }

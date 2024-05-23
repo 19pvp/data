@@ -1,5 +1,6 @@
 {
 	"id": 59580,
+	"bind": "Binds when picked up",
 	"name": "Sharp Poker",
 	"icon": "inv_spear_05",
 	"dmgMin": 25,

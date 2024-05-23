@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Strength": 5 },
+	"source": "CRAFT",
 	"sourceId": 13887,
-	"sourceName": "Enchant Gloves - Strength",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

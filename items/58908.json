@@ -1,5 +1,6 @@
 {
 	"id": 58908,
+	"bind": "Binds when picked up",
 	"name": "Scene Investigator's Wrap",
 	"icon": "inv_misc_cape_16",
 	"popularity": 5,

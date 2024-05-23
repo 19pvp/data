@@ -1,5 +1,6 @@
 {
 	"id": 62842,
+	"bind": "Binds when picked up",
 	"name": "Steel Thunder Belt",
 	"icon": "inv_belt_45c",
 	"popularity": 5,

@@ -1,5 +1,6 @@
 {
 	"id": 58909,
+	"bind": "Binds when picked up",
 	"name": "Golden Sunshine Cloak",
 	"icon": "inv_misc_cape_06",
 	"popularity": 4,

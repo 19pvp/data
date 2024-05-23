@@ -1,5 +1,6 @@
 {
 	"id": 26051,
+	"bind": "Binds when picked up",
 	"name": "2 Stone Sledgehammer",
 	"icon": "inv_mace_02",
 	"dmgMin": 21,

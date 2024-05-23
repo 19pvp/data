@@ -1,5 +1,6 @@
 {
 	"id": 9782,
+	"bind": "Binds when equipped",
 	"name": "Bandit Jerkin",
 	"icon": "inv_shirt_11",
 	"popularity": 17,

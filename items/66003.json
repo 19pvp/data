@@ -1,5 +1,6 @@
 {
 	"id": 66003,
+	"bind": "Binds when picked up",
 	"name": "Pythas' Vest",
 	"icon": "inv_chest_chain_17",
 	"popularity": 10,

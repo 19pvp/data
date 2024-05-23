@@ -1,5 +1,6 @@
 {
 	"id": 26052,
+	"bind": "Binds when picked up",
 	"name": "Vindicator's Smasher",
 	"icon": "inv_mace_33",
 	"dmgMin": 24,

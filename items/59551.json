@@ -1,5 +1,6 @@
 {
 	"id": 59551,
+	"bind": "Binds when picked up",
 	"name": "Tangled Thread Gloves",
 	"icon": "inv_gauntlets_27",
 	"popularity": 5,

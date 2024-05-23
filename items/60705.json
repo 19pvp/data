@@ -1,5 +1,6 @@
 {
 	"id": 60705,
+	"bind": "Binds when picked up",
 	"name": "Legguards of Invasion",
 	"icon": "inv_pants_03",
 	"popularity": 10,

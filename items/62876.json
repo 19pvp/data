@@ -1,5 +1,6 @@
 {
 	"id": 62876,
+	"bind": "Binds when picked up",
 	"name": "Relios's Mace",
 	"icon": "inv_mace_06",
 	"dmgMin": 10,

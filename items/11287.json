@@ -1,5 +1,6 @@
 {
 	"id": 11287,
+	"bind": "Binds when equipped",
 	"name": "Lesser Magic Wand",
 	"icon": "inv_staff_02",
 	"dmgMin": 7,
@@ -11,7 +12,8 @@
 	"quality": "UNCOMMON",
 	"subclass": "WAND",
 	"type": "RANGED",
+	"source": "CRAFT",
 	"sourceId": 14293,
-	"sourceName": "Lesser Magic Wand",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL"
 }

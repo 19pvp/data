@@ -1,5 +1,6 @@
 {
 	"id": 9786,
+	"bind": "Binds when equipped",
 	"name": "Raider's Cloak",
 	"icon": "inv_misc_cape_18",
 	"popularity": 15,

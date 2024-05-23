@@ -1,5 +1,6 @@
 {
 	"id": 59535,
+	"bind": "Binds when picked up",
 	"name": "Togrik's Legguards",
 	"icon": "inv_pants_mail_05",
 	"popularity": 8,

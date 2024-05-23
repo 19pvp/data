@@ -1,5 +1,6 @@
 {
 	"id": 52660,
+	"bind": "Binds when picked up",
 	"name": "Incorruptable Shawl",
 	"icon": "inv_misc_cape_11",
 	"popularity": 9,

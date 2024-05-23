@@ -1,5 +1,6 @@
 {
 	"id": 1220,
+	"bind": "Binds when equipped",
 	"name": "Lupine Axe",
 	"icon": "inv_axe_14",
 	"dmgMin": 24,
@@ -12,9 +13,9 @@
 	"subclass": "TWO_HANDED_AXE",
 	"type": "TWO_HAND",
 	"stats": { "Agility": 6 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 580,
 	"sourceName": "Redridge Drudger",
-	"sourceZone": 44,
+	"sourceZone": "Redridge Mountains",
 	"sourceType": "NPC"
 }

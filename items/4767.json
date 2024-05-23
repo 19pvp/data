@@ -1,5 +1,6 @@
 {
 	"id": 4767,
+	"bind": "Binds when equipped",
 	"name": "Coppercloth Gloves",
 	"icon": "inv_gauntlets_05",
 	"popularity": 10,
@@ -9,9 +10,9 @@
 	"subclass": "CLOTH",
 	"type": "HANDS",
 	"stats": { "Intellect": 3 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 3578,
 	"sourceName": "Ambermill Miner",
-	"sourceZone": 130,
+	"sourceZone": "Silverpine Forest",
 	"sourceType": "NPC"
 }

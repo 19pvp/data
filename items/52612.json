@@ -1,5 +1,6 @@
 {
 	"id": 52612,
+	"bind": "Binds when picked up",
 	"name": "Planter's Gloves",
 	"icon": "inv_gauntlets_05",
 	"popularity": 14,

@@ -1,5 +1,6 @@
 {
 	"id": 59540,
+	"bind": "Binds when picked up",
 	"name": "Quilboar Skin Gloves",
 	"icon": "inv_gauntlets_21",
 	"popularity": 9,

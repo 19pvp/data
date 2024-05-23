@@ -1,5 +1,6 @@
 {
 	"id": 59076,
+	"bind": "Binds when picked up",
 	"name": "Wand of Infectious Dementia",
 	"icon": "inv_wand_34",
 	"dmgMin": 17,

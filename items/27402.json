@@ -1,5 +1,6 @@
 {
 	"id": 27402,
+	"bind": "Binds when picked up",
 	"name": "Huntsman's Crossbow",
 	"icon": "inv_weapon_crossbow_04",
 	"dmgMin": 25,

@@ -1,5 +1,6 @@
 {
 	"id": 56639,
+	"bind": "Binds when picked up",
 	"name": "Mourner's Stole",
 	"icon": "inv_shoulder_25",
 	"popularity": 13,

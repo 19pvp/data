@@ -1,5 +1,6 @@
 {
 	"id": 28153,
+	"bind": "Binds when picked up",
 	"name": "Farstrider's Shield",
 	"icon": "inv_shield_04",
 	"popularity": 7,

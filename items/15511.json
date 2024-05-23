@@ -1,5 +1,6 @@
 {
 	"id": 15511,
+	"bind": "Binds when equipped",
 	"name": "Grunt's Legguards",
 	"icon": "inv_pants_03",
 	"popularity": 5,

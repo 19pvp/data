@@ -1,5 +1,6 @@
 {
 	"id": 26014,
+	"bind": "Binds when picked up",
 	"name": "Maatparm's Fungus Lined Cuffs",
 	"icon": "inv_bracer_10",
 	"popularity": 19,

@@ -1,5 +1,6 @@
 {
 	"id": 65690,
+	"bind": "Binds when picked up",
 	"name": "Slaver's Leggings",
 	"icon": "inv_pants_leather_14",
 	"popularity": 6,

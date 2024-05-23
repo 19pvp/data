@@ -1,5 +1,6 @@
 {
 	"id": 12987,
+	"bind": "Binds when equipped",
 	"name": "Darkweave Breeches",
 	"icon": "inv_pants_06",
 	"popularity": 8,

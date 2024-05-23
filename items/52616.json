@@ -1,5 +1,6 @@
 {
 	"id": 52616,
+	"bind": "Binds when picked up",
 	"name": "Bracers of the Ancient Grove",
 	"icon": "inv_bracer_05",
 	"popularity": 19,

@@ -1,5 +1,6 @@
 {
 	"id": 15492,
+	"bind": "Binds when equipped",
 	"name": "Bloodspattered Sash",
 	"icon": "inv_belt_13",
 	"popularity": 8,

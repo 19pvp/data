@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Health": 25 },
+	"source": "CRAFT",
 	"sourceId": 7857,
-	"sourceName": "Enchant Chest - Health",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

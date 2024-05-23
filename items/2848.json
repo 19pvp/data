@@ -1,5 +1,6 @@
 {
 	"id": 2848,
+	"bind": "Binds when equipped",
 	"name": "Bronze Mace",
 	"icon": "inv_mace_08",
 	"dmgMin": 20,
@@ -12,7 +13,8 @@
 	"subclass": "ONE_HANDED_MACE",
 	"type": "MAIN_HAND",
 	"stats": { "Hit Rating": 3 },
+	"source": "CRAFT",
 	"sourceId": 2740,
-	"sourceName": "Bronze Mace",
+	"sourceName": "Blacksmithing",
 	"sourceType": "SPELL"
 }

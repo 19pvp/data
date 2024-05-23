@@ -9,7 +9,8 @@
 	"subclass": "RINGS",
 	"type": "FINGER",
 	"stats": { "Strength": 2 },
+	"source": "CRAFT",
 	"sourceId": 32179,
-	"sourceName": "Tigerseye Band",
+	"sourceName": "Jewelcrafting",
 	"sourceType": "SPELL"
 }

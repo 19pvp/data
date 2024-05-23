@@ -1,5 +1,6 @@
 {
 	"id": 15526,
+	"bind": "Binds when equipped",
 	"name": "Sentry's Cape",
 	"icon": "inv_misc_cape_11",
 	"popularity": 5,

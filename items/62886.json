@@ -1,5 +1,6 @@
 {
 	"id": 62886,
+	"bind": "Binds when picked up",
 	"name": "Vest of Forsaken Necromancy",
 	"icon": "inv_chest_cloth_31",
 	"popularity": 8,

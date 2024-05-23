@@ -1,5 +1,6 @@
 {
 	"id": 3314,
+	"bind": "Binds when equipped",
 	"name": "Ceremonial Leather Gloves",
 	"icon": "inv_gauntlets_18",
 	"popularity": 20,

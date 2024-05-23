@@ -1,5 +1,6 @@
 {
 	"id": 4303,
+	"bind": "Binds when equipped",
 	"name": "Cranial Thumper",
 	"icon": "inv_hammer_17",
 	"dmgMin": 12,
@@ -12,9 +13,9 @@
 	"subclass": "ONE_HANDED_MACE",
 	"type": "ONE_HAND",
 	"stats": { "Strength": 1 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 1911,
 	"sourceName": "Deeb",
-	"sourceZone": 85,
+	"sourceZone": "Tirisfal Glades",
 	"sourceType": "NPC"
 }

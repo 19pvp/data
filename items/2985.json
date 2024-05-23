@@ -1,5 +1,6 @@
 {
 	"id": 2985,
+	"bind": "Binds when equipped",
 	"name": "Inscribed Leather Breastplate",
 	"icon": "inv_chest_leather_09",
 	"popularity": 8,

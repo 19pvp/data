@@ -1,5 +1,6 @@
 {
 	"id": 2981,
+	"bind": "Binds when equipped",
 	"name": "Seer's Robe",
 	"icon": "inv_chest_cloth_08",
 	"popularity": 12,

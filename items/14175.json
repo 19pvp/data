@@ -1,5 +1,6 @@
 {
 	"id": 14175,
+	"bind": "Binds when equipped",
 	"name": "Buccaneer's Vest",
 	"icon": "inv_shirt_08",
 	"popularity": 63,

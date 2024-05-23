@@ -1,5 +1,6 @@
 {
 	"id": 62884,
+	"bind": "Binds when picked up",
 	"name": "\"Bear\" Hide Boots",
 	"icon": "inv_boots_07",
 	"popularity": 11,

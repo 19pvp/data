@@ -1,5 +1,6 @@
 {
 	"id": 53418,
+	"bind": "Binds when picked up",
 	"name": "Honorary Gob Squad Shield",
 	"icon": "inv_shield_77",
 	"popularity": 8,

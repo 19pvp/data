@@ -1,5 +1,6 @@
 {
 	"id": 11965,
+	"bind": "Binds when equipped",
 	"name": "Quartz Ring",
 	"icon": "inv_jewelry_ring_05",
 	"popularity": 7,

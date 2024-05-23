@@ -1,5 +1,6 @@
 {
 	"id": 6238,
+	"bind": "Binds when equipped",
 	"name": "Brown Linen Robe",
 	"icon": "inv_chest_cloth_21",
 	"popularity": 5,
@@ -9,7 +10,8 @@
 	"subclass": "CLOTH",
 	"type": "CHEST",
 	"stats": { "Spirit": 1 },
+	"source": "CRAFT",
 	"sourceId": 7623,
-	"sourceName": "Brown Linen Robe",
+	"sourceName": "Tailoring",
 	"sourceType": "SPELL"
 }

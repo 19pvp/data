@@ -1,5 +1,6 @@
 {
 	"id": 56627,
+	"bind": "Binds when picked up",
 	"name": "Labor Camp Frock",
 	"icon": "inv_chest_cloth_01",
 	"popularity": 7,

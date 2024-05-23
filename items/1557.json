@@ -1,5 +1,6 @@
 {
 	"id": 1557,
+	"bind": "Binds when picked up",
 	"name": "Buckler of the Seas",
 	"icon": "inv_shield_09",
 	"popularity": 40,
@@ -11,5 +12,5 @@
 	"type": "SHIELD",
 	"stats": { "Spirit": 3 },
 	"source": "QUEST",
-	"sourceZone": 40
+	"sourceZone": "Westfall"
 }

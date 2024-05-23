@@ -1,5 +1,6 @@
 {
 	"id": 62865,
+	"bind": "Binds when picked up",
 	"name": "Emberstone Breastplate",
 	"icon": "inv_chest_chain_06",
 	"popularity": 20,

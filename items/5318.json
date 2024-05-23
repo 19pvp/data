@@ -1,5 +1,6 @@
 {
 	"id": 5318,
+	"bind": "Binds when picked up",
 	"name": "Zhovur Axe",
 	"icon": "inv_weapon_halberd_02",
 	"dmgMin": 32,

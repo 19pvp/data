@@ -1,5 +1,6 @@
 {
 	"id": 56729,
+	"bind": "Binds when picked up",
 	"name": "Forest Heart Piercer",
 	"icon": "inv_sword_28",
 	"dmgMin": 20,

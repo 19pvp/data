@@ -1,5 +1,6 @@
 {
 	"id": 59529,
+	"bind": "Binds when picked up",
 	"name": "Flame Retardant Sheet",
 	"icon": "inv_misc_cape_18",
 	"popularity": 5,

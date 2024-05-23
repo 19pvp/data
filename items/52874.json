@@ -1,5 +1,6 @@
 {
 	"id": 52874,
+	"bind": "Binds when picked up",
 	"name": "Darkspear Soothsayer Robes",
 	"icon": "inv_chest_cloth_84v4",
 	"popularity": 23,

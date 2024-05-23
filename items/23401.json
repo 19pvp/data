@@ -1,5 +1,6 @@
 {
 	"id": 23401,
+	"bind": "Binds when picked up",
 	"name": "Divining Crystal",
 	"icon": "inv_misc_orb_01",
 	"popularity": 27,

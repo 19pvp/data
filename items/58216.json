@@ -1,5 +1,6 @@
 {
 	"id": "58216",
+	"bind": "Binds when picked up",
 	"icon": "inv_chest_cloth_84",
 	"armor": 24,
 	"quality": "COMMON"

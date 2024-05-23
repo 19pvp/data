@@ -1,5 +1,6 @@
 {
 	"id": 2175,
+	"bind": "Binds when equipped",
 	"name": "Shadowhide Battle Axe",
 	"icon": "inv_throwingaxe_06",
 	"dmgMin": 39,
@@ -12,9 +13,9 @@
 	"subclass": "TWO_HANDED_AXE",
 	"type": "TWO_HAND",
 	"stats": { "Strength": 6, "Stamina": 3 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 568,
 	"sourceName": "Shadowhide Warrior",
-	"sourceZone": 44,
+	"sourceZone": "Redridge Mountains",
 	"sourceType": "NPC"
 }

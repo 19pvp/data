@@ -1,5 +1,6 @@
 {
 	"id": 6967,
+	"bind": "Binds when picked up",
 	"name": "Elunite Sword",
 	"icon": "inv_sword_04",
 	"dmgMin": 11,

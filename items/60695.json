@@ -1,5 +1,6 @@
 {
 	"id": 60695,
+	"bind": "Binds when picked up",
 	"name": "Cloak of Insomnia",
 	"icon": "inv_misc_cape_02",
 	"popularity": 19,

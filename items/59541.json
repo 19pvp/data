@@ -1,5 +1,6 @@
 {
 	"id": 59541,
+	"bind": "Binds when picked up",
 	"name": "Mankrik's Boar Slicer",
 	"icon": "inv_axe_64",
 	"dmgMin": 22,

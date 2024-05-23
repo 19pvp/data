@@ -1,5 +1,6 @@
 {
 	"id": 68796,
+	"bind": "Binds when picked up",
 	"name": "Reinforced Fishing Line",
 	"icon": "inv_fabric_mageweave_02",
 	"popularity": 6,

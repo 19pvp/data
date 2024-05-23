@@ -9,7 +9,8 @@
 	"subclass": "RINGS",
 	"type": "FINGER",
 	"stats": { "Intellect": 1 },
+	"source": "CRAFT",
 	"sourceId": 26925,
-	"sourceName": "Woven Copper Ring",
+	"sourceName": "Jewelcrafting",
 	"sourceType": "SPELL"
 }

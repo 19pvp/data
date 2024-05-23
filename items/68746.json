@@ -1,5 +1,6 @@
 {
 	"id": 68746,
+	"bind": "Binds when equipped",
 	"name": "Imbued Primal Cape",
 	"icon": "inv_misc_cape_03",
 	"popularity": 21,

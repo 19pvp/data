@@ -1,5 +1,6 @@
 {
 	"id": 27404,
+	"bind": "Binds when picked up",
 	"name": "Lightspark",
 	"icon": "inv_wand_07",
 	"dmgMin": 16,

@@ -1,5 +1,6 @@
 {
 	"id": 49541,
+	"bind": "Binds when picked up",
 	"name": "Robes of the Glorious Song",
 	"icon": "inv_chest_cloth_30",
 	"popularity": 11,

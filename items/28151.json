@@ -1,5 +1,6 @@
 {
 	"id": 28151,
+	"bind": "Binds when picked up",
 	"name": "Arcanist's Wand",
 	"icon": "inv_staff_02",
 	"dmgMin": 11,

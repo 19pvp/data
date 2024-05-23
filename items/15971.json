@@ -1,5 +1,6 @@
 {
 	"id": 15971,
+	"bind": "Binds when equipped",
 	"name": "Aboriginal Rod",
 	"icon": "inv_staff_goldfeathered_01",
 	"speed": 2,

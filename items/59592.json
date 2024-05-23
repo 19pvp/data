@@ -1,5 +1,6 @@
 {
 	"id": 59592,
+	"bind": "Binds when picked up",
 	"name": "Suppressor's Wand",
 	"icon": "inv_weapon_shortblade_18",
 	"dmgMin": 22,

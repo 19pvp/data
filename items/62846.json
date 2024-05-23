@@ -1,5 +1,6 @@
 {
 	"id": 62846,
+	"bind": "Binds when picked up",
 	"name": "Ale-Soaked Robes",
 	"icon": "inv_chest_cloth_30",
 	"popularity": 9,

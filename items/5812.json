@@ -1,5 +1,6 @@
 {
 	"id": 5812,
+	"bind": "Binds when picked up",
 	"name": "Robes of Antiquity",
 	"icon": "inv_chest_cloth_38",
 	"popularity": 11,
@@ -11,5 +12,5 @@
 	"type": "CHEST",
 	"stats": { "Intellect": 2, "Spirit": 8 },
 	"source": "QUEST",
-	"sourceZone": 331
+	"sourceZone": "Ashenvale"
 }

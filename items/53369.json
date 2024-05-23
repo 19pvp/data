@@ -1,5 +1,6 @@
 {
 	"id": 53369,
+	"bind": "Binds when picked up",
 	"name": "Fizzle's Gloves",
 	"icon": "inv_gauntlets_16",
 	"popularity": 12,

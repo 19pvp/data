@@ -1,5 +1,6 @@
 {
 	"id": 6553,
+	"bind": "Binds when equipped",
 	"name": "Bard's Trousers",
 	"icon": "inv_pants_06",
 	"popularity": 14,

@@ -1,5 +1,6 @@
 {
 	"id": 6571,
+	"bind": "Binds when equipped",
 	"name": "Scouting Buckler",
 	"icon": "inv_shield_02",
 	"popularity": 6,

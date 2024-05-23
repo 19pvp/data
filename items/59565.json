@@ -1,5 +1,6 @@
 {
 	"id": 59565,
+	"bind": "Binds when picked up",
 	"name": "Waptor Scale Bweastpwate",
 	"icon": "inv_chest_chain_06",
 	"popularity": 8,

@@ -1,5 +1,6 @@
 {
 	"id": 1171,
+	"bind": "Binds when picked up",
 	"name": "Well-Stitched Robe",
 	"icon": "inv_chest_cloth_84",
 	"popularity": 24,

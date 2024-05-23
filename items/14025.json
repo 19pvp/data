@@ -1,5 +1,6 @@
 {
 	"id": 14025,
+	"bind": "Binds when equipped",
 	"name": "Mystic's Belt",
 	"icon": "inv_belt_26",
 	"popularity": 6,

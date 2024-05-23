@@ -1,5 +1,6 @@
 {
 	"id": 17922,
+	"bind": "Binds when equipped",
 	"name": "Lionfur Armor",
 	"icon": "inv_chest_fur",
 	"popularity": 17,
@@ -9,9 +10,9 @@
 	"subclass": "LEATHER",
 	"type": "CHEST",
 	"stats": { "Intellect": 1 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 5807,
 	"sourceName": "The Rake",
-	"sourceZone": 215,
+	"sourceZone": "Mulgore",
 	"sourceType": "NPC"
 }

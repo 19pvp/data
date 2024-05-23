@@ -1,5 +1,6 @@
 {
 	"id": 62872,
+	"bind": "Binds when picked up",
 	"name": "Cloak of Secret Purpose",
 	"icon": "inv_misc_cape_14",
 	"popularity": 11,

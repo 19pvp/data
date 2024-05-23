@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Strength": 1 },
+	"source": "CRAFT",
 	"sourceId": 7782,
-	"sourceName": "Enchant Bracer - Minor Strength",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

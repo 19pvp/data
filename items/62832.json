@@ -1,5 +1,6 @@
 {
 	"id": 62832,
+	"bind": "Binds when picked up",
 	"name": "Yorick's Bequest",
 	"icon": "inv_gauntlets_21",
 	"popularity": 7,

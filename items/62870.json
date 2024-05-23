@@ -1,5 +1,6 @@
 {
 	"id": 62870,
+	"bind": "Binds when picked up",
 	"name": "Rutsak Carriers",
 	"icon": "inv_gauntlets_24",
 	"popularity": 15,

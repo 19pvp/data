@@ -1,5 +1,6 @@
 {
 	"id": 44095,
+	"bind": "<br>Item Level <!--ilvl-->1",
 	"name": "Grand Staff of Jordan",
 	"icon": "inv_staff_13",
 	"dmgMin": 58,
@@ -18,5 +19,5 @@
 		"Stamina": 10
 	},
 	"source": "VENDOR",
-	"sourceZone": 4197
+	"sourceZone": "Wintergrasp"
 }

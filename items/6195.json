@@ -1,5 +1,6 @@
 {
 	"id": 6195,
+	"bind": "Binds when equipped",
 	"name": "Wax-Polished Armor",
 	"icon": "inv_chest_chain",
 	"popularity": 8,
@@ -9,9 +10,9 @@
 	"subclass": "MAIL",
 	"type": "CHEST",
 	"stats": { "Strength": 2, "Stamina": 3 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 1425,
 	"sourceName": "Kubb",
-	"sourceZone": 38,
+	"sourceZone": "Loch Modan",
 	"sourceType": "NPC"
 }

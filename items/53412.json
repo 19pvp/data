@@ -1,5 +1,6 @@
 {
 	"id": 53412,
+	"bind": "Binds when picked up",
 	"name": "Gloves of Unmitigated Badassery",
 	"icon": "inv_gauntlets_20",
 	"popularity": 15,

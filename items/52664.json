@@ -1,5 +1,6 @@
 {
 	"id": 52664,
+	"bind": "Binds when picked up",
 	"name": "Cloak of the Stag",
 	"icon": "inv_misc_cape_11",
 	"popularity": 6,

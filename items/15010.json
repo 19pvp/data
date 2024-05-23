@@ -1,5 +1,6 @@
 {
 	"id": 15010,
+	"bind": "Binds when equipped",
 	"name": "Primal Wraps",
 	"icon": "inv_chest_leather_04",
 	"popularity": 13,

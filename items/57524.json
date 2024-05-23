@@ -1,5 +1,6 @@
 {
 	"id": 57524,
+	"bind": "Binds when picked up",
 	"name": "Frontier Bracer",
 	"icon": "inv_bracer_04",
 	"popularity": 4,

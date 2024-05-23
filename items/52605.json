@@ -1,5 +1,6 @@
 {
 	"id": 52605,
+	"bind": "Binds when picked up",
 	"name": "Fanatical Treads",
 	"icon": "inv_boots_07",
 	"popularity": 5,

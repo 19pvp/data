@@ -1,5 +1,6 @@
 {
 	"id": "54213",
+	"bind": "Binds when picked up",
 	"icon": "inv_potion_95",
 	"quality": "COMMON",
 	"spell": {

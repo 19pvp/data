@@ -1,5 +1,6 @@
 {
 	"id": 52920,
+	"bind": "Binds when picked up",
 	"name": "Cardio-Extractor Gloves",
 	"icon": "inv_gauntlets_21",
 	"popularity": 6,
@@ -11,5 +12,5 @@
 	"type": "HANDS",
 	"stats": { "Agility": 1, "Stamina": 1 },
 	"source": "QUEST",
-	"sourceZone": 4720
+	"sourceZone": "The Lost Isles"
 }

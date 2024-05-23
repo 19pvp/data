@@ -1,5 +1,6 @@
 {
 	"id": 10402,
+	"bind": "Binds when equipped",
 	"name": "Blackened Defias Boots",
 	"icon": "inv_boots_05",
 	"popularity": 37,
@@ -9,10 +10,10 @@
 	"subclass": "LEATHER",
 	"type": "FEET",
 	"stats": { "Agility": 6, "Stamina": 4 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 4416,
 	"sourceName": "Defias Strip Miner",
-	"sourceZone": 1581,
+	"sourceZone": "The Deadmines",
 	"sourceType": "NPC",
 	"info": "Blackened Defias ArmorBlackened Defias BeltBlackened Defias BootsBlackened Defias GlovesBlackened Defias Leggings"
 }

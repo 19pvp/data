@@ -1,5 +1,6 @@
 {
 	"id": 49543,
+	"bind": "Binds when picked up",
 	"name": "Seaworthy Leggings",
 	"icon": "inv_pants_11",
 	"popularity": 21,

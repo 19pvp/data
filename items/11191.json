@@ -1,1 +1,7 @@
-{ "id": "11191", "icon": "inv_boots_03", "armor": 21, "quality": "COMMON" }
+{
+	"id": "11191",
+	"bind": "Binds when picked up",
+	"icon": "inv_boots_03",
+	"armor": 21,
+	"quality": "COMMON"
+}

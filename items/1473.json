@@ -1,5 +1,6 @@
 {
 	"id": 1473,
+	"bind": "Binds when equipped",
 	"name": "Riverside Staff",
 	"icon": "inv_staff_08",
 	"dmgMin": 31,
@@ -12,9 +13,9 @@
 	"subclass": "STAFF",
 	"type": "TWO_HAND",
 	"stats": { "Spirit": 6 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 545,
 	"sourceName": "Murloc Tidecaller",
-	"sourceZone": 44,
+	"sourceZone": "Redridge Mountains",
 	"sourceType": "NPC"
 }

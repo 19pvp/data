@@ -1,5 +1,6 @@
 {
 	"id": 54990,
+	"bind": "Binds when picked up",
 	"name": "Gilnean Shield",
 	"icon": "inv_shield_04",
 	"popularity": 14,

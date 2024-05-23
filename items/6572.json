@@ -1,5 +1,6 @@
 {
 	"id": 6572,
+	"bind": "Binds when equipped",
 	"name": "Defender Shield",
 	"icon": "inv_shield_06",
 	"popularity": 6,

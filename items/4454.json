@@ -12,9 +12,9 @@
 	"subclass": "DAGGER",
 	"type": "ONE_HAND",
 	"stats": { "Hit Rating": 1, "Agility": 3 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 462,
 	"sourceName": "Vultros",
-	"sourceZone": 40,
+	"sourceZone": "Westfall",
 	"sourceType": "NPC"
 }

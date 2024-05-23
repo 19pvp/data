@@ -1,5 +1,6 @@
 {
 	"id": 59575,
+	"bind": "Binds when picked up",
 	"name": "Uninsured Bracers",
 	"icon": "inv_bracer_02",
 	"popularity": 28,

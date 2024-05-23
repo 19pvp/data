@@ -1,5 +1,6 @@
 {
 	"id": 28163,
+	"bind": "Binds when picked up",
 	"name": "Maltendis' Handguards",
 	"icon": "inv_gauntlets_04",
 	"popularity": 8,

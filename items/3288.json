@@ -1,5 +1,6 @@
 {
 	"id": 3288,
+	"bind": "Binds when equipped",
 	"name": "Tribal Vest",
 	"icon": "inv_chest_cloth_16",
 	"popularity": 12,

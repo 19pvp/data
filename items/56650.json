@@ -1,5 +1,6 @@
 {
 	"id": 56650,
+	"bind": "Binds when picked up",
 	"name": "Felfire-Tainted Vest",
 	"icon": "inv_chest_cloth_08",
 	"popularity": 5,

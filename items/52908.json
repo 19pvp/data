@@ -1,5 +1,6 @@
 {
 	"id": 52908,
+	"bind": "Binds when picked up",
 	"name": "Hatchling Handlers",
 	"icon": "inv_gauntlets_102v4",
 	"popularity": 9,

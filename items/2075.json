@@ -1,5 +1,6 @@
 {
 	"id": 2075,
+	"bind": "Binds when equipped",
 	"name": "Heavy Mace",
 	"icon": "inv_mace_06",
 	"dmgMin": 9,

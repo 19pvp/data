@@ -1,5 +1,6 @@
 {
 	"id": 57562,
+	"bind": "Binds when picked up",
 	"name": "Hammerfoot's Mail Leggings",
 	"icon": "inv_pants_mail_05",
 	"popularity": 11,
@@ -11,5 +12,5 @@
 	"type": "LEGS",
 	"stats": { "Strength": 1 },
 	"source": "QUEST",
-	"sourceZone": 1
+	"sourceZone": "Dun Morogh"
 }

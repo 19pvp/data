@@ -1,5 +1,6 @@
 {
 	"id": 2310,
+	"bind": "Binds when equipped",
 	"name": "Embossed Leather Cloak",
 	"icon": "inv_helmet_48",
 	"popularity": 9,
@@ -9,7 +10,8 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Agility": 1 },
+	"source": "CRAFT",
 	"sourceId": 2162,
-	"sourceName": "Embossed Leather Cloak",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 1930,
+	"bind": "Binds when equipped",
 	"name": "Stonemason Cloak",
 	"icon": "inv_misc_cape_11",
 	"popularity": 22,
@@ -9,6 +10,6 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Strength": 3, "Stamina": 5 },
-	"source": "DROP",
-	"sourceZone": 1581
+	"source": "DUNGEON",
+	"sourceZone": "The Deadmines"
 }

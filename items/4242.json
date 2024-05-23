@@ -1,5 +1,6 @@
 {
 	"id": 4242,
+	"bind": "Binds when equipped",
 	"name": "Embossed Leather Pants",
 	"icon": "inv_pants_02",
 	"popularity": 6,
@@ -9,7 +10,8 @@
 	"subclass": "LEATHER",
 	"type": "LEGS",
 	"stats": { "Agility": 3, "Stamina": 2 },
+	"source": "CRAFT",
 	"sourceId": 3759,
-	"sourceName": "Embossed Leather Pants",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 60909,
+	"bind": "Binds when picked up",
 	"name": "Astronomer's Handwraps",
 	"icon": "inv_gauntlets_27",
 	"popularity": 9,

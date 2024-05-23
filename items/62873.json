@@ -1,5 +1,6 @@
 {
 	"id": 62873,
+	"bind": "Binds when picked up",
 	"name": "Godfrey's Belt",
 	"icon": "inv_belt_02",
 	"popularity": 5,

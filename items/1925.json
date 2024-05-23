@@ -1,5 +1,6 @@
 {
 	"id": 1925,
+	"bind": "Binds when equipped",
 	"name": "Defias Rapier",
 	"icon": "inv_sword_30",
 	"dmgMin": 23,
@@ -12,9 +13,9 @@
 	"subclass": "ONE_HANDED_SWORD",
 	"type": "ONE_HAND",
 	"stats": { "Hit Rating": 3, "Agility": 3 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 1725,
 	"sourceName": "Defias Watchman",
-	"sourceZone": 1581,
+	"sourceZone": "The Deadmines",
 	"sourceType": "NPC"
 }

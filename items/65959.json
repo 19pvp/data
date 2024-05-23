@@ -1,5 +1,6 @@
 {
 	"id": 65959,
+	"bind": "Binds when picked up",
 	"name": "Cookie's Stirring Stick",
 	"icon": "inv_wand_09",
 	"dmgMin": 19,

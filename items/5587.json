@@ -1,5 +1,6 @@
 {
 	"id": 5587,
+	"bind": "Binds when picked up",
 	"name": "Thornroot Club",
 	"icon": "inv_mace_15",
 	"dmgMin": 10,

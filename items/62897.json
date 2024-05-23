@@ -1,5 +1,6 @@
 {
 	"id": 62897,
+	"bind": "Binds when picked up",
 	"name": "Bracers of the Most Trusted",
 	"icon": "inv_bracer_30a",
 	"popularity": 10,

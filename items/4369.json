@@ -1,5 +1,6 @@
 {
 	"id": 4369,
+	"bind": "Binds when equipped",
 	"name": "Deadly Blunderbuss",
 	"icon": "inv_weapon_rifle_07",
 	"dmgMin": 25,
@@ -11,7 +12,8 @@
 	"quality": "UNCOMMON",
 	"subclass": "GUN",
 	"type": "RANGED",
+	"source": "CRAFT",
 	"sourceId": 3936,
-	"sourceName": "Deadly Blunderbuss",
+	"sourceName": "Engineering",
 	"sourceType": "SPELL"
 }

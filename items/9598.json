@@ -1,5 +1,6 @@
 {
 	"id": 9598,
+	"bind": "Binds when picked up",
 	"name": "Sleeping Robes",
 	"icon": "inv_chest_cloth_84",
 	"popularity": 12,

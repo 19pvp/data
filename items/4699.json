@@ -1,5 +1,6 @@
 {
 	"id": 4699,
+	"bind": "Binds when equipped",
 	"name": "Seer's Belt",
 	"icon": "inv_belt_22",
 	"popularity": 6,

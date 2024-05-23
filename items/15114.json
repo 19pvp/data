@@ -1,5 +1,6 @@
 {
 	"id": 15114,
+	"bind": "Binds when equipped",
 	"name": "Rigid Cape",
 	"icon": "inv_misc_cape_10",
 	"popularity": 25,

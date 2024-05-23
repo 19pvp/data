@@ -1,5 +1,6 @@
 {
 	"id": 57568,
+	"bind": "Binds when picked up",
 	"name": "Senator's Dignified Pants",
 	"icon": "inv_pants_02",
 	"popularity": 4,

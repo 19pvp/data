@@ -1,5 +1,6 @@
 {
 	"id": 5542,
+	"bind": "Binds when equipped",
 	"name": "Pearl-Clasped Cloak",
 	"icon": "inv_misc_cape_11",
 	"popularity": 5,
@@ -9,7 +10,8 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Intellect": 3 },
+	"source": "CRAFT",
 	"sourceId": 6521,
-	"sourceName": "Pearl-clasped Cloak",
+	"sourceName": "Tailoring",
 	"sourceType": "SPELL"
 }

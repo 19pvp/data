@@ -1,5 +1,6 @@
 {
 	"id": 53430,
+	"bind": "Binds when picked up",
 	"name": "Mortar-Slinger Belt",
 	"icon": "inv_belt_04",
 	"popularity": 7,

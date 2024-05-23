@@ -1,5 +1,6 @@
 {
 	"id": 69217,
+	"bind": "Binds when picked up",
 	"name": "Test Pilot Britches",
 	"icon": "inv_pants_mail_04",
 	"popularity": 8,

@@ -1,5 +1,6 @@
 {
 	"id": 899,
+	"bind": "Binds when equipped",
 	"name": "Venom Web Fang",
 	"icon": "inv_misc_monsterfang_01",
 	"dmgMin": 10,
@@ -11,10 +12,10 @@
 	"quality": "UNCOMMON",
 	"subclass": "DAGGER",
 	"type": "ONE_HAND",
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 217,
 	"sourceName": "Venom Web Spider",
-	"sourceZone": 10,
+	"sourceZone": "Duskwood",
 	"sourceType": "NPC",
 	"spell": {
 		"type": "Chance on hit",

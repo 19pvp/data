@@ -1,5 +1,6 @@
 {
 	"id": 5589,
+	"bind": "Binds when picked up",
 	"name": "Moss-covered Gauntlets",
 	"icon": "inv_gauntlets_105",
 	"popularity": 12,

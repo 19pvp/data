@@ -1,5 +1,6 @@
 {
 	"id": 6556,
+	"bind": "Binds when equipped",
 	"name": "Bard's Bracers",
 	"icon": "inv_bracer_05",
 	"popularity": 10,

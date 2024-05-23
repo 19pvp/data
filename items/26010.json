@@ -1,5 +1,6 @@
 {
 	"id": 26010,
+	"bind": "Binds when picked up",
 	"name": "Vindicator's Soft Sole Slippers",
 	"icon": "inv_boots_05",
 	"popularity": 7,

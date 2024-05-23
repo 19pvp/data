@@ -13,7 +13,7 @@
 	"type": "ONE_HAND",
 	"stats": { "Resilience": 3 },
 	"source": "VENDOR",
-	"sourceZone": 4197,
+	"sourceZone": "Wintergrasp",
 	"spell": {
 		"type": "Chance on hit",
 		"id": 59830,

@@ -1,5 +1,6 @@
 {
 	"id": 53442,
+	"bind": "Binds when picked up",
 	"name": "Shield of Azsharan Conquest",
 	"icon": "inv_shield_09",
 	"popularity": 14,

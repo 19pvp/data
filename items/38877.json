@@ -7,8 +7,9 @@
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Spell Power": 30 },
+	"source": "CRAFT",
 	"sourceId": 22749,
-	"sourceName": "Enchant Weapon - Spellpower",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

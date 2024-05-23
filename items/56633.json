@@ -1,5 +1,6 @@
 {
 	"id": 56633,
+	"bind": "Binds when picked up",
 	"name": "Leggings of the Traveling Medic",
 	"icon": "inv_pants_05",
 	"popularity": 5,

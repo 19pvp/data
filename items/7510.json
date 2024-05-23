@@ -1,5 +1,6 @@
 {
 	"id": 7510,
+	"bind": "Binds when picked up",
 	"name": "Lesser Spellfire Robes",
 	"icon": "inv_chest_cloth_18",
 	"popularity": 8,

@@ -1,5 +1,6 @@
 {
 	"id": 66045,
+	"bind": "Binds when picked up",
 	"name": "Stone Guard Greaves",
 	"icon": "inv_pants_03",
 	"popularity": 4,

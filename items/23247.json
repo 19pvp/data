@@ -1,5 +1,6 @@
 {
 	"id": "23247",
+	"bind": "Binds when picked up",
 	"icon": "inv_summerfest_fireflower",
 	"quality": "COMMON",
 	"spell": {

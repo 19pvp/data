@@ -1,5 +1,6 @@
 {
 	"id": 880,
+	"bind": "Binds when equipped",
 	"name": "Staff of Horrors",
 	"icon": "inv_staff_25",
 	"dmgMin": 41,
@@ -11,10 +12,10 @@
 	"quality": "UNCOMMON",
 	"subclass": "STAFF",
 	"type": "TWO_HAND",
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 202,
 	"sourceName": "Rotting Horror",
-	"sourceZone": 10,
+	"sourceZone": "Duskwood",
 	"sourceType": "NPC",
 	"spell": {
 		"type": "Chance on hit",

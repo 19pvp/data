@@ -1,5 +1,6 @@
 {
 	"id": 59534,
+	"bind": "Binds when picked up",
 	"name": "Boar Hunter's Boots",
 	"icon": "inv_boots_06",
 	"popularity": 4,

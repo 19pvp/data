@@ -1,5 +1,6 @@
 {
 	"id": 820,
+	"bind": "Binds when equipped",
 	"name": "Slicer Blade",
 	"icon": "inv_weapon_shortblade_01",
 	"dmgMin": 9,
@@ -12,9 +13,9 @@
 	"subclass": "DAGGER",
 	"type": "ONE_HAND",
 	"stats": { "Agility": 2 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 115,
 	"sourceName": "Harvest Reaper",
-	"sourceZone": 40,
+	"sourceZone": "Westfall",
 	"sourceType": "NPC"
 }

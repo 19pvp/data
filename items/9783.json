@@ -1,5 +1,6 @@
 {
 	"id": 9783,
+	"bind": "Binds when equipped",
 	"name": "Raider's Chestpiece",
 	"icon": "inv_chest_chain_07",
 	"popularity": 7,

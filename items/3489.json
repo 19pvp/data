@@ -1,5 +1,6 @@
 {
 	"id": 3489,
+	"bind": "Binds when equipped",
 	"name": "Thick War Axe",
 	"icon": "inv_throwingaxe_01",
 	"dmgMin": 15,
@@ -12,7 +13,8 @@
 	"subclass": "ONE_HANDED_AXE",
 	"type": "ONE_HAND",
 	"stats": { "Strength": 1, "Stamina": 1 },
+	"source": "CRAFT",
 	"sourceId": 3294,
-	"sourceName": "Thick War Axe",
+	"sourceName": "Blacksmithing",
 	"sourceType": "SPELL"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 59568,
+	"bind": "Binds when picked up",
 	"name": "Painstakingly Crafted Belt",
 	"icon": "inv_belt_26",
 	"popularity": 14,
@@ -11,5 +12,5 @@
 	"type": "WAIST",
 	"stats": { "Hit Rating": 2, "Stamina": 2, "Intellect": 2 },
 	"source": "QUEST",
-	"sourceZone": 17
+	"sourceZone": "Northern Barrens"
 }

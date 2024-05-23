@@ -1,5 +1,6 @@
 {
 	"id": 52962,
+	"bind": "Binds when picked up",
 	"name": "Greely's Spare Dagger",
 	"icon": "inv_weapon_shortblade_10",
 	"dmgMin": 7,

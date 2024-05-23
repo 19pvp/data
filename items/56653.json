@@ -1,5 +1,6 @@
 {
 	"id": 56653,
+	"bind": "Binds when picked up",
 	"name": "Somber Treads",
 	"icon": "inv_boots_03",
 	"popularity": 10,

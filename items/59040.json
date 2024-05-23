@@ -1,5 +1,6 @@
 {
 	"id": 59040,
+	"bind": "Binds when picked up",
 	"name": "Staff of the Force",
 	"icon": "inv_staff_draenei_a_03",
 	"dmgMin": 3.700000011920929,

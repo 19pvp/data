@@ -1,5 +1,6 @@
 {
 	"id": 42947,
+	"bind": "<br>Item Level <!--ilvl-->1",
 	"name": "Dignified Headmaster's Charge",
 	"icon": "inv_jewelry_talisman_12",
 	"dmgMin": 45,

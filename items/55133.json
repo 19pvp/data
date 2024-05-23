@@ -1,5 +1,6 @@
 {
 	"id": 55133,
+	"bind": "Binds when picked up",
 	"name": "Wildkin Feather Belt",
 	"icon": "inv_belt_04",
 	"popularity": 6,

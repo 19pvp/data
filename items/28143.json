@@ -1,5 +1,6 @@
 {
 	"id": 28143,
+	"bind": "Binds when picked up",
 	"name": "Rusted Chain Girdle",
 	"icon": "inv_belt_03",
 	"popularity": 13,

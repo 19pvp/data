@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Mana": 50 },
+	"source": "CRAFT",
 	"sourceId": 13663,
-	"sourceName": "Enchant Chest - Greater Mana",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

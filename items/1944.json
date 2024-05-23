@@ -1,5 +1,6 @@
 {
 	"id": 1944,
+	"bind": "Binds when equipped",
 	"name": "Metalworking Gloves",
 	"icon": "inv_gauntlets_04",
 	"popularity": 16,
@@ -9,9 +10,9 @@
 	"subclass": "LEATHER",
 	"type": "HANDS",
 	"stats": { "Agility": 6, "Stamina": 4 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 1731,
 	"sourceName": "Goblin Craftsman",
-	"sourceZone": 1581,
+	"sourceZone": "The Deadmines",
 	"sourceType": "NPC"
 }

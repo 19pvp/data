@@ -1,5 +1,6 @@
 {
 	"id": 52608,
+	"bind": "Binds when picked up",
 	"name": "Torn Fur Belt",
 	"icon": "inv_belt_03",
 	"popularity": 8,

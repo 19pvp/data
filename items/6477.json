@@ -1,5 +1,6 @@
 {
 	"id": 6477,
+	"bind": "Binds when picked up",
 	"name": "Grassland Sash",
 	"icon": "inv_belt_02",
 	"popularity": 10,

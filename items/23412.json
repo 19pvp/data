@@ -1,5 +1,6 @@
 {
 	"id": 23412,
+	"bind": "Binds when picked up",
 	"name": "Troll Kickers",
 	"icon": "inv_boots_01",
 	"popularity": 8,

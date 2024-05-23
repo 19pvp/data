@@ -1,5 +1,6 @@
 {
 	"id": 14131,
+	"bind": "Binds when equipped",
 	"name": "Ritual Belt",
 	"icon": "inv_belt_05",
 	"popularity": 8,

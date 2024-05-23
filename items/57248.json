@@ -1,5 +1,6 @@
 {
 	"id": 57248,
+	"bind": "Binds when picked up",
 	"name": "Well-Used Greatsword",
 	"icon": "inv_sword_06",
 	"dmgMin": 17,

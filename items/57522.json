@@ -1,5 +1,6 @@
 {
 	"id": 57522,
+	"bind": "Binds when picked up",
 	"name": "McCree's Sparring Gloves",
 	"icon": "inv_gauntlets_21",
 	"popularity": 5,

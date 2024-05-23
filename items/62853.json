@@ -1,5 +1,6 @@
 {
 	"id": 62853,
+	"bind": "Binds when picked up",
 	"name": "Blood Offering Platter",
 	"icon": "inv_shield_09",
 	"popularity": 22,

@@ -1,5 +1,6 @@
 {
 	"id": 2283,
+	"bind": "Binds when equipped",
 	"name": "Rat Cloth Belt",
 	"icon": "inv_belt_05",
 	"popularity": 7,
@@ -9,9 +10,9 @@
 	"subclass": "CLOTH",
 	"type": "WAIST",
 	"stats": { "Stamina": 2, "Spirit": 2 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 1177,
 	"sourceName": "Tunnel Rat Surveyor",
-	"sourceZone": 38,
+	"sourceZone": "Loch Modan",
 	"sourceType": "NPC"
 }

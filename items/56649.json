@@ -1,5 +1,6 @@
 {
 	"id": 56649,
+	"bind": "Binds when picked up",
 	"name": "Folly's Edge",
 	"icon": "inv_sword_159",
 	"dmgMin": 19,

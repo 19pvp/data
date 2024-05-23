@@ -1,5 +1,6 @@
 {
 	"id": 59083,
+	"bind": "Binds when picked up",
 	"name": "Sash of the Blind Princess",
 	"icon": "inv_belt_17",
 	"popularity": 4,

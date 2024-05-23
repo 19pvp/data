@@ -1,5 +1,6 @@
 {
 	"id": 12994,
+	"bind": "Binds when equipped",
 	"name": "Thorbia's Gauntlets",
 	"icon": "inv_gauntlets_11",
 	"popularity": 9,

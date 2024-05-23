@@ -1,5 +1,6 @@
 {
 	"id": 65911,
+	"bind": "Binds when picked up",
 	"name": "Anacondra's Robe",
 	"icon": "inv_chest_cloth_03",
 	"popularity": 31,

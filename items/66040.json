@@ -1,5 +1,6 @@
 {
 	"id": 66040,
+	"bind": "Binds when picked up",
 	"name": "Searing Belt",
 	"icon": "inv_belt_45a",
 	"popularity": 5,

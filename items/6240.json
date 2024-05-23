@@ -1,5 +1,6 @@
 {
 	"id": 6240,
+	"bind": "Binds when equipped",
 	"name": "Blue Linen Vest",
 	"icon": "inv_chest_cloth_37",
 	"popularity": 10,
@@ -9,7 +10,8 @@
 	"subclass": "CLOTH",
 	"type": "CHEST",
 	"stats": { "Spirit": 2 },
+	"source": "CRAFT",
 	"sourceId": 7630,
-	"sourceName": "Blue Linen Vest",
+	"sourceName": "Tailoring",
 	"sourceType": "SPELL"
 }

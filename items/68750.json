@@ -1,5 +1,6 @@
 {
 	"id": 68750,
+	"bind": "Binds when equipped",
 	"name": "Imbued Pioneer Belt",
 	"icon": "inv_belt_25",
 	"popularity": 5,

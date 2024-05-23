@@ -8,8 +8,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Armor": 8 },
+	"source": "CRAFT",
 	"sourceId": 2152,
-	"sourceName": "Light Armor Kit",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

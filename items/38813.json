@@ -7,8 +7,9 @@
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Beastslaying": 6 },
+	"source": "CRAFT",
 	"sourceId": 13653,
-	"sourceName": "Enchant Weapon - Lesser Beastslayer",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

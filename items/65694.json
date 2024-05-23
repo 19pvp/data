@@ -1,5 +1,6 @@
 {
 	"id": 65694,
+	"bind": "Binds when picked up",
 	"name": "Clerk Whitesteed's Cloak",
 	"icon": "inv_misc_cape_02",
 	"popularity": 6,

@@ -1,5 +1,6 @@
 {
 	"id": 5309,
+	"bind": "Binds when picked up",
 	"name": "Privateer Musket",
 	"icon": "inv_weapon_rifle_04",
 	"dmgMin": 21,

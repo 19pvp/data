@@ -1,5 +1,6 @@
 {
 	"id": 57581,
+	"bind": "Binds when picked up",
 	"name": "Grimaxe's Black Breastplate",
 	"icon": "inv_chest_leather_07",
 	"popularity": 5,

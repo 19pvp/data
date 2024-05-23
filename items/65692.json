@@ -1,5 +1,6 @@
 {
 	"id": 65692,
+	"bind": "Binds when picked up",
 	"name": "Bear Hide Vest",
 	"icon": "inv_chest_cloth_45",
 	"popularity": 6,

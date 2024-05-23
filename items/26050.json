@@ -1,5 +1,6 @@
 {
 	"id": 26050,
+	"bind": "Binds when picked up",
 	"name": "Fist of Argus",
 	"icon": "inv_mace_34",
 	"dmgMin": 12,

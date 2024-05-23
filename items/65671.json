@@ -1,5 +1,6 @@
 {
 	"id": 65671,
+	"bind": "Binds when picked up",
 	"name": "Cue Cue Gloves",
 	"icon": "inv_gauntlets_20",
 	"popularity": 4,

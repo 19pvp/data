@@ -1,5 +1,6 @@
 {
 	"id": 14109,
+	"bind": "Binds when equipped",
 	"name": "Native Robe",
 	"icon": "inv_chest_cloth_21",
 	"popularity": 13,

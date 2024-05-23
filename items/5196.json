@@ -1,5 +1,6 @@
 {
 	"id": 5196,
+	"bind": "Binds when picked up",
 	"name": "Smite's Reaver",
 	"icon": "inv_axe_22",
 	"dmgMin": 24,
@@ -12,6 +13,6 @@
 	"subclass": "ONE_HANDED_AXE",
 	"type": "ONE_HAND",
 	"stats": { "Hit Rating": 2, "Strength": 2, "Stamina": 3 },
-	"source": "DROP",
-	"sourceZone": 1581
+	"source": "DUNGEON",
+	"sourceZone": "The Deadmines"
 }

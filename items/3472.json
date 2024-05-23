@@ -1,5 +1,6 @@
 {
 	"id": 3472,
+	"bind": "Binds when equipped",
 	"name": "Runed Copper Gauntlets",
 	"icon": "inv_gauntlets_04",
 	"popularity": 6,
@@ -9,7 +10,8 @@
 	"subclass": "MAIL",
 	"type": "HANDS",
 	"stats": { "Strength": 2 },
+	"source": "CRAFT",
 	"sourceId": 3323,
-	"sourceName": "Runed Copper Gauntlets",
+	"sourceName": "Blacksmithing",
 	"sourceType": "SPELL"
 }

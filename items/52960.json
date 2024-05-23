@@ -1,5 +1,6 @@
 {
 	"id": 52960,
+	"bind": "Binds when picked up",
 	"name": "Silver Platter",
 	"icon": "inv_shield_10",
 	"popularity": 8,

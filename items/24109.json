@@ -1,5 +1,6 @@
 {
 	"id": 24109,
+	"bind": "Binds when picked up",
 	"name": "Thick Ravager Belt",
 	"icon": "inv_belt_05",
 	"popularity": 6,

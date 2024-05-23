@@ -13,8 +13,9 @@
 		"Spirit": 2,
 		"Stamina": 2
 	},
+	"source": "CRAFT",
 	"sourceId": 13700,
-	"sourceName": "Enchant Chest - Lesser Stats",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

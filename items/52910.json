@@ -1,5 +1,6 @@
 {
 	"id": 52910,
+	"bind": "Binds when picked up",
 	"name": "Yngwie's Vest",
 	"icon": "inv_chest_leather_26v4",
 	"popularity": 11,

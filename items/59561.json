@@ -1,5 +1,6 @@
 {
 	"id": 59561,
+	"bind": "Binds when picked up",
 	"name": "Vest of Fortune",
 	"icon": "inv_chest_leather_08",
 	"popularity": 13,

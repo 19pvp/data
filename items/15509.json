@@ -1,5 +1,6 @@
 {
 	"id": 15509,
+	"bind": "Binds when equipped",
 	"name": "Grunt's Handwraps",
 	"icon": "inv_gauntlets_19",
 	"popularity": 12,

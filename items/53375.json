@@ -1,5 +1,6 @@
 {
 	"id": "53375",
+	"bind": "Binds when picked up",
 	"icon": "inv_pants_cloth_41",
 	"armor": 23,
 	"quality": "COMMON"

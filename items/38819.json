@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Spirit": 3 },
+	"source": "CRAFT",
 	"sourceId": 13687,
-	"sourceName": "Enchant Boots - Lesser Spirit",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Spirit": 10, "Stamina": 10 },
+	"source": "CRAFT",
 	"sourceId": 20016,
-	"sourceName": "Enchant Shield - Vitality",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

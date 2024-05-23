@@ -1,5 +1,6 @@
 {
 	"id": 53413,
+	"bind": "Binds when picked up",
 	"name": "Glued Feather Boots",
 	"icon": "inv_boots_08",
 	"popularity": 8,

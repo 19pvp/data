@@ -1,5 +1,6 @@
 {
 	"id": 27390,
+	"bind": "Binds when picked up",
 	"name": "Vindicator's Letter Opener",
 	"icon": "inv_sword_draenei_06",
 	"dmgMin": 24,

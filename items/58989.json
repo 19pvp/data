@@ -1,5 +1,6 @@
 {
 	"id": 58989,
+	"bind": "Binds when picked up",
 	"name": "Belt of the Valley of Kings",
 	"icon": "inv_belt_02",
 	"popularity": 6,

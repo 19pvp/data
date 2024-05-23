@@ -1,5 +1,6 @@
 {
 	"id": 52939,
+	"bind": "Binds when picked up",
 	"name": "Cage-Launcher's Mail",
 	"icon": "inv_chest_chain_08",
 	"popularity": 10,

@@ -1,5 +1,6 @@
 {
 	"id": 62880,
+	"bind": "Binds when picked up",
 	"name": "Axe of Practical Vengeance",
 	"icon": "inv_axe_32",
 	"dmgMin": 31,

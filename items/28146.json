@@ -1,5 +1,6 @@
 {
 	"id": 28146,
+	"bind": "Binds when picked up",
 	"name": "Courier's Wraps",
 	"icon": "inv_bracer_13",
 	"popularity": 7,

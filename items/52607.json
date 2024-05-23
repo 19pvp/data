@@ -1,5 +1,6 @@
 {
 	"id": 52607,
+	"bind": "Binds when picked up",
 	"name": "Forsaken Belt",
 	"icon": "inv_belt_04",
 	"popularity": 8,

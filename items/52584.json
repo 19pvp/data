@@ -1,5 +1,6 @@
 {
 	"id": 52584,
+	"bind": "Binds when picked up",
 	"name": "Emerald Vest",
 	"icon": "inv_chest_cloth_30",
 	"popularity": 13,

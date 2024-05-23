@@ -1,5 +1,6 @@
 {
 	"id": 58981,
+	"bind": "Binds when picked up",
 	"name": "Dastardly Bracers",
 	"icon": "inv_bracer_07",
 	"popularity": 6,

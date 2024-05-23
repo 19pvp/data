@@ -1,5 +1,6 @@
 {
 	"id": 6587,
+	"bind": "Binds when equipped",
 	"name": "Scouting Trousers",
 	"icon": "inv_pants_02",
 	"popularity": 11,

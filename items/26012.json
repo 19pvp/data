@@ -1,5 +1,6 @@
 {
 	"id": 26012,
+	"bind": "Binds when picked up",
 	"name": "Kessel's Cinch Wrap",
 	"icon": "inv_belt_06",
 	"popularity": 21,

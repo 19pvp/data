@@ -1,5 +1,6 @@
 {
 	"id": 60708,
+	"bind": "Binds when picked up",
 	"name": "Blackrock Shield",
 	"icon": "inv_shield_07",
 	"popularity": 9,

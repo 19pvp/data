@@ -1,5 +1,6 @@
 {
 	"id": 52873,
+	"bind": "Binds when picked up",
 	"name": "Darkspear Magic Weaver Tunic",
 	"icon": "inv_chest_cloth_84v4",
 	"popularity": 16,

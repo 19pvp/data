@@ -1,5 +1,6 @@
 {
 	"id": 24351,
+	"bind": "Binds when picked up",
 	"name": "Mace of the Hand",
 	"icon": "inv_mace_35",
 	"dmgMin": 16,

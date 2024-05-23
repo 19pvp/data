@@ -9,7 +9,8 @@
 	"subclass": "RINGS",
 	"type": "FINGER",
 	"stats": { "Spirit": 5 },
+	"source": "CRAFT",
 	"sourceId": 25287,
-	"sourceName": "Gloom Band",
+	"sourceName": "Jewelcrafting",
 	"sourceType": "SPELL"
 }

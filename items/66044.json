@@ -1,5 +1,6 @@
 {
 	"id": 66044,
+	"bind": "Binds when picked up",
 	"name": "Deathstalker Pauldrons",
 	"icon": "inv_shoulder_15",
 	"popularity": 4,

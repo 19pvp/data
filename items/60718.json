@@ -1,5 +1,6 @@
 {
 	"id": 60718,
+	"bind": "Binds when picked up",
 	"name": "Shadowhide Boots",
 	"icon": "inv_boots_07",
 	"popularity": 10,

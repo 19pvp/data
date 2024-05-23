@@ -1,5 +1,6 @@
 {
 	"id": 935,
+	"bind": "Binds when equipped",
 	"name": "Night Watch Shortsword",
 	"icon": "inv_sword_26",
 	"dmgMin": 24,

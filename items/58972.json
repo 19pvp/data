@@ -1,5 +1,6 @@
 {
 	"id": 58972,
+	"bind": "Binds when picked up",
 	"name": "Mori's Gear Stick",
 	"icon": "inv_mace_07",
 	"dmgMin": 10,
@@ -14,5 +15,5 @@
 	"type": "ONE_HAND",
 	"stats": { "Strength": 1 },
 	"source": "QUEST",
-	"sourceZone": 1
+	"sourceZone": "Dun Morogh"
 }

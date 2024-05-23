@@ -1,5 +1,6 @@
 {
 	"id": 59582,
+	"bind": "Binds when picked up",
 	"name": "Shrewd Crossbow",
 	"icon": "inv_weapon_crossbow_02",
 	"dmgMin": 23,

@@ -1,5 +1,6 @@
 {
 	"id": 15303,
+	"bind": "Binds when equipped",
 	"name": "Grizzly Pants",
 	"icon": "inv_pants_09",
 	"popularity": 11,

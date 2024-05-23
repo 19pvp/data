@@ -1,5 +1,6 @@
 {
 	"id": 5182,
+	"bind": "Binds when equipped",
 	"name": "Shiver Blade",
 	"icon": "inv_sword_26",
 	"dmgMin": 30,
@@ -11,10 +12,10 @@
 	"quality": "UNCOMMON",
 	"subclass": "TWO_HANDED_SWORD",
 	"type": "TWO_HAND",
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 3398,
 	"sourceName": "Gesharahan",
-	"sourceZone": 17,
+	"sourceZone": "Northern Barrens",
 	"sourceType": "NPC",
 	"spell": {
 		"type": "Chance on hit",

@@ -1,5 +1,6 @@
 {
 	"id": 14745,
+	"bind": "Binds when equipped",
 	"name": "Hulking Cloak",
 	"icon": "inv_misc_cape_20",
 	"popularity": 19,

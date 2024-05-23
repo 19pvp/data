@@ -1,5 +1,6 @@
 {
 	"id": 57230,
+	"bind": "Binds when picked up",
 	"name": "Kodo Mallet",
 	"icon": "inv_hammer_09",
 	"dmgMin": 10,

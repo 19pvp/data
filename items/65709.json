@@ -1,5 +1,6 @@
 {
 	"id": 65709,
+	"bind": "Binds when picked up",
 	"name": "Binding Chains",
 	"icon": "inv_belt_23",
 	"popularity": 4,

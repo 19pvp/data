@@ -1,5 +1,6 @@
 {
 	"id": 57168,
+	"bind": "Binds when picked up",
 	"name": "Reaper's Buckler",
 	"icon": "inv_shield_09",
 	"popularity": 24,

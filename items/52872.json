@@ -1,5 +1,6 @@
 {
 	"id": 52872,
+	"bind": "Binds when picked up",
 	"name": "Darkspear Hunter's Bow",
 	"icon": "inv_weapon_bow_03",
 	"dmgMin": 2.9,

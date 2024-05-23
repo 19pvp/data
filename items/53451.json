@@ -1,5 +1,6 @@
 {
 	"id": 53451,
+	"bind": "Binds when picked up",
 	"name": "Wind Rider Wand",
 	"icon": "inv_wand_12",
 	"dmgMin": 22,

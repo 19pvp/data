@@ -7,8 +7,9 @@
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Agility": 25 },
+	"source": "CRAFT",
 	"sourceId": 27837,
-	"sourceName": "Enchant 2H Weapon - Agility",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

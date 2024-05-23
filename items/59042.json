@@ -1,5 +1,6 @@
 {
 	"id": 59042,
+	"bind": "Binds when picked up",
 	"name": "Electro-Staff",
 	"icon": "inv_staff_draenei_a_02",
 	"dmgMin": 3.700000011920929,

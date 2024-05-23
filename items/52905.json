@@ -1,5 +1,6 @@
 {
 	"id": 52905,
+	"bind": "Binds when picked up",
 	"name": "Best. Bracers. Ever.",
 	"icon": "inv_bracer_74v4",
 	"popularity": 4,

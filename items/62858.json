@@ -1,5 +1,6 @@
 {
 	"id": 62858,
+	"bind": "Binds when picked up",
 	"name": "Flesh and Bone",
 	"icon": "inv_misc_food_18",
 	"popularity": 26,

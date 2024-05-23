@@ -1,5 +1,6 @@
 {
 	"id": 3313,
+	"bind": "Binds when equipped",
 	"name": "Ceremonial Leather Harness",
 	"icon": "inv_chest_leather_04",
 	"popularity": 20,

@@ -1,5 +1,6 @@
 {
 	"id": 4567,
+	"bind": "Binds when equipped",
 	"name": "Merc Sword",
 	"icon": "inv_sword_04",
 	"dmgMin": 24,

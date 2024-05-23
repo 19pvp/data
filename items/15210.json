@@ -1,5 +1,6 @@
 {
 	"id": 15210,
+	"bind": "Binds when equipped",
 	"name": "Raider Shortsword",
 	"icon": "inv_sword_04",
 	"dmgMin": 11,

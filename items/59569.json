@@ -1,5 +1,6 @@
 {
 	"id": 59569,
+	"bind": "Binds when picked up",
 	"name": "Clean Room Boots",
 	"icon": "inv_boots_04",
 	"popularity": 18,
@@ -11,5 +12,5 @@
 	"type": "FEET",
 	"stats": { "Critical Strike Rating": 2, "Agility": 2, "Stamina": 2 },
 	"source": "QUEST",
-	"sourceZone": 17
+	"sourceZone": "Northern Barrens"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 52631,
+	"bind": "Binds when picked up",
 	"name": "Befouled Staff",
 	"icon": "inv_staff_18",
 	"dmgMin": 19,

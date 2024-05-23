@@ -1,5 +1,6 @@
 {
 	"id": 15017,
+	"bind": "Binds when equipped",
 	"name": "Lupine Leggings",
 	"icon": "inv_pants_06",
 	"popularity": 21,

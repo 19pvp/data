@@ -1,5 +1,6 @@
 {
 	"id": 65713,
+	"bind": "Binds when picked up",
 	"name": "Monstrous Shield",
 	"icon": "inv_shield_12",
 	"popularity": 16,

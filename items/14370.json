@@ -1,5 +1,6 @@
 {
 	"id": 14370,
+	"bind": "Binds when equipped",
 	"name": "Mystic's Woolies",
 	"icon": "inv_pants_02",
 	"popularity": 10,

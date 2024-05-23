@@ -1,5 +1,6 @@
 {
 	"id": 4768,
+	"bind": "Binds when equipped",
 	"name": "Adept's Gloves",
 	"icon": "inv_gauntlets_05",
 	"popularity": 10,
@@ -9,9 +10,9 @@
 	"subclass": "CLOTH",
 	"type": "HANDS",
 	"stats": { "Stamina": 2, "Intellect": 2 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 3270,
 	"sourceName": "Elder Mystic Razorsnout",
-	"sourceZone": 17,
+	"sourceZone": "Northern Barrens",
 	"sourceType": "NPC"
 }

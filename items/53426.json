@@ -1,5 +1,6 @@
 {
 	"id": 53426,
+	"bind": "Binds when picked up",
 	"name": "Mage Bracers",
 	"icon": "inv_bracer_13",
 	"popularity": 5,

@@ -1,5 +1,6 @@
 {
 	"id": 60707,
+	"bind": "Binds when picked up",
 	"name": "Lakeshire Gloves",
 	"icon": "inv_gauntlets_21",
 	"popularity": 7,

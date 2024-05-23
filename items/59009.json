@@ -1,5 +1,6 @@
 {
 	"id": 59009,
+	"bind": "Binds when picked up",
 	"name": "Vyrin's Belt",
 	"icon": "inv_belt_02",
 	"popularity": 8,

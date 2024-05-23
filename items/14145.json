@@ -1,5 +1,6 @@
 {
 	"id": 14145,
+	"bind": "Binds when picked up",
 	"name": "Cursed Felblade",
 	"icon": "inv_weapon_shortblade_12",
 	"dmgMin": 22,
@@ -11,10 +12,10 @@
 	"quality": "RARE",
 	"subclass": "ONE_HANDED_SWORD",
 	"type": "ONE_HAND",
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 11520,
 	"sourceName": "Taragaman the Hungerer",
-	"sourceZone": 2437,
+	"sourceZone": "Ragefire Chasm",
 	"sourceType": "NPC",
 	"spell": {
 		"type": "Chance on hit",

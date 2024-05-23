@@ -1,5 +1,6 @@
 {
 	"id": 62833,
+	"bind": "Binds when picked up",
 	"name": "Cloak of Courage",
 	"icon": "inv_misc_cape_18",
 	"popularity": 7,

@@ -1,1 +1,7 @@
-{ "id": "53398", "icon": "inv_misc_cape_14", "armor": 15, "quality": "COMMON" }
+{
+	"id": "53398",
+	"bind": "Binds when picked up",
+	"icon": "inv_misc_cape_14",
+	"armor": 15,
+	"quality": "COMMON"
+}

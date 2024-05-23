@@ -1,5 +1,6 @@
 {
 	"id": 3193,
+	"bind": "Binds when equipped",
 	"name": "Oak Mallet",
 	"icon": "inv_hammer_15",
 	"dmgMin": 38,

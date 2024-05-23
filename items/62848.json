@@ -1,5 +1,6 @@
 {
 	"id": 62848,
+	"bind": "Binds when picked up",
 	"name": "Treads of the Sepulcher",
 	"icon": "inv_boots_chain_02",
 	"popularity": 5,

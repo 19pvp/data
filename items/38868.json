@@ -7,8 +7,9 @@
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "enchant": "Icy Chill" },
+	"source": "CRAFT",
 	"sourceId": 20029,
-	"sourceName": "Enchant Weapon - Icy Chill",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

@@ -1,5 +1,6 @@
 {
 	"id": 12052,
+	"bind": "Binds when equipped",
 	"name": "Ring of the Moon",
 	"icon": "inv_jewelry_ring_05",
 	"popularity": 5,

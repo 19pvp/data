@@ -1,5 +1,6 @@
 {
 	"id": 1938,
+	"bind": "Binds when equipped",
 	"name": "Block Mallet",
 	"icon": "inv_hammer_15",
 	"dmgMin": 14,
@@ -12,9 +13,9 @@
 	"subclass": "ONE_HANDED_MACE",
 	"type": "ONE_HAND",
 	"stats": { "Stamina": 3 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 1398,
 	"sourceName": "Boss Galgosh",
-	"sourceZone": 38,
+	"sourceZone": "Loch Modan",
 	"sourceType": "NPC"
 }

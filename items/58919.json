@@ -1,5 +1,6 @@
 {
 	"id": 58919,
+	"bind": "Binds when picked up",
 	"name": "Spothide Leggings",
 	"icon": "inv_pants_06",
 	"popularity": 6,

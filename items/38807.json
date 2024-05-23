@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Agility": 3 },
+	"source": "CRAFT",
 	"sourceId": 13637,
-	"sourceName": "Enchant Boots - Lesser Agility",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

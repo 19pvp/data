@@ -1,5 +1,6 @@
 {
 	"id": 2911,
+	"bind": "Binds when equipped",
 	"name": "Keller's Girdle",
 	"icon": "inv_belt_04",
 	"popularity": 7,

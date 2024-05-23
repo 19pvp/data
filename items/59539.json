@@ -1,5 +1,6 @@
 {
 	"id": 59539,
+	"bind": "Binds when picked up",
 	"name": "Mankrik's Old Wedding Garments",
 	"icon": "inv_chest_cloth_32",
 	"popularity": 15,

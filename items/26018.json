@@ -1,5 +1,6 @@
 {
 	"id": 26018,
+	"bind": "Binds when picked up",
 	"name": "Elekk Handler's Leathers",
 	"icon": "inv_chest_leather_07",
 	"popularity": 4,

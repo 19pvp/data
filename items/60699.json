@@ -1,5 +1,6 @@
 {
 	"id": 60699,
+	"bind": "Binds when picked up",
 	"name": "Bailiff's Gloves",
 	"icon": "inv_gauntlets_11",
 	"popularity": 17,

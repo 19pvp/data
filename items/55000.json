@@ -1,5 +1,6 @@
 {
 	"id": 55000,
+	"bind": "Binds when picked up",
 	"name": "Hightailing Leggings",
 	"icon": "inv_pants_08",
 	"popularity": 7,

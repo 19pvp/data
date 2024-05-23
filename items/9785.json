@@ -1,5 +1,6 @@
 {
 	"id": 9785,
+	"bind": "Binds when equipped",
 	"name": "Raider's Bracers",
 	"icon": "inv_bracer_13",
 	"popularity": 5,

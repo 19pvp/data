@@ -1,5 +1,6 @@
 {
 	"id": 60726,
+	"bind": "Binds when picked up",
 	"name": "Keeshan's Dagger",
 	"icon": "inv_weapon_shortblade_11",
 	"dmgMin": 17,

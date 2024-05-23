@@ -1,5 +1,6 @@
 {
 	"id": 49546,
+	"bind": "Binds when picked up",
 	"name": "Revitalizing Wristguards",
 	"icon": "inv_bracer_05",
 	"popularity": 6,

@@ -1,5 +1,6 @@
 {
 	"id": 14560,
+	"bind": "Binds when equipped",
 	"name": "Prospector's Boots",
 	"icon": "inv_boots_05",
 	"popularity": 9,

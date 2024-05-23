@@ -1,5 +1,6 @@
 {
 	"id": 52633,
+	"bind": "Binds when picked up",
 	"name": "Satyr Horn Staff",
 	"icon": "inv_staff_25",
 	"dmgMin": 19,

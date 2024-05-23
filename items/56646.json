@@ -1,5 +1,6 @@
 {
 	"id": 56646,
+	"bind": "Binds when picked up",
 	"name": "Shredder Blade",
 	"icon": "inv_sword_24",
 	"dmgMin": 19,

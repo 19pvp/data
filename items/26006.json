@@ -1,5 +1,6 @@
 {
 	"id": 26006,
+	"bind": "Binds when picked up",
 	"name": "Crystal-Flecked Pants",
 	"icon": "inv_pants_02",
 	"popularity": 8,

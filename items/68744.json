@@ -1,5 +1,6 @@
 {
 	"id": 68744,
+	"bind": "Binds when equipped",
 	"name": "Imbued Pioneer Cloak",
 	"icon": "inv_misc_cape_03",
 	"popularity": 20,

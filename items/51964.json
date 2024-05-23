@@ -1,5 +1,6 @@
 {
 	"id": 51964,
+	"bind": "Binds when picked up",
 	"name": "Vigorous Belt",
 	"icon": "inv_belt_03",
 	"popularity": 57,

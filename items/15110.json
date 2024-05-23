@@ -1,5 +1,6 @@
 {
 	"id": 15110,
+	"bind": "Binds when equipped",
 	"name": "Rigid Belt",
 	"icon": "inv_belt_05",
 	"popularity": 6,

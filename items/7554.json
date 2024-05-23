@@ -1,5 +1,6 @@
 {
 	"id": 7554,
+	"bind": "Binds when equipped",
 	"name": "Willow Branch",
 	"icon": "inv_staff_02",
 	"popularity": 9,

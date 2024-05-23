@@ -7,8 +7,9 @@
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Intellect": 3 },
+	"source": "CRAFT",
 	"sourceId": 7793,
-	"sourceName": "Enchant 2H Weapon - Lesser Intellect",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

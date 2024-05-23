@@ -1,5 +1,6 @@
 {
 	"id": 11229,
+	"bind": "Binds when picked up",
 	"name": "Brightscale Girdle",
 	"icon": "inv_belt_06",
 	"popularity": 13,
@@ -11,5 +12,5 @@
 	"type": "WAIST",
 	"stats": { "Strength": 6, "Stamina": 6 },
 	"source": "QUEST",
-	"sourceZone": 331
+	"sourceZone": "Ashenvale"
 }

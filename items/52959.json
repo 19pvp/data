@@ -1,5 +1,6 @@
 {
 	"id": 52959,
+	"bind": "Binds when picked up",
 	"name": "Oystein Bracers",
 	"icon": "inv_bracer_27b",
 	"popularity": 31,

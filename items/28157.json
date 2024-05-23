@@ -1,5 +1,6 @@
 {
 	"id": 28157,
+	"bind": "Binds when picked up",
 	"name": "Black Leather Jerkin",
 	"icon": "inv_chest_leather_08",
 	"popularity": 10,

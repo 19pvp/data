@@ -1,5 +1,6 @@
 {
 	"id": 27403,
+	"bind": "Binds when picked up",
 	"name": "Stillpine Stinger",
 	"icon": "inv_wand_07",
 	"dmgMin": 8,

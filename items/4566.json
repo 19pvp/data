@@ -1,5 +1,6 @@
 {
 	"id": 4566,
+	"bind": "Binds when equipped",
 	"name": "Sturdy Quarterstaff",
 	"icon": "inv_staff_08",
 	"dmgMin": 20,

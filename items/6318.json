@@ -1,5 +1,6 @@
 {
 	"id": 6318,
+	"bind": "Binds when picked up",
 	"name": "Odo's Ley Staff",
 	"icon": "inv_staff_27",
 	"dmgMin": 42,
@@ -12,6 +13,6 @@
 	"subclass": "STAFF",
 	"type": "TWO_HAND",
 	"stats": { "Stamina": 4, "Intellect": 7, "Spirit": 6 },
-	"source": "DROP",
-	"sourceZone": 209
+	"source": "DUNGEON",
+	"sourceZone": "Shadowfang Keep"
 }

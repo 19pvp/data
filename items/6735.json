@@ -1,5 +1,6 @@
 {
 	"id": "6735",
+	"bind": "Binds when equipped",
 	"icon": "inv_scroll_06",
 	"quality": "UNCOMMON",
 	"stats": { "Strength": 3, "Stamina": 3 }

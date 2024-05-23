@@ -1,5 +1,6 @@
 {
 	"id": 28149,
+	"bind": "Binds when picked up",
 	"name": "Tranquillien Breeches",
 	"icon": "inv_pants_02",
 	"popularity": 8,

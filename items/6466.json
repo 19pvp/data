@@ -1,5 +1,6 @@
 {
 	"id": 6466,
+	"bind": "Binds when equipped",
 	"name": "Deviate Scale Cloak",
 	"icon": "inv_misc_monsterscales_03",
 	"popularity": 18,
@@ -9,7 +10,8 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Agility": 2, "Stamina": 2 },
+	"source": "CRAFT",
 	"sourceId": 7953,
-	"sourceName": "Deviate Scale Cloak",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL"
 }

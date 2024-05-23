@@ -1,5 +1,6 @@
 {
 	"id": 15223,
+	"bind": "Binds when equipped",
 	"name": "Jagged Star",
 	"icon": "inv_hammer_08",
 	"dmgMin": 24,

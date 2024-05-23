@@ -1,5 +1,6 @@
 {
 	"id": 56677,
+	"bind": "Binds when picked up",
 	"name": "Belt of Healing Charms",
 	"icon": "inv_belt_41",
 	"popularity": 5,

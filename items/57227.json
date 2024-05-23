@@ -1,5 +1,6 @@
 {
 	"id": 57227,
+	"bind": "Binds when picked up",
 	"name": "Hewn Kodo Gloves",
 	"icon": "inv_gauntlets_24",
 	"popularity": 6,

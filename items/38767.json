@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Absorption": 10 },
+	"source": "CRAFT",
 	"sourceId": 7426,
-	"sourceName": "Enchant Chest - Minor Absorption",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

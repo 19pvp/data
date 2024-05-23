@@ -1,5 +1,6 @@
 {
 	"id": 58997,
+	"bind": "Binds when picked up",
 	"name": "Carved Stone Mace",
 	"icon": "inv_mace_04",
 	"dmgMin": 7,
@@ -14,5 +15,5 @@
 	"type": "MAIN_HAND",
 	"stats": { "Stamina": 1, "Intellect": 1 },
 	"source": "QUEST",
-	"sourceZone": 38
+	"sourceZone": "Loch Modan"
 }

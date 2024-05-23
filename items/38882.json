@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Spell Power": 15 },
+	"source": "CRAFT",
 	"sourceId": 23802,
-	"sourceName": "Enchant Bracer - Healing Power",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

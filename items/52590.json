@@ -1,5 +1,6 @@
 {
 	"id": 52590,
+	"bind": "Binds when picked up",
 	"name": "Wisp-Chaser Cord",
 	"icon": "inv_belt_24",
 	"popularity": 9,

@@ -1,5 +1,6 @@
 {
 	"id": 6576,
+	"bind": "Binds when equipped",
 	"name": "Defender Girdle",
 	"icon": "inv_belt_22",
 	"popularity": 12,

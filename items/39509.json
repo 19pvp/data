@@ -1,5 +1,6 @@
 {
 	"id": 39509,
+	"bind": "Binds when equipped",
 	"name": "Darkmoon Vest",
 	"icon": "inv_chest_leather_01",
 	"popularity": 19,

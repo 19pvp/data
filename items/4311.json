@@ -1,5 +1,6 @@
 {
 	"id": 4311,
+	"bind": "Binds when equipped",
 	"name": "Heavy Woolen Cloak",
 	"icon": "inv_misc_cape_14",
 	"popularity": 21,
@@ -9,7 +10,8 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Spirit": 4 },
+	"source": "CRAFT",
 	"sourceId": 3844,
-	"sourceName": "Heavy Woolen Cloak",
+	"sourceName": "Tailoring",
 	"sourceType": "SPELL"
 }

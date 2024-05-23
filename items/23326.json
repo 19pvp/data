@@ -1,5 +1,6 @@
 {
 	"id": "23326",
+	"bind": "Binds when picked up",
 	"icon": "inv_misc_food_53",
 	"quality": "COMMON",
 	"spell": {

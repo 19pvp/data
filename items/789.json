@@ -1,5 +1,6 @@
 {
 	"id": 789,
+	"bind": "Binds when equipped",
 	"name": "Stout Battlehammer",
 	"icon": "inv_hammer_08",
 	"dmgMin": 17,

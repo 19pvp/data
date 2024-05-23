@@ -1,5 +1,6 @@
 {
 	"id": 11304,
+	"bind": "Binds when equipped",
 	"name": "Fine Longbow",
 	"icon": "inv_weapon_bow_02",
 	"dmgMin": 23,

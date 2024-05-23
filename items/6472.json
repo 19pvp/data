@@ -1,5 +1,6 @@
 {
 	"id": 6472,
+	"bind": "Binds when picked up",
 	"name": "Stinging Viper",
 	"icon": "inv_wand_10",
 	"dmgMin": 25,
@@ -11,10 +12,10 @@
 	"quality": "RARE",
 	"subclass": "ONE_HANDED_MACE",
 	"type": "ONE_HAND",
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 3670,
 	"sourceName": "Lord Pythas",
-	"sourceZone": 718,
+	"sourceZone": "Wailing Caverns",
 	"sourceType": "NPC",
 	"spell": {
 		"type": "Chance on hit",

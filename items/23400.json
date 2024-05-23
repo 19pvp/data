@@ -1,5 +1,6 @@
 {
 	"id": 23400,
+	"bind": "Binds when picked up",
 	"name": "Sylastor's Cloak",
 	"icon": "inv_misc_cape_11",
 	"popularity": 6,

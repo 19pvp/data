@@ -1,5 +1,6 @@
 {
 	"id": 44103,
+	"bind": "<br>Item Level <!--ilvl-->1",
 	"name": "Exceptional Stormshroud Shoulders",
 	"icon": "inv_shoulder_05",
 	"popularity": 51,
@@ -10,5 +11,5 @@
 	"type": "SHOULDERS",
 	"stats": { "Resilience": 4, "Agility": 6, "Stamina": 6 },
 	"source": "VENDOR",
-	"sourceZone": 4197
+	"sourceZone": "Wintergrasp"
 }

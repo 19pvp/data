@@ -1,5 +1,6 @@
 {
 	"id": 6383,
+	"bind": "Binds when equipped",
 	"name": "Forest Buckler",
 	"icon": "inv_shield_09",
 	"popularity": 14,

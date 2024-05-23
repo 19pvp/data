@@ -1,5 +1,6 @@
 {
 	"id": 52641,
+	"bind": "Binds when picked up",
 	"name": "Cerellean's Dagger",
 	"icon": "inv_weapon_shortblade_05",
 	"dmgMin": 7,

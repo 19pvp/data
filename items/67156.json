@@ -1,5 +1,6 @@
 {
 	"id": 67156,
+	"bind": "Binds when picked up",
 	"name": "Girdle of Servitude",
 	"icon": "inv_belt_45c",
 	"popularity": 4,

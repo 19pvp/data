@@ -1,5 +1,6 @@
 {
 	"id": 9763,
+	"bind": "Binds when equipped",
 	"name": "Cadet Leggings",
 	"icon": "inv_pants_10",
 	"popularity": 8,

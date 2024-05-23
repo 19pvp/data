@@ -1,5 +1,6 @@
 {
 	"id": 20427,
+	"bind": "Binds when picked up",
 	"name": "Battle Healer's Cloak",
 	"icon": "inv_misc_cape_18",
 	"popularity": 10,
@@ -13,6 +14,6 @@
 	"source": "VENDOR",
 	"sourceId": 14754,
 	"sourceName": "Kelm Hargunth",
-	"sourceZone": 17,
+	"sourceZone": "Northern Barrens",
 	"sourceType": "NPC"
 }

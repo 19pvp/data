@@ -1,5 +1,6 @@
 {
 	"id": 53437,
+	"bind": "Binds when picked up",
 	"name": "Salvoblast Tunic",
 	"icon": "inv_chest_chain_09",
 	"popularity": 6,

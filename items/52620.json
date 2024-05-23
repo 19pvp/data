@@ -1,5 +1,6 @@
 {
 	"id": 52620,
+	"bind": "Binds when picked up",
 	"name": "Earth-Crusted Mail",
 	"icon": "inv_chest_chain_06",
 	"popularity": 9,

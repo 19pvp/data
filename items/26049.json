@@ -1,5 +1,6 @@
 {
 	"id": 26049,
+	"bind": "Binds when picked up",
 	"name": "Old Elekk Prod",
 	"icon": "inv_torch_unlit",
 	"dmgMin": 7,

@@ -1,5 +1,6 @@
 {
 	"id": 52923,
+	"bind": "Binds when picked up",
 	"name": "Rocket-Fuel Soaked Bracers",
 	"icon": "inv_bracer_07",
 	"popularity": 5,

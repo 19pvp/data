@@ -1,5 +1,6 @@
 {
 	"id": 7506,
+	"bind": "Binds when equipped",
 	"name": "Gnomish Universal Remote",
 	"icon": "inv_misc_pocketwatch_01",
 	"popularity": 7,
@@ -8,8 +9,9 @@
 	"quality": "UNCOMMON",
 	"subclass": "TRINKETS",
 	"type": "TRINKET",
+	"source": "CRAFT",
 	"sourceId": 9269,
-	"sourceName": "Gnomish Universal Remote",
+	"sourceName": "Engineering",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

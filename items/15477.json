@@ -1,5 +1,6 @@
 {
 	"id": 15477,
+	"bind": "Binds when equipped",
 	"name": "Charger's Pants",
 	"icon": "inv_pants_12",
 	"popularity": 12,

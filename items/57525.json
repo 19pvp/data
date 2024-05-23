@@ -1,5 +1,6 @@
 {
 	"id": 57525,
+	"bind": "Binds when picked up",
 	"name": "Studded Bearskin Jacket",
 	"icon": "inv_chest_chain_08",
 	"popularity": 3,

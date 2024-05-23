@@ -1,5 +1,6 @@
 {
 	"id": 49715,
+	"bind": "Binds when picked up",
 	"name": "Forever-Lovely Rose",
 	"icon": "inv_jewelry_talisman_03",
 	"popularity": 23,
@@ -8,9 +9,9 @@
 	"quality": "RARE",
 	"subclass": "MISC",
 	"type": "HEAD",
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 36296,
 	"sourceName": "Apothecary Hummel",
-	"sourceZone": 209,
+	"sourceZone": "Shadowfang Keep",
 	"sourceType": "NPC"
 }

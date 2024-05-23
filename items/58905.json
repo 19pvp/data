@@ -1,5 +1,6 @@
 {
 	"id": 58905,
+	"bind": "Binds when picked up",
 	"name": "Kobold Basher",
 	"icon": "inv_hammer_23",
 	"dmgMin": 10,

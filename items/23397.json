@@ -1,1 +1,7 @@
-{ "id": "23397", "icon": "inv_gauntlets_05", "armor": 19, "quality": "COMMON" }
+{
+	"id": "23397",
+	"bind": "Binds when picked up",
+	"icon": "inv_gauntlets_05",
+	"armor": 19,
+	"quality": "COMMON"
+}

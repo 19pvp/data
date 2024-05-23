@@ -1,5 +1,6 @@
 {
 	"id": 9768,
+	"bind": "Binds when equipped",
 	"name": "Greenweave Bracers",
 	"icon": "inv_bracer_12",
 	"popularity": 6,

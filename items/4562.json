@@ -1,5 +1,6 @@
 {
 	"id": 4562,
+	"bind": "Binds when equipped",
 	"name": "Severing Axe",
 	"icon": "inv_throwingaxe_02",
 	"dmgMin": 18,

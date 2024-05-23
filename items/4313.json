@@ -1,5 +1,6 @@
 {
 	"id": 4313,
+	"bind": "Binds when equipped",
 	"name": "Red Woolen Boots",
 	"icon": "inv_boots_09",
 	"popularity": 5,
@@ -9,7 +10,8 @@
 	"subclass": "CLOTH",
 	"type": "FEET",
 	"stats": { "Spirit": 5 },
+	"source": "CRAFT",
 	"sourceId": 3847,
-	"sourceName": "Red Woolen Boots",
+	"sourceName": "Tailoring",
 	"sourceType": "SPELL"
 }

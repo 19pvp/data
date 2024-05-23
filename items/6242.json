@@ -1,5 +1,6 @@
 {
 	"id": 6242,
+	"bind": "Binds when equipped",
 	"name": "Blue Linen Robe",
 	"icon": "inv_chest_cloth_23",
 	"popularity": 8,
@@ -9,7 +10,8 @@
 	"subclass": "CLOTH",
 	"type": "CHEST",
 	"stats": { "Spirit": 3 },
+	"source": "CRAFT",
 	"sourceId": 7633,
-	"sourceName": "Blue Linen Robe",
+	"sourceName": "Tailoring",
 	"sourceType": "SPELL"
 }

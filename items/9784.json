@@ -1,5 +1,6 @@
 {
 	"id": 9784,
+	"bind": "Binds when equipped",
 	"name": "Raider's Boots",
 	"icon": "inv_boots_01",
 	"popularity": 5,

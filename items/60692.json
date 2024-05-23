@@ -1,5 +1,6 @@
 {
 	"id": 60692,
+	"bind": "Binds when picked up",
 	"name": "Breadwinner's Gloves",
 	"icon": "inv_gauntlets_15",
 	"popularity": 6,

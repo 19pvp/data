@@ -1,5 +1,6 @@
 {
 	"id": 15112,
+	"bind": "Binds when equipped",
 	"name": "Rigid Bracelets",
 	"icon": "inv_bracer_01",
 	"popularity": 7,

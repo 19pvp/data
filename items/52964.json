@@ -1,5 +1,6 @@
 {
 	"id": 52964,
+	"bind": "Binds when picked up",
 	"name": "Heat-Applied Metallic Cooking Container",
 	"icon": "inv_shield_10",
 	"popularity": 12,

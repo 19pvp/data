@@ -1,5 +1,6 @@
 {
 	"id": 27389,
+	"bind": "Binds when picked up",
 	"name": "Surplus Bastard Sword",
 	"icon": "inv_sword_06",
 	"dmgMin": 20,

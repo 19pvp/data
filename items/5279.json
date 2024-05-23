@@ -1,5 +1,6 @@
 {
 	"id": 5279,
+	"bind": "Binds when picked up",
 	"name": "Harpy Skinner",
 	"icon": "inv_weapon_shortblade_14",
 	"dmgMin": 9,

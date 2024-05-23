@@ -1,5 +1,6 @@
 {
 	"id": 2632,
+	"bind": "Binds when equipped",
 	"name": "Curved Dagger",
 	"icon": "inv_weapon_shortblade_01",
 	"dmgMin": 8,

@@ -1,5 +1,6 @@
 {
 	"id": 60706,
+	"bind": "Binds when picked up",
 	"name": "Sandals of the Neverending Bridge",
 	"icon": "inv_boots_cloth_01",
 	"popularity": 8,

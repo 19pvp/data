@@ -1,5 +1,6 @@
 {
 	"id": 5199,
+	"bind": "Binds when picked up",
 	"name": "Smelting Pants",
 	"icon": "inv_pants_02",
 	"popularity": 47,
@@ -9,6 +10,6 @@
 	"subclass": "LEATHER",
 	"type": "LEGS",
 	"stats": { "Critical Strike Rating": 4, "Agility": 8, "Stamina": 4 },
-	"source": "DROP",
-	"sourceZone": 1581
+	"source": "DUNGEON",
+	"sourceZone": "The Deadmines"
 }

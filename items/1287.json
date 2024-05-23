@@ -1,5 +1,6 @@
 {
 	"id": 1287,
+	"bind": "Binds when equipped",
 	"name": "Giant Tarantula Fang",
 	"icon": "inv_misc_monsterfang_01",
 	"dmgMin": 7,

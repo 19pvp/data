@@ -1,5 +1,6 @@
 {
 	"id": 56635,
+	"bind": "Binds when picked up",
 	"name": "First Responder's Pauldrons",
 	"icon": "inv_shoulder_15",
 	"popularity": 6,

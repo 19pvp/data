@@ -1,5 +1,6 @@
 {
 	"id": 58925,
+	"bind": "Binds when picked up",
 	"name": "Troublesome Gloves",
 	"icon": "inv_gauntlets_21",
 	"popularity": 5,

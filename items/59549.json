@@ -1,5 +1,6 @@
 {
 	"id": 59549,
+	"bind": "Binds when picked up",
 	"name": "Sunscale Cloak",
 	"icon": "inv_misc_cape_06",
 	"popularity": 14,

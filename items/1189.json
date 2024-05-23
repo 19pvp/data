@@ -9,9 +9,9 @@
 	"subclass": "RINGS",
 	"type": "FINGER",
 	"stats": { "Strength": 3 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 125,
 	"sourceName": "Riverpaw Overseer",
-	"sourceZone": 40,
+	"sourceZone": "Westfall",
 	"sourceType": "NPC"
 }

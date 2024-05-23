@@ -1,5 +1,6 @@
 {
 	"id": 60689,
+	"bind": "Binds when picked up",
 	"name": "Belt of Unsolvable Problems",
 	"icon": "inv_belt_24",
 	"popularity": 9,
@@ -11,5 +12,5 @@
 	"type": "WAIST",
 	"stats": { "Stamina": 2, "Intellect": 2 },
 	"source": "QUEST",
-	"sourceZone": 44
+	"sourceZone": "Redridge Mountains"
 }

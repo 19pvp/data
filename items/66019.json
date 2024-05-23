@@ -1,5 +1,6 @@
 {
 	"id": 66019,
+	"bind": "Binds when picked up",
 	"name": "Cookie's Meat Mallet",
 	"icon": "inv_hammer_09",
 	"dmgMin": 21,

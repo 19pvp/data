@@ -8,7 +8,8 @@
 	"quality": "RARE",
 	"subclass": "MISC",
 	"type": "HEAD",
+	"source": "CRAFT",
 	"sourceId": 73623,
-	"sourceName": "Rhinestone Sunglasses",
+	"sourceName": "Jewelcrafting",
 	"sourceType": "SPELL"
 }

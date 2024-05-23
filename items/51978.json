@@ -1,5 +1,6 @@
 {
 	"id": 51978,
+	"bind": "Binds when picked up",
 	"name": "Earthbound Girdle",
 	"icon": "inv_belt_26",
 	"popularity": 16,

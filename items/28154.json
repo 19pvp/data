@@ -1,5 +1,6 @@
 {
 	"id": 28154,
+	"bind": "Binds when picked up",
 	"name": "Red Silk Trousers",
 	"icon": "inv_pants_06",
 	"popularity": 11,

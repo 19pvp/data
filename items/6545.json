@@ -1,5 +1,6 @@
 {
 	"id": 6545,
+	"bind": "Binds when equipped",
 	"name": "Soldier's Armor",
 	"icon": "inv_chest_chain_16",
 	"popularity": 11,

@@ -1,5 +1,6 @@
 {
 	"id": 42943,
+	"bind": "<br>Item Level <!--ilvl-->1",
 	"name": "Bloodied Arcanite Reaper",
 	"icon": "inv_axe_09",
 	"dmgMin": 56,

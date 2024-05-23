@@ -1,5 +1,6 @@
 {
 	"id": 52933,
+	"bind": "Binds when picked up",
 	"name": "Mechachicken Feather Cloak",
 	"icon": "inv_misc_cape_03",
 	"popularity": 12,

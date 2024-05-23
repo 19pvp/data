@@ -1,5 +1,6 @@
 {
 	"id": 3471,
+	"bind": "Binds when equipped",
 	"name": "Copper Chain Vest",
 	"icon": "inv_chest_chain",
 	"popularity": 12,
@@ -9,7 +10,8 @@
 	"subclass": "MAIL",
 	"type": "CHEST",
 	"stats": { "Strength": 1 },
+	"source": "CRAFT",
 	"sourceId": 3321,
-	"sourceName": "Copper Chain Vest",
+	"sourceName": "Blacksmithing",
 	"sourceType": "SPELL"
 }

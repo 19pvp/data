@@ -1,5 +1,6 @@
 {
 	"id": 68752,
+	"bind": "Binds when equipped",
 	"name": "Imbued Infantry Belt",
 	"icon": "inv_belt_22",
 	"popularity": 4,

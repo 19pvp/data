@@ -1,5 +1,6 @@
 {
 	"id": 53440,
+	"bind": "Binds when picked up",
 	"name": "Sea Sister Vest",
 	"icon": "inv_chest_cloth_30",
 	"popularity": 8,

@@ -1,5 +1,6 @@
 {
 	"id": 54996,
+	"bind": "Binds when picked up",
 	"name": "Rygna-Silk Leggings",
 	"icon": "inv_pants_01",
 	"popularity": 10,

@@ -1,5 +1,6 @@
 {
 	"id": 14091,
+	"bind": "Binds when equipped",
 	"name": "Beaded Robe",
 	"icon": "inv_chest_cloth_22",
 	"popularity": 20,

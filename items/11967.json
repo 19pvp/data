@@ -1,5 +1,6 @@
 {
 	"id": 11967,
+	"bind": "Binds when equipped",
 	"name": "Zircon Band",
 	"icon": "inv_jewelry_ring_07",
 	"popularity": 11,

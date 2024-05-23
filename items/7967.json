@@ -7,8 +7,9 @@
 	"quality": "UNCOMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Spike": 18 },
+	"source": "CRAFT",
 	"sourceId": 9939,
-	"sourceName": "Mithril Shield Spike",
+	"sourceName": "Blacksmithing",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

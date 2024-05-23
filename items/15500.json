@@ -1,5 +1,6 @@
 {
 	"id": 15500,
+	"bind": "Binds when equipped",
 	"name": "Outrunner's Chestguard",
 	"icon": "inv_chest_chain_04",
 	"popularity": 10,

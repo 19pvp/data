@@ -1,5 +1,6 @@
 {
 	"id": "72045",
+	"bind": "Binds when picked up",
 	"icon": "achievement_pvp_h_16",
 	"quality": "COMMON",
 	"spell": {

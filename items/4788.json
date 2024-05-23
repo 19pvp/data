@@ -1,5 +1,6 @@
 {
 	"id": 4788,
+	"bind": "Binds when equipped",
 	"name": "Agile Boots",
 	"icon": "inv_boots_05",
 	"popularity": 19,

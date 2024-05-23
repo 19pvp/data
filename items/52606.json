@@ -1,5 +1,6 @@
 {
 	"id": 52606,
+	"bind": "Binds when picked up",
 	"name": "Blackwood Boots",
 	"icon": "inv_boots_08",
 	"popularity": 37,

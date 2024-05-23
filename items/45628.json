@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Hit Rating": 5 },
+	"source": "CRAFT",
 	"sourceId": 63746,
-	"sourceName": "Enchant Boots - Lesser Accuracy",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

@@ -1,5 +1,6 @@
 {
 	"id": 58924,
+	"bind": "Binds when picked up",
 	"name": "Legwork Trousers",
 	"icon": "inv_pants_09",
 	"popularity": 12,

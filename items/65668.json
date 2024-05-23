@@ -1,5 +1,6 @@
 {
 	"id": 65668,
+	"bind": "Binds when picked up",
 	"name": "Officer's Armbands",
 	"icon": "inv_bracer_12",
 	"popularity": 8,

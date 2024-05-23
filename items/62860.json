@@ -1,5 +1,6 @@
 {
 	"id": 62860,
+	"bind": "Binds when picked up",
 	"name": "Watched Watcher's Slippers",
 	"icon": "inv_boots_09",
 	"popularity": 5,

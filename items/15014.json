@@ -1,5 +1,6 @@
 {
 	"id": 15014,
+	"bind": "Binds when equipped",
 	"name": "Lupine Buckler",
 	"icon": "inv_shield_09",
 	"popularity": 11,

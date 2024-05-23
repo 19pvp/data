@@ -1,5 +1,6 @@
 {
 	"id": 15211,
+	"bind": "Binds when equipped",
 	"name": "Militant Shortsword",
 	"icon": "inv_sword_20",
 	"dmgMin": 19,

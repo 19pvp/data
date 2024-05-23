@@ -1,5 +1,6 @@
 {
 	"id": 44092,
+	"bind": "<br>Item Level <!--ilvl-->1",
 	"name": "Reforged Truesilver Champion",
 	"icon": "inv_sword_19",
 	"dmgMin": 56,
@@ -13,5 +14,5 @@
 	"type": "TWO_HAND",
 	"stats": { "Resilience": 5, "Strength": 9, "Stamina": 6 },
 	"source": "VENDOR",
-	"sourceZone": 4197
+	"sourceZone": "Wintergrasp"
 }

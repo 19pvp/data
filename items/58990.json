@@ -1,5 +1,6 @@
 {
 	"id": 58990,
+	"bind": "Binds when picked up",
 	"name": "Rugelfuss Bracers",
 	"icon": "inv_bracer_27b",
 	"popularity": 10,

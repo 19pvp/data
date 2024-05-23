@@ -1,5 +1,6 @@
 {
 	"id": 2249,
+	"bind": "Binds when picked up",
 	"name": "Militia Buckler",
 	"icon": "inv_shield_09",
 	"popularity": 21,

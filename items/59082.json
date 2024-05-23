@@ -1,5 +1,6 @@
 {
 	"id": 59082,
+	"bind": "Binds when picked up",
 	"name": "Merchant Marine Pauldrons",
 	"icon": "inv_shoulder_21",
 	"popularity": 6,

@@ -1,5 +1,6 @@
 {
 	"id": 26017,
+	"bind": "Binds when picked up",
 	"name": "Venomous Silk Cover",
 	"icon": "inv_misc_cape_04",
 	"popularity": 7,

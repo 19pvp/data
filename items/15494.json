@@ -1,5 +1,6 @@
 {
 	"id": 15494,
+	"bind": "Binds when equipped",
 	"name": "Bloodspattered Shield",
 	"icon": "inv_shield_14",
 	"popularity": 6,

@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Mount Speed": 0.02 },
+	"source": "CRAFT",
 	"sourceId": 13947,
-	"sourceName": "Enchant Gloves - Riding Skill",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

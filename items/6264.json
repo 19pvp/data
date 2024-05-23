@@ -1,5 +1,6 @@
 {
 	"id": 6264,
+	"bind": "Binds when equipped",
 	"name": "Greater Adept's Robe",
 	"icon": "inv_chest_cloth_24",
 	"popularity": 9,
@@ -9,7 +10,8 @@
 	"subclass": "CLOTH",
 	"type": "CHEST",
 	"stats": { "Stamina": 1, "Intellect": 2, "Spirit": 7 },
+	"source": "CRAFT",
 	"sourceId": 7643,
-	"sourceName": "Greater Adept's Robe",
+	"sourceName": "Tailoring",
 	"sourceType": "SPELL"
 }

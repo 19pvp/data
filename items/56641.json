@@ -1,5 +1,6 @@
 {
 	"id": 56641,
+	"bind": "Binds when picked up",
 	"name": "Burden of Sacrifice",
 	"icon": "inv_shoulder_14",
 	"popularity": 6,

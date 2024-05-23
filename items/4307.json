@@ -1,5 +1,6 @@
 {
 	"id": 4307,
+	"bind": "Binds when equipped",
 	"name": "Heavy Linen Gloves",
 	"icon": "inv_gauntlets_05",
 	"popularity": 6,
@@ -9,7 +10,8 @@
 	"subclass": "CLOTH",
 	"type": "HANDS",
 	"stats": { "Spirit": 1 },
+	"source": "CRAFT",
 	"sourceId": 3840,
-	"sourceName": "Heavy Linen Gloves",
+	"sourceName": "Tailoring",
 	"sourceType": "SPELL"
 }

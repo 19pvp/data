@@ -1,5 +1,6 @@
 {
 	"id": 7508,
+	"bind": "Binds when picked up",
 	"name": "Ley Orb",
 	"icon": "inv_misc_orb_01",
 	"popularity": 9,

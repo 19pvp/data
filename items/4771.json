@@ -1,5 +1,6 @@
 {
 	"id": 4771,
+	"bind": "Binds when equipped",
 	"name": "Harvest Cloak",
 	"icon": "inv_misc_cape_10",
 	"popularity": 7,
@@ -9,9 +10,9 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Spirit": 2 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 3270,
 	"sourceName": "Elder Mystic Razorsnout",
-	"sourceZone": 17,
+	"sourceZone": "Northern Barrens",
 	"sourceType": "NPC"
 }

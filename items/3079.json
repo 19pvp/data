@@ -1,5 +1,6 @@
 {
 	"id": 3079,
+	"bind": "Binds when picked up",
 	"name": "Skorn's Rifle",
 	"icon": "inv_weapon_rifle_01",
 	"dmgMin": 11,

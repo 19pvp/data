@@ -1,5 +1,6 @@
 {
 	"id": 52662,
+	"bind": "Binds when picked up",
 	"name": "Tidal Cloak",
 	"icon": "inv_misc_cape_11",
 	"popularity": 6,

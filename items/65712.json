@@ -1,5 +1,6 @@
 {
 	"id": 65712,
+	"bind": "Binds when picked up",
 	"name": "Citizen Wilkes' Ring",
 	"icon": "inv_jewelry_ring_12",
 	"popularity": 7,

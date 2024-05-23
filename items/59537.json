@@ -1,5 +1,6 @@
 {
 	"id": 59537,
+	"bind": "Binds when picked up",
 	"name": "Kranal's Vest",
 	"icon": "inv_chest_leather_08",
 	"popularity": 15,

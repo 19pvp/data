@@ -1,5 +1,6 @@
 {
 	"id": 65711,
+	"bind": "Binds when picked up",
 	"name": "Portable Lap Desk",
 	"icon": "inv_shield_11",
 	"popularity": 9,

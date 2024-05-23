@@ -1,5 +1,6 @@
 {
 	"id": 60688,
+	"bind": "Binds when picked up",
 	"name": "Parker's Yardstick",
 	"icon": "inv_staff_21",
 	"dmgMin": 26,
@@ -14,5 +15,5 @@
 	"type": "TWO_HAND",
 	"stats": { "Agility": 2, "Stamina": 3 },
 	"source": "QUEST",
-	"sourceZone": 44
+	"sourceZone": "Redridge Mountains"
 }

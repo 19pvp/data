@@ -1,5 +1,6 @@
 {
 	"id": 23408,
+	"bind": "Binds when picked up",
 	"name": "Farstrider's Bracers",
 	"icon": "inv_bracer_07",
 	"popularity": 6,

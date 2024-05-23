@@ -1,5 +1,6 @@
 {
 	"id": 53425,
+	"bind": "Binds when picked up",
 	"name": "Low-Altitude Parachute",
 	"icon": "inv_misc_cape_14",
 	"popularity": 5,

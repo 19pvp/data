@@ -1,5 +1,6 @@
 {
 	"id": 56714,
+	"bind": "Binds when picked up",
 	"name": "Band of Foul Strength",
 	"icon": "inv_jewelry_ring_08",
 	"popularity": 12,

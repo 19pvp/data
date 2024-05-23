@@ -1,5 +1,6 @@
 {
 	"id": 52673,
+	"bind": "Binds when picked up",
 	"name": "Felros' Signet",
 	"icon": "inv_jewelry_ring_16",
 	"popularity": 8,

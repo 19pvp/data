@@ -7,8 +7,9 @@
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "enchant": "Fiery Weapon" },
+	"source": "CRAFT",
 	"sourceId": 13898,
-	"sourceName": "Enchant Weapon - Fiery Weapon",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

@@ -1,5 +1,6 @@
 {
 	"id": 5749,
+	"bind": "Binds when equipped",
 	"name": "Scythe Axe",
 	"icon": "inv_axe_06",
 	"dmgMin": 43,
@@ -12,9 +13,9 @@
 	"subclass": "TWO_HANDED_AXE",
 	"type": "TWO_HAND",
 	"stats": { "Agility": 6, "Stamina": 3 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 2090,
 	"sourceName": "Ma'ruk Wyrmscale",
-	"sourceZone": 11,
+	"sourceZone": "Wetlands",
 	"sourceType": "NPC"
 }

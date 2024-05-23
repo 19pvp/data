@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Mining": 5 },
+	"source": "CRAFT",
 	"sourceId": 13841,
-	"sourceName": "Enchant Gloves - Advanced Mining",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

@@ -1,5 +1,6 @@
 {
 	"id": 3191,
+	"bind": "Binds when picked up",
 	"name": "Arced War Axe",
 	"icon": "inv_axe_06",
 	"dmgMin": 51,
@@ -12,9 +13,9 @@
 	"subclass": "TWO_HANDED_AXE",
 	"type": "TWO_HAND",
 	"stats": { "Strength": 8, "Stamina": 6 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 4278,
 	"sourceName": "Commander Springvale",
-	"sourceZone": 209,
+	"sourceZone": "Shadowfang Keep",
 	"sourceType": "NPC"
 }

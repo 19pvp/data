@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Agility": 7 },
+	"source": "CRAFT",
 	"sourceId": 20012,
-	"sourceName": "Enchant Gloves - Greater Agility",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

@@ -1,5 +1,6 @@
 {
 	"id": 3066,
+	"bind": "Binds when equipped",
 	"name": "Bright Gloves",
 	"icon": "inv_gauntlets_23",
 	"popularity": 7,

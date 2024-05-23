@@ -1,5 +1,6 @@
 {
 	"id": 6541,
+	"bind": "Binds when equipped",
 	"name": "Willow Gloves",
 	"icon": "inv_gauntlets_23",
 	"popularity": 6,

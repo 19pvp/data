@@ -1,5 +1,6 @@
 {
 	"id": 3655,
+	"bind": "Binds when equipped",
 	"name": "Burnished Shield",
 	"icon": "inv_shield_03",
 	"popularity": 6,

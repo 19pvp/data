@@ -1,5 +1,6 @@
 {
 	"id": 9770,
+	"bind": "Binds when equipped",
 	"name": "Greenweave Cloak",
 	"icon": "inv_misc_cape_17",
 	"popularity": 6,

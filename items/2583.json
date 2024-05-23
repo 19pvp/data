@@ -1,5 +1,6 @@
 {
 	"id": 2583,
+	"bind": "Binds when equipped",
 	"name": "Woolen Boots",
 	"icon": "inv_boots_09",
 	"popularity": 19,
@@ -9,7 +10,8 @@
 	"subclass": "CLOTH",
 	"type": "FEET",
 	"stats": { "Stamina": 3, "Intellect": 2, "Spirit": 2 },
+	"source": "CRAFT",
 	"sourceId": 2401,
-	"sourceName": "Woolen Boots",
+	"sourceName": "Tailoring",
 	"sourceType": "SPELL"
 }

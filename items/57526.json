@@ -1,5 +1,6 @@
 {
 	"id": 57526,
+	"bind": "Binds when picked up",
 	"name": "Gnollbreaker's Boots",
 	"icon": "inv_boots_06",
 	"popularity": 22,

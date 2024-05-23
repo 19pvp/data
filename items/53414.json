@@ -1,5 +1,6 @@
 {
 	"id": 53414,
+	"bind": "Binds when picked up",
 	"name": "Hacker's Leggings",
 	"icon": "inv_pants_06",
 	"popularity": 15,

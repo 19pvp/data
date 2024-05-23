@@ -1,5 +1,6 @@
 {
 	"id": 43515,
+	"bind": "Binds when equipped",
 	"name": "Mystic Tome",
 	"icon": "inv_misc_book_11",
 	"popularity": 8,
@@ -9,7 +10,8 @@
 	"subclass": "OFF_HAND_FRILLS",
 	"type": "HELD_IN_OFF_HAND",
 	"stats": { "Intellect": 7 },
+	"source": "CRAFT",
 	"sourceId": 58565,
-	"sourceName": "Mystic Tome",
+	"sourceName": "Inscription",
 	"sourceType": "SPELL"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 53411,
+	"bind": "Binds when picked up",
 	"name": "Eldarath Staff",
 	"icon": "inv_staff_10",
 	"dmgMin": 26,

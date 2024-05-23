@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Parry Rating": 10 },
+	"source": "CRAFT",
 	"sourceId": 13689,
-	"sourceName": "Enchant Shield - Lesser Parry",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

@@ -9,8 +9,9 @@
 	"subclass": "RINGS",
 	"type": "FINGER",
 	"stats": { "Intellect": 5 },
+	"source": "CRAFT",
 	"sourceId": 37818,
-	"sourceName": "Bronze Band of Force",
+	"sourceName": "Jewelcrafting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Equip",

@@ -1,5 +1,6 @@
 {
 	"id": 6966,
+	"bind": "Binds when picked up",
 	"name": "Elunite Axe",
 	"icon": "inv_axe_04",
 	"dmgMin": 14,

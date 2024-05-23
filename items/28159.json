@@ -1,5 +1,6 @@
 {
 	"id": 28159,
+	"bind": "Binds when picked up",
 	"name": "Undertaker's Gloves",
 	"icon": "inv_gauntlets_05",
 	"popularity": 8,

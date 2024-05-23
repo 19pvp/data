@@ -1,5 +1,6 @@
 {
 	"id": 3198,
+	"bind": "Binds when equipped",
 	"name": "Battering Hammer",
 	"icon": "inv_hammer_16",
 	"dmgMin": 37,

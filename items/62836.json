@@ -1,5 +1,6 @@
 {
 	"id": 62836,
+	"bind": "Binds when picked up",
 	"name": "Muckdweller Spear",
 	"icon": "inv_spear_07",
 	"dmgMin": 16,

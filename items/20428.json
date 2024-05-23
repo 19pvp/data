@@ -1,5 +1,6 @@
 {
 	"id": 20428,
+	"bind": "Binds when picked up",
 	"name": "Caretaker's Cape",
 	"icon": "inv_misc_cape_13",
 	"popularity": 7,
@@ -13,6 +14,6 @@
 	"source": "VENDOR",
 	"sourceId": 14753,
 	"sourceName": "Illiyana Moonblaze",
-	"sourceZone": 331,
+	"sourceZone": "Ashenvale",
 	"sourceType": "NPC"
 }

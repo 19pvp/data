@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Spirit": 3 },
+	"source": "CRAFT",
 	"sourceId": 7859,
-	"sourceName": "Enchant Bracer - Lesser Spirit",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

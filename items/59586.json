@@ -1,5 +1,6 @@
 {
 	"id": 59586,
+	"bind": "Binds when picked up",
 	"name": "Gloves of Unfocused Rage",
 	"icon": "inv_gauntlets_05",
 	"popularity": 16,

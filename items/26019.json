@@ -1,5 +1,6 @@
 {
 	"id": 26019,
+	"bind": "Binds when picked up",
 	"name": "Maatparm's Fungus Lined Vest",
 	"icon": "inv_chest_leather_08",
 	"popularity": 12,

@@ -1,5 +1,6 @@
 {
 	"id": 65669,
+	"bind": "Binds when picked up",
 	"name": "Keyton's Sash",
 	"icon": "inv_belt_17",
 	"popularity": 4,

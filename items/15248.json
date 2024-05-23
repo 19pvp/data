@@ -1,5 +1,6 @@
 {
 	"id": 15248,
+	"bind": "Binds when equipped",
 	"name": "Gleaming Claymore",
 	"icon": "inv_sword_23",
 	"dmgMin": 30,

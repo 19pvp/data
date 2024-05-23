@@ -1,5 +1,6 @@
 {
 	"id": 22985,
+	"bind": "Binds when picked up",
 	"name": "Suncrown Hauberk",
 	"icon": "inv_chest_chain",
 	"popularity": 10,
@@ -12,6 +13,6 @@
 	"source": "VENDOR",
 	"sourceId": 16528,
 	"sourceName": "Provisioner Vredigar",
-	"sourceZone": 3433,
+	"sourceZone": "Ghostlands",
 	"sourceType": "NPC"
 }

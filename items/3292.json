@@ -1,5 +1,6 @@
 {
 	"id": 3292,
+	"bind": "Binds when equipped",
 	"name": "Ancestral Tunic",
 	"icon": "inv_shirt_07",
 	"popularity": 4,

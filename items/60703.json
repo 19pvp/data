@@ -1,5 +1,6 @@
 {
 	"id": 60703,
+	"bind": "Binds when picked up",
 	"name": "Escalation Britches",
 	"icon": "inv_pants_11",
 	"popularity": 17,

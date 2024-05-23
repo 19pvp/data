@@ -1,5 +1,6 @@
 {
 	"id": 14164,
+	"bind": "Binds when equipped",
 	"name": "Pagan Belt",
 	"icon": "inv_belt_24",
 	"popularity": 5,

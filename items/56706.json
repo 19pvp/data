@@ -1,5 +1,6 @@
 {
 	"id": 56706,
+	"bind": "Binds when picked up",
 	"name": "Greenpaw Belt",
 	"icon": "inv_belt_23",
 	"popularity": 5,

@@ -1,5 +1,6 @@
 {
 	"id": 59591,
+	"bind": "Binds when picked up",
 	"name": "Shield of the Barrens",
 	"icon": "inv_shield_16",
 	"popularity": 30,

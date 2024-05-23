@@ -1,5 +1,6 @@
 {
 	"id": 59010,
+	"bind": "Binds when picked up",
 	"name": "Swiftwind Blade",
 	"icon": "inv_sword_16",
 	"dmgMin": 14,

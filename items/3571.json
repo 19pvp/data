@@ -1,5 +1,6 @@
 {
 	"id": 3571,
+	"bind": "Binds when equipped",
 	"name": "Trogg Beater",
 	"icon": "inv_hammer_15",
 	"dmgMin": 39,
@@ -12,9 +13,9 @@
 	"subclass": "TWO_HANDED_MACE",
 	"type": "TWO_HAND",
 	"stats": { "Stamina": 7 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 1399,
 	"sourceName": "Magosh",
-	"sourceZone": 38,
+	"sourceZone": "Loch Modan",
 	"sourceType": "NPC"
 }

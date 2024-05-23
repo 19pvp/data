@@ -1,5 +1,6 @@
 {
 	"id": "23211",
+	"bind": "Binds when picked up",
 	"icon": "inv_summerfest_smorc",
 	"quality": "COMMON",
 	"spell": {

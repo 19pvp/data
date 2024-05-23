@@ -1,5 +1,6 @@
 {
 	"id": 53401,
+	"bind": "Binds when picked up",
 	"name": "Asylum Shoes",
 	"icon": "inv_boots_07",
 	"popularity": 8,

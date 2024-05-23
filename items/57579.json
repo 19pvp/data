@@ -1,5 +1,6 @@
 {
 	"id": 57579,
+	"bind": "Binds when picked up",
 	"name": "Airfield Defender's Garb",
 	"icon": "inv_chest_cloth_32",
 	"popularity": 18,

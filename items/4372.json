@@ -1,5 +1,6 @@
 {
 	"id": 4372,
+	"bind": "Binds when equipped",
 	"name": "Lovingly Crafted Boomstick",
 	"icon": "inv_weapon_rifle_07",
 	"dmgMin": 20,
@@ -11,7 +12,8 @@
 	"quality": "UNCOMMON",
 	"subclass": "GUN",
 	"type": "RANGED",
+	"source": "CRAFT",
 	"sourceId": 3939,
-	"sourceName": "Lovingly Crafted Boomstick",
+	"sourceName": "Engineering",
 	"sourceType": "SPELL"
 }

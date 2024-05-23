@@ -1,5 +1,6 @@
 {
 	"id": 56695,
+	"bind": "Binds when picked up",
 	"name": "Wolfrunner Boots",
 	"icon": "inv_boots_chain_04",
 	"popularity": 5,
@@ -11,5 +12,5 @@
 	"type": "FEET",
 	"stats": { "Stamina": 3, "Intellect": 2 },
 	"source": "QUEST",
-	"sourceZone": 331
+	"sourceZone": "Ashenvale"
 }

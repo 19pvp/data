@@ -1,5 +1,6 @@
 {
 	"id": 52919,
+	"bind": "Binds when picked up",
 	"name": "Oxidizing Axe",
 	"icon": "inv_throwingaxe_06",
 	"dmgMin": 6,

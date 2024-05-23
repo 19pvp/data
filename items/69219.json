@@ -1,5 +1,6 @@
 {
 	"id": 69219,
+	"bind": "Binds when picked up",
 	"name": "Sacrificial Blade",
 	"icon": "inv_weapon_shortblade_08",
 	"dmgMin": 8,

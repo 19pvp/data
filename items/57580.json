@@ -1,5 +1,6 @@
 {
 	"id": 57580,
+	"bind": "Binds when picked up",
 	"name": "Tunic of Dark Leather",
 	"icon": "inv_chest_leather_08",
 	"popularity": 5,

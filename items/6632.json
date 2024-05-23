@@ -1,5 +1,6 @@
 {
 	"id": 6632,
+	"bind": "Binds when picked up",
 	"name": "Feyscale Cloak",
 	"icon": "inv_misc_cape_02",
 	"popularity": 11,
@@ -9,9 +10,9 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Stamina": 4, "Intellect": 4 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 5912,
 	"sourceName": "Deviate Faerie Dragon",
-	"sourceZone": 718,
+	"sourceZone": "Wailing Caverns",
 	"sourceType": "NPC"
 }

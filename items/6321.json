@@ -9,9 +9,9 @@
 	"subclass": "RINGS",
 	"type": "FINGER",
 	"stats": { "Strength": 5, "Stamina": 3 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 3887,
 	"sourceName": "Baron Silverlaine",
-	"sourceZone": 209,
+	"sourceZone": "Shadowfang Keep",
 	"sourceType": "NPC"
 }

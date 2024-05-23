@@ -1,5 +1,6 @@
 {
 	"id": 62879,
+	"bind": "Binds when picked up",
 	"name": "Psychopathic Hatchet",
 	"icon": "inv_axe_11",
 	"dmgMin": 16,

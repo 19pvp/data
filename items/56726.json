@@ -1,5 +1,6 @@
 {
 	"id": 56726,
+	"bind": "Binds when picked up",
 	"name": "Disarray Boots",
 	"icon": "inv_boots_chain_12",
 	"popularity": 6,

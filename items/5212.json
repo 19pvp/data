@@ -1,5 +1,6 @@
 {
 	"id": 5212,
+	"bind": "Binds when equipped",
 	"name": "Blazing Wand",
 	"icon": "inv_staff_02",
 	"dmgMin": 13,

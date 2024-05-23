@@ -1,5 +1,6 @@
 {
 	"id": 59084,
+	"bind": "Binds when picked up",
 	"name": "Boran's Shoulderguards",
 	"icon": "inv_shoulder_08",
 	"popularity": 16,

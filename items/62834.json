@@ -1,5 +1,6 @@
 {
 	"id": 62834,
+	"bind": "Binds when picked up",
 	"name": "T'veen's Cloak",
 	"icon": "inv_misc_cape_08",
 	"popularity": 4,

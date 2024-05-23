@@ -1,5 +1,6 @@
 {
 	"id": 2308,
+	"bind": "Binds when equipped",
 	"name": "Fine Leather Cloak",
 	"icon": "inv_misc_cape_10",
 	"popularity": 9,
@@ -9,7 +10,8 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Stamina": 2 },
+	"source": "CRAFT",
 	"sourceId": 2159,
-	"sourceName": "Fine Leather Cloak",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL"
 }

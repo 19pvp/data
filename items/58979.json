@@ -1,5 +1,6 @@
 {
 	"id": 58979,
+	"bind": "Binds when picked up",
 	"name": "Silver Stream Shield",
 	"icon": "inv_shield_09",
 	"popularity": 20,
@@ -11,5 +12,5 @@
 	"type": "SHIELD",
 	"stats": { "Critical Strike Rating": 1, "Intellect": 1 },
 	"source": "QUEST",
-	"sourceZone": 38
+	"sourceZone": "Loch Modan"
 }

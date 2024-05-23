@@ -1,5 +1,6 @@
 {
 	"id": 14564,
+	"bind": "Binds when equipped",
 	"name": "Prospector's Mitts",
 	"icon": "inv_gauntlets_18",
 	"popularity": 9,

@@ -1,5 +1,6 @@
 {
 	"id": 15506,
+	"bind": "Binds when equipped",
 	"name": "Grunt's Ankle Wraps",
 	"icon": "inv_boots_08",
 	"popularity": 7,

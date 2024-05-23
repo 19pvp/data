@@ -1,5 +1,6 @@
 {
 	"id": 52591,
+	"bind": "Binds when picked up",
 	"name": "Narassin's Gloves",
 	"icon": "inv_gauntlets_27",
 	"popularity": 9,

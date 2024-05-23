@@ -1,5 +1,6 @@
 {
 	"id": 1926,
+	"bind": "Binds when equipped",
 	"name": "Weighted Sap",
 	"icon": "inv_mace_06",
 	"dmgMin": 24,

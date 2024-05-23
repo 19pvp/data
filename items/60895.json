@@ -1,5 +1,6 @@
 {
 	"id": 60895,
+	"bind": "Binds when picked up",
 	"name": "Ebonlocke Band",
 	"icon": "inv_jewelry_ring_54",
 	"popularity": 8,

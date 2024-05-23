@@ -1,5 +1,6 @@
 {
 	"id": 28164,
+	"bind": "Binds when picked up",
 	"name": "Tranquillien Flamberge",
 	"icon": "inv_sword_07",
 	"dmgMin": 29,
@@ -15,7 +16,7 @@
 	"source": "VENDOR",
 	"sourceId": 16528,
 	"sourceName": "Provisioner Vredigar",
-	"sourceZone": 3433,
+	"sourceZone": "Ghostlands",
 	"sourceType": "NPC",
 	"spell": {
 		"type": "Chance on hit",

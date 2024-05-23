@@ -1,5 +1,6 @@
 {
 	"id": 6550,
+	"bind": "Binds when equipped",
 	"name": "Soldier's Wristguards",
 	"icon": "inv_bracer_12",
 	"popularity": 7,

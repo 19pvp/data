@@ -1,5 +1,6 @@
 {
 	"id": 5321,
+	"bind": "Binds when picked up",
 	"name": "Elegant Shortsword",
 	"icon": "inv_sword_06",
 	"dmgMin": 14,

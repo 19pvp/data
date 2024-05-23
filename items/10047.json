@@ -1,5 +1,6 @@
 {
 	"id": 10047,
+	"bind": "Binds when equipped",
 	"name": "Simple Kilt",
 	"icon": "inv_pants_11",
 	"popularity": 13,
@@ -9,7 +10,8 @@
 	"subclass": "CLOTH",
 	"type": "LEGS",
 	"stats": { "Intellect": 4 },
+	"source": "CRAFT",
 	"sourceId": 12046,
-	"sourceName": "Simple Kilt",
+	"sourceName": "Tailoring",
 	"sourceType": "SPELL"
 }

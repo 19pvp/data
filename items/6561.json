@@ -1,5 +1,6 @@
 {
 	"id": 6561,
+	"bind": "Binds when equipped",
 	"name": "Seer's Padded Armor",
 	"icon": "inv_shirt_02",
 	"popularity": 9,

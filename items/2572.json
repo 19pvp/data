@@ -1,5 +1,6 @@
 {
 	"id": 2572,
+	"bind": "Binds when equipped",
 	"name": "Red Linen Robe",
 	"icon": "inv_chest_cloth_18",
 	"popularity": 4,
@@ -9,7 +10,8 @@
 	"subclass": "CLOTH",
 	"type": "CHEST",
 	"stats": { "Intellect": 1 },
+	"source": "CRAFT",
 	"sourceId": 2389,
-	"sourceName": "Red Linen Robe",
+	"sourceName": "Tailoring",
 	"sourceType": "SPELL"
 }

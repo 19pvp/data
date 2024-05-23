@@ -1,5 +1,6 @@
 {
 	"id": 52619,
+	"bind": "Binds when picked up",
 	"name": "Ichor Stained Vest",
 	"icon": "inv_chest_chain_08",
 	"popularity": 4,

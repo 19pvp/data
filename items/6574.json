@@ -1,5 +1,6 @@
 {
 	"id": 6574,
+	"bind": "Binds when equipped",
 	"name": "Defender Bracers",
 	"icon": "inv_bracer_14",
 	"popularity": 27,

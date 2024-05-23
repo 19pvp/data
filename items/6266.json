@@ -1,5 +1,6 @@
 {
 	"id": 6266,
+	"bind": "Binds when equipped",
 	"name": "Disciple's Vest",
 	"icon": "inv_shirt_05",
 	"popularity": 9,

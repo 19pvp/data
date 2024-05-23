@@ -1,5 +1,6 @@
 {
 	"id": 65696,
+	"bind": "Binds when picked up",
 	"name": "Awesome Boots",
 	"icon": "inv_boots_09",
 	"popularity": 10,

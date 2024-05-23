@@ -1,5 +1,6 @@
 {
 	"id": 59552,
+	"bind": "Binds when picked up",
 	"name": "Belt of the Forgotten Pool",
 	"icon": "inv_belt_03",
 	"popularity": 6,

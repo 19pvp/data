@@ -8,8 +8,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Armor": 10 },
+	"source": "CRAFT",
 	"sourceId": 7771,
-	"sourceName": "Enchant Cloak - Minor Protection",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

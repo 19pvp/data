@@ -1,5 +1,6 @@
 {
 	"id": 26032,
+	"bind": "Binds when picked up",
 	"name": "Crystal-Studded Legguards",
 	"icon": "inv_pants_03",
 	"popularity": 28,

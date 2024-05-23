@@ -1,5 +1,6 @@
 {
 	"id": 6319,
+	"bind": "Binds when picked up",
 	"name": "Girdle of the Blindwatcher",
 	"icon": "inv_belt_03",
 	"popularity": 9,
@@ -9,6 +10,6 @@
 	"subclass": "LEATHER",
 	"type": "WAIST",
 	"stats": { "Stamina": 4, "Intellect": 5, "Spirit": 4 },
-	"source": "DROP",
-	"sourceZone": 209
+	"source": "DUNGEON",
+	"sourceZone": "Shadowfang Keep"
 }

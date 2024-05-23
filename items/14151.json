@@ -1,5 +1,6 @@
 {
 	"id": 14151,
+	"bind": "Binds when picked up",
 	"name": "Chanting Blade",
 	"icon": "inv_weapon_shortblade_25",
 	"dmgMin": 15,
@@ -12,9 +13,9 @@
 	"subclass": "DAGGER",
 	"type": "ONE_HAND",
 	"stats": { "Agility": 3, "Stamina": 2 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 11518,
 	"sourceName": "Jergosh the Invoker",
-	"sourceZone": 2437,
+	"sourceZone": "Ragefire Chasm",
 	"sourceType": "NPC"
 }

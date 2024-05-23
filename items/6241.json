@@ -1,5 +1,6 @@
 {
 	"id": 6241,
+	"bind": "Binds when equipped",
 	"name": "White Linen Robe",
 	"icon": "inv_chest_cloth_04",
 	"popularity": 5,
@@ -9,7 +10,8 @@
 	"subclass": "CLOTH",
 	"type": "CHEST",
 	"stats": { "Intellect": 1 },
+	"source": "CRAFT",
 	"sourceId": 7624,
-	"sourceName": "White Linen Robe",
+	"sourceName": "Tailoring",
 	"sourceType": "SPELL"
 }

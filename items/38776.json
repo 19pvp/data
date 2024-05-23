@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Mana": 20 },
+	"source": "CRAFT",
 	"sourceId": 7776,
-	"sourceName": "Enchant Chest - Lesser Mana",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

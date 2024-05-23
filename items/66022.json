@@ -1,5 +1,6 @@
 {
 	"id": 66022,
+	"bind": "Binds when picked up",
 	"name": "Ragefire Leggings",
 	"icon": "inv_pants_08",
 	"popularity": 5,

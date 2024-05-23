@@ -9,7 +9,8 @@
 	"subclass": "RINGS",
 	"type": "FINGER",
 	"stats": { "Hit Rating": 4 },
+	"source": "CRAFT",
 	"sourceId": 25284,
-	"sourceName": "Simple Pearl Ring",
+	"sourceName": "Jewelcrafting",
 	"sourceType": "SPELL"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 60899,
+	"bind": "Binds when picked up",
 	"name": "Doublet of Deception",
 	"icon": "inv_chest_cloth_01",
 	"popularity": 8,

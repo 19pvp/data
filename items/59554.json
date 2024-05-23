@@ -1,5 +1,6 @@
 {
 	"id": 59554,
+	"bind": "Binds when picked up",
 	"name": "Silver-Edged Blade",
 	"icon": "inv_sword_04",
 	"dmgMin": 9,

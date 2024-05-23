@@ -1,5 +1,6 @@
 {
 	"id": 60908,
+	"bind": "Binds when picked up",
 	"name": "Stargazer's Pantaloons",
 	"icon": "inv_pants_05",
 	"popularity": 22,

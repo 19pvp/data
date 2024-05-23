@@ -1,5 +1,6 @@
 {
 	"id": 60907,
+	"bind": "Binds when picked up",
 	"name": "Sparkmetal Bracers",
 	"icon": "inv_bracer_30c",
 	"popularity": 11,

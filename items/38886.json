@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Shadow Spell Power": 20 },
+	"source": "CRAFT",
 	"sourceId": 25073,
-	"sourceName": "Enchant Gloves - Shadow Power",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

@@ -1,5 +1,6 @@
 {
 	"id": 2978,
+	"bind": "Binds when equipped",
 	"name": "Veteran Leggings",
 	"icon": "inv_pants_09",
 	"popularity": 8,

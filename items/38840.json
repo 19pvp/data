@@ -7,8 +7,9 @@
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "enchant": "Demonslaying" },
+	"source": "CRAFT",
 	"sourceId": 13915,
-	"sourceName": "Enchant Weapon - Demonslaying",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

@@ -1,5 +1,6 @@
 {
 	"id": 52603,
+	"bind": "Binds when picked up",
 	"name": "Mossy Boots",
 	"icon": "inv_boots_06",
 	"popularity": 8,

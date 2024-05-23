@@ -1,5 +1,6 @@
 {
 	"id": 56719,
+	"bind": "Binds when picked up",
 	"name": "Pilfered Kaldorei Belt",
 	"icon": "inv_belt_37",
 	"popularity": 5,

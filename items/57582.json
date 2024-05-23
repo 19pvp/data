@@ -1,5 +1,6 @@
 {
 	"id": 57582,
+	"bind": "Binds when picked up",
 	"name": "Stonebreaker's Gauntlets",
 	"icon": "inv_gauntlets_12",
 	"popularity": 18,

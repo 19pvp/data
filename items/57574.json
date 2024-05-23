@@ -1,5 +1,6 @@
 {
 	"id": 57574,
+	"bind": "Binds when picked up",
 	"name": "Museum Guard's Bracers",
 	"icon": "inv_bracer_27b",
 	"popularity": 9,

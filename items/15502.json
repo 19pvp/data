@@ -1,5 +1,6 @@
 {
 	"id": 15502,
+	"bind": "Binds when equipped",
 	"name": "Outrunner's Gloves",
 	"icon": "inv_gauntlets_17",
 	"popularity": 9,

@@ -1,5 +1,6 @@
 {
 	"id": 42949,
+	"bind": "<br>Item Level <!--ilvl-->1",
 	"name": "Polished Spaulders of Valor",
 	"icon": "inv_shoulder_30",
 	"popularity": 80,

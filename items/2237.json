@@ -1,5 +1,6 @@
 {
 	"id": 2237,
+	"bind": "Binds when picked up",
 	"name": "Patched Pants",
 	"icon": "inv_pants_leather_38",
 	"popularity": 3,

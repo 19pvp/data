@@ -1,5 +1,6 @@
 {
 	"id": 26038,
+	"bind": "Binds when picked up",
 	"name": "Segmented Girdle",
 	"icon": "inv_belt_03",
 	"popularity": 5,

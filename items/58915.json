@@ -1,5 +1,6 @@
 {
 	"id": 58915,
+	"bind": "Binds when picked up",
 	"name": "Harvester Boots",
 	"icon": "inv_boots_09",
 	"popularity": 13,

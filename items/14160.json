@@ -1,5 +1,6 @@
 {
 	"id": 14160,
+	"bind": "Binds when equipped",
 	"name": "Pagan Bands",
 	"icon": "inv_bracer_11",
 	"popularity": 8,

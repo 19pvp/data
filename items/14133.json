@@ -1,5 +1,6 @@
 {
 	"id": 14133,
+	"bind": "Binds when equipped",
 	"name": "Ritual Tunic",
 	"icon": "inv_shirt_05",
 	"popularity": 19,

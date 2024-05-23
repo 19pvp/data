@@ -1,5 +1,6 @@
 {
 	"id": 5200,
+	"bind": "Binds when picked up",
 	"name": "Impaling Harpoon",
 	"icon": "inv_spear_07",
 	"dmgMin": 47,
@@ -12,6 +13,6 @@
 	"subclass": "POLEARM",
 	"type": "TWO_HAND",
 	"stats": { "Agility": 7, "Stamina": 7 },
-	"source": "DROP",
-	"sourceZone": 1581
+	"source": "DUNGEON",
+	"sourceZone": "The Deadmines"
 }

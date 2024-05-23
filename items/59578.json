@@ -1,5 +1,6 @@
 {
 	"id": 59578,
+	"bind": "Binds when picked up",
 	"name": "Bracers of Angry Mutterings",
 	"icon": "inv_bracer_13",
 	"popularity": 5,

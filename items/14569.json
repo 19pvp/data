@@ -1,5 +1,6 @@
 {
 	"id": 14569,
+	"bind": "Binds when equipped",
 	"name": "Bristlebark Bindings",
 	"icon": "inv_bracer_08",
 	"popularity": 9,

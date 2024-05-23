@@ -1,5 +1,6 @@
 {
 	"id": 52587,
+	"bind": "Binds when picked up",
 	"name": "Singed Boots",
 	"icon": "inv_boots_cloth_01",
 	"popularity": 6,

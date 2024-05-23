@@ -1,5 +1,6 @@
 {
 	"id": 14150,
+	"bind": "Binds when picked up",
 	"name": "Robe of Evocation",
 	"icon": "inv_chest_cloth_24",
 	"popularity": 27,
@@ -9,9 +10,9 @@
 	"subclass": "CLOTH",
 	"type": "CHEST",
 	"stats": { "Critical Strike Rating": 5, "Stamina": 4, "Intellect": 5 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 11518,
 	"sourceName": "Jergosh the Invoker",
-	"sourceZone": 2437,
+	"sourceZone": "Ragefire Chasm",
 	"sourceType": "NPC"
 }

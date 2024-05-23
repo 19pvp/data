@@ -1,5 +1,6 @@
 {
 	"id": 33791,
+	"bind": "Binds when equipped",
 	"name": "Heavy Copper Longsword",
 	"icon": "inv_sword_25",
 	"dmgMin": 10,
@@ -12,7 +13,8 @@
 	"subclass": "ONE_HANDED_SWORD",
 	"type": "ONE_HAND",
 	"stats": { "Agility": 1 },
+	"source": "CRAFT",
 	"sourceId": 43549,
-	"sourceName": "Heavy Copper Longsword",
+	"sourceName": "Blacksmithing",
 	"sourceType": "SPELL"
 }

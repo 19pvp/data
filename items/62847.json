@@ -1,5 +1,6 @@
 {
 	"id": 62847,
+	"bind": "Binds when picked up",
 	"name": "Sea Dog Belt",
 	"icon": "inv_belt_04",
 	"popularity": 20,

@@ -1,5 +1,6 @@
 {
 	"id": 2961,
+	"bind": "Binds when equipped",
 	"name": "Burnt Leather Vest",
 	"icon": "inv_shirt_09",
 	"popularity": 15,

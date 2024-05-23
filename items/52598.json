@@ -1,5 +1,6 @@
 {
 	"id": 52598,
+	"bind": "Binds when picked up",
 	"name": "Soothsaying Vest",
 	"icon": "inv_chest_leather_09",
 	"popularity": 5,

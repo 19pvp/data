@@ -1,5 +1,6 @@
 {
 	"id": 66002,
+	"bind": "Binds when picked up",
 	"name": "Packleader's Pauldrons",
 	"icon": "inv_shoulder_15",
 	"popularity": 8,

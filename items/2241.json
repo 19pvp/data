@@ -1,5 +1,6 @@
 {
 	"id": 2241,
+	"bind": "Binds when equipped",
 	"name": "Desperado Cape",
 	"icon": "inv_misc_cape_04",
 	"popularity": 5,
@@ -9,9 +10,9 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Stamina": 3 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 1399,
 	"sourceName": "Magosh",
-	"sourceZone": 38,
+	"sourceZone": "Loch Modan",
 	"sourceType": "NPC"
 }

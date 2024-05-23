@@ -1,5 +1,6 @@
 {
 	"id": 24346,
+	"bind": "Binds when picked up",
 	"name": "Robe of the Dragon Slayer",
 	"icon": "inv_chest_cloth_21",
 	"popularity": 5,

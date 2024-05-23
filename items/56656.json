@@ -1,5 +1,6 @@
 {
 	"id": 56656,
+	"bind": "Binds when picked up",
 	"name": "Faithful Treads",
 	"icon": "inv_boots_03",
 	"popularity": 9,

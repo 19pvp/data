@@ -1,5 +1,6 @@
 {
 	"id": 24353,
+	"bind": "Binds when picked up",
 	"name": "Crossbow of the Hand",
 	"icon": "inv_weapon_crossbow_13",
 	"dmgMin": 35,

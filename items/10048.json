@@ -1,5 +1,6 @@
 {
 	"id": 10048,
+	"bind": "Binds when equipped",
 	"name": "Colorful Kilt",
 	"icon": "inv_pants_02",
 	"popularity": 4,
@@ -9,7 +10,8 @@
 	"subclass": "CLOTH",
 	"type": "LEGS",
 	"stats": { "Intellect": 5, "Spirit": 5 },
+	"source": "CRAFT",
 	"sourceId": 12047,
-	"sourceName": "Colorful Kilt",
+	"sourceName": "Tailoring",
 	"sourceType": "SPELL"
 }

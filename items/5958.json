@@ -1,5 +1,6 @@
 {
 	"id": 5958,
+	"bind": "Binds when equipped",
 	"name": "Fine Leather Pants",
 	"icon": "inv_pants_02",
 	"popularity": 10,
@@ -9,7 +10,8 @@
 	"subclass": "LEATHER",
 	"type": "LEGS",
 	"stats": { "Stamina": 8, "Intellect": 4 },
+	"source": "CRAFT",
 	"sourceId": 7133,
-	"sourceName": "Fine Leather Pants",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL"
 }

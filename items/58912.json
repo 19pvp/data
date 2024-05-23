@@ -1,5 +1,6 @@
 {
 	"id": 58912,
+	"bind": "Binds when picked up",
 	"name": "Sentinel Hill Surcoat",
 	"icon": "inv_chest_cloth_30",
 	"popularity": 4,

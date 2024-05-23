@@ -1,5 +1,6 @@
 {
 	"id": 4244,
+	"bind": "Binds when equipped",
 	"name": "Hillman's Leather Vest",
 	"icon": "inv_chest_leather_10",
 	"popularity": 7,
@@ -9,7 +10,8 @@
 	"subclass": "LEATHER",
 	"type": "CHEST",
 	"stats": { "Stamina": 4, "Intellect": 4 },
+	"source": "CRAFT",
 	"sourceId": 3762,
-	"sourceName": "Hillman's Leather Vest",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL"
 }

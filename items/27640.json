@@ -1,5 +1,6 @@
 {
 	"id": 27640,
+	"bind": "Binds when picked up",
 	"name": "Hand of Argus Crossfire",
 	"icon": "inv_weapon_crossbow_14",
 	"dmgMin": 30,

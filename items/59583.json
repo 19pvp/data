@@ -1,5 +1,6 @@
 {
 	"id": 59583,
+	"bind": "Binds when picked up",
 	"name": "Marauding Belt",
 	"icon": "inv_belt_03",
 	"popularity": 8,

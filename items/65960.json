@@ -1,5 +1,6 @@
 {
 	"id": 65960,
+	"bind": "Binds when picked up",
 	"name": "Shadowfang Spaulders",
 	"icon": "inv_shoulder_13",
 	"popularity": 18,

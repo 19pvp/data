@@ -1,5 +1,6 @@
 {
 	"id": 57213,
+	"bind": "Binds when picked up",
 	"name": "Waterbearer's Robes",
 	"icon": "inv_chest_cloth_32",
 	"popularity": 15,

@@ -1,5 +1,6 @@
 {
 	"id": 56678,
+	"bind": "Binds when picked up",
 	"name": "Boots of the Deliverer",
 	"icon": "inv_boots_chain_12",
 	"popularity": 6,

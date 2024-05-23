@@ -1,5 +1,6 @@
 {
 	"id": 62852,
+	"bind": "Binds when picked up",
 	"name": "Sabots of Red Waters",
 	"icon": "inv_boots_08",
 	"popularity": 8,

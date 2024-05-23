@@ -1,5 +1,6 @@
 {
 	"id": 6269,
+	"bind": "Binds when equipped",
 	"name": "Pioneer Trousers",
 	"icon": "inv_pants_05",
 	"popularity": 15,

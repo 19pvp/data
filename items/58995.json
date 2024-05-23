@@ -1,5 +1,6 @@
 {
 	"id": 58995,
+	"bind": "Binds when picked up",
 	"name": "Bonesnapper Bracers",
 	"icon": "inv_bracer_01",
 	"popularity": 7,

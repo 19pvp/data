@@ -1,5 +1,6 @@
 {
 	"id": "23500",
+	"bind": "Binds when picked up",
 	"icon": "inv_letter_05",
 	"quality": "COMMON",
 	"spell": {

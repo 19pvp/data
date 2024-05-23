@@ -1,5 +1,6 @@
 {
 	"id": 60721,
+	"bind": "Binds when picked up",
 	"name": "Shalewind Belt",
 	"icon": "inv_belt_45",
 	"popularity": 6,

@@ -1,5 +1,6 @@
 {
 	"id": 5314,
+	"bind": "Binds when picked up",
 	"name": "Boar Hunter's Cape",
 	"icon": "inv_misc_cape_10",
 	"popularity": 10,

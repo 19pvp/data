@@ -1,5 +1,6 @@
 {
 	"id": 4777,
+	"bind": "Binds when equipped",
 	"name": "Ironwood Maul",
 	"icon": "inv_hammer_16",
 	"dmgMin": 26,

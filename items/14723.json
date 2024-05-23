@@ -1,5 +1,6 @@
 {
 	"id": 14723,
+	"bind": "Binds when equipped",
 	"name": "War Paint Bindings",
 	"icon": "inv_bracer_06",
 	"popularity": 38,

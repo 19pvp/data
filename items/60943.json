@@ -1,5 +1,6 @@
 {
 	"id": 60943,
+	"bind": "Binds when picked up",
 	"name": "Signet of the Night Watch",
 	"icon": "inv_jewelry_ring_85",
 	"popularity": 5,

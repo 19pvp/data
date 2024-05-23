@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Haste Rating": 10 },
+	"source": "CRAFT",
 	"sourceId": 13948,
-	"sourceName": "Enchant Gloves - Minor Haste",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

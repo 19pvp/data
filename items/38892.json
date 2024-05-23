@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Nature Resistance": 15 },
+	"source": "CRAFT",
 	"sourceId": 25082,
-	"sourceName": "Enchant Cloak - Greater Nature Resistance",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

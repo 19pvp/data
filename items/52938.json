@@ -1,5 +1,6 @@
 {
 	"id": 52938,
+	"bind": "Binds when picked up",
 	"name": "Jealousy's Edge",
 	"icon": "inv_axe_09",
 	"dmgMin": 23,

@@ -1,5 +1,6 @@
 {
 	"id": 53390,
+	"bind": "Binds when picked up",
 	"name": "Skull Rock Belt",
 	"icon": "inv_belt_45c",
 	"popularity": 10,

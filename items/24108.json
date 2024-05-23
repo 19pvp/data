@@ -1,5 +1,6 @@
 {
 	"id": 24108,
+	"bind": "Binds when picked up",
 	"name": "Ravager Hide Leggings",
 	"icon": "inv_pants_06",
 	"popularity": 15,

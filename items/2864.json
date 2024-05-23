@@ -1,5 +1,6 @@
 {
 	"id": 2864,
+	"bind": "Binds when equipped",
 	"name": "Runed Copper Breastplate",
 	"icon": "inv_chest_plate03",
 	"popularity": 4,
@@ -9,7 +10,8 @@
 	"subclass": "MAIL",
 	"type": "CHEST",
 	"stats": { "Strength": 4, "Stamina": 3 },
+	"source": "CRAFT",
 	"sourceId": 2667,
-	"sourceName": "Runed Copper Breastplate",
+	"sourceName": "Blacksmithing",
 	"sourceType": "SPELL"
 }

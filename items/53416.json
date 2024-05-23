@@ -1,5 +1,6 @@
 {
 	"id": 53416,
+	"bind": "Binds when picked up",
 	"name": "Hill's Eye Wand",
 	"icon": "inv_wand_03",
 	"dmgMin": 8,

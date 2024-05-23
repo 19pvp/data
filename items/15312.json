@@ -1,5 +1,6 @@
 {
 	"id": 15312,
+	"bind": "Binds when equipped",
 	"name": "Feral Leggings",
 	"icon": "inv_pants_06",
 	"popularity": 9,

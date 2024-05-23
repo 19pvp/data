@@ -1,5 +1,6 @@
 {
 	"id": 65693,
+	"bind": "Binds when picked up",
 	"name": "Quest Giver's Pauldrons",
 	"icon": "inv_shoulder_15",
 	"popularity": 8,

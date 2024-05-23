@@ -1,5 +1,6 @@
 {
 	"id": 15222,
+	"bind": "Binds when equipped",
 	"name": "Barbed Club",
 	"icon": "inv_hammer_08",
 	"dmgMin": 15,

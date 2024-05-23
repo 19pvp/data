@@ -8,9 +8,9 @@
 	"quality": "UNCOMMON",
 	"subclass": "TABARDS",
 	"type": "TABARD",
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 6575,
 	"sourceName": "Scarlet Trainee",
-	"sourceZone": 796,
+	"sourceZone": "Scarlet Monastery",
 	"sourceType": "NPC"
 }

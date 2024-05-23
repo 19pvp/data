@@ -1,5 +1,6 @@
 {
 	"id": 52963,
+	"bind": "Binds when picked up",
 	"name": "Soulstone Breaker Wristbands",
 	"icon": "inv_bracer_01",
 	"popularity": 4,

@@ -1,5 +1,6 @@
 {
 	"id": 56708,
+	"bind": "Binds when picked up",
 	"name": "Bow of Ire",
 	"icon": "inv_weapon_bow_15",
 	"dmgMin": 38,

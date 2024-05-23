@@ -1,5 +1,6 @@
 {
 	"id": 26054,
+	"bind": "Binds when picked up",
 	"name": "Blade of Argus",
 	"icon": "inv_sword_draenei_02",
 	"dmgMin": 9,

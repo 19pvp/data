@@ -1,5 +1,6 @@
 {
 	"id": 53443,
+	"bind": "Binds when picked up",
 	"name": "Shield of Talrendis Point",
 	"icon": "inv_shield_09",
 	"popularity": 12,

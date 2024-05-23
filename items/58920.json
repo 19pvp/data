@@ -1,5 +1,6 @@
 {
 	"id": 58920,
+	"bind": "Binds when picked up",
 	"name": "Dust Plains Greaves",
 	"icon": "inv_pants_mail_04",
 	"popularity": 7,

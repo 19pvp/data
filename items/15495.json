@@ -1,5 +1,6 @@
 {
 	"id": 15495,
+	"bind": "Binds when equipped",
 	"name": "Bloodspattered Wristbands",
 	"icon": "inv_bracer_10",
 	"popularity": 9,

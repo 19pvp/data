@@ -1,5 +1,6 @@
 {
 	"id": 56642,
+	"bind": "Binds when picked up",
 	"name": "Starwhisper Monnions",
 	"icon": "inv_shoulder_13",
 	"popularity": 14,
@@ -11,5 +12,5 @@
 	"type": "SHOULDERS",
 	"stats": { "Agility": 3, "Stamina": 4 },
 	"source": "QUEST",
-	"sourceZone": 331
+	"sourceZone": "Ashenvale"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 872,
+	"bind": "Binds when picked up",
 	"name": "Rockslicer",
 	"icon": "inv_throwingaxe_01",
 	"dmgMin": 47,
@@ -12,6 +13,6 @@
 	"subclass": "TWO_HANDED_AXE",
 	"type": "TWO_HAND",
 	"stats": { "Critical Strike Rating": 7, "Agility": 7 },
-	"source": "DROP",
-	"sourceZone": 1581
+	"source": "DUNGEON",
+	"sourceZone": "The Deadmines"
 }

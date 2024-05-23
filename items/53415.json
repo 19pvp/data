@@ -1,5 +1,6 @@
 {
 	"id": 53415,
+	"bind": "Binds when picked up",
 	"name": "Heart Wrapper",
 	"icon": "inv_misc_cape_14",
 	"popularity": 9,

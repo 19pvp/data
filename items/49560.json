@@ -1,5 +1,6 @@
 {
 	"id": 49560,
+	"bind": "Binds when picked up",
 	"name": "Proof of Death",
 	"icon": "inv_sword_23",
 	"dmgMin": 28,

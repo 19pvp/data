@@ -1,5 +1,6 @@
 {
 	"id": 53406,
+	"bind": "Binds when picked up",
 	"name": "Charged Robes",
 	"icon": "inv_chest_cloth_31",
 	"popularity": 4,

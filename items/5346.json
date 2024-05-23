@@ -1,5 +1,6 @@
 {
 	"id": 5346,
+	"bind": "Binds when picked up",
 	"name": "Orcish Battle Bow",
 	"icon": "inv_weapon_bow_08",
 	"dmgMin": 12,

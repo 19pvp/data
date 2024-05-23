@@ -1,5 +1,6 @@
 {
 	"id": 5971,
+	"bind": "Binds when equipped",
 	"name": "Feathered Cape",
 	"icon": "inv_misc_cape_04",
 	"popularity": 7,
@@ -9,9 +10,9 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Agility": 1, "Stamina": 2 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 462,
 	"sourceName": "Vultros",
-	"sourceZone": 40,
+	"sourceZone": "Westfall",
 	"sourceType": "NPC"
 }

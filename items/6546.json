@@ -1,5 +1,6 @@
 {
 	"id": 6546,
+	"bind": "Binds when equipped",
 	"name": "Soldier's Leggings",
 	"icon": "inv_pants_10",
 	"popularity": 7,

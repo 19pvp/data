@@ -1,5 +1,6 @@
 {
 	"id": 60687,
+	"bind": "Binds when picked up",
 	"name": "Belt of the Sons",
 	"icon": "inv_belt_45b",
 	"popularity": 18,

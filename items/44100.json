@@ -1,5 +1,6 @@
 {
 	"id": 44100,
+	"bind": "<br>Item Level <!--ilvl-->1",
 	"name": "Pristine Lightforge Spaulders",
 	"icon": "inv_shoulder_10",
 	"popularity": 49,
@@ -15,5 +16,5 @@
 		"Intellect": 4
 	},
 	"source": "VENDOR",
-	"sourceZone": 4197
+	"sourceZone": "Wintergrasp"
 }

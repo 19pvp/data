@@ -1,5 +1,6 @@
 {
 	"id": 26023,
+	"bind": "Binds when picked up",
 	"name": "Ravager Hide Gloves",
 	"icon": "inv_gauntlets_05",
 	"popularity": 5,

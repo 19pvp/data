@@ -1,5 +1,6 @@
 {
 	"id": 57240,
+	"bind": "Binds when picked up",
 	"name": "Hawkeye Rifle",
 	"icon": "inv_weapon_rifle_01",
 	"dmgMin": 14,

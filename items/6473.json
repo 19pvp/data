@@ -1,5 +1,6 @@
 {
 	"id": 6473,
+	"bind": "Binds when picked up",
 	"name": "Armor of the Fang",
 	"icon": "inv_shirt_16",
 	"popularity": 19,
@@ -9,10 +10,10 @@
 	"subclass": "LEATHER",
 	"type": "CHEST",
 	"stats": { "Agility": 8, "Stamina": 6 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 3670,
 	"sourceName": "Lord Pythas",
-	"sourceZone": 718,
+	"sourceZone": "Wailing Caverns",
 	"sourceType": "NPC",
 	"info": "Belt of the FangFootpads of the FangGloves of the FangLeggings of the FangArmor of the Fang"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 55013,
+	"bind": "Binds when picked up",
 	"name": "Seryl's Promise",
 	"icon": "inv_staff_20",
 	"dmgMin": 26,

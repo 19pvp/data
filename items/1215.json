@@ -1,5 +1,6 @@
 {
 	"id": 1215,
+	"bind": "Binds when equipped",
 	"name": "Support Girdle",
 	"icon": "inv_belt_09",
 	"popularity": 7,
@@ -9,9 +10,9 @@
 	"subclass": "LEATHER",
 	"type": "WAIST",
 	"stats": { "Agility": 4, "Stamina": 3 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 1398,
 	"sourceName": "Boss Galgosh",
-	"sourceZone": 38,
+	"sourceZone": "Loch Modan",
 	"sourceType": "NPC"
 }

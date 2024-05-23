@@ -1,5 +1,6 @@
 {
 	"id": 23407,
+	"bind": "Binds when picked up",
 	"name": "Supple Cotton Bracer",
 	"icon": "inv_bracer_07",
 	"popularity": 7,

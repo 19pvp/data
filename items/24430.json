@@ -1,5 +1,6 @@
 {
 	"id": "24430",
+	"bind": "Binds when picked up",
 	"icon": "inv_sword_draenei_07",
 	"dmgMin": 12,
 	"dmgMax": 19,

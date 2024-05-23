@@ -1,5 +1,6 @@
 {
 	"id": 52630,
+	"bind": "Binds when picked up",
 	"name": "Horn Sounder's Bracers",
 	"icon": "inv_bracer_30a",
 	"popularity": 5,

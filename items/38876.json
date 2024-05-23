@@ -7,8 +7,9 @@
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Frost Spell Damage": 7 },
+	"source": "CRAFT",
 	"sourceId": 21931,
-	"sourceName": "Enchant Weapon - Winter's Might",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

@@ -1,5 +1,6 @@
 {
 	"id": 62874,
+	"bind": "Binds when picked up",
 	"name": "Treads of the True Plan",
 	"icon": "inv_boots_chain_06",
 	"popularity": 5,

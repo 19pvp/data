@@ -1,5 +1,6 @@
 {
 	"id": 28144,
+	"bind": "Binds when picked up",
 	"name": "Troll Handler Gloves",
 	"icon": "inv_gauntlets_06",
 	"popularity": 7,

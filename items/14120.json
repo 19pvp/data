@@ -1,5 +1,6 @@
 {
 	"id": 14120,
+	"bind": "Binds when equipped",
 	"name": "Aboriginal Robe",
 	"icon": "inv_chest_cloth_16",
 	"popularity": 18,

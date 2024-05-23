@@ -1,5 +1,6 @@
 {
 	"id": 3306,
+	"bind": "Binds when equipped",
 	"name": "Brackwater Vest",
 	"icon": "inv_chest_cloth_06",
 	"popularity": 11,

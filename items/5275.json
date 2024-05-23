@@ -1,5 +1,6 @@
 {
 	"id": 5275,
+	"bind": "Binds when picked up",
 	"name": "Binding Girdle",
 	"icon": "inv_belt_01",
 	"popularity": 21,

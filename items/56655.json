@@ -1,5 +1,6 @@
 {
 	"id": 56655,
+	"bind": "Binds when picked up",
 	"name": "Bloodcup Slippers",
 	"icon": "inv_boots_cloth_04",
 	"popularity": 6,

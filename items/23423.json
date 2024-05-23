@@ -1,5 +1,6 @@
 {
 	"id": 23423,
+	"bind": "Binds when picked up",
 	"name": "Mercenary Greatsword",
 	"icon": "inv_sword_23",
 	"dmgMin": 16,

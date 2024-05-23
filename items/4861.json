@@ -1,5 +1,6 @@
 {
 	"id": 4861,
+	"bind": "Binds when equipped",
 	"name": "Sleek Feathered Tunic",
 	"icon": "inv_chest_fur",
 	"popularity": 5,
@@ -9,9 +10,9 @@
 	"subclass": "LEATHER",
 	"type": "CHEST",
 	"stats": { "Agility": 1 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 3068,
 	"sourceName": "Mazzranache",
-	"sourceZone": 215,
+	"sourceZone": "Mulgore",
 	"sourceType": "NPC"
 }

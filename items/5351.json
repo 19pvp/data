@@ -1,5 +1,6 @@
 {
 	"id": 5351,
+	"bind": "Binds when picked up",
 	"name": "Bounty Hunter's Ring",
 	"icon": "inv_jewelry_ring_01",
 	"popularity": 10,

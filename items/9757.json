@@ -1,5 +1,6 @@
 {
 	"id": 9757,
+	"bind": "Binds when equipped",
 	"name": "Gypsy Tunic",
 	"icon": "inv_shirt_06",
 	"popularity": 3,

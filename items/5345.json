@@ -1,5 +1,6 @@
 {
 	"id": 5345,
+	"bind": "Binds when picked up",
 	"name": "Stonewood Hammer",
 	"icon": "inv_hammer_15",
 	"dmgMin": 24,

@@ -1,5 +1,6 @@
 {
 	"id": 60698,
+	"bind": "Binds when picked up",
 	"name": "Belt of Recurring Raids",
 	"icon": "inv_belt_02",
 	"popularity": 6,

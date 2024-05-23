@@ -1,5 +1,6 @@
 {
 	"id": 2204,
+	"bind": "Binds when equipped",
 	"name": "Brashclaw's Skewer",
 	"icon": "inv_sword_20",
 	"dmgMin": 29,
@@ -12,9 +13,9 @@
 	"subclass": "TWO_HANDED_SWORD",
 	"type": "TWO_HAND",
 	"stats": { "Stamina": 5 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 506,
 	"sourceName": "Sergeant Brashclaw",
-	"sourceZone": 40,
+	"sourceZone": "Westfall",
 	"sourceType": "NPC"
 }

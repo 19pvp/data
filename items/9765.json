@@ -1,5 +1,6 @@
 {
 	"id": 9765,
+	"bind": "Binds when equipped",
 	"name": "Cadet Vest",
 	"icon": "inv_chest_chain_05",
 	"popularity": 13,

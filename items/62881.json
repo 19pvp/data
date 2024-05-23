@@ -1,5 +1,6 @@
 {
 	"id": 62881,
+	"bind": "Binds when picked up",
 	"name": "Dawnweaver's Dagger",
 	"icon": "inv_weapon_shortblade_04",
 	"dmgMin": 8,

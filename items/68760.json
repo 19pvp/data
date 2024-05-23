@@ -1,5 +1,6 @@
 {
 	"id": 68760,
+	"bind": "Binds when equipped",
 	"name": "Imbued Infantry Gauntlets",
 	"icon": "inv_gauntlets_11",
 	"popularity": 6,

@@ -1,5 +1,6 @@
 {
 	"id": 4816,
+	"bind": "Binds when equipped",
 	"name": "Legionnaire's Leggings",
 	"icon": "inv_pants_03",
 	"popularity": 3,

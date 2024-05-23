@@ -1,5 +1,6 @@
 {
 	"id": 28141,
+	"bind": "Binds when picked up",
 	"name": "Ranger's Sash",
 	"icon": "inv_belt_06",
 	"popularity": 7,

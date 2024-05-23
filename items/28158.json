@@ -1,5 +1,6 @@
 {
 	"id": 28158,
+	"bind": "Binds when picked up",
 	"name": "Batskin Belt",
 	"icon": "inv_belt_09",
 	"popularity": 20,
@@ -12,6 +13,6 @@
 	"source": "VENDOR",
 	"sourceId": 16528,
 	"sourceName": "Provisioner Vredigar",
-	"sourceZone": 3433,
+	"sourceZone": "Ghostlands",
 	"sourceType": "NPC"
 }

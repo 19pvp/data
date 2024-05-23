@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Frost Resistance": 8 },
+	"source": "CRAFT",
 	"sourceId": 13933,
-	"sourceName": "Enchant Shield - Frost Resistance",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

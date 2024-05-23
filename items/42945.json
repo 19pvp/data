@@ -1,5 +1,6 @@
 {
 	"id": 42945,
+	"bind": "<br>Item Level <!--ilvl-->1",
 	"name": "Venerable Dal'Rend's Sacred Charge",
 	"icon": "inv_sword_43",
 	"dmgMin": 29,

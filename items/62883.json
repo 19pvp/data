@@ -1,5 +1,6 @@
 {
 	"id": 62883,
+	"bind": "Binds when picked up",
 	"name": "Inconspicuous Pantaloons",
 	"icon": "inv_pants_11",
 	"popularity": 4,

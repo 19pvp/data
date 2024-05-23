@@ -1,5 +1,6 @@
 {
 	"id": 9766,
+	"bind": "Binds when equipped",
 	"name": "Greenweave Sash",
 	"icon": "inv_belt_05",
 	"popularity": 11,

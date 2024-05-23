@@ -1,5 +1,6 @@
 {
 	"id": 1172,
+	"bind": "Binds when picked up",
 	"name": "Grayson's Torch",
 	"icon": "inv_torch_lit",
 	"popularity": 14,
@@ -11,5 +12,5 @@
 	"type": "HELD_IN_OFF_HAND",
 	"stats": { "Spirit": 4, "Armor": 6 },
 	"source": "QUEST",
-	"sourceZone": 40
+	"sourceZone": "Westfall"
 }

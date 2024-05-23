@@ -1,5 +1,6 @@
 {
 	"id": 65675,
+	"bind": "Binds when picked up",
 	"name": "Stillwater's Dagger",
 	"icon": "inv_knife_1h_cataclysm_b_02",
 	"dmgMin": 17,

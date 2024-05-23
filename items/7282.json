@@ -1,5 +1,6 @@
 {
 	"id": 7282,
+	"bind": "Binds when equipped",
 	"name": "Light Leather Pants",
 	"icon": "inv_pants_02",
 	"popularity": 3,
@@ -9,7 +10,8 @@
 	"subclass": "LEATHER",
 	"type": "LEGS",
 	"stats": { "Agility": 5, "Stamina": 3 },
+	"source": "CRAFT",
 	"sourceId": 9068,
-	"sourceName": "Light Leather Pants",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL"
 }

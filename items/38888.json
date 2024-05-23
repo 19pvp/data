@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Fire Spell Power": 20 },
+	"source": "CRAFT",
 	"sourceId": 25078,
-	"sourceName": "Enchant Gloves - Fire Power",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

@@ -1,5 +1,6 @@
 {
 	"id": 3305,
+	"bind": "Binds when equipped",
 	"name": "Brackwater Leggings",
 	"icon": "inv_pants_03",
 	"popularity": 5,

@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Spirit": 9 },
+	"source": "CRAFT",
 	"sourceId": 23801,
-	"sourceName": "Enchant Bracer - Mana Regeneration",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

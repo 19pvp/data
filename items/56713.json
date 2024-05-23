@@ -1,5 +1,6 @@
 {
 	"id": 56713,
+	"bind": "Binds when picked up",
 	"name": "Durak's Wand",
 	"icon": "inv_wand_16",
 	"dmgMin": 25,

@@ -1,5 +1,6 @@
 {
 	"id": 59588,
+	"bind": "Binds when picked up",
 	"name": "Cutthroat Band",
 	"icon": "inv_jewelry_ring_21",
 	"popularity": 25,

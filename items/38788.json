@@ -7,8 +7,9 @@
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Spirit": 3 },
+	"source": "CRAFT",
 	"sourceId": 13380,
-	"sourceName": "Enchant 2H Weapon - Lesser Spirit",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

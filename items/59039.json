@@ -1,5 +1,6 @@
 {
 	"id": 59039,
+	"bind": "Binds when picked up",
 	"name": "Very Light Sabre",
 	"icon": "inv_sword_05",
 	"dmgMin": 3.700000011920929,

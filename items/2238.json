@@ -1,5 +1,6 @@
 {
 	"id": 2238,
+	"bind": "Binds when picked up",
 	"name": "Urchin's Pants",
 	"icon": "inv_pants_cloth_41",
 	"popularity": 6,

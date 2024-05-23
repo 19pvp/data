@@ -1,5 +1,6 @@
 {
 	"id": 65674,
+	"bind": "Binds when picked up",
 	"name": "Star Pony Leggings",
 	"icon": "inv_pants_05",
 	"popularity": 5,

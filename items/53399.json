@@ -1,5 +1,6 @@
 {
 	"id": 53399,
+	"bind": "Binds when picked up",
 	"name": "Acquisition Bracers",
 	"icon": "inv_bracer_02",
 	"popularity": 5,

@@ -1,5 +1,6 @@
 {
 	"id": 52583,
+	"bind": "Binds when picked up",
 	"name": "Rat Hair Vest",
 	"icon": "inv_chest_cloth_32",
 	"popularity": 12,

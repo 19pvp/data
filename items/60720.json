@@ -1,5 +1,6 @@
 {
 	"id": 60720,
+	"bind": "Binds when picked up",
 	"name": "Treacherous Treads",
 	"icon": "inv_boots_08",
 	"popularity": 5,

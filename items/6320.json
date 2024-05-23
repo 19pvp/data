@@ -1,5 +1,6 @@
 {
 	"id": 6320,
+	"bind": "Binds when picked up",
 	"name": "Commander's Crest",
 	"icon": "inv_shield_03",
 	"popularity": 19,
@@ -9,9 +10,9 @@
 	"subclass": "SHIELDS",
 	"type": "SHIELD",
 	"stats": { "Dodge Rating": 3, "Strength": 2, "Stamina": 4 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 4278,
 	"sourceName": "Commander Springvale",
-	"sourceZone": 209,
+	"sourceZone": "Shadowfang Keep",
 	"sourceType": "NPC"
 }

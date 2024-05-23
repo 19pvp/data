@@ -1,5 +1,6 @@
 {
 	"id": 52907,
+	"bind": "Binds when picked up",
 	"name": "Snake Scale Belt",
 	"icon": "inv_belt_84v2",
 	"popularity": 7,

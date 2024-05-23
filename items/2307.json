@@ -1,5 +1,6 @@
 {
 	"id": 2307,
+	"bind": "Binds when equipped",
 	"name": "Fine Leather Boots",
 	"icon": "inv_boots_06",
 	"popularity": 13,
@@ -9,7 +10,8 @@
 	"subclass": "LEATHER",
 	"type": "FEET",
 	"stats": { "Agility": 4 },
+	"source": "CRAFT",
 	"sourceId": 2158,
-	"sourceName": "Fine Leather Boots",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL"
 }

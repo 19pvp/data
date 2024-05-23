@@ -1,5 +1,6 @@
 {
 	"id": 2970,
+	"bind": "Binds when equipped",
 	"name": "Spellbinder Pants",
 	"icon": "inv_pants_10",
 	"popularity": 6,

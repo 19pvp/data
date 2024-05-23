@@ -1,5 +1,6 @@
 {
 	"id": 57520,
+	"bind": "Binds when picked up",
 	"name": "Studded Arm Protector",
 	"icon": "inv_bracer_27b",
 	"popularity": 5,

@@ -1,5 +1,6 @@
 {
 	"id": 56654,
+	"bind": "Binds when picked up",
 	"name": "Heartwise Boon",
 	"icon": "inv_gauntlets_30",
 	"popularity": 24,

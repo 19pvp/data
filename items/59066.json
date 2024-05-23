@@ -1,5 +1,6 @@
 {
 	"id": 59066,
+	"bind": "Binds when picked up",
 	"name": "Stabilized Incendicite Legguards",
 	"icon": "inv_pants_mail_07",
 	"popularity": 16,

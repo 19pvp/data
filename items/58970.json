@@ -1,5 +1,6 @@
 {
 	"id": 58970,
+	"bind": "Binds when picked up",
 	"name": "Mori's Cloak",
 	"icon": "inv_misc_cape_13",
 	"popularity": 4,
@@ -11,5 +12,5 @@
 	"type": "BACK",
 	"stats": { "Intellect": 1 },
 	"source": "QUEST",
-	"sourceZone": 1
+	"sourceZone": "Dun Morogh"
 }

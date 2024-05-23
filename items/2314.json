@@ -1,5 +1,6 @@
 {
 	"id": 2314,
+	"bind": "Binds when equipped",
 	"name": "Toughened Leather Armor",
 	"icon": "inv_chest_leather_10",
 	"popularity": 3,
@@ -9,7 +10,8 @@
 	"subclass": "LEATHER",
 	"type": "CHEST",
 	"stats": { "Stamina": 13 },
+	"source": "CRAFT",
 	"sourceId": 2166,
-	"sourceName": "Toughened Leather Armor",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL"
 }

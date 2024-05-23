@@ -1,5 +1,6 @@
 {
 	"id": 56651,
+	"bind": "Binds when picked up",
 	"name": "Legguards of Abandoned Virtue",
 	"icon": "inv_pants_mail_11",
 	"popularity": 19,

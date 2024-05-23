@@ -1,5 +1,6 @@
 {
 	"id": 2857,
+	"bind": "Binds when equipped",
 	"name": "Runed Copper Belt",
 	"icon": "inv_belt_03",
 	"popularity": 26,
@@ -9,7 +10,8 @@
 	"subclass": "MAIL",
 	"type": "WAIST",
 	"stats": { "Strength": 3, "Stamina": 2 },
+	"source": "CRAFT",
 	"sourceId": 2666,
-	"sourceName": "Runed Copper Belt",
+	"sourceName": "Blacksmithing",
 	"sourceType": "SPELL"
 }

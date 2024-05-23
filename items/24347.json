@@ -1,5 +1,6 @@
 {
 	"id": 24347,
+	"bind": "Binds when picked up",
 	"name": "Vest of the Dragon Slayer",
 	"icon": "inv_chest_leather_07",
 	"popularity": 8,

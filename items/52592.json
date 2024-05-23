@@ -1,5 +1,6 @@
 {
 	"id": 52592,
+	"bind": "Binds when picked up",
 	"name": "Woolgathering Gloves",
 	"icon": "inv_gauntlets_15",
 	"popularity": 41,

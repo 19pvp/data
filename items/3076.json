@@ -1,5 +1,6 @@
 {
 	"id": 3076,
+	"bind": "Binds when equipped",
 	"name": "Smoldering Boots",
 	"icon": "inv_boots_09",
 	"popularity": 5,
@@ -9,9 +10,9 @@
 	"subclass": "CLOTH",
 	"type": "FEET",
 	"stats": { "Spirit": 6 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 1042,
 	"sourceName": "Red Whelp",
-	"sourceZone": 11,
+	"sourceZone": "Wetlands",
 	"sourceType": "NPC"
 }

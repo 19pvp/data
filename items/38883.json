@@ -7,8 +7,9 @@
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Spirit": 20 },
+	"source": "CRAFT",
 	"sourceId": 23803,
-	"sourceName": "Enchant Weapon - Mighty Spirit",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

@@ -1,5 +1,6 @@
 {
 	"id": 53436,
+	"bind": "Binds when picked up",
 	"name": "Robotronic Vest",
 	"icon": "inv_chest_chain_07",
 	"popularity": 7,

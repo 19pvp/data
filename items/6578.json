@@ -1,5 +1,6 @@
 {
 	"id": 6578,
+	"bind": "Binds when equipped",
 	"name": "Defender Leggings",
 	"icon": "inv_pants_03",
 	"popularity": 11,

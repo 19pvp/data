@@ -1,5 +1,6 @@
 {
 	"id": 27641,
+	"bind": "Binds when picked up",
 	"name": "Vindicator's Walking Stick",
 	"icon": "inv_staff_draenei_a_03",
 	"dmgMin": 24,

@@ -1,5 +1,6 @@
 {
 	"id": 42944,
+	"bind": "<br>Item Level <!--ilvl-->1",
 	"name": "Balanced Heartseeker",
 	"icon": "inv_sword_17",
 	"dmgMin": 18,

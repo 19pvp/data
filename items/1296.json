@@ -1,5 +1,6 @@
 {
 	"id": 1296,
+	"bind": "Binds when equipped",
 	"name": "Blackrock Mace",
 	"icon": "inv_mace_06",
 	"dmgMin": 18,
@@ -12,6 +13,6 @@
 	"subclass": "ONE_HANDED_MACE",
 	"type": "ONE_HAND",
 	"stats": { "Strength": 3 },
-	"source": "DROP",
-	"sourceZone": 44
+	"source": "ZONE",
+	"sourceZone": "Redridge Mountains"
 }

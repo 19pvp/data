@@ -1,5 +1,6 @@
 {
 	"id": 60702,
+	"bind": "Binds when picked up",
 	"name": "Sword of the Falling Sky",
 	"icon": "inv_sword_10",
 	"dmgMin": 15,

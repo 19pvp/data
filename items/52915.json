@@ -1,5 +1,6 @@
 {
 	"id": 52915,
+	"bind": "Binds when picked up",
 	"name": "Aggra's Sash",
 	"icon": "inv_belt_25",
 	"popularity": 6,

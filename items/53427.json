@@ -1,5 +1,6 @@
 {
 	"id": 53427,
+	"bind": "Binds when picked up",
 	"name": "Margene Repair Gloves",
 	"icon": "inv_gauntlets_12",
 	"popularity": 15,

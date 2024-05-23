@@ -1,5 +1,6 @@
 {
 	"id": 23173,
+	"bind": "Binds when picked up",
 	"name": "Abomination Skin Leggings",
 	"icon": "inv_pants_06",
 	"popularity": 14,
@@ -9,9 +10,9 @@
 	"subclass": "CLOTH",
 	"type": "LEGS",
 	"stats": { "Critical Strike Rating": 6, "Stamina": 6, "Intellect": 6 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 14682,
 	"sourceName": "Sever",
-	"sourceZone": 209,
+	"sourceZone": "Shadowfang Keep",
 	"sourceType": "NPC"
 }

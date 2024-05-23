@@ -1,5 +1,6 @@
 {
 	"id": 12006,
+	"bind": "Binds when equipped",
 	"name": "Meadow Ring",
 	"icon": "inv_jewelry_ring_12",
 	"popularity": 8,

@@ -1,5 +1,6 @@
 {
 	"id": 14565,
+	"bind": "Binds when equipped",
 	"name": "Prospector's Woolies",
 	"icon": "inv_pants_02",
 	"popularity": 12,

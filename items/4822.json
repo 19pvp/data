@@ -1,5 +1,6 @@
 {
 	"id": 4822,
+	"bind": "Binds when equipped",
 	"name": "Owl's Disk",
 	"icon": "inv_shield_09",
 	"popularity": 8,

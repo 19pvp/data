@@ -1,5 +1,6 @@
 {
 	"id": 38318,
+	"bind": "Binds when equipped",
 	"name": "Darkmoon Robe",
 	"icon": "inv_chest_cloth_12",
 	"popularity": 13,

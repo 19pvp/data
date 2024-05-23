@@ -1,5 +1,6 @@
 {
 	"id": 59572,
+	"bind": "Binds when picked up",
 	"name": "Misshapen Boots",
 	"icon": "inv_boots_chain_06",
 	"popularity": 7,
@@ -11,5 +12,5 @@
 	"type": "FEET",
 	"stats": { "Strength": 2, "Stamina": 2 },
 	"source": "QUEST",
-	"sourceZone": 17
+	"sourceZone": "Northern Barrens"
 }

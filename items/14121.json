@@ -1,5 +1,6 @@
 {
 	"id": 14121,
+	"bind": "Binds when equipped",
 	"name": "Aboriginal Vest",
 	"icon": "inv_chest_leather_01",
 	"popularity": 13,

@@ -1,5 +1,6 @@
 {
 	"id": 31270,
+	"bind": "Binds when equipped",
 	"name": "Banshee Rod",
 	"icon": "inv_wand_12",
 	"dmgMin": 13,
@@ -23,9 +24,9 @@
 			"stats": { "Critical Strike Rating": 1, "Stamina": 1, "Intellect": 1 }
 		}
 	},
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 22062,
 	"sourceName": "Dr. Whitherlimb",
-	"sourceZone": 3433,
+	"sourceZone": "Ghostlands",
 	"sourceType": "NPC"
 }

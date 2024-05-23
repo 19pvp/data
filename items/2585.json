@@ -1,5 +1,6 @@
 {
 	"id": 2585,
+	"bind": "Binds when equipped",
 	"name": "Gray Woolen Robe",
 	"icon": "inv_chest_cloth_13",
 	"popularity": 9,
@@ -9,7 +10,8 @@
 	"subclass": "CLOTH",
 	"type": "CHEST",
 	"stats": { "Stamina": 4, "Intellect": 5 },
+	"source": "CRAFT",
 	"sourceId": 2403,
-	"sourceName": "Gray Woolen Robe",
+	"sourceName": "Tailoring",
 	"sourceType": "SPELL"
 }

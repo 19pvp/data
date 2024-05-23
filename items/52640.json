@@ -1,5 +1,6 @@
 {
 	"id": 52640,
+	"bind": "Binds when picked up",
 	"name": "Grove Keeper's Branch",
 	"icon": "inv_mace_05",
 	"dmgMin": 17,

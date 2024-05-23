@@ -1,5 +1,6 @@
 {
 	"id": 56631,
+	"bind": "Binds when picked up",
 	"name": "Onaeya's Gloves",
 	"icon": "inv_gauntlets_18",
 	"popularity": 14,

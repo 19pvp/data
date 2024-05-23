@@ -1,5 +1,6 @@
 {
 	"id": 58971,
+	"bind": "Binds when picked up",
 	"name": "Mori's Compass",
 	"icon": "inv_misc_orb_01",
 	"popularity": 4,
@@ -11,5 +12,5 @@
 	"type": "HELD_IN_OFF_HAND",
 	"stats": { "Stamina": 1 },
 	"source": "QUEST",
-	"sourceZone": 1
+	"sourceZone": "Dun Morogh"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 65983,
+	"bind": "Binds when picked up",
 	"name": "Cookie's Table Cloth",
 	"icon": "inv_misc_cape_15",
 	"popularity": 11,

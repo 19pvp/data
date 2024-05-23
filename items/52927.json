@@ -1,5 +1,6 @@
 {
 	"id": 52927,
+	"bind": "Binds when picked up",
 	"name": "Victor's Robes",
 	"icon": "inv_chest_cloth_32",
 	"popularity": 19,

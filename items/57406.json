@@ -1,5 +1,6 @@
 {
 	"id": 57406,
+	"bind": "Binds when picked up",
 	"name": "Reinforced Mail Belt",
 	"icon": "inv_belt_45c",
 	"popularity": 3,

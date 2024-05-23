@@ -1,5 +1,6 @@
 {
 	"id": 27399,
+	"bind": "Binds when picked up",
 	"name": "Stillpine Defender",
 	"icon": "inv_shield_09",
 	"popularity": 14,

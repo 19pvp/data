@@ -1,5 +1,6 @@
 {
 	"id": 26035,
+	"bind": "Binds when picked up",
 	"name": "Corin's Handguards",
 	"icon": "inv_gauntlets_18",
 	"popularity": 6,

@@ -1,5 +1,6 @@
 {
 	"id": 56629,
+	"bind": "Binds when picked up",
 	"name": "Hands of Encouragement",
 	"icon": "inv_gauntlets_29",
 	"popularity": 6,

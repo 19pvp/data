@@ -1,5 +1,6 @@
 {
 	"id": 9756,
+	"bind": "Binds when equipped",
 	"name": "Gypsy Trousers",
 	"icon": "inv_pants_05",
 	"popularity": 8,

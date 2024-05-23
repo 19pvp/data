@@ -1,5 +1,6 @@
 {
 	"id": 59538,
+	"bind": "Binds when picked up",
 	"name": "Caravan Escort's Gloves",
 	"icon": "inv_gauntlets_12",
 	"popularity": 8,

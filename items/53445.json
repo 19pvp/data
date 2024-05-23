@@ -1,5 +1,6 @@
 {
 	"id": 53445,
+	"bind": "Binds when picked up",
 	"name": "Spongy Vest",
 	"icon": "inv_chest_leather_08",
 	"popularity": 6,

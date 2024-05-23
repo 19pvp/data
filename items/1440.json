@@ -1,5 +1,6 @@
 {
 	"id": 1440,
+	"bind": "Binds when equipped",
 	"name": "Gnoll Skull Basher",
 	"icon": "inv_hammer_11",
 	"dmgMin": 18,
@@ -12,9 +13,9 @@
 	"subclass": "ONE_HANDED_MACE",
 	"type": "ONE_HAND",
 	"stats": { "Strength": 2, "Stamina": 2 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 446,
 	"sourceName": "Redridge Basher",
-	"sourceZone": 44,
+	"sourceZone": "Redridge Mountains",
 	"sourceType": "NPC"
 }

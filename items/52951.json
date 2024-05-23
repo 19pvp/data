@@ -1,5 +1,6 @@
 {
 	"id": 52951,
+	"bind": "Binds when picked up",
 	"name": "Chicken Chopper",
 	"icon": "inv_throwingaxe_06",
 	"dmgMin": 8,

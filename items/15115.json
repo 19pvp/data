@@ -1,5 +1,6 @@
 {
 	"id": 15115,
+	"bind": "Binds when equipped",
 	"name": "Rigid Gloves",
 	"icon": "inv_gauntlets_24",
 	"popularity": 7,

@@ -1,5 +1,6 @@
 {
 	"id": 56710,
+	"bind": "Binds when picked up",
 	"name": "Unbountied Cloak",
 	"icon": "inv_misc_cape_14",
 	"popularity": 8,

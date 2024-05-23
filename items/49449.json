@@ -1,5 +1,6 @@
 {
 	"id": 49449,
+	"bind": "Binds when picked up",
 	"name": "Britches of Turning Fortune",
 	"icon": "inv_pants_02",
 	"popularity": 8,

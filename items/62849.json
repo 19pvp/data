@@ -1,5 +1,6 @@
 {
 	"id": 62849,
+	"bind": "Binds when picked up",
 	"name": "Skitterweb Glovelettes",
 	"icon": "inv_gauntlets_27",
 	"popularity": 6,

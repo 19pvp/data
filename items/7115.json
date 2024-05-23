@@ -1,5 +1,6 @@
 {
 	"id": 7115,
+	"bind": "Binds when picked up",
 	"name": "Heirloom Axe",
 	"icon": "inv_axe_17",
 	"dmgMin": 14,

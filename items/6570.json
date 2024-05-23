@@ -1,5 +1,6 @@
 {
 	"id": 6570,
+	"bind": "Binds when equipped",
 	"name": "Shimmering Sash",
 	"icon": "inv_belt_25",
 	"popularity": 25,

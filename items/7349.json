@@ -1,5 +1,6 @@
 {
 	"id": 7349,
+	"bind": "Binds when equipped",
 	"name": "Herbalist's Gloves",
 	"icon": "inv_gauntlets_18",
 	"popularity": 25,
@@ -8,8 +9,9 @@
 	"quality": "UNCOMMON",
 	"subclass": "LEATHER",
 	"type": "HANDS",
+	"source": "CRAFT",
 	"sourceId": 9146,
-	"sourceName": "Herbalist's Gloves",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Equip",

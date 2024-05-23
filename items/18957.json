@@ -1,5 +1,6 @@
 {
 	"id": 18957,
+	"bind": "Binds when picked up",
 	"name": "Brushwood Blade",
 	"icon": "inv_sword_06",
 	"dmgMin": 11,

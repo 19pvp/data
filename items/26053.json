@@ -1,5 +1,6 @@
 {
 	"id": 26053,
+	"bind": "Binds when picked up",
 	"name": "Elekk Handler's Blade",
 	"icon": "inv_sword_04",
 	"dmgMin": 8,

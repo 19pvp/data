@@ -1,5 +1,6 @@
 {
 	"id": "1127",
+	"bind": "Binds when picked up",
 	"icon": "inv_misc_ammo_bullet_01",
 	"quality": "COMMON",
 	"spell": {

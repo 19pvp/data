@@ -1,5 +1,6 @@
 {
 	"id": 9780,
+	"bind": "Binds when equipped",
 	"name": "Bandit Gloves",
 	"icon": "inv_gauntlets_15",
 	"popularity": 17,

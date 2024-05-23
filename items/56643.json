@@ -1,5 +1,6 @@
 {
 	"id": 56643,
+	"bind": "Binds when picked up",
 	"name": "Woodguard Vest",
 	"icon": "inv_chest_chain_17",
 	"popularity": 9,
@@ -11,5 +12,5 @@
 	"type": "CHEST",
 	"stats": { "Critical Strike Rating": 4, "Stamina": 5 },
 	"source": "QUEST",
-	"sourceZone": 331
+	"sourceZone": "Ashenvale"
 }

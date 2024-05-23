@@ -1,5 +1,6 @@
 {
 	"id": 4570,
+	"bind": "Binds when equipped",
 	"name": "Birchwood Maul",
 	"icon": "inv_hammer_15",
 	"dmgMin": 26,

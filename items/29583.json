@@ -1,5 +1,6 @@
 {
 	"id": 29583,
+	"bind": "Binds when equipped",
 	"name": "Sinister Scimitar",
 	"icon": "inv_sword_34",
 	"dmgMin": 20,
@@ -15,6 +16,6 @@
 	"source": "VENDOR",
 	"sourceId": 16268,
 	"sourceName": "Eralan",
-	"sourceZone": 3433,
+	"sourceZone": "Ghostlands",
 	"sourceType": "NPC"
 }

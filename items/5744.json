@@ -1,5 +1,6 @@
 {
 	"id": 5744,
+	"bind": "Binds when equipped",
 	"name": "Pale Skinner",
 	"icon": "inv_sword_24",
 	"dmgMin": 10,
@@ -11,9 +12,9 @@
 	"quality": "UNCOMMON",
 	"subclass": "ONE_HANDED_SWORD",
 	"type": "ONE_HAND",
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 472,
 	"sourceName": "Fedfennel",
-	"sourceZone": 12,
+	"sourceZone": "Elwynn Forest",
 	"sourceType": "NPC"
 }

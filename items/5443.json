@@ -1,5 +1,6 @@
 {
 	"id": 5443,
+	"bind": "Binds when picked up",
 	"name": "Gold-Plated Buckler",
 	"icon": "inv_shield_02",
 	"popularity": 10,
@@ -9,6 +10,6 @@
 	"subclass": "SHIELDS",
 	"type": "SHIELD",
 	"stats": { "Strength": 3, "Stamina": 5 },
-	"source": "DROP",
-	"sourceZone": 1581
+	"source": "DUNGEON",
+	"sourceZone": "The Deadmines"
 }

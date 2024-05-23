@@ -1,5 +1,6 @@
 {
 	"id": 55134,
+	"bind": "Binds when picked up",
 	"name": "Fiery Bracers",
 	"icon": "inv_bracer_29",
 	"popularity": 7,

@@ -1,5 +1,6 @@
 {
 	"id": 51968,
+	"bind": "Binds when picked up",
 	"name": "Enumerated Wrap",
 	"icon": "inv_belt_02",
 	"popularity": 16,

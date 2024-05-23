@@ -1,5 +1,6 @@
 {
 	"id": 3647,
+	"bind": "Binds when equipped",
 	"name": "Bright Bracers",
 	"icon": "inv_bracer_02",
 	"popularity": 8,

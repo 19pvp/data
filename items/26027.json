@@ -1,5 +1,6 @@
 {
 	"id": 26027,
+	"bind": "Binds when picked up",
 	"name": "Kessel's Sweat Stained Elekk Leash",
 	"icon": "inv_belt_21",
 	"popularity": 7,

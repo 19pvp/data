@@ -1,5 +1,6 @@
 {
 	"id": 42946,
+	"bind": "<br>Item Level <!--ilvl-->1",
 	"name": "Charmed Ancient Bone Bow",
 	"icon": "inv_weapon_bow_08",
 	"dmgMin": 38,

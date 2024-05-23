@@ -1,5 +1,6 @@
 {
 	"id": 58985,
+	"bind": "Binds when picked up",
 	"name": "Leggings of Uncanny Courage",
 	"icon": "inv_pants_08",
 	"popularity": 7,

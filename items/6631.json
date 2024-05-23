@@ -1,5 +1,6 @@
 {
 	"id": 6631,
+	"bind": "Binds when picked up",
 	"name": "Living Root",
 	"icon": "inv_staff_25",
 	"dmgMin": 42,
@@ -12,9 +13,9 @@
 	"subclass": "STAFF",
 	"type": "TWO_HAND",
 	"stats": { "Stamina": 3, "Intellect": 4, "Spirit": 8 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 5775,
 	"sourceName": "Verdan the Everliving",
-	"sourceZone": 718,
+	"sourceZone": "Wailing Caverns",
 	"sourceType": "NPC"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 3308,
+	"bind": "Binds when equipped",
 	"name": "Barbaric Cloth Gloves",
 	"icon": "inv_gauntlets_18",
 	"popularity": 7,

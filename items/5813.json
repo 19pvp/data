@@ -1,5 +1,6 @@
 {
 	"id": 5813,
+	"bind": "Binds when picked up",
 	"name": "Emil's Brand",
 	"icon": "inv_sword_10",
 	"dmgMin": 53,
@@ -14,5 +15,5 @@
 	"type": "TWO_HAND",
 	"stats": { "Strength": 11, "Stamina": 3 },
 	"source": "QUEST",
-	"sourceZone": 331
+	"sourceZone": "Ashenvale"
 }

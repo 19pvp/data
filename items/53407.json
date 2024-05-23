@@ -1,5 +1,6 @@
 {
 	"id": 53407,
+	"bind": "Binds when picked up",
 	"name": "Chopped Off Ancient Limb",
 	"icon": "inv_staff_17",
 	"dmgMin": 6,

@@ -1,5 +1,6 @@
 {
 	"id": 26013,
+	"bind": "Binds when picked up",
 	"name": "Cincture of Woven Reeds",
 	"icon": "inv_belt_22",
 	"popularity": 5,

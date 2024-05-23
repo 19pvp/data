@@ -1,5 +1,6 @@
 {
 	"id": 56712,
+	"bind": "Binds when picked up",
 	"name": "Accursed Mace",
 	"icon": "inv_mace_04",
 	"dmgMin": 50,

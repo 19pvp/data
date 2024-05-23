@@ -1,5 +1,6 @@
 {
 	"id": 10399,
+	"bind": "Binds when picked up",
 	"name": "Blackened Defias Armor",
 	"icon": "inv_chest_leather_08",
 	"popularity": 64,
@@ -9,10 +10,10 @@
 	"subclass": "LEATHER",
 	"type": "CHEST",
 	"stats": { "Agility": 7, "Stamina": 7 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 639,
 	"sourceName": "Edwin VanCleef",
-	"sourceZone": 1581,
+	"sourceZone": "The Deadmines",
 	"sourceType": "NPC",
 	"info": "Blackened Defias ArmorBlackened Defias BeltBlackened Defias BootsBlackened Defias GlovesBlackened Defias Leggings"
 }

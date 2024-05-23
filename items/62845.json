@@ -1,5 +1,6 @@
 {
 	"id": 62845,
+	"bind": "Binds when picked up",
 	"name": "Chicken Stuffers",
 	"icon": "inv_gauntlets_12",
 	"popularity": 10,

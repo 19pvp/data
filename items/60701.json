@@ -1,5 +1,6 @@
 {
 	"id": 60701,
+	"bind": "Binds when picked up",
 	"name": "Leverage Bracers",
 	"icon": "inv_bracer_01",
 	"popularity": 6,

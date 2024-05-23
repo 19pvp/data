@@ -1,5 +1,6 @@
 {
 	"id": 15969,
+	"bind": "Binds when equipped",
 	"name": "Beaded Orb",
 	"icon": "inv_misc_orb_05",
 	"speed": 2,

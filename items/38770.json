@@ -14,8 +14,9 @@
 		"Nature Resistance": 1,
 		"Arcane Resistance": 1
 	},
+	"source": "CRAFT",
 	"sourceId": 7454,
-	"sourceName": "Enchant Cloak - Minor Resistance",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

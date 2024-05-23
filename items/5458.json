@@ -1,5 +1,6 @@
 {
 	"id": 5458,
+	"bind": "Binds when picked up",
 	"name": "Dirtwood Belt",
 	"icon": "inv_belt_79",
 	"popularity": 9,

@@ -1,5 +1,6 @@
 {
 	"id": 60716,
+	"bind": "Binds when picked up",
 	"name": "Muckdweller Gloves",
 	"icon": "inv_gauntlets_05",
 	"popularity": 16,

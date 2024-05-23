@@ -1,5 +1,6 @@
 {
 	"id": 27400,
+	"bind": "Binds when picked up",
 	"name": "Peacekeeper's Buckler",
 	"icon": "inv_shield_02",
 	"popularity": 9,

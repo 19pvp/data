@@ -1,5 +1,6 @@
 {
 	"id": 3480,
+	"bind": "Binds when equipped",
 	"name": "Rough Bronze Shoulders",
 	"icon": "inv_shoulder_05",
 	"popularity": 7,
@@ -9,7 +10,8 @@
 	"subclass": "MAIL",
 	"type": "SHOULDERS",
 	"stats": { "Strength": 3, "Stamina": 4 },
+	"source": "CRAFT",
 	"sourceId": 3328,
-	"sourceName": "Rough Bronze Shoulders",
+	"sourceName": "Blacksmithing",
 	"sourceType": "SPELL"
 }

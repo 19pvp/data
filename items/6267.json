@@ -1,5 +1,6 @@
 {
 	"id": 6267,
+	"bind": "Binds when equipped",
 	"name": "Disciple's Pants",
 	"icon": "inv_pants_06",
 	"popularity": 6,

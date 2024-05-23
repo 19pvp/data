@@ -1,5 +1,6 @@
 {
 	"id": "66247",
+	"bind": "Binds when picked up",
 	"icon": "inv_staff_08",
 	"dmgMin": 7,
 	"dmgMax": 11,

@@ -1,5 +1,6 @@
 {
 	"id": 65714,
+	"bind": "Binds when picked up",
 	"name": "\"Jenny's\" Gloves",
 	"icon": "inv_gauntlets_31",
 	"popularity": 8,

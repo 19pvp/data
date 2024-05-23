@@ -1,5 +1,6 @@
 {
 	"id": 9749,
+	"bind": "Binds when equipped",
 	"name": "Simple Blouse",
 	"icon": "inv_shirt_05",
 	"popularity": 8,

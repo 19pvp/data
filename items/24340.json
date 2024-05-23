@@ -1,5 +1,6 @@
 {
 	"id": 24340,
+	"bind": "Binds when picked up",
 	"name": "Vandril's Hand Me Down Pants",
 	"icon": "inv_pants_10",
 	"popularity": 9,

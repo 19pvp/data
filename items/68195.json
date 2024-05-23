@@ -1,5 +1,6 @@
 {
 	"id": 68195,
+	"bind": "Binds when picked up",
 	"name": "Bazzalan's Blade",
 	"icon": "inv_sword_18",
 	"dmgMin": 22,
@@ -12,9 +13,9 @@
 	"subclass": "ONE_HANDED_SWORD",
 	"type": "ONE_HAND",
 	"stats": { "Critical Strike Rating": 4 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 11519,
 	"sourceName": "Bazzalan",
-	"sourceZone": 2437,
+	"sourceZone": "Ragefire Chasm",
 	"sourceType": "NPC"
 }

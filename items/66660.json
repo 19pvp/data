@@ -1,5 +1,6 @@
 {
 	"id": 66660,
+	"bind": "Binds when picked up",
 	"name": "Hammer of Controlled Fury",
 	"icon": "inv_mace_19",
 	"dmgMin": 17,

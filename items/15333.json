@@ -1,5 +1,6 @@
 {
 	"id": 15333,
+	"bind": "Binds when equipped",
 	"name": "Wrangler's Cloak",
 	"icon": "inv_misc_cape_01",
 	"popularity": 9,

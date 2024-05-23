@@ -1,5 +1,6 @@
 {
 	"id": 3057,
+	"bind": "Binds when equipped",
 	"name": "Forest Leather Boots",
 	"icon": "inv_boots_08",
 	"popularity": 8,

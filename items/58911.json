@@ -1,5 +1,6 @@
 {
 	"id": 58911,
+	"bind": "Binds when picked up",
 	"name": "Tightly Cinched Belt",
 	"icon": "inv_belt_45c",
 	"popularity": 4,

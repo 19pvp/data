@@ -1,5 +1,6 @@
 {
 	"id": 23431,
+	"bind": "Binds when picked up",
 	"name": "Mercenary Stiletto",
 	"icon": "inv_sword_12",
 	"dmgMin": 5,

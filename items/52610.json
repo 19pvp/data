@@ -1,5 +1,6 @@
 {
 	"id": 52610,
+	"bind": "Binds when picked up",
 	"name": "Strap of the Ancient Horn",
 	"icon": "inv_belt_37b",
 	"popularity": 7,

@@ -1,5 +1,6 @@
 {
 	"id": 58986,
+	"bind": "Binds when picked up",
 	"name": "Stone Stompers",
 	"icon": "inv_boots_chain_01",
 	"popularity": 23,

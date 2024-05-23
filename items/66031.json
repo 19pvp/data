@@ -1,5 +1,6 @@
 {
 	"id": 66031,
+	"bind": "Binds when picked up",
 	"name": "Hide Vest of the Hungerer",
 	"icon": "inv_chest_leather_08",
 	"popularity": 9,

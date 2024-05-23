@@ -1,5 +1,6 @@
 {
 	"id": 42950,
+	"bind": "<br>Item Level <!--ilvl-->1",
 	"name": "Champion Herod's Shoulder",
 	"icon": "inv_shoulder_01",
 	"popularity": 72,

@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Dodge Rating": 2 },
+	"source": "CRAFT",
 	"sourceId": 7428,
-	"sourceName": "Enchant Bracer - Minor Dodge",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

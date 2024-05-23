@@ -9,7 +9,8 @@
 	"subclass": "RINGS",
 	"type": "FINGER",
 	"stats": { "Critical Strike Rating": 3, "Stamina": 3 },
+	"source": "CRAFT",
 	"sourceId": 25490,
-	"sourceName": "Solid Bronze Ring",
+	"sourceName": "Jewelcrafting",
 	"sourceType": "SPELL"
 }

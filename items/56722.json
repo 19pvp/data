@@ -1,5 +1,6 @@
 {
 	"id": 56722,
+	"bind": "Binds when picked up",
 	"name": "Je'neu's Hunting Vest",
 	"icon": "inv_chest_cloth_05",
 	"popularity": 6,

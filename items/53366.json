@@ -1,5 +1,6 @@
 {
 	"id": 53366,
+	"bind": "Binds when picked up",
 	"name": "Enforcer's Gloves",
 	"icon": "inv_gauntlets_24",
 	"popularity": 7,

@@ -7,8 +7,9 @@
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "enchant": "Crusader" },
+	"source": "CRAFT",
 	"sourceId": 20034,
-	"sourceName": "Enchant Weapon - Crusader",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

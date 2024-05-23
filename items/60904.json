@@ -1,5 +1,6 @@
 {
 	"id": 60904,
+	"bind": "Binds when picked up",
 	"name": "Ring of the Fool",
 	"icon": "inv_jewelry_ring_03",
 	"popularity": 5,

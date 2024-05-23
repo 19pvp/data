@@ -1,5 +1,6 @@
 {
 	"id": 9513,
+	"bind": "Binds when picked up",
 	"name": "Ley Staff",
 	"icon": "inv_staff_21",
 	"dmgMin": 20,

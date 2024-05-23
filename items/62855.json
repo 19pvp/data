@@ -1,5 +1,6 @@
 {
 	"id": 62855,
+	"bind": "Binds when picked up",
 	"name": "Britches of Desperate Measures",
 	"icon": "inv_pants_06",
 	"popularity": 5,

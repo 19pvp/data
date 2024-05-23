@@ -1,5 +1,6 @@
 {
 	"id": 28147,
+	"bind": "Binds when picked up",
 	"name": "Tranquillien Scout's Bracers",
 	"icon": "inv_bracer_05",
 	"popularity": 13,

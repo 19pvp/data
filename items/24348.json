@@ -1,5 +1,6 @@
 {
 	"id": 24348,
+	"bind": "Binds when picked up",
 	"name": "Tunic of the Dragon Slayer",
 	"icon": "inv_chest_chain_16",
 	"popularity": 19,

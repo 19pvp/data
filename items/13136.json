@@ -1,5 +1,6 @@
 {
 	"id": 13136,
+	"bind": "Binds when equipped",
 	"name": "Lil Timmy's Peashooter",
 	"icon": "inv_weapon_rifle_08",
 	"dmgMin": 33,

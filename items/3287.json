@@ -1,5 +1,6 @@
 {
 	"id": 3287,
+	"bind": "Binds when equipped",
 	"name": "Tribal Pants",
 	"icon": "inv_pants_06",
 	"popularity": 8,

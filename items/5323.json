@@ -1,5 +1,6 @@
 {
 	"id": 5323,
+	"bind": "Binds when picked up",
 	"name": "Everglow Lantern",
 	"icon": "inv_misc_lantern_01",
 	"speed": 2,

@@ -1,5 +1,6 @@
 {
 	"id": 6548,
+	"bind": "Binds when equipped",
 	"name": "Soldier's Girdle",
 	"icon": "inv_belt_25",
 	"popularity": 25,

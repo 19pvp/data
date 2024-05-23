@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Skinning": 5 },
+	"source": "CRAFT",
 	"sourceId": 13698,
-	"sourceName": "Enchant Gloves - Skinning",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

@@ -1,5 +1,6 @@
 {
 	"id": 55135,
+	"bind": "Binds when picked up",
 	"name": "Tia's Ring",
 	"icon": "inv_jewelry_ring_76",
 	"popularity": 5,

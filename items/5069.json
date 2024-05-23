@@ -1,5 +1,6 @@
 {
 	"id": 5069,
+	"bind": "Binds when equipped",
 	"name": "Fire Wand",
 	"icon": "inv_staff_02",
 	"dmgMin": 9,

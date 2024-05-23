@@ -1,5 +1,6 @@
 {
 	"id": 7285,
+	"bind": "Binds when equipped",
 	"name": "Nimble Leather Gloves",
 	"icon": "inv_gauntlets_05",
 	"popularity": 5,
@@ -9,7 +10,8 @@
 	"subclass": "LEATHER",
 	"type": "HANDS",
 	"stats": { "Expertise Rating": 4, "Agility": 4 },
+	"source": "CRAFT",
 	"sourceId": 9074,
-	"sourceName": "Nimble Leather Gloves",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 28152,
+	"bind": "Binds when picked up",
 	"name": "Quel'Thalas Recurve",
 	"icon": "inv_weapon_bow_02",
 	"dmgMin": 14,

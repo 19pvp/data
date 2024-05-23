@@ -1,5 +1,6 @@
 {
 	"id": 65715,
+	"bind": "Binds when picked up",
 	"name": "Stillwater's Signet",
 	"icon": "inv_jewelry_ring_47",
 	"popularity": 37,

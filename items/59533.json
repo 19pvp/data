@@ -1,5 +1,6 @@
 {
 	"id": 59533,
+	"bind": "Binds when picked up",
 	"name": "Wand of Separation",
 	"icon": "inv_staff_17",
 	"dmgMin": 9,

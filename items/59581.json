@@ -1,5 +1,6 @@
 {
 	"id": 59581,
+	"bind": "Binds when picked up",
 	"name": "Smart Shoes",
 	"icon": "inv_boots_08",
 	"popularity": 21,

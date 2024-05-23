@@ -1,5 +1,6 @@
 {
 	"id": 6586,
+	"bind": "Binds when equipped",
 	"name": "Scouting Gloves",
 	"icon": "inv_gauntlets_27",
 	"popularity": 8,

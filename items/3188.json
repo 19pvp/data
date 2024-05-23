@@ -1,5 +1,6 @@
 {
 	"id": 3188,
+	"bind": "Binds when equipped",
 	"name": "Coral Claymore",
 	"icon": "inv_sword_38",
 	"dmgMin": 22,
@@ -12,9 +13,9 @@
 	"subclass": "TWO_HANDED_SWORD",
 	"type": "TWO_HAND",
 	"stats": { "Stamina": 4 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 519,
 	"sourceName": "Slark",
-	"sourceZone": 40,
+	"sourceZone": "Westfall",
 	"sourceType": "NPC"
 }

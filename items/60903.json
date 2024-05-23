@@ -1,5 +1,6 @@
 {
 	"id": 60903,
+	"bind": "Binds when picked up",
 	"name": "Old Man's Legwarmers",
 	"icon": "inv_pants_leather_17",
 	"popularity": 6,

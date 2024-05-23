@@ -1,5 +1,6 @@
 {
 	"id": 26030,
+	"bind": "Binds when picked up",
 	"name": "Maatparm's Fungus Lined Hauberk",
 	"icon": "inv_chest_plate05",
 	"popularity": 7,

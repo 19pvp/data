@@ -1,5 +1,6 @@
 {
 	"id": 24113,
+	"bind": "Binds when picked up",
 	"name": "Cowlen's Bracers of Kinship",
 	"icon": "inv_bracer_02",
 	"popularity": 7,

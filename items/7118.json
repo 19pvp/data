@@ -1,5 +1,6 @@
 {
 	"id": 7118,
+	"bind": "Binds when picked up",
 	"name": "Heirloom Sword",
 	"icon": "inv_sword_04",
 	"dmgMin": 11,

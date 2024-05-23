@@ -1,5 +1,6 @@
 {
 	"id": 52599,
+	"bind": "Binds when picked up",
 	"name": "Restless Leggings",
 	"icon": "inv_pants_08",
 	"popularity": 5,

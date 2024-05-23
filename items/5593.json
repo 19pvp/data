@@ -1,5 +1,6 @@
 {
 	"id": 5593,
+	"bind": "Binds when picked up",
 	"name": "Crag Buckler",
 	"icon": "inv_shield_09",
 	"popularity": 5,

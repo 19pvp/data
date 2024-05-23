@@ -1,5 +1,6 @@
 {
 	"id": 60905,
+	"bind": "Binds when picked up",
 	"name": "Ello's Band",
 	"icon": "inv_jewelry_ring_19",
 	"popularity": 38,

@@ -1,5 +1,6 @@
 {
 	"id": 2962,
+	"bind": "Binds when equipped",
 	"name": "Burnt Leather Breeches",
 	"icon": "inv_pants_06",
 	"popularity": 26,

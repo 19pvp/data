@@ -1,5 +1,6 @@
 {
 	"id": 14367,
+	"bind": "Binds when equipped",
 	"name": "Mystic's Gloves",
 	"icon": "inv_gauntlets_18",
 	"popularity": 6,

@@ -1,5 +1,6 @@
 {
 	"id": 52937,
+	"bind": "Binds when picked up",
 	"name": "Chip's Cloak",
 	"icon": "inv_misc_cape_11",
 	"popularity": 20,

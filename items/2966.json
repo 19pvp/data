@@ -1,5 +1,6 @@
 {
 	"id": 2966,
+	"bind": "Binds when equipped",
 	"name": "Warrior's Pants",
 	"icon": "inv_pants_03",
 	"popularity": 11,

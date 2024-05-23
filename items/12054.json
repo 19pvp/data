@@ -1,5 +1,6 @@
 {
 	"id": 12054,
+	"bind": "Binds when equipped",
 	"name": "Demon Band",
 	"icon": "inv_jewelry_ring_04",
 	"popularity": 6,

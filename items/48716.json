@@ -1,5 +1,6 @@
 {
 	"id": 48716,
+	"bind": "<br>Item Level <!--ilvl-->1",
 	"name": "Venerable Mass of McGowan",
 	"icon": "inv_hammer_17",
 	"dmgMin": 29,

@@ -1,5 +1,6 @@
 {
 	"id": 14747,
+	"bind": "Binds when equipped",
 	"name": "Hulking Gauntlets",
 	"icon": "inv_gauntlets_05",
 	"popularity": 5,

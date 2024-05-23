@@ -1,5 +1,6 @@
 {
 	"id": 59064,
+	"bind": "Binds when picked up",
 	"name": "Marblebeard's Shrug",
 	"icon": "inv_shoulder_25",
 	"popularity": 4,

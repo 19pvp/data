@@ -1,5 +1,6 @@
 {
 	"id": 14559,
+	"bind": "Binds when equipped",
 	"name": "Prospector's Sash",
 	"icon": "inv_belt_26",
 	"popularity": 25,

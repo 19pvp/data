@@ -1,5 +1,6 @@
 {
 	"id": 4782,
+	"bind": "Binds when equipped",
 	"name": "Solstice Robe",
 	"icon": "inv_chest_cloth_17",
 	"popularity": 10,

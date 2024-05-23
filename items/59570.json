@@ -1,5 +1,6 @@
 {
 	"id": 59570,
+	"bind": "Binds when picked up",
 	"name": "Bargain Gloves",
 	"icon": "inv_gauntlets_15",
 	"popularity": 18,
@@ -11,5 +12,5 @@
 	"type": "HANDS",
 	"stats": { "Critical Strike Rating": 2, "Stamina": 2 },
 	"source": "QUEST",
-	"sourceZone": 17
+	"sourceZone": "Northern Barrens"
 }

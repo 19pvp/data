@@ -1,5 +1,6 @@
 {
 	"id": 52659,
+	"bind": "Binds when picked up",
 	"name": "Cover of Leaves",
 	"icon": "inv_misc_cape_11",
 	"popularity": 10,

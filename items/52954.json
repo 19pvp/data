@@ -1,5 +1,6 @@
 {
 	"id": 52954,
+	"bind": "Binds when picked up",
 	"name": "Hatchling Prodder",
 	"icon": "inv_staff_18",
 	"dmgMin": 14,

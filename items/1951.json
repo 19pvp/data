@@ -1,5 +1,6 @@
 {
 	"id": 1951,
+	"bind": "Binds when equipped",
 	"name": "Blackwater Cutlass",
 	"icon": "inv_sword_24",
 	"dmgMin": 24,
@@ -12,6 +13,6 @@
 	"subclass": "ONE_HANDED_SWORD",
 	"type": "ONE_HAND",
 	"stats": { "Hit Rating": 3, "Agility": 4 },
-	"source": "DROP",
-	"sourceZone": 1581
+	"source": "DUNGEON",
+	"sourceZone": "The Deadmines"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 59067,
+	"bind": "Binds when picked up",
 	"name": "Floodsurge Coat",
 	"icon": "inv_misc_cape_13",
 	"popularity": 7,

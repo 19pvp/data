@@ -1,5 +1,6 @@
 {
 	"id": 3103,
+	"bind": "Binds when picked up",
 	"name": "Coldridge Hammer",
 	"icon": "inv_hammer_15",
 	"dmgMin": 18,

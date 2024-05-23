@@ -1,5 +1,6 @@
 {
 	"id": 983,
+	"bind": "Binds when picked up",
 	"name": "Red Linen Sash",
 	"icon": "inv_belt_43c",
 	"popularity": 24,

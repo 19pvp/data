@@ -1,5 +1,6 @@
 {
 	"id": 24112,
+	"bind": "Binds when picked up",
 	"name": "Kurkenstoks",
 	"icon": "inv_boots_fabric_01",
 	"popularity": 58,

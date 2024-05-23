@@ -1,5 +1,6 @@
 {
 	"id": 26022,
+	"bind": "Binds when picked up",
 	"name": "Researcher's Gloves",
 	"icon": "inv_gauntlets_05",
 	"popularity": 22,

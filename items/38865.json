@@ -13,8 +13,9 @@
 		"Spirit": 4,
 		"Stamina": 4
 	},
+	"source": "CRAFT",
 	"sourceId": 20025,
-	"sourceName": "Enchant Chest - Greater Stats",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

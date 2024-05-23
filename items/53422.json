@@ -1,5 +1,6 @@
 {
 	"id": 53422,
+	"bind": "Binds when picked up",
 	"name": "Kaboom Leggings",
 	"icon": "inv_pants_09",
 	"popularity": 4,

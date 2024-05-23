@@ -1,5 +1,6 @@
 {
 	"id": 26020,
+	"bind": "Binds when picked up",
 	"name": "Shard-Covered Leggings",
 	"icon": "inv_pants_05",
 	"popularity": 7,

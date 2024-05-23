@@ -1,5 +1,6 @@
 {
 	"id": 6551,
+	"bind": "Binds when equipped",
 	"name": "Soldier's Boots",
 	"icon": "inv_boots_01",
 	"popularity": 19,

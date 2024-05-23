@@ -1,5 +1,6 @@
 {
 	"id": 26028,
+	"bind": "Binds when picked up",
 	"name": "Maatparm's Fungus Lined Bands",
 	"icon": "inv_bracer_12",
 	"popularity": 5,

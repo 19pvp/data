@@ -1,5 +1,6 @@
 {
 	"id": 58983,
+	"bind": "Binds when picked up",
 	"name": "Ironband Legguards",
 	"icon": "inv_pants_mail_05",
 	"popularity": 4,

@@ -1,5 +1,6 @@
 {
 	"id": 57572,
+	"bind": "Binds when picked up",
 	"name": "Dun Morogh Hiking Boots",
 	"icon": "inv_boots_04",
 	"popularity": 5,

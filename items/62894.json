@@ -1,5 +1,6 @@
 {
 	"id": 62894,
+	"bind": "Binds when picked up",
 	"name": "Favor of the Dark Lady",
 	"icon": "inv_jewelry_ring_15",
 	"popularity": 20,

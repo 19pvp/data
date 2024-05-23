@@ -1,5 +1,6 @@
 {
 	"id": 14366,
+	"bind": "Binds when equipped",
 	"name": "Mystic's Bracelets",
 	"icon": "inv_bracer_07",
 	"popularity": 9,

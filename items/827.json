@@ -1,5 +1,6 @@
 {
 	"id": 827,
+	"bind": "Binds when equipped",
 	"name": "Wicked Blackjack",
 	"icon": "inv_mace_01",
 	"dmgMin": 14,
@@ -12,6 +13,6 @@
 	"subclass": "ONE_HANDED_MACE",
 	"type": "ONE_HAND",
 	"stats": { "Strength": 2 },
-	"source": "DROP",
-	"sourceZone": 40
+	"source": "ZONE",
+	"sourceZone": "Westfall"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 15926,
+	"bind": "Binds when equipped",
 	"name": "Spellbinder Orb",
 	"icon": "inv_misc_orb_01",
 	"popularity": 10,

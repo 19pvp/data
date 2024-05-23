@@ -1,5 +1,6 @@
 {
 	"id": 53453,
+	"bind": "Binds when picked up",
 	"name": "Wrenchmen Belt",
 	"icon": "inv_belt_45",
 	"popularity": 5,

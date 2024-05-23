@@ -1,5 +1,6 @@
 {
 	"id": 52617,
+	"bind": "Binds when picked up",
 	"name": "Tranquil Bracers",
 	"icon": "inv_bracer_04",
 	"popularity": 6,

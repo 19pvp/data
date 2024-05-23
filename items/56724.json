@@ -1,5 +1,6 @@
 {
 	"id": 56724,
+	"bind": "Binds when picked up",
 	"name": "Wet Work Gloves",
 	"icon": "inv_gauntlets_25",
 	"popularity": 24,

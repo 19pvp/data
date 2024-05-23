@@ -1,5 +1,6 @@
 {
 	"id": 21524,
+	"bind": "Binds when picked up",
 	"name": "Red Winter Hat",
 	"icon": "inv_helmet_67",
 	"popularity": 14,

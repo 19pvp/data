@@ -1,5 +1,6 @@
 {
 	"id": 57239,
+	"bind": "Binds when picked up",
 	"name": "Sunwalker's Stunner",
 	"icon": "inv_mace_07",
 	"dmgMin": 18,

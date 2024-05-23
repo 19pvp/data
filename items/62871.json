@@ -1,5 +1,6 @@
 {
 	"id": 62871,
+	"bind": "Binds when picked up",
 	"name": "War Blood Cloak",
 	"icon": "inv_misc_cape_22",
 	"popularity": 4,

@@ -1,5 +1,6 @@
 {
 	"id": 59532,
+	"bind": "Binds when picked up",
 	"name": "Imported Bracers",
 	"icon": "inv_bracer_07",
 	"popularity": 8,

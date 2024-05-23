@@ -1,5 +1,6 @@
 {
 	"id": 44107,
+	"bind": "<br>Item Level <!--ilvl-->1",
 	"name": "Exquisite Sunderseer Mantle",
 	"icon": "inv_shoulder_02",
 	"popularity": 80,
@@ -15,5 +16,5 @@
 		"Intellect": 5
 	},
 	"source": "VENDOR",
-	"sourceZone": 4197
+	"sourceZone": "Wintergrasp"
 }

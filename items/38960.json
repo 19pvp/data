@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "enchant": "Gatherer" },
+	"source": "CRAFT",
 	"sourceId": 44506,
-	"sourceName": "Enchant Gloves - Gatherer",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

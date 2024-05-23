@@ -1,5 +1,6 @@
 {
 	"id": 62877,
+	"bind": "Binds when picked up",
 	"name": "Forsaken Ball",
 	"icon": "inv_misc_orb_01",
 	"popularity": 15,

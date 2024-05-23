@@ -1,5 +1,6 @@
 {
 	"id": 28156,
+	"bind": "Binds when picked up",
 	"name": "Rotting Handwraps",
 	"icon": "inv_gauntlets_16",
 	"popularity": 16,

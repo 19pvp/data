@@ -1,5 +1,6 @@
 {
 	"id": 42951,
+	"bind": "<br>Item Level <!--ilvl-->1",
 	"name": "Mystical Pauldrons of Elements",
 	"icon": "inv_shoulder_29",
 	"popularity": 70,

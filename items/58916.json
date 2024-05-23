@@ -1,5 +1,6 @@
 {
 	"id": 58916,
+	"bind": "Binds when picked up",
 	"name": "Chewed Belt",
 	"icon": "inv_belt_04",
 	"popularity": 4,

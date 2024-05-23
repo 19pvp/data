@@ -1,5 +1,6 @@
 {
 	"id": 6984,
+	"bind": "Binds when picked up",
 	"name": "Umbral Sword",
 	"icon": "inv_sword_04",
 	"dmgMin": 11,

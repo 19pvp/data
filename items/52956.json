@@ -1,5 +1,6 @@
 {
 	"id": 52956,
+	"bind": "Binds when picked up",
 	"name": "Oomlot Staff",
 	"icon": "inv_staff_16",
 	"dmgMin": 14,

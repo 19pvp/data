@@ -1,5 +1,6 @@
 {
 	"id": 6084,
+	"bind": "Binds when picked up",
 	"name": "Stormwind Guard Leggings",
 	"icon": "inv_pants_mail_36",
 	"popularity": 4,

@@ -1,5 +1,6 @@
 {
 	"id": 3902,
+	"bind": "Binds when equipped",
 	"name": "Staff of Nobles",
 	"icon": "inv_wand_04",
 	"dmgMin": 45,

@@ -1,5 +1,6 @@
 {
 	"id": 3654,
+	"bind": "Binds when equipped",
 	"name": "Brackwater Shield",
 	"icon": "inv_shield_09",
 	"popularity": 8,

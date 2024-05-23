@@ -1,5 +1,6 @@
 {
 	"id": 9748,
+	"bind": "Binds when equipped",
 	"name": "Simple Robe",
 	"icon": "inv_chest_cloth_18",
 	"popularity": 8,

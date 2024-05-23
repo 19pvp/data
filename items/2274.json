@@ -1,5 +1,6 @@
 {
 	"id": 2274,
+	"bind": "Binds when equipped",
 	"name": "Sapper's Gloves",
 	"icon": "inv_gauntlets_03",
 	"popularity": 7,
@@ -9,9 +10,9 @@
 	"subclass": "MAIL",
 	"type": "HANDS",
 	"stats": { "Strength": 3, "Agility": 2 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 1222,
 	"sourceName": "Dark Iron Sapper",
-	"sourceZone": 38,
+	"sourceZone": "Loch Modan",
 	"sourceType": "NPC"
 }

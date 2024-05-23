@@ -1,5 +1,6 @@
 {
 	"id": 59085,
+	"bind": "Binds when picked up",
 	"name": "Breastplate of the Lost Paladin",
 	"icon": "inv_chest_chain_11",
 	"popularity": 7,

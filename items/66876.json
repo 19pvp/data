@@ -1,5 +1,6 @@
 {
 	"id": 66876,
+	"bind": "Binds when picked up",
 	"name": "Sharp Edge of Balance",
 	"icon": "inv_axe_118",
 	"dmgMin": 6,

@@ -1,5 +1,6 @@
 {
 	"id": 56640,
+	"bind": "Binds when picked up",
 	"name": "Leggings of Loss",
 	"icon": "inv_pants_leather_21",
 	"popularity": 6,

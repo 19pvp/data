@@ -1,5 +1,6 @@
 {
 	"id": 62835,
+	"bind": "Binds when picked up",
 	"name": "Maggot-Ridden Leggings",
 	"icon": "inv_pants_08",
 	"popularity": 6,

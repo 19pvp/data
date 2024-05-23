@@ -1,5 +1,6 @@
 {
 	"id": 5195,
+	"bind": "Binds when picked up",
 	"name": "Gold-Flecked Gloves",
 	"icon": "inv_gauntlets_23",
 	"popularity": 9,
@@ -9,6 +10,6 @@
 	"subclass": "CLOTH",
 	"type": "HANDS",
 	"stats": { "Stamina": 4, "Intellect": 6 },
-	"source": "DROP",
-	"sourceZone": 1581
+	"source": "DUNGEON",
+	"sourceZone": "The Deadmines"
 }

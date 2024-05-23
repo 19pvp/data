@@ -1,5 +1,6 @@
 {
 	"id": 2582,
+	"bind": "Binds when equipped",
 	"name": "Green Woolen Vest",
 	"icon": "inv_chest_cloth_39",
 	"popularity": 3,
@@ -9,7 +10,8 @@
 	"subclass": "CLOTH",
 	"type": "CHEST",
 	"stats": { "Critical Strike Rating": 3, "Stamina": 4 },
+	"source": "CRAFT",
 	"sourceId": 2399,
-	"sourceName": "Green Woolen Vest",
+	"sourceName": "Tailoring",
 	"sourceType": "SPELL"
 }

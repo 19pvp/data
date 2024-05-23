@@ -1,5 +1,6 @@
 {
 	"id": 60719,
+	"bind": "Binds when picked up",
 	"name": "Danforth's Breastplate",
 	"icon": "inv_chest_chain_09",
 	"popularity": 6,

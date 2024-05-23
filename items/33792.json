@@ -1,5 +1,6 @@
 {
 	"id": "33792",
+	"bind": "Binds when equipped",
 	"icon": "inv_scroll_06",
 	"quality": "UNCOMMON",
 	"stats": { "Agility": 1 }

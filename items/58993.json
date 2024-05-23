@@ -1,5 +1,6 @@
 {
 	"id": 58993,
+	"bind": "Binds when picked up",
 	"name": "Old Dwarven Hammer",
 	"icon": "inv_hammer_18",
 	"dmgMin": 22,

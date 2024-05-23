@@ -1,5 +1,6 @@
 {
 	"id": 6465,
+	"bind": "Binds when picked up",
 	"name": "Robe of the Moccasin",
 	"icon": "inv_chest_cloth_36",
 	"popularity": 14,
@@ -9,9 +10,9 @@
 	"subclass": "CLOTH",
 	"type": "CHEST",
 	"stats": { "Stamina": 6, "Intellect": 6, "Spirit": 6 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 3669,
 	"sourceName": "Lord Cobrahn",
-	"sourceZone": 718,
+	"sourceZone": "Wailing Caverns",
 	"sourceType": "NPC"
 }

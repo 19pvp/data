@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Strength": 7 },
+	"source": "CRAFT",
 	"sourceId": 13939,
-	"sourceName": "Enchant Bracer - Greater Strength",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

@@ -1,5 +1,6 @@
 {
 	"id": 5425,
+	"bind": "Binds when equipped",
 	"name": "Runescale Girdle",
 	"icon": "inv_belt_03",
 	"popularity": 7,
@@ -9,9 +10,9 @@
 	"subclass": "MAIL",
 	"type": "WAIST",
 	"stats": { "Strength": 8 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 3652,
 	"sourceName": "Trigore the Lasher",
-	"sourceZone": 17,
+	"sourceZone": "Northern Barrens",
 	"sourceType": "NPC"
 }

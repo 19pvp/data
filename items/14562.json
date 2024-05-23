@@ -1,5 +1,6 @@
 {
 	"id": 14562,
+	"bind": "Binds when equipped",
 	"name": "Prospector's Chestpiece",
 	"icon": "inv_chest_leather_09",
 	"popularity": 18,

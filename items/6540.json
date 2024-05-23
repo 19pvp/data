@@ -1,5 +1,6 @@
 {
 	"id": 6540,
+	"bind": "Binds when equipped",
 	"name": "Willow Pants",
 	"icon": "inv_pants_10",
 	"popularity": 6,

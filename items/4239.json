@@ -1,5 +1,6 @@
 {
 	"id": 4239,
+	"bind": "Binds when equipped",
 	"name": "Embossed Leather Gloves",
 	"icon": "inv_gauntlets_05",
 	"popularity": 22,
@@ -9,7 +10,8 @@
 	"subclass": "LEATHER",
 	"type": "HANDS",
 	"stats": { "Agility": 2 },
+	"source": "CRAFT",
 	"sourceId": 3756,
-	"sourceName": "Embossed Leather Gloves",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 14147,
+	"bind": "Binds when picked up",
 	"name": "Cavedweller Bracers",
 	"icon": "inv_bracer_07",
 	"popularity": 5,
@@ -9,9 +10,9 @@
 	"subclass": "MAIL",
 	"type": "WRISTS",
 	"stats": { "Strength": 3, "Stamina": 3 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 11518,
 	"sourceName": "Jergosh the Invoker",
-	"sourceZone": 2437,
+	"sourceZone": "Ragefire Chasm",
 	"sourceType": "NPC"
 }

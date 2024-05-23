@@ -1,5 +1,6 @@
 {
 	"id": 5243,
+	"bind": "Binds when picked up",
 	"name": "Firebelcher",
 	"icon": "inv_wand_11",
 	"dmgMin": 25,
@@ -12,9 +13,9 @@
 	"subclass": "WAND",
 	"type": "RANGED",
 	"stats": { "Stamina": 3, "Intellect": 3 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 5912,
 	"sourceName": "Deviate Faerie Dragon",
-	"sourceZone": 718,
+	"sourceZone": "Wailing Caverns",
 	"sourceType": "NPC"
 }

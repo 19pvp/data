@@ -1,5 +1,6 @@
 {
 	"id": 69216,
+	"bind": "Binds when picked up",
 	"name": "Wild Rider's Gloves",
 	"icon": "inv_gauntlets_21",
 	"popularity": 33,

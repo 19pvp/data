@@ -1,5 +1,6 @@
 {
 	"id": 15508,
+	"bind": "Binds when equipped",
 	"name": "Grunt's Cape",
 	"icon": "inv_misc_cape_14",
 	"popularity": 20,

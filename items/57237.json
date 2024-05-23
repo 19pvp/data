@@ -1,5 +1,6 @@
 {
 	"id": 57237,
+	"bind": "Binds when picked up",
 	"name": "Cairne's First Breastplate",
 	"icon": "inv_chest_chain_08",
 	"popularity": 14,

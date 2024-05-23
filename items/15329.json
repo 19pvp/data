@@ -1,5 +1,6 @@
 {
 	"id": 15329,
+	"bind": "Binds when equipped",
 	"name": "Wrangler's Belt",
 	"icon": "inv_belt_16",
 	"popularity": 6,

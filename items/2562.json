@@ -1,1 +1,7 @@
-{ "id": "2562", "icon": "inv_misc_flower_04", "speed": 2, "quality": "COMMON" }
+{
+	"id": "2562",
+	"bind": "Binds when picked up",
+	"icon": "inv_misc_flower_04",
+	"speed": 2,
+	"quality": "COMMON"
+}

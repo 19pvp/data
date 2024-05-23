@@ -1,5 +1,6 @@
 {
 	"id": 12984,
+	"bind": "Binds when equipped",
 	"name": "Skycaller",
 	"icon": "inv_wand_02",
 	"dmgMin": 24,

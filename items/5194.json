@@ -1,5 +1,6 @@
 {
 	"id": 5194,
+	"bind": "Binds when picked up",
 	"name": "Taskmaster Axe",
 	"icon": "inv_throwingaxe_06",
 	"dmgMin": 49,
@@ -12,9 +13,9 @@
 	"subclass": "TWO_HANDED_AXE",
 	"type": "TWO_HAND",
 	"stats": { "Strength": 7, "Stamina": 7 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 643,
 	"sourceName": "Sneed",
-	"sourceZone": 1581,
+	"sourceZone": "The Deadmines",
 	"sourceType": "NPC"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 28303,
+	"bind": "Binds when picked up",
 	"name": "Invoker's Signet",
 	"icon": "inv_jewelry_ring_25",
 	"popularity": 9,

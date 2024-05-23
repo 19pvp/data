@@ -1,5 +1,6 @@
 {
 	"id": 26036,
+	"bind": "Binds when picked up",
 	"name": "Vindicator's Stompers",
 	"icon": "inv_boots_05",
 	"popularity": 22,

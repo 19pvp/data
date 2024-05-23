@@ -1,5 +1,6 @@
 {
 	"id": 3315,
+	"bind": "Binds when equipped",
 	"name": "Ceremonial Leather Loincloth",
 	"icon": "inv_pants_wolf",
 	"popularity": 68,

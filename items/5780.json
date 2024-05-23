@@ -1,5 +1,6 @@
 {
 	"id": 5780,
+	"bind": "Binds when equipped",
 	"name": "Murloc Scale Belt",
 	"icon": "inv_belt_02",
 	"popularity": 3,
@@ -9,7 +10,8 @@
 	"subclass": "LEATHER",
 	"type": "WAIST",
 	"stats": { "Agility": 3, "Stamina": 3 },
+	"source": "CRAFT",
 	"sourceId": 6702,
-	"sourceName": "Murloc Scale Belt",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL"
 }

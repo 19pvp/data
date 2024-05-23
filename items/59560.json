@@ -1,5 +1,6 @@
 {
 	"id": 59560,
+	"bind": "Binds when picked up",
 	"name": "Bling Cane",
 	"icon": "inv_staff_14",
 	"dmgMin": 38,

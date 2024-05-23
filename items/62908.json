@@ -1,5 +1,6 @@
 {
 	"id": "62908",
+	"bind": "Binds when picked up",
 	"icon": "inv_drink_18",
 	"quality": "COMMON",
 	"spell": {

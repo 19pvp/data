@@ -7,8 +7,9 @@
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Strength": 15 },
+	"source": "CRAFT",
 	"sourceId": 23799,
-	"sourceName": "Enchant Weapon - Strength",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

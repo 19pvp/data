@@ -1,5 +1,6 @@
 {
 	"id": 62866,
+	"bind": "Binds when picked up",
 	"name": "Cromush's Cloak",
 	"icon": "inv_misc_cape_14",
 	"popularity": 7,

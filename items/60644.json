@@ -1,5 +1,6 @@
 {
 	"id": 60644,
+	"bind": "Binds when picked up",
 	"name": "Gorka's Band",
 	"icon": "inv_jewelry_ring_03",
 	"popularity": 8,

@@ -1,5 +1,6 @@
 {
 	"id": 6627,
+	"bind": "Binds when picked up",
 	"name": "Mutant Scale Breastplate",
 	"icon": "inv_chest_plate08",
 	"popularity": 5,
@@ -9,9 +10,9 @@
 	"subclass": "MAIL",
 	"type": "CHEST",
 	"stats": { "Strength": 8, "Stamina": 6 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 3654,
 	"sourceName": "Mutanus the Devourer",
-	"sourceZone": 718,
+	"sourceZone": "Wailing Caverns",
 	"sourceType": "NPC"
 }

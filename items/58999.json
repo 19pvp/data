@@ -1,5 +1,6 @@
 {
 	"id": 58999,
+	"bind": "Binds when picked up",
 	"name": "Thelsamar Breastplate",
 	"icon": "inv_chest_chain_07",
 	"popularity": 7,
@@ -11,5 +12,5 @@
 	"type": "CHEST",
 	"stats": { "Strength": 2, "Stamina": 2 },
 	"source": "QUEST",
-	"sourceZone": 38
+	"sourceZone": "Loch Modan"
 }

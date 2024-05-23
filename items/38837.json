@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Run Speed": 0.5 },
+	"source": "CRAFT",
 	"sourceId": 13890,
-	"sourceName": "Enchant Boots - Minor Speed",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

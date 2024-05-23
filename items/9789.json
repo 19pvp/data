@@ -1,5 +1,6 @@
 {
 	"id": 9789,
+	"bind": "Binds when equipped",
 	"name": "Raider's Legguards",
 	"icon": "inv_pants_03",
 	"popularity": 11,

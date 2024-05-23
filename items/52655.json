@@ -1,5 +1,6 @@
 {
 	"id": 52655,
+	"bind": "Binds when picked up",
 	"name": "Darkshore Warder's Shield",
 	"icon": "inv_shield_32",
 	"popularity": 9,

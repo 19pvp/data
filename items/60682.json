@@ -1,5 +1,6 @@
 {
 	"id": 60682,
+	"bind": "Binds when picked up",
 	"name": "Watch Captain's Cloak",
 	"icon": "inv_misc_cape_13",
 	"popularity": 7,

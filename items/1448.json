@@ -1,5 +1,6 @@
 {
 	"id": 1448,
+	"bind": "Binds when equipped",
 	"name": "Blackrock Gauntlets",
 	"icon": "inv_gauntlets_04",
 	"popularity": 4,
@@ -9,6 +10,6 @@
 	"subclass": "MAIL",
 	"type": "HANDS",
 	"stats": { "Strength": 3, "Agility": 3 },
-	"source": "DROP",
-	"sourceZone": 44
+	"source": "ZONE",
+	"sourceZone": "Redridge Mountains"
 }

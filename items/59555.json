@@ -1,5 +1,6 @@
 {
 	"id": 59555,
+	"bind": "Binds when picked up",
 	"name": "Silver-Trim Leggings",
 	"icon": "inv_pants_02",
 	"popularity": 20,

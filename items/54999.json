@@ -1,5 +1,6 @@
 {
 	"id": 54999,
+	"bind": "Binds when picked up",
 	"name": "Seryl's Robes",
 	"icon": "inv_chest_cloth_32",
 	"popularity": 11,

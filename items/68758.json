@@ -1,5 +1,6 @@
 {
 	"id": 68758,
+	"bind": "Binds when equipped",
 	"name": "Imbued Pioneer Boots",
 	"icon": "inv_boots_08",
 	"popularity": 7,

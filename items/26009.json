@@ -1,5 +1,6 @@
 {
 	"id": 26009,
+	"bind": "Binds when picked up",
 	"name": "Flutterer Silk Handwraps",
 	"icon": "inv_gauntlets_05",
 	"popularity": 8,

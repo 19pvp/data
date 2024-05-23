@@ -1,5 +1,6 @@
 {
 	"id": 53435,
+	"bind": "Binds when picked up",
 	"name": "Restored Mennaran Mail",
 	"icon": "inv_pants_mail_05",
 	"popularity": 8,

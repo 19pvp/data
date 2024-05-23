@@ -1,5 +1,6 @@
 {
 	"id": 26021,
+	"bind": "Binds when picked up",
 	"name": "Vindicator's Leather Chaps",
 	"icon": "inv_pants_07",
 	"popularity": 6,

@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Agility": 8, "Dodge Rating": 8 },
+	"source": "CRAFT",
 	"sourceId": 25083,
-	"sourceName": "Enchant Cloak - Stealth",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

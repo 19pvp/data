@@ -1,5 +1,6 @@
 {
 	"id": 6562,
+	"bind": "Binds when equipped",
 	"name": "Shimmering Boots",
 	"icon": "inv_boots_05",
 	"popularity": 15,

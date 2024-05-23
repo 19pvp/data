@@ -1,5 +1,6 @@
 {
 	"id": 31263,
+	"bind": "Binds when equipped",
 	"name": "Silvermoon Tunic",
 	"icon": "inv_chest_leather_08",
 	"popularity": 12,
@@ -20,9 +21,9 @@
 			"stats": { "Agility": 2, "Stamina": 2, "Haste": 2 }
 		}
 	},
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 22060,
 	"sourceName": "Fenissa the Assassin",
-	"sourceZone": 3525,
+	"sourceZone": "Bloodmyst Isle",
 	"sourceType": "NPC"
 }

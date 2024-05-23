@@ -1,5 +1,6 @@
 {
 	"id": 6461,
+	"bind": "Binds when picked up",
 	"name": "Slime-Encrusted Pads",
 	"icon": "inv_shoulder_05",
 	"popularity": 6,
@@ -9,9 +10,9 @@
 	"subclass": "CLOTH",
 	"type": "SHOULDERS",
 	"stats": { "Intellect": 6, "Spirit": 4 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 3654,
 	"sourceName": "Mutanus the Devourer",
-	"sourceZone": 718,
+	"sourceZone": "Wailing Caverns",
 	"sourceType": "NPC"
 }

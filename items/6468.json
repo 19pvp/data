@@ -1,5 +1,6 @@
 {
 	"id": 6468,
+	"bind": "Binds when equipped",
 	"name": "Deviate Scale Belt",
 	"icon": "inv_belt_09",
 	"popularity": 10,
@@ -9,7 +10,8 @@
 	"subclass": "LEATHER",
 	"type": "WAIST",
 	"stats": { "Hit Rating": 3, "Agility": 4, "Stamina": 5 },
+	"source": "CRAFT",
 	"sourceId": 7955,
-	"sourceName": "Deviate Scale Belt",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL"
 }

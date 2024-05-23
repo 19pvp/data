@@ -1,5 +1,6 @@
 {
 	"id": 4243,
+	"bind": "Binds when equipped",
 	"name": "Fine Leather Tunic",
 	"icon": "inv_chest_leather_09",
 	"popularity": 17,
@@ -9,7 +10,8 @@
 	"subclass": "LEATHER",
 	"type": "CHEST",
 	"stats": { "Agility": 4, "Stamina": 3 },
+	"source": "CRAFT",
 	"sourceId": 3761,
-	"sourceName": "Fine Leather Tunic",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL"
 }

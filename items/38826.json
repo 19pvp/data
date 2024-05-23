@@ -14,8 +14,9 @@
 		"Nature Resistance": 3,
 		"Arcane Resistance": 3
 	},
+	"source": "CRAFT",
 	"sourceId": 13794,
-	"sourceName": "Enchant Cloak - Resistance",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

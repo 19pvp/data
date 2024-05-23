@@ -1,5 +1,6 @@
 {
 	"id": 7230,
+	"bind": "Binds when picked up",
 	"name": "Smite's Mighty Hammer",
 	"icon": "inv_hammer_09",
 	"dmgMin": 49,
@@ -12,9 +13,9 @@
 	"subclass": "TWO_HANDED_MACE",
 	"type": "TWO_HAND",
 	"stats": { "Strength": 8, "Stamina": 6 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 646,
 	"sourceName": "Mr. Smite",
-	"sourceZone": 1581,
+	"sourceZone": "The Deadmines",
 	"sourceType": "NPC"
 }

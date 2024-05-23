@@ -1,5 +1,6 @@
 {
 	"id": 58992,
+	"bind": "Binds when picked up",
 	"name": "Uncovered Breastplate",
 	"icon": "inv_chest_leather_07",
 	"popularity": 9,

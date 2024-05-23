@@ -1,5 +1,6 @@
 {
 	"id": 8178,
+	"bind": "Binds when equipped",
 	"name": "Training Sword",
 	"icon": "inv_sword_45",
 	"dmgMin": 20,

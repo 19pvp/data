@@ -1,5 +1,6 @@
 {
 	"id": 52637,
+	"bind": "Binds when picked up",
 	"name": "Aynasha's Spare Sword",
 	"icon": "inv_sword_04",
 	"dmgMin": 12,

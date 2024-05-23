@@ -1,5 +1,6 @@
 {
 	"id": 1360,
+	"bind": "Binds when picked up",
 	"name": "Stormwind Chain Gloves",
 	"icon": "inv_gauntlets_105",
 	"popularity": 7,

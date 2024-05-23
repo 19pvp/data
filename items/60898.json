@@ -1,5 +1,6 @@
 {
 	"id": 60898,
+	"bind": "Binds when picked up",
 	"name": "Ghost Hair Band",
 	"icon": "inv_jewelry_ring_69",
 	"popularity": 20,

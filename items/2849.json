@@ -1,5 +1,6 @@
 {
 	"id": 2849,
+	"bind": "Binds when equipped",
 	"name": "Bronze Axe",
 	"icon": "inv_axe_17",
 	"dmgMin": 17,
@@ -12,7 +13,8 @@
 	"subclass": "ONE_HANDED_AXE",
 	"type": "MAIN_HAND",
 	"stats": { "Stamina": 3 },
+	"source": "CRAFT",
 	"sourceId": 2741,
-	"sourceName": "Bronze Axe",
+	"sourceName": "Blacksmithing",
 	"sourceType": "SPELL"
 }

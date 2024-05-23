@@ -1,5 +1,6 @@
 {
 	"id": 2088,
+	"bind": "Binds when equipped",
 	"name": "Long Crawler Limb",
 	"icon": "inv_misc_bone_06",
 	"dmgMin": 8,
@@ -12,9 +13,9 @@
 	"subclass": "DAGGER",
 	"type": "ONE_HAND",
 	"stats": { "Stamina": 1 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 831,
 	"sourceName": "Sea Crawler",
-	"sourceZone": 40,
+	"sourceZone": "Westfall",
 	"sourceType": "NPC"
 }

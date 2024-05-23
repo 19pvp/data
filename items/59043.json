@@ -1,5 +1,6 @@
 {
 	"id": 59043,
+	"bind": "Binds when picked up",
 	"name": "Death Star",
 	"icon": "inv_mace_34",
 	"dmgMin": 2.5999999999999996,

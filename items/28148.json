@@ -1,5 +1,6 @@
 {
 	"id": 28148,
+	"bind": "Binds when picked up",
 	"name": "Bronze Mail Bracers",
 	"icon": "inv_bracer_12",
 	"popularity": 6,

@@ -1,5 +1,6 @@
 {
 	"id": 2316,
+	"bind": "Binds when equipped",
 	"name": "Dark Leather Cloak",
 	"icon": "inv_misc_cape_10",
 	"popularity": 7,
@@ -9,7 +10,8 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Agility": 3, "Stamina": 2 },
+	"source": "CRAFT",
 	"sourceId": 2168,
-	"sourceName": "Dark Leather Cloak",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL"
 }

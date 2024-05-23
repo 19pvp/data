@@ -1,5 +1,6 @@
 {
 	"id": 68761,
+	"bind": "Binds when equipped",
 	"name": "Imbued Infantry Boots",
 	"icon": "inv_boots_plate_01",
 	"popularity": 8,

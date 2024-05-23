@@ -1,5 +1,6 @@
 {
 	"id": 26007,
+	"bind": "Binds when picked up",
 	"name": "Vindicator's Woolies",
 	"icon": "inv_pants_11",
 	"popularity": 15,

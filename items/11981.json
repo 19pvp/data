@@ -1,5 +1,6 @@
 {
 	"id": 11981,
+	"bind": "Binds when equipped",
 	"name": "Lead Band",
 	"icon": "inv_jewelry_ring_01",
 	"popularity": 9,

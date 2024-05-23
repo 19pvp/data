@@ -1,5 +1,6 @@
 {
 	"id": 60727,
+	"bind": "Binds when picked up",
 	"name": "Keeshan's Bow",
 	"icon": "inv_weapon_bow_57",
 	"dmgMin": 34,

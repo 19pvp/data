@@ -1,5 +1,6 @@
 {
 	"id": 60713,
+	"bind": "Binds when picked up",
 	"name": "Redridge Legguards",
 	"icon": "inv_pants_mail_05",
 	"popularity": 19,

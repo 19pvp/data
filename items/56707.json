@@ -1,5 +1,6 @@
 {
 	"id": 56707,
+	"bind": "Binds when picked up",
 	"name": "Band of Perseverance",
 	"icon": "inv_jewelry_ring_30",
 	"popularity": 6,

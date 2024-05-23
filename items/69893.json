@@ -1,5 +1,6 @@
 {
 	"id": 69893,
+	"bind": "<br>Item Level <!--ilvl-->1",
 	"name": "Bloodsoaked Skullforge Reaver",
 	"icon": "inv_sword_12",
 	"dmgMin": 29,

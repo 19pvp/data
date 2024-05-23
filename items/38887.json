@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Frost Spell Power": 20 },
+	"source": "CRAFT",
 	"sourceId": 25074,
-	"sourceName": "Enchant Gloves - Frost Power",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

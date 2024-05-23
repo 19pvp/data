@@ -1,5 +1,6 @@
 {
 	"id": 52671,
+	"bind": "Binds when picked up",
 	"name": "Bahrum's Bad Mood Ring",
 	"icon": "inv_jewelry_ring_82",
 	"popularity": 22,

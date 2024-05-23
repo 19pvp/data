@@ -1,5 +1,6 @@
 {
 	"id": 53423,
+	"bind": "Binds when picked up",
 	"name": "Kalecgos' Gift",
 	"icon": "inv_pants_mail_02",
 	"popularity": 7,

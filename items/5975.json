@@ -1,5 +1,6 @@
 {
 	"id": 5975,
+	"bind": "Binds when equipped",
 	"name": "Ruffian Belt",
 	"icon": "inv_belt_03",
 	"popularity": 12,
@@ -9,9 +10,9 @@
 	"subclass": "LEATHER",
 	"type": "WAIST",
 	"stats": { "Agility": 6 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 1944,
 	"sourceName": "Rot Hide Bruiser",
-	"sourceZone": 130,
+	"sourceZone": "Silverpine Forest",
 	"sourceType": "NPC"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 6580,
+	"bind": "Binds when equipped",
 	"name": "Defender Tunic",
 	"icon": "inv_chest_chain_04",
 	"popularity": 18,

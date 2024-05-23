@@ -1,5 +1,6 @@
 {
 	"id": 6467,
+	"bind": "Binds when equipped",
 	"name": "Deviate Scale Gloves",
 	"icon": "inv_gauntlets_05",
 	"popularity": 7,
@@ -9,7 +10,8 @@
 	"subclass": "LEATHER",
 	"type": "HANDS",
 	"stats": { "Agility": 3, "Stamina": 3 },
+	"source": "CRAFT",
 	"sourceId": 7954,
-	"sourceName": "Deviate Scale Gloves",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL"
 }

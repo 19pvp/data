@@ -1,5 +1,6 @@
 {
 	"id": 4362,
+	"bind": "Binds when equipped",
 	"name": "Rough Boomstick",
 	"icon": "inv_weapon_rifle_03",
 	"dmgMin": 11,
@@ -11,7 +12,8 @@
 	"quality": "UNCOMMON",
 	"subclass": "GUN",
 	"type": "RANGED",
+	"source": "CRAFT",
 	"sourceId": 3925,
-	"sourceName": "Rough Boomstick",
+	"sourceName": "Engineering",
 	"sourceType": "SPELL"
 }

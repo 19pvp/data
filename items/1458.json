@@ -1,5 +1,6 @@
 {
 	"id": 1458,
+	"bind": "Binds when equipped",
 	"name": "Shadowhide Maul",
 	"icon": "inv_hammer_16",
 	"dmgMin": 36,
@@ -12,9 +13,9 @@
 	"subclass": "TWO_HANDED_MACE",
 	"type": "TWO_HAND",
 	"stats": { "Strength": 6, "Stamina": 3 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 432,
 	"sourceName": "Shadowhide Brute",
-	"sourceZone": 44,
+	"sourceZone": "Redridge Mountains",
 	"sourceType": "NPC"
 }

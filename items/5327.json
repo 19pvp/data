@@ -1,5 +1,6 @@
 {
 	"id": 5327,
+	"bind": "Binds when picked up",
 	"name": "Greasy Tinker's Pants",
 	"icon": "inv_pants_02",
 	"popularity": 6,

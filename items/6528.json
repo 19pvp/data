@@ -1,5 +1,6 @@
 {
 	"id": 6528,
+	"bind": "Binds when equipped",
 	"name": "Spellbinder Robe",
 	"icon": "inv_chest_cloth_22",
 	"popularity": 3,

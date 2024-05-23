@@ -1,5 +1,6 @@
 {
 	"id": 6215,
+	"bind": "Binds when picked up",
 	"name": "Balanced Fighting Stick",
 	"icon": "inv_staff_08",
 	"dmgMin": 16,

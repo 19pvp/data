@@ -1,5 +1,6 @@
 {
 	"id": 54874,
+	"bind": "Binds when picked up",
 	"name": "Grassy Bindings",
 	"icon": "inv_boots_04",
 	"popularity": 33,

@@ -1,5 +1,6 @@
 {
 	"id": 58921,
+	"bind": "Binds when picked up",
 	"name": "Evidence Collection Gloves",
 	"icon": "inv_gauntlets_27",
 	"popularity": 6,

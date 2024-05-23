@@ -9,7 +9,8 @@
 	"subclass": "RINGS",
 	"type": "FINGER",
 	"stats": { "Spirit": 1 },
+	"source": "CRAFT",
 	"sourceId": 25493,
-	"sourceName": "Braided Copper Ring",
+	"sourceName": "Jewelcrafting",
 	"sourceType": "SPELL"
 }

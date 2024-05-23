@@ -1,5 +1,6 @@
 {
 	"id": 10553,
+	"bind": "Binds when equipped",
 	"name": "Foreman Vest",
 	"icon": "inv_shirt_05",
 	"popularity": 16,
@@ -9,9 +10,9 @@
 	"subclass": "CLOTH",
 	"type": "CHEST",
 	"stats": { "Intellect": 2 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 8503,
 	"sourceName": "Gibblewilt",
-	"sourceZone": 1,
+	"sourceZone": "Dun Morogh",
 	"sourceType": "NPC"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 59593,
+	"bind": "Binds when picked up",
 	"name": "Deathgate Shield",
 	"icon": "inv_shield_07",
 	"popularity": 9,

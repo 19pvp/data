@@ -1,5 +1,6 @@
 {
 	"id": 52657,
+	"bind": "Binds when picked up",
 	"name": "Professor's Sandwich Plate",
 	"icon": "inv_shield_09",
 	"popularity": 5,

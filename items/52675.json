@@ -1,5 +1,6 @@
 {
 	"id": 52675,
+	"bind": "Binds when picked up",
 	"name": "Silver Embroidered Cloak",
 	"icon": "inv_misc_cape_06",
 	"popularity": 8,

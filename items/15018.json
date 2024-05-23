@@ -1,5 +1,6 @@
 {
 	"id": 15018,
+	"bind": "Binds when equipped",
 	"name": "Lupine Vest",
 	"icon": "inv_chest_fur",
 	"popularity": 5,

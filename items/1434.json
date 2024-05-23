@@ -1,5 +1,6 @@
 {
 	"id": "1434",
+	"bind": "Binds when picked up",
 	"icon": "inv_misc_candle_03",
 	"speed": 2,
 	"armor": -50,

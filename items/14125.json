@@ -1,5 +1,6 @@
 {
 	"id": 14125,
+	"bind": "Binds when equipped",
 	"name": "Ritual Leggings",
 	"icon": "inv_pants_09",
 	"popularity": 10,

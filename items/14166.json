@@ -1,5 +1,6 @@
 {
 	"id": 14166,
+	"bind": "Binds when equipped",
 	"name": "Buccaneer's Bracers",
 	"icon": "inv_bracer_12",
 	"popularity": 10,

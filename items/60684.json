@@ -1,5 +1,6 @@
 {
 	"id": 60684,
+	"bind": "Binds when picked up",
 	"name": "Royal Guard Breastplate",
 	"icon": "inv_chest_chain_06",
 	"popularity": 14,

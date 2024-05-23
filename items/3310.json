@@ -1,5 +1,6 @@
 {
 	"id": 3310,
+	"bind": "Binds when equipped",
 	"name": "Barbaric Cloth Vest",
 	"icon": "inv_shirt_07",
 	"popularity": 11,

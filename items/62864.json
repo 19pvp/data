@@ -1,5 +1,6 @@
 {
 	"id": 62864,
+	"bind": "Binds when picked up",
 	"name": "Bracers of the Final Transmission",
 	"icon": "inv_bracer_10",
 	"popularity": 4,

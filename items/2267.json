@@ -1,5 +1,6 @@
 {
 	"id": 2267,
+	"bind": "Binds when equipped",
 	"name": "Stonesplinter Mace",
 	"icon": "inv_mace_12",
 	"dmgMin": 10,
@@ -12,9 +13,9 @@
 	"subclass": "ONE_HANDED_MACE",
 	"type": "ONE_HAND",
 	"stats": { "Stamina": 1 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 1197,
 	"sourceName": "Stonesplinter Shaman",
-	"sourceZone": 38,
+	"sourceZone": "Loch Modan",
 	"sourceType": "NPC"
 }

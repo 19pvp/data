@@ -1,5 +1,6 @@
 {
 	"id": 2578,
+	"bind": "Binds when equipped",
 	"name": "Barbaric Linen Vest",
 	"icon": "inv_chest_fur",
 	"popularity": 5,
@@ -9,7 +10,8 @@
 	"subclass": "CLOTH",
 	"type": "CHEST",
 	"stats": { "Stamina": 2, "Spirit": 2 },
+	"source": "CRAFT",
 	"sourceId": 2395,
-	"sourceName": "Barbaric Linen Vest",
+	"sourceName": "Tailoring",
 	"sourceType": "SPELL"
 }

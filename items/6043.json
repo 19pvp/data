@@ -7,8 +7,9 @@
 	"quality": "COMMON",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "Haste Rating": 20 },
+	"source": "CRAFT",
 	"sourceId": 7222,
-	"sourceName": "Iron Counterweight",
+	"sourceName": "Blacksmithing",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

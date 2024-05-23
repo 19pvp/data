@@ -1,5 +1,6 @@
 {
 	"id": 57170,
+	"bind": "Binds when picked up",
 	"name": "Lilian's Staff",
 	"icon": "inv_staff_08",
 	"dmgMin": 18,

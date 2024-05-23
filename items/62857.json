@@ -1,5 +1,6 @@
 {
 	"id": 62857,
+	"bind": "Binds when picked up",
 	"name": "Staff of the Formidable Opponent",
 	"icon": "inv_staff_08",
 	"dmgMin": 23,

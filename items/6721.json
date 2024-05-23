@@ -1,5 +1,6 @@
 {
 	"id": 6721,
+	"bind": "Binds when picked up",
 	"name": "Chestplate of Kor",
 	"icon": "inv_chest_leather_05",
 	"popularity": 7,

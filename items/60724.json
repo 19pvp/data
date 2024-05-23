@@ -1,5 +1,6 @@
 {
 	"id": 60724,
+	"bind": "Binds when picked up",
 	"name": "Bravo Company Shoulderguards",
 	"icon": "inv_shoulder_13",
 	"popularity": 11,

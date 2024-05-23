@@ -1,5 +1,6 @@
 {
 	"id": 5595,
+	"bind": "Binds when picked up",
 	"name": "Thicket Hammer",
 	"icon": "inv_hammer_15",
 	"dmgMin": 19,

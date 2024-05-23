@@ -1,5 +1,6 @@
 {
 	"id": 24349,
+	"bind": "Binds when picked up",
 	"name": "Signet Ring of the Hand",
 	"icon": "inv_jewelry_ring_18",
 	"popularity": 6,

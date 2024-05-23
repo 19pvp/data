@@ -1,5 +1,6 @@
 {
 	"id": 60730,
+	"bind": "Binds when picked up",
 	"name": "Bravo Company Signet",
 	"icon": "inv_jewelry_ring_51naxxramas",
 	"popularity": 10,

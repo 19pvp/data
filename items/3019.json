@@ -1,5 +1,6 @@
 {
 	"id": 3019,
+	"bind": "Binds when equipped",
 	"name": "Noble's Robe",
 	"icon": "inv_chest_cloth_38",
 	"popularity": 12,

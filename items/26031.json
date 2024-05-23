@@ -1,5 +1,6 @@
 {
 	"id": 26031,
+	"bind": "Binds when picked up",
 	"name": "Elekk Rider's Mail",
 	"icon": "inv_chest_chain_16",
 	"popularity": 12,

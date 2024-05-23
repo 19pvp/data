@@ -1,5 +1,6 @@
 {
 	"id": 3229,
+	"bind": "Binds when equipped",
 	"name": "Tarantula Silk Sash",
 	"icon": "inv_belt_07",
 	"popularity": 17,
@@ -9,9 +10,9 @@
 	"subclass": "CLOTH",
 	"type": "WAIST",
 	"stats": { "Stamina": 8, "Intellect": 2 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 616,
 	"sourceName": "Chatter",
-	"sourceZone": 44,
+	"sourceZone": "Redridge Mountains",
 	"sourceType": "NPC"
 }

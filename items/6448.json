@@ -1,5 +1,6 @@
 {
 	"id": 6448,
+	"bind": "Binds when picked up",
 	"name": "Tail Spike",
 	"icon": "inv_weapon_shortblade_10",
 	"dmgMin": 17,
@@ -12,9 +13,9 @@
 	"subclass": "DAGGER",
 	"type": "ONE_HAND",
 	"stats": { "Critical Strike Rating": 3, "Agility": 4 },
-	"source": "DROP",
+	"source": "DUNGEON",
 	"sourceId": 3674,
 	"sourceName": "Skum",
-	"sourceZone": 718,
+	"sourceZone": "Wailing Caverns",
 	"sourceType": "NPC"
 }

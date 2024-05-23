@@ -1,5 +1,6 @@
 {
 	"id": 727,
+	"bind": "Binds when equipped",
 	"name": "Notched Shortsword",
 	"icon": "inv_sword_04",
 	"dmgMin": 8,

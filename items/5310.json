@@ -1,5 +1,6 @@
 {
 	"id": 5310,
+	"bind": "Binds when picked up",
 	"name": "Sea Dog Britches",
 	"icon": "inv_pants_02",
 	"popularity": 7,

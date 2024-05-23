@@ -1,5 +1,6 @@
 {
 	"id": 1928,
+	"bind": "Binds when equipped",
 	"name": "Defias Mage Staff",
 	"icon": "inv_staff_18",
 	"dmgMin": 39,

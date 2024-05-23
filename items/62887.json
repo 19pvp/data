@@ -1,5 +1,6 @@
 {
 	"id": 62887,
+	"bind": "Binds when picked up",
 	"name": "Bracers of the Million Gold Man",
 	"icon": "inv_bracer_05",
 	"popularity": 4,

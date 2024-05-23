@@ -1,5 +1,6 @@
 {
 	"id": 3283,
+	"bind": "Binds when equipped",
 	"name": "Battle Chain Tunic",
 	"icon": "inv_chest_leather_04",
 	"popularity": 19,

@@ -1,5 +1,6 @@
 {
 	"id": 6577,
+	"bind": "Binds when equipped",
 	"name": "Defender Gauntlets",
 	"icon": "inv_gauntlets_11",
 	"popularity": 16,

@@ -1,5 +1,6 @@
 {
 	"id": 33820,
+	"bind": "Binds when picked up",
 	"name": "Weather-Beaten Fishing Hat",
 	"icon": "inv_helmet_31",
 	"popularity": 114,

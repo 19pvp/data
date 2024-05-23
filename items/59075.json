@@ -1,5 +1,6 @@
 {
 	"id": 59075,
+	"bind": "Binds when picked up",
 	"name": "Drunkard's Belt",
 	"icon": "inv_belt_23",
 	"popularity": 27,

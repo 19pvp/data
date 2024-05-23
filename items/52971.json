@@ -1,5 +1,6 @@
 {
 	"id": 52971,
+	"bind": "Binds when picked up",
 	"name": "Igneous Leggings",
 	"icon": "inv_pants_07",
 	"popularity": 25,

@@ -1,5 +1,6 @@
 {
 	"id": 62839,
+	"bind": "Binds when picked up",
 	"name": "Nubly Bracers",
 	"icon": "inv_bracer_27b",
 	"popularity": 9,

@@ -1,5 +1,6 @@
 {
 	"id": 12983,
+	"bind": "Binds when equipped",
 	"name": "Rakzur Club",
 	"icon": "inv_hammer_09",
 	"dmgMin": 38,

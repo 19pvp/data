@@ -1,5 +1,6 @@
 {
 	"id": 59080,
+	"bind": "Binds when picked up",
 	"name": "Merchant Marine Waders",
 	"icon": "inv_boots_cloth_04",
 	"popularity": 5,

@@ -1,5 +1,6 @@
 {
 	"id": 826,
+	"bind": "Binds when equipped",
 	"name": "Brutish Riverpaw Axe",
 	"icon": "inv_axe_01",
 	"dmgMin": 15,
@@ -12,9 +13,9 @@
 	"subclass": "ONE_HANDED_AXE",
 	"type": "ONE_HAND",
 	"stats": { "Strength": 1 },
-	"source": "DROP",
+	"source": "ZONE",
 	"sourceId": 124,
 	"sourceName": "Riverpaw Brute",
-	"sourceZone": 40,
+	"sourceZone": "Westfall",
 	"sourceType": "NPC"
 }

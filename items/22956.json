@@ -1,5 +1,6 @@
 {
 	"id": "22956",
+	"bind": "Binds when picked up",
 	"icon": "inv_mace_12",
 	"dmgMin": 3,
 	"dmgMax": 6,

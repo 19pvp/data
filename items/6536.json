@@ -1,5 +1,6 @@
 {
 	"id": 6536,
+	"bind": "Binds when equipped",
 	"name": "Willow Vest",
 	"icon": "inv_shirt_green_01",
 	"popularity": 14,

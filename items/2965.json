@@ -1,5 +1,6 @@
 {
 	"id": 2965,
+	"bind": "Binds when equipped",
 	"name": "Warrior's Tunic",
 	"icon": "inv_chest_chain",
 	"popularity": 7,

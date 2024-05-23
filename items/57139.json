@@ -1,5 +1,6 @@
 {
 	"id": "57139",
+	"bind": "Binds when picked up",
 	"icon": "inv_weapon_crossbow_01",
 	"dmgMin": 5,
 	"dmgMax": 8,

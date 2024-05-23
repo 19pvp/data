@@ -1,5 +1,6 @@
 {
 	"id": 52909,
+	"bind": "Binds when picked up",
 	"name": "Mini B.C. Eliminator",
 	"icon": "inv_weapon_rifle_01",
 	"dmgMin": 10,

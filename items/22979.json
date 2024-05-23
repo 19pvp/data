@@ -1,5 +1,6 @@
 {
 	"id": 22979,
+	"bind": "Binds when picked up",
 	"name": "Slayer's Band",
 	"icon": "inv_jewelry_ring_01",
 	"popularity": 14,

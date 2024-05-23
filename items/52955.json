@@ -1,5 +1,6 @@
 {
 	"id": 52955,
+	"bind": "Binds when picked up",
 	"name": "Town-In-A-Box Lid Fragment",
 	"icon": "inv_shield_09",
 	"popularity": 13,

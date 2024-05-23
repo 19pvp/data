@@ -1,5 +1,6 @@
 {
 	"id": 52958,
+	"bind": "Binds when picked up",
 	"name": "S.B.R.B. Prototype 2",
 	"icon": "inv_boots_leather_10v4",
 	"popularity": 9,

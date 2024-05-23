@@ -1,5 +1,6 @@
 {
 	"id": 2908,
+	"bind": "Binds when picked up",
 	"name": "Thornblade",
 	"icon": "inv_weapon_shortblade_15",
 	"dmgMin": 11,

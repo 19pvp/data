@@ -1,5 +1,6 @@
 {
 	"id": 55128,
+	"bind": "Binds when picked up",
 	"name": "Silver Embossed Boots",
 	"icon": "inv_boots_04",
 	"popularity": 62,

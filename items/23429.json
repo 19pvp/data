@@ -1,5 +1,6 @@
 {
 	"id": 23429,
+	"bind": "Binds when picked up",
 	"name": "Mercenary Clout",
 	"icon": "inv_mace_06",
 	"dmgMin": 20,

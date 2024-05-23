@@ -1,5 +1,6 @@
 {
 	"id": 57167,
+	"bind": "Binds when picked up",
 	"name": "Night Web Gloves",
 	"icon": "inv_gauntlets_16",
 	"popularity": 23,

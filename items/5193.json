@@ -1,5 +1,6 @@
 {
 	"id": 5193,
+	"bind": "Binds when picked up",
 	"name": "Cape of the Brotherhood",
 	"icon": "inv_misc_cape_08",
 	"popularity": 8,
@@ -9,6 +10,6 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Agility": 5, "Stamina": 3 },
-	"source": "DROP",
-	"sourceZone": 1581
+	"source": "DUNGEON",
+	"sourceZone": "The Deadmines"
 }

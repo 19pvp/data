@@ -1,5 +1,6 @@
 {
 	"id": 26011,
+	"bind": "Binds when picked up",
 	"name": "Cryo-Core Attendant's Boots",
 	"icon": "inv_boots_09",
 	"popularity": 9,

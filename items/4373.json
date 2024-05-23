@@ -1,5 +1,6 @@
 {
 	"id": 4373,
+	"bind": "Binds when equipped",
 	"name": "Shadow Goggles",
 	"icon": "inv_helmet_47",
 	"popularity": 12,
@@ -9,7 +10,8 @@
 	"subclass": "CLOTH",
 	"type": "HEAD",
 	"stats": { "Intellect": 5, "Spirit": 6 },
+	"source": "CRAFT",
 	"sourceId": 3940,
-	"sourceName": "Shadow Goggles",
+	"sourceName": "Engineering",
 	"sourceType": "SPELL"
 }

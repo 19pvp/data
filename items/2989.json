@@ -1,5 +1,6 @@
 {
 	"id": 2989,
+	"bind": "Binds when equipped",
 	"name": "Burnished Tunic",
 	"icon": "inv_chest_chain_06",
 	"popularity": 3,

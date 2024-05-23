@@ -7,8 +7,9 @@
 	"quality": "RARE",
 	"subclass": "ITEM_ENHANCEMENT",
 	"stats": { "enchant": "Unholy Weapon" },
+	"source": "CRAFT",
 	"sourceId": 20033,
-	"sourceName": "Enchant Weapon - Unholy Weapon",
+	"sourceName": "Enchanting",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

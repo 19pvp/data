@@ -1,5 +1,6 @@
 {
 	"id": "23372",
+	"bind": "Binds when picked up",
 	"icon": "inv_sword_06",
 	"dmgMin": 8,
 	"dmgMax": 13,

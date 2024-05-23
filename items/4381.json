@@ -8,8 +8,9 @@
 	"quality": "UNCOMMON",
 	"subclass": "TRINKETS",
 	"type": "TRINKET",
+	"source": "CRAFT",
 	"sourceId": 3952,
-	"sourceName": "Minor Recombobulator",
+	"sourceName": "Engineering",
 	"sourceType": "SPELL",
 	"spell": {
 		"type": "Use",

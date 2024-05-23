@@ -1,5 +1,6 @@
 {
 	"id": 6564,
+	"bind": "Binds when equipped",
 	"name": "Shimmering Cloak",
 	"icon": "inv_misc_cape_15",
 	"popularity": 7,

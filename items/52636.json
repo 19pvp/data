@@ -1,5 +1,6 @@
 {
 	"id": 52636,
+	"bind": "Binds when picked up",
 	"name": "Portal Closer's Hammer",
 	"icon": "inv_hammer_01",
 	"dmgMin": 26,

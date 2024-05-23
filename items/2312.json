@@ -1,5 +1,6 @@
 {
 	"id": 2312,
+	"bind": "Binds when equipped",
 	"name": "Fine Leather Gloves",
 	"icon": "inv_gauntlets_05",
 	"popularity": 3,
@@ -9,7 +10,8 @@
 	"subclass": "LEATHER",
 	"type": "HANDS",
 	"stats": { "Stamina": 3, "Intellect": 2 },
+	"source": "CRAFT",
 	"sourceId": 2164,
-	"sourceName": "Fine Leather Gloves",
+	"sourceName": "Leatherworking",
 	"sourceType": "SPELL"
 }

@@ -1,5 +1,6 @@
 {
 	"id": 69223,
+	"bind": "Binds when picked up",
 	"name": "Emergency Hatchet",
 	"icon": "inv_axe_117",
 	"dmgMin": 15,

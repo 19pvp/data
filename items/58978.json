@@ -1,5 +1,6 @@
 {
 	"id": 58978,
+	"bind": "Binds when picked up",
 	"name": "Filthy Paw",
 	"icon": "inv_hand_1h_bwdraid_d_01",
 	"dmgMin": 10,
@@ -14,5 +15,5 @@
 	"type": "OFF_HAND",
 	"stats": { "Agility": 1 },
 	"source": "QUEST",
-	"sourceZone": 38
+	"sourceZone": "Loch Modan"
 }

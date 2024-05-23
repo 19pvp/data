@@ -1,5 +1,6 @@
 {
 	"id": 52487,
+	"bind": "Binds when equipped",
 	"name": "Jeweler's Amber Monocle",
 	"icon": "inv_helmet_44",
 	"popularity": 22,
@@ -8,7 +9,8 @@
 	"quality": "RARE",
 	"subclass": "MISC",
 	"type": "HEAD",
+	"source": "CRAFT",
 	"sourceId": 73627,
-	"sourceName": "Jeweler's Amber Monocle",
+	"sourceName": "Jewelcrafting",
 	"sourceType": "SPELL"
 }

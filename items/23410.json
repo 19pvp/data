@@ -1,5 +1,6 @@
 {
 	"id": 23410,
+	"bind": "Binds when picked up",
 	"name": "Well Crafted Sword",
 	"icon": "inv_sword_05",
 	"dmgMin": 17,

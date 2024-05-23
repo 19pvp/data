@@ -1,5 +1,6 @@
 {
 	"id": 12976,
+	"bind": "Binds when equipped",
 	"name": "Ironpatch Blade",
 	"icon": "inv_sword_26",
 	"dmgMin": 24,

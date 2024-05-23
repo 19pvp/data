@@ -1,5 +1,6 @@
 {
 	"id": 69221,
+	"bind": "Binds when picked up",
 	"name": "Mor'shan Caravaneer's Leggings",
 	"icon": "inv_pants_09",
 	"popularity": 12,

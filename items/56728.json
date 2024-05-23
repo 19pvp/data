@@ -1,5 +1,6 @@
 {
 	"id": 56728,
+	"bind": "Binds when picked up",
 	"name": "Bloodtaint Boots",
 	"icon": "inv_boots_chain_03",
 	"popularity": 20,

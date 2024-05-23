@@ -1,5 +1,6 @@
 {
 	"id": 14119,
+	"bind": "Binds when equipped",
 	"name": "Aboriginal Loincloth",
 	"icon": "inv_pants_wolf",
 	"popularity": 19,

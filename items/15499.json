@@ -1,5 +1,6 @@
 {
 	"id": 15499,
+	"bind": "Binds when equipped",
 	"name": "Outrunner's Cuffs",
 	"icon": "inv_bracer_13",
 	"popularity": 5,

@@ -1,5 +1,6 @@
 {
 	"id": 4998,
+	"bind": "Binds when equipped",
 	"name": "Blood Ring",
 	"icon": "inv_jewelry_ring_04",
 	"popularity": 7,

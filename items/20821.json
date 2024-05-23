@@ -9,7 +9,8 @@
 	"subclass": "RINGS",
 	"type": "FINGER",
 	"stats": { "Agility": 2 },
+	"source": "CRAFT",
 	"sourceId": 25283,
-	"sourceName": "Inlaid Malachite Ring",
+	"sourceName": "Jewelcrafting",
 	"sourceType": "SPELL"
 }

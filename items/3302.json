@@ -1,5 +1,6 @@
 {
 	"id": 3302,
+	"bind": "Binds when equipped",
 	"name": "Brackwater Boots",
 	"icon": "inv_boots_03",
 	"popularity": 6,

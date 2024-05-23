@@ -1,5 +1,6 @@
 {
 	"id": 65936,
+	"bind": "Binds when picked up",
 	"name": "Sandals of Sacrifice",
 	"icon": "inv_boots_cloth_01",
 	"popularity": 10,
