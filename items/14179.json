@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Watcher's Cape",
 	"icon": "inv_misc_cape_15",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"popularity": 7,
 	"armor": 33,
 	"class": "ARMOR",

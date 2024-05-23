@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Elekk Handler's Leathers",
 	"icon": "inv_chest_leather_07",
+	"requiredLevel": 9,
+	"itemLevel": 11,
 	"popularity": 4,
 	"armor": 56,
 	"side": "ALLIANCE",

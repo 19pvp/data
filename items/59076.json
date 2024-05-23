@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Wand of Infectious Dementia",
 	"icon": "inv_wand_34",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"dmgMin": 17,
 	"dmgMax": 33,
 	"speed": 1.6,

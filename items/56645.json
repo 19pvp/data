@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Kadrak's Breastplate",
 	"icon": "inv_chest_chain_17",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 19,
 	"armor": 149,
 	"side": "HORDE",

@@ -2,6 +2,7 @@
 	"id": 38825,
 	"name": "Enchant Cloak - Greater Defense",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 6,
 	"armor": 50,
 	"class": "CONSUMABLE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Wisp-Chaser Cord",
 	"icon": "inv_belt_24",
+	"requiredLevel": 16,
+	"itemLevel": 18,
 	"popularity": 9,
 	"armor": 30,
 	"side": "ALLIANCE",

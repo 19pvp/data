@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Bravo Company Signet",
 	"icon": "inv_jewelry_ring_51naxxramas",
+	"requiredLevel": 17,
+	"itemLevel": 20,
 	"popularity": 10,
 	"armor": 0,
 	"side": "ALLIANCE",

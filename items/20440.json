@@ -1,7 +1,10 @@
 {
 	"id": 20440,
+	"bind": "Binds when picked up",
 	"name": "Protector's Sword",
 	"icon": "inv_sword_27",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"dmgMin": 28,
 	"dmgMax": 53,
 	"speed": 2.7,
@@ -17,5 +20,6 @@
 	"sourceId": 14753,
 	"sourceName": "Illiyana Moonblaze",
 	"sourceZone": "Ashenvale",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

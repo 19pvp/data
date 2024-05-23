@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Staff of the Unwelcome",
 	"icon": "inv_staff_21",
+	"requiredLevel": 1,
+	"itemLevel": 12,
 	"dmgMin": 22,
 	"dmgMax": 34,
 	"speed": 3.3,

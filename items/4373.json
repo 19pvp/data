@@ -3,6 +3,7 @@
 	"bind": "Binds when equipped",
 	"name": "Shadow Goggles",
 	"icon": "inv_helmet_47",
+	"itemLevel": 24,
 	"popularity": 12,
 	"armor": 54,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Heavy Copper Broadsword",
 	"icon": "inv_sword_14",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"dmgMin": 27,
 	"dmgMax": 41,
 	"speed": 2.7,

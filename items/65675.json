@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Stillwater's Dagger",
 	"icon": "inv_knife_1h_cataclysm_b_02",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"dmgMin": 17,
 	"dmgMax": 33,
 	"speed": 1.8,

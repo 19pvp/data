@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Serpent Gloves",
 	"icon": "inv_gauntlets_19",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 9,
 	"armor": 41,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "CLOTH",
 	"type": "HANDS",
 	"stats": { "Stamina": 4, "Intellect": 6 },
-	"source": "DUNGEON",
+	"source": "DROP",
 	"sourceId": 3673,
 	"sourceName": "Lord Serpentis",
 	"sourceZone": "Wailing Caverns",
+	"sourceZoneType": "Dungeon",
 	"sourceType": "NPC"
 }

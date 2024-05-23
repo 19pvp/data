@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Shadowhide Two-Handed Sword",
 	"icon": "inv_sword_46",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"dmgMin": 30,
 	"dmgMax": 46,
 	"speed": 2.9,
@@ -13,9 +15,10 @@
 	"subclass": "TWO_HANDED_SWORD",
 	"type": "TWO_HAND",
 	"stats": { "Strength": 4, "Stamina": 4 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 434,
 	"sourceName": "Rabid Shadowhide Gnoll",
 	"sourceZone": "Redridge Mountains",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

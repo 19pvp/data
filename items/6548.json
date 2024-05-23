@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Soldier's Girdle",
 	"icon": "inv_belt_25",
+	"requiredLevel": 11,
+	"itemLevel": 16,
 	"popularity": 25,
 	"armor": 67,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Sentinel Hill Surcoat",
 	"icon": "inv_chest_cloth_30",
+	"requiredLevel": 11,
+	"itemLevel": 13,
 	"popularity": 4,
 	"armor": 41,
 	"side": "ALLIANCE",

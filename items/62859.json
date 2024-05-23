@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Sword of Insurgence",
 	"icon": "inv_sword_94",
+	"requiredLevel": 11,
+	"itemLevel": 13,
 	"dmgMin": 12,
 	"dmgMax": 24,
 	"speed": 2.6,

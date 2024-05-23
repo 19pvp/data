@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Jeweled Dagger",
 	"icon": "inv_weapon_shortblade_15",
+	"requiredLevel": 5,
+	"itemLevel": 10,
 	"dmgMin": 6,
 	"dmgMax": 11,
 	"speed": 1.6,
@@ -13,9 +15,10 @@
 	"subclass": "DAGGER",
 	"type": "ONE_HAND",
 	"stats": { "Stamina": 1 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 99,
 	"sourceName": "Morgaine the Sly",
 	"sourceZone": "Elwynn Forest",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

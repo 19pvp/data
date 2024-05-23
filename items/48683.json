@@ -1,8 +1,10 @@
 {
 	"id": 48683,
-	"bind": "<br>Item Level <!--ilvl-->1",
+	"bind": "Binds to account",
 	"name": "Mystical Vest of Elements",
 	"icon": "inv_chest_chain_11",
+	"requiredLevel": 1,
+	"itemLevel": 1,
 	"popularity": 64,
 	"armor": 0,
 	"class": "ARMOR",

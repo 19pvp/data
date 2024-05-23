@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Glowing Murloc Eye",
 	"icon": "inv_misc_eye_01",
+	"requiredLevel": 8,
+	"itemLevel": 13,
 	"speed": 2,
 	"popularity": 8,
 	"armor": 0,

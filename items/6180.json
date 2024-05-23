@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Slarkskin",
 	"icon": "inv_chest_chain_12",
+	"requiredLevel": 10,
+	"itemLevel": 15,
 	"popularity": 5,
 	"armor": 114,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "MAIL",
 	"type": "CHEST",
 	"stats": { "Agility": 3, "Stamina": 2 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 519,
 	"sourceName": "Slark",
 	"sourceZone": "Westfall",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Rugelfuss Bracers",
 	"icon": "inv_bracer_27b",
+	"requiredLevel": 10,
+	"itemLevel": 12,
 	"popularity": 10,
 	"armor": 42,
 	"side": "ALLIANCE",

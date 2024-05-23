@@ -1,6 +1,7 @@
 {
 	"id": "955",
 	"icon": "inv_scroll_01",
+	"requiredLevel": 1,
 	"quality": "COMMON",
 	"spell": {
 		"type": "Use",

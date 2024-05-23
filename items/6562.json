@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Shimmering Boots",
 	"icon": "inv_boots_05",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 15,
 	"armor": 41,
 	"class": "ARMOR",

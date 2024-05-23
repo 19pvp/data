@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Sparkmetal Bracers",
 	"icon": "inv_bracer_30c",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"popularity": 11,
 	"armor": 74,
 	"side": "ALLIANCE",

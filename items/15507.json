@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Grunt's Bracers",
 	"icon": "inv_bracer_09",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"popularity": 8,
 	"armor": 60,
 	"class": "ARMOR",

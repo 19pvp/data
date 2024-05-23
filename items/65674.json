@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Star Pony Leggings",
 	"icon": "inv_pants_05",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 5,
 	"armor": 52,
 	"side": "HORDE",

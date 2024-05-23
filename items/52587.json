@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Singed Boots",
 	"icon": "inv_boots_cloth_01",
+	"requiredLevel": 13,
+	"itemLevel": 15,
 	"popularity": 6,
 	"armor": 31,
 	"side": "ALLIANCE",

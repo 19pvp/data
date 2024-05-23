@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Ghoul Hammer",
 	"icon": "inv_hammer_17",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"dmgMin": 15,
 	"dmgMax": 29,
 	"speed": 2.4,
@@ -24,9 +26,10 @@
 			"stats": { "Agility": 1, "Stamina": 1, "Haste": 1 }
 		}
 	},
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 22062,
 	"sourceName": "Dr. Whitherlimb",
 	"sourceZone": "Ghostlands",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

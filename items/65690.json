@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Slaver's Leggings",
 	"icon": "inv_pants_leather_14",
+	"requiredLevel": 19,
+	"itemLevel": 20,
 	"popularity": 6,
 	"armor": 77,
 	"side": "HORDE",

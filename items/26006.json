@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Crystal-Flecked Pants",
 	"icon": "inv_pants_02",
+	"requiredLevel": 10,
+	"itemLevel": 12,
 	"popularity": 8,
 	"armor": 34,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Burnished Cloak",
 	"icon": "inv_misc_cape_06",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"popularity": 30,
 	"armor": 26,
 	"class": "ARMOR",

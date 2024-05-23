@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Greely's Spare Dagger",
 	"icon": "inv_weapon_shortblade_10",
+	"requiredLevel": 1,
+	"itemLevel": 11,
 	"dmgMin": 7,
 	"dmgMax": 13,
 	"speed": 1.7,

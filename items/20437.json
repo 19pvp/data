@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Outrider's Bow",
 	"icon": "inv_weapon_bow_06",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"dmgMin": 33,
 	"dmgMax": 62,
 	"speed": 2.4,
@@ -17,5 +19,6 @@
 	"sourceId": 14754,
 	"sourceName": "Kelm Hargunth",
 	"sourceZone": "Northern Barrens",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Fortified Oven Mitts",
 	"icon": "inv_gauntlets_05",
+	"requiredLevel": 9,
+	"itemLevel": 11,
 	"popularity": 6,
 	"armor": 57,
 	"side": "HORDE",

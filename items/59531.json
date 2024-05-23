@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Far Watch Musket",
 	"icon": "inv_weapon_rifle_01",
+	"requiredLevel": 10,
+	"itemLevel": 12,
 	"dmgMin": 16,
 	"dmgMax": 31,
 	"speed": 2.8,

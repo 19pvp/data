@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Bad Belt",
 	"icon": "inv_belt_37b",
+	"requiredLevel": 18,
+	"itemLevel": 20,
 	"popularity": 5,
 	"armor": 49,
 	"side": "ALLIANCE",

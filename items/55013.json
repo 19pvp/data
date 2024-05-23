@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Seryl's Promise",
 	"icon": "inv_staff_20",
+	"requiredLevel": 5,
+	"itemLevel": 15,
 	"dmgMin": 26,
 	"dmgMax": 40,
 	"speed": 3.3,

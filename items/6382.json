@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Forest Leather Belt",
 	"icon": "inv_belt_03",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 5,
 	"armor": 55,
 	"class": "ARMOR",

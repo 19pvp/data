@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Museum Guard's Bracers",
 	"icon": "inv_bracer_27b",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 9,
 	"armor": 37,
 	"side": "ALLIANCE",

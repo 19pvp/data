@@ -2,6 +2,7 @@
 	"id": 38864,
 	"name": "Enchant Boots - Spirit",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 17,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

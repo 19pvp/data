@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Gnoll Punisher",
 	"icon": "inv_hammer_09",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"dmgMin": 14,
 	"dmgMax": 27,
 	"speed": 2.4,
@@ -13,6 +15,7 @@
 	"subclass": "ONE_HANDED_MACE",
 	"type": "ONE_HAND",
 	"stats": { "Strength": 2 },
-	"source": "ZONE",
-	"sourceZone": "Redridge Mountains"
+	"source": "DROP",
+	"sourceZone": "Redridge Mountains",
+	"sourceZoneType": "Zone"
 }

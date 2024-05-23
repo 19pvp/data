@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Gnarlbark Shoulders",
 	"icon": "inv_shoulder_14",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 10,
 	"armor": 112,
 	"side": "ALLIANCE",

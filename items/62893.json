@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Lorna's Signet",
 	"icon": "inv_jewelry_ring_75",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 3,
 	"armor": 0,
 	"side": "HORDE",

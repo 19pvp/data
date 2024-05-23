@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Heat-Applied Metallic Cooking Container",
 	"icon": "inv_shield_10",
+	"requiredLevel": 1,
+	"itemLevel": 11,
 	"popularity": 12,
 	"armor": 364,
 	"side": "HORDE",

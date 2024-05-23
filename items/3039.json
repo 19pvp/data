@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Short Ash Bow",
 	"icon": "inv_weapon_bow_03",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"dmgMin": 20,
 	"dmgMax": 38,
 	"speed": 1.9,

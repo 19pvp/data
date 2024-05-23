@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Rutsak Carriers",
 	"icon": "inv_gauntlets_24",
+	"requiredLevel": 12,
+	"itemLevel": 15,
 	"popularity": 15,
 	"armor": 44,
 	"side": "HORDE",

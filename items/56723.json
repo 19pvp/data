@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Deerstalker Leggings",
 	"icon": "inv_pants_mail_12",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"popularity": 8,
 	"armor": 135,
 	"side": "HORDE",

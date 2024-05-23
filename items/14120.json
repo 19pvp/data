@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Aboriginal Robe",
 	"icon": "inv_chest_cloth_16",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 18,
 	"armor": 57,
 	"class": "ARMOR",

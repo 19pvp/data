@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Horn Sounder's Bracers",
 	"icon": "inv_bracer_30a",
+	"requiredLevel": 17,
+	"itemLevel": 20,
 	"popularity": 5,
 	"armor": 63,
 	"class": "ARMOR",

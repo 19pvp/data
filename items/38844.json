@@ -2,6 +2,7 @@
 	"id": 38844,
 	"name": "Enchant Boots - Agility",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 18,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

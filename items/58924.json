@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Legwork Trousers",
 	"icon": "inv_pants_09",
+	"requiredLevel": 11,
+	"itemLevel": 14,
 	"popularity": 12,
 	"armor": 38,
 	"side": "ALLIANCE",

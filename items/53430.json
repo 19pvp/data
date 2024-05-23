@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Mortar-Slinger Belt",
 	"icon": "inv_belt_04",
+	"requiredLevel": 10,
+	"itemLevel": 13,
 	"popularity": 7,
 	"armor": 35,
 	"side": "HORDE",

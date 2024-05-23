@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Rough Bronze Leggings",
 	"icon": "inv_pants_03",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 20,
 	"armor": 130,
 	"class": "ARMOR",

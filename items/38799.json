@@ -2,6 +2,7 @@
 	"id": 38799,
 	"name": "Enchant Chest - Mana",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 18,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

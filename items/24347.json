@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Vest of the Dragon Slayer",
 	"icon": "inv_chest_leather_07",
+	"requiredLevel": 19,
+	"itemLevel": 18,
 	"popularity": 8,
 	"armor": 81,
 	"side": "ALLIANCE",

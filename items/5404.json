@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Serpent's Shoulders",
 	"icon": "inv_shoulder_08",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 21,
 	"armor": 75,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "LEATHER",
 	"type": "SHOULDERS",
 	"stats": { "Agility": 6, "Stamina": 4 },
-	"source": "DUNGEON",
+	"source": "DROP",
 	"sourceId": 3671,
 	"sourceName": "Lady Anacondra",
 	"sourceZone": "Wailing Caverns",
+	"sourceZoneType": "Dungeon",
 	"sourceType": "NPC"
 }

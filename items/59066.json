@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Stabilized Incendicite Legguards",
 	"icon": "inv_pants_mail_07",
+	"requiredLevel": 18,
+	"itemLevel": 20,
 	"popularity": 16,
 	"armor": 125,
 	"side": "ALLIANCE",

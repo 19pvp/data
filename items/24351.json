@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Mace of the Hand",
 	"icon": "inv_mace_35",
+	"requiredLevel": 18,
+	"itemLevel": 20,
 	"dmgMin": 16,
 	"dmgMax": 30,
 	"speed": 2.3,

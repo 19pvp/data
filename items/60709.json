@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Vest of the Changing Heart",
 	"icon": "inv_chest_leather_09",
+	"requiredLevel": 15,
+	"itemLevel": 17,
 	"popularity": 4,
 	"armor": 77,
 	"side": "ALLIANCE",

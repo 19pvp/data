@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Yngwie's Vest",
 	"icon": "inv_chest_leather_26v4",
+	"requiredLevel": 1,
+	"itemLevel": 9,
 	"popularity": 11,
 	"armor": 49,
 	"side": "HORDE",

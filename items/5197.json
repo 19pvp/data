@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Cookie's Tenderizer",
 	"icon": "inv_fabric_silk_02",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"dmgMin": 26,
 	"dmgMax": 49,
 	"speed": 2.8,
@@ -13,6 +15,7 @@
 	"subclass": "ONE_HANDED_MACE",
 	"type": "ONE_HAND",
 	"stats": { "Hit Rating": 2, "Strength": 3, "Stamina": 2 },
-	"source": "DUNGEON",
-	"sourceZone": "The Deadmines"
+	"source": "DROP",
+	"sourceZone": "The Deadmines",
+	"sourceZoneType": "Dungeon"
 }

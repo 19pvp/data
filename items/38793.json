@@ -2,6 +2,7 @@
 	"id": 38793,
 	"name": "Enchant Bracer - Lesser Stamina",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 6,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

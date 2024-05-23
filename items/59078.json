@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Flarecrazed Cloak",
 	"icon": "inv_misc_cape_18",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 5,
 	"armor": 30,
 	"side": "ALLIANCE",

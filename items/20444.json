@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Sentinel's Medallion",
 	"icon": "inv_jewelry_necklace_13",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 12,
 	"armor": 0,
 	"side": "ALLIANCE",
@@ -15,5 +17,6 @@
 	"sourceId": 14753,
 	"sourceName": "Illiyana Moonblaze",
 	"sourceZone": "Ashenvale",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Gloves of the Fang",
 	"icon": "inv_gauntlets_18",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 47,
 	"armor": 63,
 	"class": "ARMOR",
@@ -10,10 +12,10 @@
 	"subclass": "LEATHER",
 	"type": "HANDS",
 	"stats": { "Agility": 6, "Stamina": 4 },
-	"source": "DUNGEON",
+	"source": "DROP",
 	"sourceId": 3840,
 	"sourceName": "Druid of the Fang",
 	"sourceZone": "Wailing Caverns",
-	"sourceType": "NPC",
-	"info": "Belt of the FangFootpads of the FangGloves of the FangLeggings of the FangArmor of the Fang"
+	"sourceZoneType": "Dungeon",
+	"sourceType": "NPC"
 }

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Prospector's Cloak",
 	"icon": "inv_misc_cape_11",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"popularity": 24,
 	"armor": 25,
 	"class": "ARMOR",

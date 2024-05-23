@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Bracers of the Ancient Grove",
 	"icon": "inv_bracer_05",
+	"requiredLevel": 17,
+	"itemLevel": 19,
 	"popularity": 19,
 	"armor": 41,
 	"side": "ALLIANCE",

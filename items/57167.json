@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Night Web Gloves",
 	"icon": "inv_gauntlets_16",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 23,
 	"armor": 21,
 	"side": "HORDE",

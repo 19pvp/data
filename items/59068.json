@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Waterproof Leggings",
 	"icon": "inv_pants_leather_14",
+	"requiredLevel": 18,
+	"itemLevel": 20,
 	"popularity": 5,
 	"armor": 77,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Reaper's Buckler",
 	"icon": "inv_shield_09",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 24,
 	"armor": 337,
 	"side": "HORDE",

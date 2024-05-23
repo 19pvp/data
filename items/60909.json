@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Astronomer's Handwraps",
 	"icon": "inv_gauntlets_27",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"popularity": 9,
 	"armor": 59,
 	"side": "ALLIANCE",

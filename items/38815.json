@@ -2,6 +2,7 @@
 	"id": 38815,
 	"name": "Enchant Cloak - Fire Resistance",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 37,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

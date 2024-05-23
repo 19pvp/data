@@ -2,6 +2,7 @@
 	"id": 38789,
 	"name": "Enchant Cloak - Minor Agility",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 19,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

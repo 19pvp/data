@@ -1,7 +1,10 @@
 {
 	"id": 20431,
+	"bind": "Binds when picked up",
 	"name": "Lorekeeper's Ring",
 	"icon": "inv_jewelry_ring_28",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 11,
 	"armor": 0,
 	"side": "ALLIANCE",
@@ -14,5 +17,6 @@
 	"sourceId": 14753,
 	"sourceName": "Illiyana Moonblaze",
 	"sourceZone": "Ashenvale",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

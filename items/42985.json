@@ -1,8 +1,10 @@
 {
 	"id": 42985,
-	"bind": "<br>Item Level <!--ilvl-->1",
+	"bind": "Binds to account",
 	"name": "Tattered Dreadmist Mantle",
 	"icon": "inv_misc_bone_taurenskull_01",
+	"requiredLevel": 80,
+	"itemLevel": 1,
 	"popularity": 137,
 	"armor": 0,
 	"class": "ARMOR",

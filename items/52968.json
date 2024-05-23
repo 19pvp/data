@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Orbital Leggings",
 	"icon": "inv_pants_08",
+	"requiredLevel": 1,
+	"itemLevel": 12,
 	"popularity": 11,
 	"armor": 52,
 	"side": "HORDE",

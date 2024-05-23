@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Belt of Arugal",
 	"icon": "inv_belt_10",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 16,
 	"armor": 37,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "CLOTH",
 	"type": "WAIST",
 	"stats": { "Stamina": 5, "Intellect": 4, "Spirit": 4 },
-	"source": "DUNGEON",
+	"source": "DROP",
 	"sourceId": 4275,
 	"sourceName": "Archmage Arugal",
 	"sourceZone": "Shadowfang Keep",
+	"sourceZoneType": "Dungeon",
 	"sourceType": "NPC"
 }

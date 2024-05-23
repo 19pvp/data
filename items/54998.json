@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Braided Gossamer Armbands",
 	"icon": "inv_bracer_27b",
+	"requiredLevel": 5,
+	"itemLevel": 10,
 	"popularity": 13,
 	"armor": 37,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Gold-Flecked Gloves",
 	"icon": "inv_gauntlets_23",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 9,
 	"armor": 39,
 	"class": "ARMOR",
@@ -10,6 +12,7 @@
 	"subclass": "CLOTH",
 	"type": "HANDS",
 	"stats": { "Stamina": 4, "Intellect": 6 },
-	"source": "DUNGEON",
-	"sourceZone": "The Deadmines"
+	"source": "DROP",
+	"sourceZone": "The Deadmines",
+	"sourceZoneType": "Dungeon"
 }

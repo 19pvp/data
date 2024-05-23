@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Skycaller",
 	"icon": "inv_wand_02",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"dmgMin": 24,
 	"dmgMax": 45,
 	"speed": 1.6,

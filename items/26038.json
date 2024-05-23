@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Segmented Girdle",
 	"icon": "inv_belt_03",
+	"requiredLevel": 14,
+	"itemLevel": 20,
 	"popularity": 5,
 	"armor": 80,
 	"side": "ALLIANCE",

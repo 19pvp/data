@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Blackwood Hunter's Bow",
 	"icon": "inv_weapon_bow_03",
+	"requiredLevel": 17,
+	"itemLevel": 19,
 	"dmgMin": 24,
 	"dmgMax": 46,
 	"speed": 2.8,

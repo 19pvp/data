@@ -2,6 +2,7 @@
 	"id": 38780,
 	"name": "Enchant Weapon - Minor Striking",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 3,
 	"class": "CONSUMABLE",
 	"quality": "RARE",

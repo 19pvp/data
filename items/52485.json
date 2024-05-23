@@ -3,6 +3,7 @@
 	"bind": "Binds when equipped",
 	"name": "Jeweler's Ruby Monocle",
 	"icon": "inv_helmet_44",
+	"itemLevel": 1,
 	"popularity": 34,
 	"armor": 0,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Seer's Cape",
 	"icon": "inv_misc_cape_05",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"popularity": 6,
 	"armor": 25,
 	"class": "ARMOR",

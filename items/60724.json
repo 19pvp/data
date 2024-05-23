@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Bravo Company Shoulderguards",
 	"icon": "inv_shoulder_13",
+	"requiredLevel": 17,
+	"itemLevel": 20,
 	"popularity": 11,
 	"armor": 66,
 	"side": "ALLIANCE",

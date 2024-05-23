@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Bronze Mace",
 	"icon": "inv_mace_08",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"dmgMin": 20,
 	"dmgMax": 38,
 	"speed": 2.6,

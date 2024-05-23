@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Mangy Claw Mitts",
 	"icon": "inv_gauntlets_16",
+	"requiredLevel": 10,
+	"itemLevel": 10,
 	"popularity": 6,
 	"armor": 21,
 	"side": "ALLIANCE",
@@ -12,5 +14,6 @@
 	"type": "HANDS",
 	"stats": { "Stamina": 1 },
 	"source": "QUEST",
-	"sourceZone": "Dun Morogh"
+	"sourceZone": "Dun Morogh",
+	"sourceZoneType": "Zone"
 }

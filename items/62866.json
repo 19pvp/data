@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Cromush's Cloak",
 	"icon": "inv_misc_cape_14",
+	"requiredLevel": 12,
+	"itemLevel": 15,
 	"popularity": 7,
 	"armor": 23,
 	"side": "HORDE",

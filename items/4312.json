@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Soft-Soled Linen Boots",
 	"icon": "inv_boots_09",
+	"requiredLevel": 11,
+	"itemLevel": 16,
 	"popularity": 4,
 	"armor": 33,
 	"class": "ARMOR",

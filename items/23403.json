@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Salvaged Mail Leggings",
 	"icon": "inv_pants_10",
+	"requiredLevel": 9,
+	"itemLevel": 14,
 	"popularity": 5,
 	"armor": 95,
 	"side": "HORDE",

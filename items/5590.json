@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Cord Bracers",
 	"icon": "inv_bracer_73",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 5,
 	"armor": 15,
 	"side": "ALLIANCE",

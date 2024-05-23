@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Raider's Boots",
 	"icon": "inv_boots_01",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"popularity": 5,
 	"armor": 94,
 	"class": "ARMOR",

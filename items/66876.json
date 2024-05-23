@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Sharp Edge of Balance",
 	"icon": "inv_axe_118",
+	"requiredLevel": 5,
+	"itemLevel": 9,
 	"dmgMin": 6,
 	"dmgMax": 12,
 	"speed": 1.8,

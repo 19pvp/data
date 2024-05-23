@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Runed Copper Pants",
 	"icon": "inv_pants_03",
+	"requiredLevel": 8,
+	"itemLevel": 13,
 	"popularity": 19,
 	"armor": 90,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Silvermoon Armor",
 	"icon": "inv_chest_chain_07",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"popularity": 28,
 	"armor": 131,
 	"class": "ARMOR",
@@ -21,9 +23,10 @@
 			"stats": { "Critical Strike Rating": 2, "Stamina": 2, "Intellect": 2 }
 		}
 	},
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 22060,
 	"sourceName": "Fenissa the Assassin",
 	"sourceZone": "Bloodmyst Isle",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

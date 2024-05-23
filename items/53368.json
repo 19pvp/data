@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Feckless Armbands",
 	"icon": "inv_bracer_04",
+	"requiredLevel": 8,
+	"itemLevel": 10,
 	"popularity": 6,
 	"armor": 23,
 	"side": "HORDE",

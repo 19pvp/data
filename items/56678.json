@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Boots of the Deliverer",
 	"icon": "inv_boots_chain_12",
+	"requiredLevel": 19,
+	"itemLevel": 23,
 	"popularity": 6,
 	"armor": 110,
 	"side": "ALLIANCE",

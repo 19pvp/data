@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Mace of Calculated Loss",
 	"icon": "inv_mace_03",
+	"requiredLevel": 11,
+	"itemLevel": 13,
 	"dmgMin": 7,
 	"dmgMax": 14,
 	"speed": 1.6,

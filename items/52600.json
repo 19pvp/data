@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Oblivious Leggings",
 	"icon": "inv_pants_07",
+	"requiredLevel": 16,
+	"itemLevel": 18,
 	"popularity": 8,
 	"armor": 71,
 	"side": "ALLIANCE",

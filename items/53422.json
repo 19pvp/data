@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Kaboom Leggings",
 	"icon": "inv_pants_09",
+	"requiredLevel": 10,
+	"itemLevel": 13,
 	"popularity": 4,
 	"armor": 36,
 	"side": "HORDE",

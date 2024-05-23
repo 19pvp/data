@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Imbued Primal Belt",
 	"icon": "inv_belt_23",
+	"requiredLevel": 3,
+	"itemLevel": 8,
 	"popularity": 22,
 	"armor": 25,
 	"class": "ARMOR",

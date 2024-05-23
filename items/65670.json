@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Spider-Handler's Mantle",
 	"icon": "inv_shoulder_25",
+	"requiredLevel": 19,
+	"itemLevel": 20,
 	"popularity": 6,
 	"armor": 43,
 	"side": "HORDE",

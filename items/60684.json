@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Royal Guard Breastplate",
 	"icon": "inv_chest_chain_06",
+	"requiredLevel": 14,
+	"itemLevel": 15,
 	"popularity": 14,
 	"armor": 114,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Journeyman's Pants",
 	"icon": "inv_pants_10",
+	"requiredLevel": 5,
+	"itemLevel": 10,
 	"popularity": 8,
 	"armor": 30,
 	"class": "ARMOR",

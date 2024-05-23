@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Gorka's Band",
 	"icon": "inv_jewelry_ring_03",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 8,
 	"armor": 0,
 	"side": "HORDE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Very Light Sabre",
 	"icon": "inv_sword_05",
+	"requiredLevel": 3,
+	"itemLevel": 3,
 	"dmgMin": 3.700000011920929,
 	"dmgMax": 7.699999737739563,
 	"speed": 3.3,

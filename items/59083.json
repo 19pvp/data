@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Sash of the Blind Princess",
 	"icon": "inv_belt_17",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"popularity": 4,
 	"armor": 35,
 	"side": "ALLIANCE",

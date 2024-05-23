@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Silver-Trim Leggings",
 	"icon": "inv_pants_02",
+	"requiredLevel": 13,
+	"itemLevel": 15,
 	"popularity": 20,
 	"armor": 61,
 	"side": "HORDE",

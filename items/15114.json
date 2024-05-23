@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Rigid Cape",
 	"icon": "inv_misc_cape_10",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"popularity": 25,
 	"armor": 28,
 	"class": "ARMOR",

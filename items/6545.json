@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Soldier's Armor",
 	"icon": "inv_chest_chain_16",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"popularity": 11,
 	"armor": 131,
 	"class": "ARMOR",

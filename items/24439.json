@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Savage Leggings",
 	"icon": "inv_pants_02",
+	"requiredLevel": 7,
+	"itemLevel": 11,
 	"popularity": 22,
 	"armor": 49,
 	"side": "ALLIANCE",

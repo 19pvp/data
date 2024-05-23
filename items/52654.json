@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Forlorn Shield",
 	"icon": "inv_shield_09",
+	"requiredLevel": 8,
+	"itemLevel": 11,
 	"popularity": 5,
 	"armor": 364,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Aetherion Imbued Vest",
 	"icon": "inv_chest_leather_08",
+	"requiredLevel": 13,
+	"itemLevel": 16,
 	"popularity": 23,
 	"armor": 74,
 	"side": "ALLIANCE",

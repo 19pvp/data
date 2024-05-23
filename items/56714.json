@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Band of Foul Strength",
 	"icon": "inv_jewelry_ring_08",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"popularity": 12,
 	"armor": 0,
 	"side": "HORDE",

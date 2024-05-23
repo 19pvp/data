@@ -1,7 +1,10 @@
 {
 	"id": 44097,
+	"bind": "Binds to account",
 	"name": "Inherited Insignia of the Horde",
 	"icon": "inv_jewelry_trinketpvp_02",
+	"requiredLevel": 80,
+	"itemLevel": 1,
 	"popularity": 34,
 	"armor": 0,
 	"side": "HORDE",
@@ -14,6 +17,7 @@
 	"sourceId": 32296,
 	"sourceName": "Stone Guard Mukar",
 	"sourceZone": "Wintergrasp",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC",
 	"spell": {
 		"type": "Use",

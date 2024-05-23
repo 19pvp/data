@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Kobold Sticker",
 	"icon": "inv_weapon_shortblade_05",
+	"requiredLevel": 9,
+	"itemLevel": 11,
 	"dmgMin": 5,
 	"dmgMax": 11,
 	"speed": 1.4,

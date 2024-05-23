@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Bling Cane",
 	"icon": "inv_staff_14",
+	"requiredLevel": 14,
+	"itemLevel": 16,
 	"dmgMin": 38,
 	"dmgMax": 58,
 	"speed": 3.3,

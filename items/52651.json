@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Blackwood Ritual Stick",
 	"icon": "inv_wand_02",
+	"requiredLevel": 17,
+	"itemLevel": 19,
 	"dmgMin": 14,
 	"dmgMax": 26,
 	"speed": 1.4,

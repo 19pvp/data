@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Binding Chains",
 	"icon": "inv_belt_23",
+	"requiredLevel": 19,
+	"itemLevel": 20,
 	"popularity": 4,
 	"armor": 80,
 	"side": "HORDE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Bravo Company Monnions",
 	"icon": "inv_shoulder_12",
+	"requiredLevel": 17,
+	"itemLevel": 20,
 	"popularity": 18,
 	"armor": 66,
 	"side": "ALLIANCE",

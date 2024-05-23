@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Soldier's Leggings",
 	"icon": "inv_pants_10",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"popularity": 7,
 	"armor": 110,
 	"class": "ARMOR",

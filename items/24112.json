@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Kurkenstoks",
 	"icon": "inv_boots_fabric_01",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 58,
 	"armor": 24,
 	"side": "ALLIANCE",

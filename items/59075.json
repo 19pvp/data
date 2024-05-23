@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Drunkard's Belt",
 	"icon": "inv_belt_23",
+	"requiredLevel": 18,
+	"itemLevel": 20,
 	"popularity": 27,
 	"armor": 80,
 	"side": "ALLIANCE",

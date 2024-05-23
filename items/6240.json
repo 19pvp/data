@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Blue Linen Vest",
 	"icon": "inv_chest_cloth_37",
+	"requiredLevel": 7,
+	"itemLevel": 12,
 	"popularity": 10,
 	"armor": 39,
 	"class": "ARMOR",

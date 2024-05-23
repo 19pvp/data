@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Starsight Tunic",
 	"icon": "inv_chest_leather_10",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"popularity": 9,
 	"armor": 104,
 	"class": "ARMOR",

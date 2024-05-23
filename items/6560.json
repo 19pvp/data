@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Soldier's Shield",
 	"icon": "inv_shield_10",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"popularity": 8,
 	"armor": 516,
 	"class": "ARMOR",

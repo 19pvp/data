@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Mo'grosh Toothpick",
 	"icon": "inv_sword_45",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"dmgMin": 26,
 	"dmgMax": 40,
 	"speed": 2.8,
@@ -13,9 +15,10 @@
 	"subclass": "TWO_HANDED_SWORD",
 	"type": "TWO_HAND",
 	"stats": { "Stamina": 5 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 1178,
 	"sourceName": "Mo'grosh Ogre",
 	"sourceZone": "Loch Modan",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

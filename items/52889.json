@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Blooded Darkspear Dagger",
 	"icon": "inv_weapon_shortblade_10",
+	"requiredLevel": 1,
+	"itemLevel": 2,
 	"dmgMin": 1.7999999999999998,
 	"dmgMax": 2.3800000190734862,
 	"speed": 1.8,

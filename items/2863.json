@@ -1,6 +1,7 @@
 {
 	"id": "2863",
 	"icon": "inv_stone_sharpeningstone_02",
+	"requiredLevel": 5,
 	"quality": "COMMON",
 	"spell": {
 		"type": "Use",

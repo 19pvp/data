@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Vandril's Hand Me Down Pants",
 	"icon": "inv_pants_10",
+	"requiredLevel": 9,
+	"itemLevel": 11,
 	"popularity": 9,
 	"armor": 32,
 	"side": "HORDE",

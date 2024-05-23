@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Rigid Buckler",
 	"icon": "inv_shield_09",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 7,
 	"armor": 658,
 	"class": "ARMOR",

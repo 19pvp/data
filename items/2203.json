@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Brashclaw's Chopper",
 	"icon": "inv_axe_23",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"dmgMin": 34,
 	"dmgMax": 51,
 	"speed": 3.4,
@@ -13,9 +15,10 @@
 	"subclass": "TWO_HANDED_AXE",
 	"type": "TWO_HAND",
 	"stats": { "Strength": 6 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 506,
 	"sourceName": "Sergeant Brashclaw",
 	"sourceZone": "Westfall",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

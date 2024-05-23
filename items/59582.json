@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Shrewd Crossbow",
 	"icon": "inv_weapon_crossbow_02",
+	"requiredLevel": 14,
+	"itemLevel": 18,
 	"dmgMin": 23,
 	"dmgMax": 43,
 	"speed": 2.8,

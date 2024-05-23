@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Blood Offering Platter",
 	"icon": "inv_shield_09",
+	"requiredLevel": 11,
+	"itemLevel": 13,
 	"popularity": 22,
 	"armor": 418,
 	"side": "HORDE",

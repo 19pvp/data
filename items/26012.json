@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Kessel's Cinch Wrap",
 	"icon": "inv_belt_06",
+	"requiredLevel": 10,
+	"itemLevel": 15,
 	"popularity": 21,
 	"armor": 26,
 	"side": "ALLIANCE",

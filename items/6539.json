@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Willow Belt",
 	"icon": "inv_belt_05",
+	"requiredLevel": 11,
+	"itemLevel": 16,
 	"popularity": 9,
 	"armor": 27,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Suppressor's Wand",
 	"icon": "inv_weapon_shortblade_18",
+	"requiredLevel": 11,
+	"itemLevel": 20,
 	"dmgMin": 22,
 	"dmgMax": 43,
 	"speed": 1.6,

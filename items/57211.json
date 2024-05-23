@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Leggings of Brown Grass",
 	"icon": "inv_pants_01",
+	"requiredLevel": 8,
+	"itemLevel": 10,
 	"popularity": 4,
 	"armor": 30,
 	"side": "HORDE",

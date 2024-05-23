@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Elunite Hammer",
 	"icon": "inv_hammer_20",
+	"requiredLevel": 10,
+	"itemLevel": 15,
 	"dmgMin": 12,
 	"dmgMax": 23,
 	"speed": 2.3,

@@ -2,6 +2,7 @@
 	"id": 38841,
 	"name": "Enchant Chest - Superior Mana",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 35,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

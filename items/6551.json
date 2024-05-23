@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Soldier's Boots",
 	"icon": "inv_boots_01",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"popularity": 19,
 	"armor": 86,
 	"class": "ARMOR",

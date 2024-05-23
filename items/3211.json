@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Burnished Bracers",
 	"icon": "inv_bracer_01",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"popularity": 3,
 	"armor": 60,
 	"class": "ARMOR",

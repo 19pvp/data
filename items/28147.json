@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Tranquillien Scout's Bracers",
 	"icon": "inv_bracer_05",
+	"requiredLevel": 9,
+	"itemLevel": 10,
 	"popularity": 13,
 	"armor": 23,
 	"side": "HORDE",

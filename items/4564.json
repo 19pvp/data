@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Spiked Club",
 	"icon": "inv_mace_14",
+	"requiredLevel": 8,
+	"itemLevel": 13,
 	"dmgMin": 22,
 	"dmgMax": 34,
 	"speed": 3.1,

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Spikelash Dagger",
 	"icon": "inv_weapon_shortblade_10",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"dmgMin": 14,
 	"dmgMax": 28,
 	"speed": 1.9,
@@ -13,9 +15,10 @@
 	"subclass": "DAGGER",
 	"type": "ONE_HAND",
 	"stats": { "Agility": 2, "Stamina": 2 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 7016,
 	"sourceName": "Lady Vespira",
 	"sourceZone": "Darkshore",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

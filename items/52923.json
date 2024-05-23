@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Rocket-Fuel Soaked Bracers",
 	"icon": "inv_bracer_07",
+	"requiredLevel": 1,
+	"itemLevel": 12,
 	"popularity": 5,
 	"armor": 17,
 	"side": "HORDE",

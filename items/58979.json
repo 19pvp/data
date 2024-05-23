@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Silver Stream Shield",
 	"icon": "inv_shield_09",
+	"requiredLevel": 11,
+	"itemLevel": 11,
 	"popularity": 20,
 	"armor": 364,
 	"side": "ALLIANCE",
@@ -12,5 +14,6 @@
 	"type": "SHIELD",
 	"stats": { "Critical Strike Rating": 1, "Intellect": 1 },
 	"source": "QUEST",
-	"sourceZone": "Loch Modan"
+	"sourceZone": "Loch Modan",
+	"sourceZoneType": "Zone"
 }

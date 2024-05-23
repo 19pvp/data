@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Scalding Gloves",
 	"icon": "inv_gauntlets_10",
+	"requiredLevel": 15,
+	"itemLevel": 17,
 	"popularity": 5,
 	"armor": 79,
 	"side": "HORDE",

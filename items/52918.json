@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Delicia's Tights",
 	"icon": "inv_pants_01",
+	"requiredLevel": 1,
+	"itemLevel": 11,
 	"popularity": 7,
 	"armor": 32,
 	"side": "HORDE",

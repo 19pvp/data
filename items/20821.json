@@ -1,7 +1,10 @@
 {
 	"id": 20821,
+	"bind": "Binds when equipped",
 	"name": "Inlaid Malachite Ring",
 	"icon": "inv_jewelry_ring_23",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 6,
 	"armor": 0,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Greenweave Sash",
 	"icon": "inv_belt_05",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"popularity": 11,
 	"armor": 35,
 	"class": "ARMOR",

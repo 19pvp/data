@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Shield of Talrendis Point",
 	"icon": "inv_shield_09",
+	"requiredLevel": 18,
+	"itemLevel": 20,
 	"popularity": 12,
 	"armor": 672,
 	"side": "HORDE",

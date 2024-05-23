@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Korok's Ring",
 	"icon": "inv_belt_45b",
+	"requiredLevel": 12,
+	"itemLevel": 15,
 	"popularity": 6,
 	"armor": 64,
 	"side": "HORDE",

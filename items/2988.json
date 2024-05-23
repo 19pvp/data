@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Inscribed Leather Gloves",
 	"icon": "inv_gauntlets_18",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"popularity": 5,
 	"armor": 53,
 	"class": "ARMOR",

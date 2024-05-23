@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Brackwater Leggings",
 	"icon": "inv_pants_03",
+	"requiredLevel": 11,
+	"itemLevel": 16,
 	"popularity": 5,
 	"armor": 105,
 	"class": "ARMOR",

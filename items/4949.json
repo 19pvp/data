@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Orcish Cleaver",
 	"icon": "inv_axe_20",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"dmgMin": 13,
 	"dmgMax": 25,
 	"speed": 1.8,
@@ -13,9 +15,10 @@
 	"subclass": "ONE_HANDED_AXE",
 	"type": "ONE_HAND",
 	"stats": { "Strength": 1 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 7170,
 	"sourceName": "Thragomm",
 	"sourceZone": "Loch Modan",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

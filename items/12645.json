@@ -2,6 +2,7 @@
 	"id": 12645,
 	"name": "Thorium Shield Spike",
 	"icon": "inv_misc_armorkit_20",
+	"itemLevel": 55,
 	"popularity": 23,
 	"class": "CONSUMABLE",
 	"quality": "UNCOMMON",

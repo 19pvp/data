@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Treads of the Survivor",
 	"icon": "inv_boots_cloth_03",
+	"requiredLevel": 9,
+	"itemLevel": 11,
 	"popularity": 4,
 	"armor": 25,
 	"side": "HORDE",

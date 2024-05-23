@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Bard's Belt",
 	"icon": "inv_belt_03",
+	"requiredLevel": 10,
+	"itemLevel": 15,
 	"popularity": 13,
 	"armor": 39,
 	"class": "ARMOR",

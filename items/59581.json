@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Smart Shoes",
 	"icon": "inv_boots_08",
+	"requiredLevel": 14,
+	"itemLevel": 18,
 	"popularity": 21,
 	"armor": 55,
 	"class": "ARMOR",

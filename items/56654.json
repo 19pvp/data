@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Heartwise Boon",
 	"icon": "inv_gauntlets_30",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"popularity": 24,
 	"armor": 97,
 	"side": "ALLIANCE",

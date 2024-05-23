@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Well-Used Greatsword",
 	"icon": "inv_sword_06",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"dmgMin": 17,
 	"dmgMax": 27,
 	"speed": 3.1,

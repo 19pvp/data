@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Buccaneer's Gloves",
 	"icon": "inv_gauntlets_16",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 8,
 	"armor": 36,
 	"class": "ARMOR",

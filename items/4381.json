@@ -2,6 +2,7 @@
 	"id": 4381,
 	"name": "Minor Recombobulator",
 	"icon": "inv_gizmo_07",
+	"itemLevel": 28,
 	"popularity": 3,
 	"armor": 0,
 	"class": "ARMOR",

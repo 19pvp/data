@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Gilnean Shield",
 	"icon": "inv_shield_04",
+	"requiredLevel": 5,
+	"itemLevel": 14,
 	"popularity": 14,
 	"armor": 509,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Standard Issue Airborne Belt",
 	"icon": "inv_belt_25",
+	"requiredLevel": 10,
+	"itemLevel": 12,
 	"popularity": 6,
 	"armor": 22,
 	"side": "HORDE",

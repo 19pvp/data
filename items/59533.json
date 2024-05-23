@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Wand of Separation",
 	"icon": "inv_staff_17",
+	"requiredLevel": 10,
+	"itemLevel": 12,
 	"dmgMin": 9,
 	"dmgMax": 18,
 	"speed": 1.6,

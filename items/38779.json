@@ -2,6 +2,7 @@
 	"id": 38779,
 	"name": "Enchant Weapon - Minor Beastslayer",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 23,
 	"class": "CONSUMABLE",
 	"quality": "RARE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Darkshore Bow",
 	"icon": "inv_weapon_bow_02",
+	"requiredLevel": 10,
+	"itemLevel": 15,
 	"dmgMin": 16,
 	"dmgMax": 30,
 	"speed": 2.3,

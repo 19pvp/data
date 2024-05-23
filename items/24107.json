@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Ravager Chitin Tunic",
 	"icon": "inv_chest_chain_08",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 8,
 	"armor": 85,
 	"side": "ALLIANCE",

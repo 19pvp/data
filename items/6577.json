@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Defender Gauntlets",
 	"icon": "inv_gauntlets_11",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 16,
 	"armor": 100,
 	"class": "ARMOR",

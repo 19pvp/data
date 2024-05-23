@@ -3,6 +3,7 @@
 	"bind": "Binds when picked up",
 	"name": "Weather-Beaten Fishing Hat",
 	"icon": "inv_helmet_31",
+	"itemLevel": 10,
 	"popularity": 114,
 	"armor": 31,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Salvoblast Tunic",
 	"icon": "inv_chest_chain_09",
+	"requiredLevel": 10,
+	"itemLevel": 13,
 	"popularity": 6,
 	"armor": 102,
 	"side": "HORDE",

@@ -1,6 +1,7 @@
 {
 	"id": "4604",
 	"icon": "inv_mushroom_13",
+	"requiredLevel": 1,
 	"quality": "COMMON",
 	"spell": {
 		"type": "Use",

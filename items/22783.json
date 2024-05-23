@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Sunwell Blade",
 	"icon": "inv_sword_06",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"dmgMin": 18,
 	"dmgMax": 34,
 	"speed": 2.6,

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Vest of Fortune",
 	"icon": "inv_chest_leather_08",
+	"requiredLevel": 14,
+	"itemLevel": 16,
 	"popularity": 13,
 	"armor": 81,
 	"side": "HORDE",

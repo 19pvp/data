@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Grasp of Victory",
 	"icon": "inv_gauntlets_12",
+	"requiredLevel": 1,
+	"itemLevel": 12,
 	"popularity": 8,
 	"armor": 66,
 	"side": "HORDE",

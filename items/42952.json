@@ -1,8 +1,10 @@
 {
 	"id": 42952,
-	"bind": "<br>Item Level <!--ilvl-->1",
+	"bind": "Binds to account",
 	"name": "Stained Shadowcraft Spaulders",
 	"icon": "inv_shoulder_07",
+	"requiredLevel": 80,
+	"itemLevel": 1,
 	"popularity": 81,
 	"armor": 0,
 	"class": "ARMOR",

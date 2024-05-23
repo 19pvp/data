@@ -2,6 +2,7 @@
 	"id": 38840,
 	"name": "Enchant Weapon - Demonslaying",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 5,
 	"class": "CONSUMABLE",
 	"quality": "RARE",

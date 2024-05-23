@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Plainstrider Leg Armor",
 	"icon": "inv_pants_mail_05",
+	"requiredLevel": 8,
+	"itemLevel": 10,
 	"popularity": 4,
 	"armor": 74,
 	"side": "HORDE",

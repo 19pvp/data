@@ -2,6 +2,7 @@
 	"id": 38856,
 	"name": "Enchant Gloves - Greater Agility",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 36,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

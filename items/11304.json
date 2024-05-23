@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Fine Longbow",
 	"icon": "inv_weapon_bow_02",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"dmgMin": 23,
 	"dmgMax": 44,
 	"speed": 2.7,

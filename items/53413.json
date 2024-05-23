@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Glued Feather Boots",
 	"icon": "inv_boots_08",
+	"requiredLevel": 15,
+	"itemLevel": 18,
 	"popularity": 8,
 	"armor": 55,
 	"side": "HORDE",

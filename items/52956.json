@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Oomlot Staff",
 	"icon": "inv_staff_16",
+	"requiredLevel": 1,
+	"itemLevel": 9,
 	"dmgMin": 14,
 	"dmgMax": 22,
 	"speed": 2.8,

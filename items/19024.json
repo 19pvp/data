@@ -3,6 +3,7 @@
 	"bind": "Binds when picked up",
 	"name": "Arena Grand Master",
 	"icon": "inv_misc_armorkit_04",
+	"itemLevel": 55,
 	"popularity": 56,
 	"armor": 0,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Hovel Digger Bands",
 	"icon": "inv_bracer_13",
+	"requiredLevel": 16,
+	"itemLevel": 18,
 	"popularity": 12,
 	"armor": 23,
 	"side": "ALLIANCE",

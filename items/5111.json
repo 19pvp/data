@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Rathorian's Cape",
 	"icon": "inv_helmet_48",
+	"requiredLevel": 10,
+	"itemLevel": 15,
 	"popularity": 27,
 	"armor": 23,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Stamina": 2 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 3470,
 	"sourceName": "Rathorian",
 	"sourceZone": "Northern Barrens",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Deadly Blunderbuss",
 	"icon": "inv_weapon_rifle_07",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"dmgMin": 25,
 	"dmgMax": 47,
 	"speed": 2.6,

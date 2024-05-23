@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Seer's Fine Stein",
 	"icon": "inv_drink_04",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 20,
 	"armor": 0,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Skeletal Club",
 	"icon": "inv_misc_bone_elfskull_01",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"dmgMin": 28,
 	"dmgMax": 53,
 	"speed": 2.6,

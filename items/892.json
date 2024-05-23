@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Gnoll Casting Gloves",
 	"icon": "inv_gauntlets_04",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"popularity": 11,
 	"armor": 39,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "CLOTH",
 	"type": "HANDS",
 	"stats": { "Intellect": 5 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 1009,
 	"sourceName": "Mosshide Mistweaver",
 	"sourceZone": "Wetlands",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

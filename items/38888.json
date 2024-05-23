@@ -2,6 +2,7 @@
 	"id": 38888,
 	"name": "Enchant Gloves - Fire Power",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 20,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

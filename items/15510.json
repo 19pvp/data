@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Grunt's Belt",
 	"icon": "inv_belt_15",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 8,
 	"armor": 80,
 	"class": "ARMOR",

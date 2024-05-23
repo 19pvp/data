@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Skull Rock Belt",
 	"icon": "inv_belt_45c",
+	"requiredLevel": 4,
+	"itemLevel": 12,
 	"popularity": 10,
 	"armor": 54,
 	"side": "HORDE",

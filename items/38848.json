@@ -2,6 +2,7 @@
 	"id": 38848,
 	"name": "Enchant Weapon - Greater Striking",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 51,
 	"class": "CONSUMABLE",
 	"quality": "RARE",

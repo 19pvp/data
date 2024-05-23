@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Redridge Legguards",
 	"icon": "inv_pants_mail_05",
+	"requiredLevel": 16,
+	"itemLevel": 18,
 	"popularity": 19,
 	"armor": 115,
 	"side": "ALLIANCE",

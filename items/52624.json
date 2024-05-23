@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Fire Stompers",
 	"icon": "inv_boots_chain_08",
+	"requiredLevel": 17,
+	"itemLevel": 19,
 	"popularity": 5,
 	"armor": 94,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Imbued Disciple's Bracers",
 	"icon": "inv_bracer_12",
+	"requiredLevel": 5,
+	"itemLevel": 10,
 	"popularity": 4,
 	"armor": 15,
 	"class": "ARMOR",

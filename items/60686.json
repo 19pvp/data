@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Boots of the Prolific Sire",
 	"icon": "inv_boots_04",
+	"requiredLevel": 14,
+	"itemLevel": 15,
 	"popularity": 19,
 	"armor": 48,
 	"side": "ALLIANCE",

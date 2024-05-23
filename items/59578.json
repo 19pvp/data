@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Bracers of Angry Mutterings",
 	"icon": "inv_bracer_13",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"popularity": 5,
 	"armor": 23,
 	"class": "ARMOR",

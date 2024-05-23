@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Alighted Boots",
 	"icon": "inv_boots_cloth_04",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"popularity": 12,
 	"armor": 65,
 	"side": "HORDE",

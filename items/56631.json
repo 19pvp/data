@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Onaeya's Gloves",
 	"icon": "inv_gauntlets_18",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 14,
 	"armor": 57,
 	"side": "ALLIANCE",

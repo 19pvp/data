@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Maatparm's Fungus Lined Vest",
 	"icon": "inv_chest_leather_08",
+	"requiredLevel": 15,
+	"itemLevel": 16,
 	"popularity": 12,
 	"armor": 74,
 	"side": "ALLIANCE",

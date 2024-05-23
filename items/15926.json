@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Spellbinder Orb",
 	"icon": "inv_misc_orb_01",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"popularity": 10,
 	"armor": 0,
 	"class": "ARMOR",

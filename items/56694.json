@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Silverwind Bracers",
 	"icon": "inv_bracer_03",
+	"requiredLevel": 19,
+	"itemLevel": 25,
 	"popularity": 7,
 	"armor": 46,
 	"side": "ALLIANCE",
@@ -12,5 +14,6 @@
 	"type": "WRISTS",
 	"stats": { "Hit Rating": 3, "Agility": 2, "Stamina": 2 },
 	"source": "QUEST",
-	"sourceZone": "Ashenvale"
+	"sourceZone": "Ashenvale",
+	"sourceZoneType": "Zone"
 }

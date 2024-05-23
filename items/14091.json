@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Beaded Robe",
 	"icon": "inv_chest_cloth_22",
+	"requiredLevel": 6,
+	"itemLevel": 11,
 	"popularity": 20,
 	"armor": 37,
 	"class": "ARMOR",

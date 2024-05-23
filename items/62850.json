@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Drunken Style Bracers",
 	"icon": "inv_bracer_02",
+	"requiredLevel": 10,
+	"itemLevel": 13,
 	"popularity": 5,
 	"armor": 27,
 	"side": "HORDE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Equicide Cloak",
 	"icon": "inv_misc_cape_14",
+	"requiredLevel": 9,
+	"itemLevel": 11,
 	"popularity": 4,
 	"armor": 18,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "McCree's Sparring Gloves",
 	"icon": "inv_gauntlets_21",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 5,
 	"armor": 33,
 	"side": "ALLIANCE",

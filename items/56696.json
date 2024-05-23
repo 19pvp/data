@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Legacy of Teronis",
 	"icon": "inv_sword_06",
+	"requiredLevel": 19,
+	"itemLevel": 25,
 	"dmgMin": 23,
 	"dmgMax": 44,
 	"speed": 2.6,
@@ -15,5 +17,6 @@
 	"type": "ONE_HAND",
 	"stats": { "Hit Rating": 2, "Strength": 3, "Stamina": 1 },
 	"source": "QUEST",
-	"sourceZone": "Ashenvale"
+	"sourceZone": "Ashenvale",
+	"sourceZoneType": "Zone"
 }

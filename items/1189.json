@@ -1,7 +1,10 @@
 {
 	"id": 1189,
+	"bind": "Binds when equipped",
 	"name": "Overseer's Ring",
 	"icon": "inv_jewelry_ring_03",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 6,
 	"armor": 0,
 	"class": "ARMOR",
@@ -9,9 +12,10 @@
 	"subclass": "RINGS",
 	"type": "FINGER",
 	"stats": { "Strength": 3 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 125,
 	"sourceName": "Riverpaw Overseer",
 	"sourceZone": "Westfall",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

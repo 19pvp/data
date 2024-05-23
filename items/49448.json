@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Uncorrupted Hands",
 	"icon": "inv_gauntlets_21",
+	"requiredLevel": 1,
+	"itemLevel": 10,
 	"popularity": 24,
 	"armor": 33,
 	"side": "ALLIANCE",

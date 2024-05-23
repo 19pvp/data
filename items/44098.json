@@ -1,7 +1,10 @@
 {
 	"id": 44098,
+	"bind": "Binds to account",
 	"name": "Inherited Insignia of the Alliance",
 	"icon": "inv_jewelry_trinketpvp_01",
+	"requiredLevel": 80,
+	"itemLevel": 1,
 	"popularity": 31,
 	"armor": 0,
 	"side": "ALLIANCE",
@@ -12,6 +15,7 @@
 	"stats": { "Resilience": 6 },
 	"source": "VENDOR",
 	"sourceZone": "Wintergrasp",
+	"sourceZoneType": "Zone",
 	"spell": {
 		"type": "Use",
 		"id": 42292,

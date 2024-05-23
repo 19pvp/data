@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Treads of the True Plan",
 	"icon": "inv_boots_chain_06",
+	"requiredLevel": 13,
+	"itemLevel": 16,
 	"popularity": 5,
 	"armor": 82,
 	"side": "HORDE",

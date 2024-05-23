@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Exterminator's Armbands",
 	"icon": "inv_bracer_02",
+	"requiredLevel": 16,
+	"itemLevel": 18,
 	"popularity": 4,
 	"armor": 35,
 	"side": "ALLIANCE",

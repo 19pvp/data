@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Grassland Sash",
 	"icon": "inv_belt_02",
+	"requiredLevel": 10,
+	"itemLevel": 20,
 	"popularity": 10,
 	"armor": 32,
 	"side": "HORDE",

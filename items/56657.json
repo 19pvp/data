@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Gloves of Unforgotten Vows",
 	"icon": "inv_gauntlets_30",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"popularity": 23,
 	"armor": 97,
 	"side": "HORDE",

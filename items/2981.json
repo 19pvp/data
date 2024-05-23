@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Seer's Robe",
 	"icon": "inv_chest_cloth_08",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 12,
 	"armor": 60,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Veteran Armor",
 	"icon": "inv_chest_chain_09",
+	"requiredLevel": 11,
+	"itemLevel": 16,
 	"popularity": 11,
 	"armor": 120,
 	"class": "ARMOR",

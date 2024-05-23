@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Bright Boots",
 	"icon": "inv_boots_07",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 6,
 	"armor": 44,
 	"class": "ARMOR",

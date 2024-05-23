@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Stone Stompers",
 	"icon": "inv_boots_chain_01",
+	"requiredLevel": 10,
+	"itemLevel": 12,
 	"popularity": 23,
 	"armor": 66,
 	"side": "ALLIANCE",

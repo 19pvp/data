@@ -2,6 +2,7 @@
 	"id": 38831,
 	"name": "Enchant Gloves - Advanced Mining",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 27,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

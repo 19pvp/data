@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Azure Scale Vest",
 	"icon": "inv_chest_leather_03",
+	"requiredLevel": 15,
+	"itemLevel": 19,
 	"popularity": 21,
 	"armor": 93,
 	"side": "HORDE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Parker's Yardstick",
 	"icon": "inv_staff_21",
+	"requiredLevel": 14,
+	"itemLevel": 15,
 	"dmgMin": 26,
 	"dmgMax": 40,
 	"speed": 3.3,
@@ -15,5 +17,6 @@
 	"type": "TWO_HAND",
 	"stats": { "Agility": 2, "Stamina": 3 },
 	"source": "QUEST",
-	"sourceZone": "Redridge Mountains"
+	"sourceZone": "Redridge Mountains",
+	"sourceZoneType": "Zone"
 }

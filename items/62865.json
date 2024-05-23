@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Emberstone Breastplate",
 	"icon": "inv_chest_chain_06",
+	"requiredLevel": 12,
+	"itemLevel": 15,
 	"popularity": 20,
 	"armor": 114,
 	"side": "HORDE",

@@ -2,6 +2,7 @@
 	"id": "22778",
 	"bind": "Binds when picked up",
 	"icon": "inv_potion_19",
+	"requiredLevel": 1,
 	"quality": "COMMON",
 	"spell": {
 		"type": "Use",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Burrowing Shovel",
 	"icon": "inv_misc_shovel_01",
+	"requiredLevel": 10,
+	"itemLevel": 15,
 	"dmgMin": 18,
 	"dmgMax": 28,
 	"speed": 2.3,
@@ -13,9 +15,10 @@
 	"subclass": "TWO_HANDED_MACE",
 	"type": "TWO_HAND",
 	"stats": { "Agility": 4 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 1424,
 	"sourceName": "Master Digger",
 	"sourceZone": "Westfall",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

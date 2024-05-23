@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Prospector's Sash",
 	"icon": "inv_belt_26",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"popularity": 25,
 	"armor": 45,
 	"class": "ARMOR",

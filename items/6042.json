@@ -2,6 +2,7 @@
 	"id": 6042,
 	"name": "Iron Shield Spike",
 	"icon": "inv_misc_armorkit_01",
+	"itemLevel": 30,
 	"popularity": 18,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Scrap Metal Shield",
 	"icon": "inv_shield_77",
+	"requiredLevel": 14,
+	"itemLevel": 14,
 	"popularity": 10,
 	"armor": 444,
 	"side": "HORDE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Belt of Healing Charms",
 	"icon": "inv_belt_41",
+	"requiredLevel": 19,
+	"itemLevel": 23,
 	"popularity": 5,
 	"armor": 55,
 	"side": "ALLIANCE",

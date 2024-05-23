@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Bravo Company Pauldrons",
 	"icon": "inv_shoulder_15",
+	"requiredLevel": 17,
+	"itemLevel": 20,
 	"popularity": 7,
 	"armor": 107,
 	"side": "ALLIANCE",

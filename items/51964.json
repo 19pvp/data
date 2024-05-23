@@ -3,6 +3,7 @@
 	"bind": "Binds when picked up",
 	"name": "Vigorous Belt",
 	"icon": "inv_belt_03",
+	"itemLevel": 25,
 	"popularity": 57,
 	"armor": 65,
 	"class": "ARMOR",

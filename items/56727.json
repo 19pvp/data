@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Scrupleless Bracers",
 	"icon": "inv_bracer_07",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"popularity": 5,
 	"armor": 41,
 	"side": "HORDE",

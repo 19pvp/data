@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Green Linen Bracers",
 	"icon": "inv_bracer_12",
+	"requiredLevel": 7,
+	"itemLevel": 12,
 	"popularity": 3,
 	"armor": 17,
 	"class": "ARMOR",

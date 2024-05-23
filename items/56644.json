@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Gorat's Bequest",
 	"icon": "inv_shoulder_13",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 14,
 	"armor": 68,
 	"side": "HORDE",

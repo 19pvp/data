@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Stone Guard Greaves",
 	"icon": "inv_pants_03",
+	"requiredLevel": 13,
+	"itemLevel": 16,
 	"popularity": 4,
 	"armor": 115,
 	"side": "HORDE",

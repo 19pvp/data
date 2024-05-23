@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Chicken Chopper",
 	"icon": "inv_throwingaxe_06",
+	"requiredLevel": 1,
+	"itemLevel": 8,
 	"dmgMin": 8,
 	"dmgMax": 16,
 	"speed": 2.7,

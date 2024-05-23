@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Quilboar Skin Gloves",
 	"icon": "inv_gauntlets_21",
+	"requiredLevel": 10,
+	"itemLevel": 12,
 	"popularity": 9,
 	"armor": 37,
 	"side": "HORDE",

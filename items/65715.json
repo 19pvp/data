@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Stillwater's Signet",
 	"icon": "inv_jewelry_ring_47",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 37,
 	"armor": 0,
 	"side": "HORDE",

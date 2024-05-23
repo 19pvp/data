@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Quick Buck Leggings",
 	"icon": "inv_pants_07",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"popularity": 16,
 	"armor": 67,
 	"side": "HORDE",

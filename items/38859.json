@@ -2,6 +2,7 @@
 	"id": 38859,
 	"name": "Enchant Cloak - Superior Defense",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 3,
 	"armor": 70,
 	"class": "CONSUMABLE",

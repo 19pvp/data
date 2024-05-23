@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Kodo Hunter's Leggings",
 	"icon": "inv_pants_02",
+	"requiredLevel": 3,
+	"itemLevel": 15,
 	"popularity": 21,
 	"armor": 61,
 	"class": "ARMOR",
@@ -11,5 +13,6 @@
 	"type": "LEGS",
 	"stats": { "Agility": 4 },
 	"source": "QUEST",
-	"sourceZone": "Mulgore"
+	"sourceZone": "Mulgore",
+	"sourceZoneType": "Zone"
 }

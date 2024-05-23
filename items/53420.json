@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Joanna's Sash",
 	"icon": "inv_belt_26",
+	"requiredLevel": 15,
+	"itemLevel": 18,
 	"popularity": 5,
 	"armor": 30,
 	"side": "HORDE",

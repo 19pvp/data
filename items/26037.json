@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Lightweight Mesh Boots",
 	"icon": "inv_boots_07",
+	"requiredLevel": 15,
+	"itemLevel": 19,
 	"popularity": 8,
 	"armor": 94,
 	"side": "ALLIANCE",

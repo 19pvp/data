@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Watch Master's Breastplate",
 	"icon": "inv_chest_cloth_45",
+	"requiredLevel": 18,
+	"itemLevel": 26,
 	"popularity": 6,
 	"armor": 109,
 	"side": "ALLIANCE",

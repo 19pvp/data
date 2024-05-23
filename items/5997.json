@@ -1,6 +1,7 @@
 {
 	"id": "5997",
 	"icon": "inv_potion_63",
+	"requiredLevel": 1,
 	"armor": 25,
 	"quality": "COMMON",
 	"spell": {

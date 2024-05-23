@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Murloc Scale Belt",
 	"icon": "inv_belt_02",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"popularity": 3,
 	"armor": 45,
 	"class": "ARMOR",

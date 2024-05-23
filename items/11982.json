@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Viridian Band",
 	"icon": "inv_jewelry_ring_13",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 19,
 	"armor": 0,
 	"class": "ARMOR",

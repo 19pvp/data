@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Spring Gadget",
 	"icon": "inv_gizmo_goblingtonkcontroller",
+	"requiredLevel": 11,
+	"itemLevel": 14,
 	"popularity": 17,
 	"armor": 0,
 	"side": "HORDE",

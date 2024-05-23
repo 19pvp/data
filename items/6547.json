@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Soldier's Gauntlets",
 	"icon": "inv_gauntlets_12",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"popularity": 9,
 	"armor": 79,
 	"class": "ARMOR",

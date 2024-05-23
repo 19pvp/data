@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Oggleflint's Inspirer",
 	"icon": "inv_misc_bone_01",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"dmgMin": 22,
 	"dmgMax": 42,
 	"speed": 2.6,
@@ -13,9 +15,10 @@
 	"subclass": "ONE_HANDED_MACE",
 	"type": "ONE_HAND",
 	"stats": { "Critical Strike Rating": 3, "Strength": 3 },
-	"source": "DUNGEON",
+	"source": "DROP",
 	"sourceId": 11517,
 	"sourceName": "Oggleflint",
 	"sourceZone": "Ragefire Chasm",
+	"sourceZoneType": "Dungeon",
 	"sourceType": "NPC"
 }

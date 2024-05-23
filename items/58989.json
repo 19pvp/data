@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Belt of the Valley of Kings",
 	"icon": "inv_belt_02",
+	"requiredLevel": 10,
+	"itemLevel": 12,
 	"popularity": 6,
 	"armor": 33,
 	"side": "ALLIANCE",

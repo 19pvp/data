@@ -3,6 +3,7 @@
 	"bind": "Binds when equipped",
 	"name": "Jeweler's Sapphire Monocle",
 	"icon": "inv_helmet_44",
+	"itemLevel": 1,
 	"popularity": 4,
 	"armor": 0,
 	"class": "ARMOR",

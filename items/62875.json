@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Betrayal's Sting",
 	"icon": "inv_weapon_bow_05",
+	"requiredLevel": 14,
+	"itemLevel": 18,
 	"dmgMin": 23,
 	"dmgMax": 43,
 	"speed": 2.8,

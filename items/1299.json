@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Lesser Belt of the Spire",
 	"icon": "inv_belt_29",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"popularity": 6,
 	"armor": 35,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "CLOTH",
 	"type": "WAIST",
 	"stats": { "Stamina": 4, "Spirit": 3 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 436,
 	"sourceName": "Blackrock Shadowcaster",
 	"sourceZone": "Redridge Mountains",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

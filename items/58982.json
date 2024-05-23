@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Foreman Gloves",
 	"icon": "inv_gauntlets_24",
+	"requiredLevel": 12,
+	"itemLevel": 12,
 	"popularity": 4,
 	"armor": 37,
 	"side": "ALLIANCE",

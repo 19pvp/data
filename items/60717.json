@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Everstill Breastplate",
 	"icon": "inv_chest_chain_08",
+	"requiredLevel": 16,
+	"itemLevel": 18,
 	"popularity": 10,
 	"armor": 131,
 	"side": "ALLIANCE",

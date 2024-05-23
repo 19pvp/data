@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Submariner Killer",
 	"icon": "inv_weapon_shortblade_09",
+	"requiredLevel": 12,
+	"itemLevel": 15,
 	"dmgMin": 12,
 	"dmgMax": 24,
 	"speed": 1.6,

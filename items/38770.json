@@ -2,6 +2,7 @@
 	"id": 38770,
 	"name": "Enchant Cloak - Minor Resistance",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 22,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

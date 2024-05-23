@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Charger's Pants",
 	"icon": "inv_pants_12",
+	"requiredLevel": 6,
+	"itemLevel": 11,
 	"popularity": 12,
 	"armor": 80,
 	"class": "ARMOR",

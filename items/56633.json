@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Leggings of the Traveling Medic",
 	"icon": "inv_pants_05",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 5,
 	"armor": 52,
 	"side": "HORDE",

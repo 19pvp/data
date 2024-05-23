@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Fine Shortbow",
 	"icon": "inv_weapon_bow_07",
+	"requiredLevel": 11,
+	"itemLevel": 16,
 	"dmgMin": 12,
 	"dmgMax": 24,
 	"speed": 1.7,

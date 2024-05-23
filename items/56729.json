@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Forest Heart Piercer",
 	"icon": "inv_sword_28",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"dmgMin": 20,
 	"dmgMax": 38,
 	"speed": 2.6,

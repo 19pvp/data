@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Imbued Gypsy Cloak",
 	"icon": "inv_misc_cape_17",
+	"requiredLevel": 6,
+	"itemLevel": 11,
 	"popularity": 5,
 	"armor": 18,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Portable Lap Desk",
 	"icon": "inv_shield_11",
+	"requiredLevel": 19,
+	"itemLevel": 20,
 	"popularity": 9,
 	"armor": 587,
 	"side": "HORDE",

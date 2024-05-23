@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Bronze Shortsword",
 	"icon": "inv_sword_04",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"dmgMin": 18,
 	"dmgMax": 34,
 	"speed": 2.1,

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Jewel-Encrusted Sash",
 	"icon": "inv_belt_04",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 4,
 	"armor": 34,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "CLOTH",
 	"type": "WAIST",
 	"stats": { "Stamina": 2, "Intellect": 4 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 1920,
 	"sourceName": "Ambermill Spellscribe",
 	"sourceZone": "Silverpine Forest",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Evidence Collection Gloves",
 	"icon": "inv_gauntlets_27",
+	"requiredLevel": 12,
+	"itemLevel": 14,
 	"popularity": 6,
 	"armor": 27,
 	"side": "ALLIANCE",

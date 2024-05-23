@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Defender Bracers",
 	"icon": "inv_bracer_14",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"popularity": 27,
 	"armor": 68,
 	"class": "ARMOR",

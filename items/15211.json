@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Militant Shortsword",
 	"icon": "inv_sword_20",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"dmgMin": 19,
 	"dmgMax": 36,
 	"speed": 2.5,

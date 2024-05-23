@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Lovingly Crafted Boomstick",
 	"icon": "inv_weapon_rifle_07",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"dmgMin": 20,
 	"dmgMax": 38,
 	"speed": 1.8,

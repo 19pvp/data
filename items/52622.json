@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Auberdine Chainmail",
 	"icon": "inv_pants_03",
+	"requiredLevel": 13,
+	"itemLevel": 16,
 	"popularity": 10,
 	"armor": 105,
 	"side": "ALLIANCE",

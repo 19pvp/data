@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Aboriginal Footwraps",
 	"icon": "inv_boots_wolf",
+	"requiredLevel": 11,
+	"itemLevel": 16,
 	"popularity": 16,
 	"armor": 33,
 	"class": "ARMOR",

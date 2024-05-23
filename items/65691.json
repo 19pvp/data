@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Floppy Shoulderguards",
 	"icon": "inv_shoulder_13",
+	"requiredLevel": 19,
+	"itemLevel": 20,
 	"popularity": 9,
 	"armor": 66,
 	"side": "HORDE",

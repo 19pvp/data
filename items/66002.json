@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Packleader's Pauldrons",
 	"icon": "inv_shoulder_15",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 8,
 	"armor": 123,
 	"side": "ALLIANCE",

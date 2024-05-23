@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Studded Bearskin Jacket",
 	"icon": "inv_chest_chain_08",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 3,
 	"armor": 85,
 	"side": "ALLIANCE",

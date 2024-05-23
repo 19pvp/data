@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Belmont's Bracers",
 	"icon": "inv_bracer_27a",
+	"requiredLevel": 12,
+	"itemLevel": 14,
 	"popularity": 5,
 	"armor": 47,
 	"side": "HORDE",

@@ -2,6 +2,7 @@
 	"id": 38808,
 	"name": "Enchant Chest - Greater Health",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 7,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

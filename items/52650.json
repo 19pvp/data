@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Dryad's Wand",
 	"icon": "inv_wand_07",
+	"requiredLevel": 10,
+	"itemLevel": 14,
 	"dmgMin": 10,
 	"dmgMax": 19,
 	"speed": 1.4,

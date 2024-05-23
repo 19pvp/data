@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Wheel of the Lost Hope",
 	"icon": "inv_shield_09",
+	"requiredLevel": 15,
+	"itemLevel": 19,
 	"popularity": 34,
 	"armor": 563,
 	"side": "ALLIANCE",

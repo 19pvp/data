@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Pioneer Trousers",
 	"icon": "inv_pants_05",
+	"requiredLevel": 7,
+	"itemLevel": 12,
 	"popularity": 15,
 	"armor": 52,
 	"class": "ARMOR",

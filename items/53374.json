@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Heedless Treads",
 	"icon": "inv_boots_chain_01",
+	"requiredLevel": 8,
+	"itemLevel": 10,
 	"popularity": 10,
 	"armor": 59,
 	"side": "HORDE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Raider's Legguards",
 	"icon": "inv_pants_03",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"popularity": 11,
 	"armor": 120,
 	"class": "ARMOR",

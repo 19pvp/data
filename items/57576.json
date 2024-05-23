@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Dark Iron Infiltrator's Bracer",
 	"icon": "inv_bracer_01",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 5,
 	"armor": 23,
 	"side": "ALLIANCE",

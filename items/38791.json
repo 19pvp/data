@@ -2,6 +2,7 @@
 	"id": 38791,
 	"name": "Enchant Shield - Lesser Protection",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 13,
 	"armor": 30,
 	"class": "CONSUMABLE",

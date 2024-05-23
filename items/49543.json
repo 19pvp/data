@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Seaworthy Leggings",
 	"icon": "inv_pants_11",
+	"requiredLevel": 14,
+	"itemLevel": 16,
 	"popularity": 21,
 	"armor": 42,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Gold-Plated Buckler",
 	"icon": "inv_shield_02",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 10,
 	"armor": 672,
 	"class": "ARMOR",
@@ -10,6 +12,7 @@
 	"subclass": "SHIELDS",
 	"type": "SHIELD",
 	"stats": { "Strength": 3, "Stamina": 5 },
-	"source": "DUNGEON",
-	"sourceZone": "The Deadmines"
+	"source": "DROP",
+	"sourceZone": "The Deadmines",
+	"sourceZoneType": "Dungeon"
 }

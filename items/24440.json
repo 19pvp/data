@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Heavy Chain Leggings",
 	"icon": "inv_pants_03",
+	"requiredLevel": 7,
+	"itemLevel": 11,
 	"popularity": 5,
 	"armor": 80,
 	"side": "ALLIANCE",

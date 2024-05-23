@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Yowling Cloak",
 	"icon": "inv_misc_cape_08",
+	"requiredLevel": 14,
+	"itemLevel": 15,
 	"popularity": 18,
 	"armor": 23,
 	"side": "ALLIANCE",

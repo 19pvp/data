@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Pulsating Hydra Heart",
 	"icon": "inv_misc_orb_04",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 17,
 	"armor": 0,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "OFF_HAND_FRILLS",
 	"type": "HELD_IN_OFF_HAND",
 	"stats": { "Stamina": 2, "Intellect": 5 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 3398,
 	"sourceName": "Gesharahan",
 	"sourceZone": "Northern Barrens",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Shackled Bindings",
 	"icon": "inv_pants_08",
+	"requiredLevel": 6,
+	"itemLevel": 10,
 	"popularity": 9,
 	"armor": 46,
 	"side": "ALLIANCE",

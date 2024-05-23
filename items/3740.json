@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Decapitating Sword",
 	"icon": "inv_weapon_shortblade_26",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"dmgMin": 22,
 	"dmgMax": 42,
 	"speed": 2.6,

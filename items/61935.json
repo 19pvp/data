@@ -1,8 +1,10 @@
 {
 	"id": 61935,
-	"bind": "<br>Item Level <!--ilvl-->1",
+	"bind": "Binds to account",
 	"name": "Tarnished Raging Berserker's Helm",
 	"icon": "inv_helmet_25",
+	"requiredLevel": 80,
+	"itemLevel": 1,
 	"popularity": 111,
 	"armor": 0,
 	"class": "ARMOR",

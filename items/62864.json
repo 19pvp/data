@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Bracers of the Final Transmission",
 	"icon": "inv_bracer_10",
+	"requiredLevel": 12,
+	"itemLevel": 15,
 	"popularity": 4,
 	"armor": 20,
 	"side": "HORDE",

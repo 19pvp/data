@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Oxidizing Axe",
 	"icon": "inv_throwingaxe_06",
+	"requiredLevel": 1,
+	"itemLevel": 11,
 	"dmgMin": 6,
 	"dmgMax": 13,
 	"speed": 1.6,

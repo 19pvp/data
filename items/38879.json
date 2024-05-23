@@ -2,6 +2,7 @@
 	"id": 38879,
 	"name": "Enchant Weapon - Strength",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 21,
 	"class": "CONSUMABLE",
 	"quality": "RARE",

@@ -2,6 +2,7 @@
 	"id": 38853,
 	"name": "Enchant Bracer - Superior Spirit",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 5,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

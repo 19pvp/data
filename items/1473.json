@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Riverside Staff",
 	"icon": "inv_staff_08",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"dmgMin": 31,
 	"dmgMax": 47,
 	"speed": 3.1,
@@ -13,9 +15,10 @@
 	"subclass": "STAFF",
 	"type": "TWO_HAND",
 	"stats": { "Spirit": 6 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 545,
 	"sourceName": "Murloc Tidecaller",
 	"sourceZone": "Redridge Mountains",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

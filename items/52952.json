@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "The Hammer",
 	"icon": "inv_hammer_20",
+	"requiredLevel": 1,
+	"itemLevel": 9,
 	"dmgMin": 8,
 	"dmgMax": 16,
 	"speed": 2.4,

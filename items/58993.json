@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Old Dwarven Hammer",
 	"icon": "inv_hammer_18",
+	"requiredLevel": 8,
+	"itemLevel": 12,
 	"dmgMin": 22,
 	"dmgMax": 34,
 	"speed": 3.3,

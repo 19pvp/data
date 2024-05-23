@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Troublesome Gloves",
 	"icon": "inv_gauntlets_21",
+	"requiredLevel": 11,
+	"itemLevel": 14,
 	"popularity": 5,
 	"armor": 42,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Scorched Shield",
 	"icon": "inv_shield_09",
+	"requiredLevel": 13,
+	"itemLevel": 15,
 	"popularity": 10,
 	"armor": 328,
 	"side": "ALLIANCE",

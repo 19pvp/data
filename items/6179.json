@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Privateer's Cape",
 	"icon": "inv_misc_cape_02",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"popularity": 10,
 	"armor": 28,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Agility": 2, "Stamina": 2 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 520,
 	"sourceName": "Brack",
 	"sourceZone": "Westfall",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

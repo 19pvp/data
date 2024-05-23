@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Manager's Mantle",
 	"icon": "inv_shoulder_12",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 10,
 	"armor": 68,
 	"side": "HORDE",

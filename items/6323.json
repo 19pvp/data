@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Baron's Scepter",
 	"icon": "inv_mace_02",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"dmgMin": 23,
 	"dmgMax": 44,
 	"speed": 2.4,
@@ -13,6 +15,7 @@
 	"subclass": "ONE_HANDED_MACE",
 	"type": "ONE_HAND",
 	"stats": { "Hit Rating": 2, "Strength": 2, "Stamina": 3 },
-	"source": "DUNGEON",
-	"sourceZone": "Shadowfang Keep"
+	"source": "DROP",
+	"sourceZone": "Shadowfang Keep",
+	"sourceZoneType": "Dungeon"
 }

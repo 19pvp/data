@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Kresh's Back",
 	"icon": "inv_shield_18",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 9,
 	"armor": 700,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "SHIELDS",
 	"type": "SHIELD",
 	"stats": { "Dodge Rating": 5, "Stamina": 3 },
-	"source": "DUNGEON",
+	"source": "DROP",
 	"sourceId": 3653,
 	"sourceName": "Kresh",
 	"sourceZone": "Wailing Caverns",
+	"sourceZoneType": "Dungeon",
 	"sourceType": "NPC"
 }

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Medicine Staff",
 	"icon": "inv_staff_31",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"dmgMin": 25,
 	"dmgMax": 38,
 	"speed": 2.5,

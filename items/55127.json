@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Tharill's Blessing",
 	"icon": "inv_gauntlets_21",
+	"requiredLevel": 13,
+	"itemLevel": 13,
 	"popularity": 5,
 	"armor": 39,
 	"side": "ALLIANCE",

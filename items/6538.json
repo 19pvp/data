@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Willow Robe",
 	"icon": "inv_chest_cloth_15",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"popularity": 15,
 	"armor": 55,
 	"class": "ARMOR",

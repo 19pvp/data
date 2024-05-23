@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "The Slaghammer",
 	"icon": "inv_hammer_20",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"dmgMin": 10,
 	"dmgMax": 19,
 	"speed": 2.6,

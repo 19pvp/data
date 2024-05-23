@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Harpy Skinner",
 	"icon": "inv_weapon_shortblade_14",
+	"requiredLevel": 12,
+	"itemLevel": 20,
 	"dmgMin": 9,
 	"dmgMax": 18,
 	"speed": 1.4,

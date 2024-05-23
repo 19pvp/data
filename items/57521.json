@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Marshal's Light Crossbow",
 	"icon": "inv_weapon_crossbow_02",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"dmgMin": 14,
 	"dmgMax": 26,
 	"speed": 2.8,

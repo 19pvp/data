@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Embossed Leather Gloves",
 	"icon": "inv_gauntlets_05",
+	"requiredLevel": 8,
+	"itemLevel": 13,
 	"popularity": 22,
 	"armor": 39,
 	"class": "ARMOR",

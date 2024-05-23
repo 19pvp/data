@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Severing Axe",
 	"icon": "inv_throwingaxe_02",
+	"requiredLevel": 5,
+	"itemLevel": 10,
 	"dmgMin": 18,
 	"dmgMax": 27,
 	"speed": 3.2,

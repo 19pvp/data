@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Flame Retardant Sheet",
 	"icon": "inv_misc_cape_18",
+	"requiredLevel": 9,
+	"itemLevel": 11,
 	"popularity": 5,
 	"armor": 18,
 	"side": "HORDE",

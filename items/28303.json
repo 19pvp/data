@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Invoker's Signet",
 	"icon": "inv_jewelry_ring_25",
+	"requiredLevel": 9,
+	"itemLevel": 21,
 	"popularity": 9,
 	"armor": 0,
 	"side": "HORDE",

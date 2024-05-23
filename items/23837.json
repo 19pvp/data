@@ -1,1 +1,6 @@
-{ "id": "23837", "icon": "inv_misc_map_01", "quality": "COMMON" }
+{
+	"id": "23837",
+	"icon": "inv_misc_map_01",
+	"requiredLevel": 13,
+	"quality": "COMMON"
+}

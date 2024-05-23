@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Battering Hammer",
 	"icon": "inv_hammer_16",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"dmgMin": 37,
 	"dmgMax": 57,
 	"speed": 3.1,

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Thornblade",
 	"icon": "inv_weapon_shortblade_15",
+	"requiredLevel": 16,
+	"itemLevel": 20,
 	"dmgMin": 11,
 	"dmgMax": 21,
 	"speed": 1.6,

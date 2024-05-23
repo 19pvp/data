@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Gnarled Hermit's Staff",
 	"icon": "inv_staff_17",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"dmgMin": 28,
 	"dmgMax": 42,
 	"speed": 2.8,
@@ -13,9 +15,10 @@
 	"subclass": "STAFF",
 	"type": "TWO_HAND",
 	"stats": { "Spirit": 6 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 5863,
 	"sourceName": "Geopriest Gukk'rok",
 	"sourceZone": "Northern Barrens",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

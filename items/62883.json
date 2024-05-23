@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Inconspicuous Pantaloons",
 	"icon": "inv_pants_11",
+	"requiredLevel": 14,
+	"itemLevel": 18,
 	"popularity": 4,
 	"armor": 46,
 	"side": "HORDE",

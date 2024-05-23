@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Gloves of Unfocused Rage",
 	"icon": "inv_gauntlets_05",
+	"requiredLevel": 15,
+	"itemLevel": 19,
 	"popularity": 16,
 	"armor": 53,
 	"side": "HORDE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Bracers of the Most Trusted",
 	"icon": "inv_bracer_30a",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 10,
 	"armor": 69,
 	"side": "HORDE",

@@ -2,6 +2,7 @@
 	"id": 38821,
 	"name": "Enchant Weapon - Striking",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 19,
 	"class": "CONSUMABLE",
 	"quality": "RARE",

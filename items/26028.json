@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Maatparm's Fungus Lined Bands",
 	"icon": "inv_bracer_12",
+	"requiredLevel": 10,
+	"itemLevel": 13,
 	"popularity": 5,
 	"armor": 27,
 	"side": "ALLIANCE",

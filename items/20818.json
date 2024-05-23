@@ -1,7 +1,10 @@
 {
 	"id": 20818,
+	"bind": "Binds when equipped",
 	"name": "Elegant Silver Ring",
 	"icon": "inv_jewelry_ring_01",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"popularity": 22,
 	"armor": 0,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Ritual Tunic",
 	"icon": "inv_shirt_05",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"popularity": 19,
 	"armor": 67,
 	"class": "ARMOR",

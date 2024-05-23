@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Executioner's Sword",
 	"icon": "inv_sword_28",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"dmgMin": 43,
 	"dmgMax": 65,
 	"speed": 3.4,

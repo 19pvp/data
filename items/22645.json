@@ -1,6 +1,7 @@
 {
 	"id": "22645",
 	"icon": "inv_misc_food_88_ravagernuggets",
+	"requiredLevel": 5,
 	"quality": "COMMON",
 	"spell": {
 		"type": "Use",

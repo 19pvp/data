@@ -1,6 +1,7 @@
 {
 	"id": "6290",
 	"icon": "inv_misc_fish_07",
+	"requiredLevel": 1,
 	"quality": "COMMON",
 	"spell": {
 		"type": "Use",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Cord of Tragic Memory",
 	"icon": "inv_belt_02",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 21,
 	"armor": 29,
 	"side": "HORDE",

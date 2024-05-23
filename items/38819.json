@@ -2,6 +2,7 @@
 	"id": 38819,
 	"name": "Enchant Boots - Lesser Spirit",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 36,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

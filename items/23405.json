@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Farstrider's Tunic",
 	"icon": "inv_chest_leather_09",
+	"requiredLevel": 9,
+	"itemLevel": 12,
 	"popularity": 15,
 	"armor": 59,
 	"side": "HORDE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Bright Bracers",
 	"icon": "inv_bracer_02",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 8,
 	"armor": 28,
 	"class": "ARMOR",

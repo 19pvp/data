@@ -1,6 +1,7 @@
 {
 	"id": "2070",
 	"icon": "inv_misc_food_06",
+	"requiredLevel": 1,
 	"quality": "COMMON",
 	"spell": {
 		"type": "Use",

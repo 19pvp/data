@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Spellbinder Vest",
 	"icon": "inv_chest_cloth_06",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"popularity": 29,
 	"armor": 50,
 	"class": "ARMOR",

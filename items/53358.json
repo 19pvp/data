@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Blade Cultist Slippers",
 	"icon": "inv_boots_cloth_03",
+	"requiredLevel": 4,
+	"itemLevel": 12,
 	"popularity": 7,
 	"armor": 27,
 	"side": "HORDE",

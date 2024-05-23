@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Lorekeeper's Staff",
 	"icon": "inv_staff_28",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"dmgMin": 45,
 	"dmgMax": 69,
 	"speed": 2.9,
@@ -18,5 +20,6 @@
 	"sourceId": 14753,
 	"sourceName": "Illiyana Moonblaze",
 	"sourceZone": "Ashenvale",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

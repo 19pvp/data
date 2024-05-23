@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Emerald Vest",
 	"icon": "inv_chest_cloth_30",
+	"requiredLevel": 13,
+	"itemLevel": 17,
 	"popularity": 13,
 	"armor": 50,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Thrall's Gift",
 	"icon": "inv_bracer_04",
+	"requiredLevel": 1,
+	"itemLevel": 12,
 	"popularity": 19,
 	"armor": 29,
 	"side": "HORDE",

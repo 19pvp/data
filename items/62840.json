@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Sober Pup Wristbands",
 	"icon": "inv_bracer_07",
+	"requiredLevel": 10,
+	"itemLevel": 12,
 	"popularity": 6,
 	"armor": 17,
 	"side": "HORDE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Ashwood Bow",
 	"icon": "inv_weapon_bow_01",
+	"requiredLevel": 1,
+	"itemLevel": 11,
 	"dmgMin": 11,
 	"dmgMax": 21,
 	"speed": 2.1,

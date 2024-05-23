@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Orcish Battle Bow",
 	"icon": "inv_weapon_bow_08",
+	"requiredLevel": 15,
+	"itemLevel": 14,
 	"dmgMin": 12,
 	"dmgMax": 24,
 	"speed": 1.9,

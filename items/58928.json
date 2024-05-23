@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "House Wrynn Halberd",
 	"icon": "inv_weapon_halberd_23",
+	"requiredLevel": 12,
+	"itemLevel": 15,
 	"dmgMin": 29,
 	"dmgMax": 54,
 	"speed": 3,

@@ -1,1 +1,6 @@
-{ "id": "46753", "icon": "inv_misc_bag_05", "quality": "COMMON" }
+{
+	"id": "46753",
+	"bind": "6 Slot Bag",
+	"icon": "inv_misc_bag_05",
+	"quality": "COMMON"
+}

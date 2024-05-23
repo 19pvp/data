@@ -3,6 +3,7 @@
 	"bind": "Binds when picked up",
 	"name": "Chef's Hat",
 	"icon": "achievement_profession_chefhat",
+	"itemLevel": 1,
 	"popularity": 44,
 	"armor": 0,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Brambleweed Leggings",
 	"icon": "inv_pants_02",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 8,
 	"armor": 77,
 	"class": "ARMOR",

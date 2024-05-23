@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Sunscale Cloak",
 	"icon": "inv_misc_cape_06",
+	"requiredLevel": 10,
+	"itemLevel": 14,
 	"popularity": 14,
 	"armor": 22,
 	"side": "HORDE",

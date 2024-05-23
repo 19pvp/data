@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Huntsman's Crossbow",
 	"icon": "inv_weapon_crossbow_04",
+	"requiredLevel": 13,
+	"itemLevel": 17,
 	"dmgMin": 25,
 	"dmgMax": 38,
 	"speed": 2.8,

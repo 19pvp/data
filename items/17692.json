@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Horn Ring",
 	"icon": "inv_jewelry_ring_02",
+	"requiredLevel": 19,
+	"itemLevel": 23,
 	"popularity": 8,
 	"armor": 0,
 	"side": "HORDE",

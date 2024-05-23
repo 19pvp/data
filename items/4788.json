@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Agile Boots",
 	"icon": "inv_boots_05",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 19,
 	"armor": 60,
 	"class": "ARMOR",

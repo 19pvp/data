@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Mini B.C. Eliminator",
 	"icon": "inv_weapon_rifle_01",
+	"requiredLevel": 1,
+	"itemLevel": 8,
 	"dmgMin": 10,
 	"dmgMax": 20,
 	"speed": 2.7,

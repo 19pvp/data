@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Bluegill Kukri",
 	"icon": "inv_weapon_shortblade_26",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"dmgMin": 24,
 	"dmgMax": 45,
 	"speed": 2.8,
@@ -13,9 +15,10 @@
 	"subclass": "ONE_HANDED_SWORD",
 	"type": "ONE_HAND",
 	"stats": { "Strength": 3 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 1027,
 	"sourceName": "Bluegill Warrior",
 	"sourceZone": "Wetlands",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

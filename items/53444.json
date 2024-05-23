@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Sniper's Band",
 	"icon": "inv_jewelry_ring_03",
+	"requiredLevel": 18,
+	"itemLevel": 20,
 	"popularity": 38,
 	"armor": 0,
 	"side": "HORDE",

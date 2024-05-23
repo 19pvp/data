@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Urchin's Pants",
 	"icon": "inv_pants_cloth_41",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 6,
 	"armor": 30,
 	"side": "ALLIANCE",

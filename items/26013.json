@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Cincture of Woven Reeds",
 	"icon": "inv_belt_22",
+	"requiredLevel": 14,
+	"itemLevel": 20,
 	"popularity": 5,
 	"armor": 32,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Keyton's Sash",
 	"icon": "inv_belt_17",
+	"requiredLevel": 19,
+	"itemLevel": 20,
 	"popularity": 4,
 	"armor": 32,
 	"side": "HORDE",

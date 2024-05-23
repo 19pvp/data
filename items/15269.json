@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Massive Battle Axe",
 	"icon": "inv_axe_21",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"dmgMin": 42,
 	"dmgMax": 64,
 	"speed": 3.3,

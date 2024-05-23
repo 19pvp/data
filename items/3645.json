@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Seer's Cuffs",
 	"icon": "inv_bracer_07",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"popularity": 5,
 	"armor": 22,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Enamelled Broadsword",
 	"icon": "inv_sword_20",
+	"requiredLevel": 9,
+	"itemLevel": 14,
 	"dmgMin": 12,
 	"dmgMax": 23,
 	"speed": 2.4,

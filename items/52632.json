@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Digging Staff",
 	"icon": "inv_staff_18",
+	"requiredLevel": 13,
+	"itemLevel": 15,
 	"dmgMin": 25,
 	"dmgMax": 38,
 	"speed": 3.1,

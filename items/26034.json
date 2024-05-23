@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Protective Field Gloves",
 	"icon": "inv_gauntlets_29",
+	"requiredLevel": 10,
+	"itemLevel": 13,
 	"popularity": 6,
 	"armor": 64,
 	"side": "ALLIANCE",

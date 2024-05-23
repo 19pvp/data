@@ -3,6 +3,7 @@
 	"bind": "Binds when picked up",
 	"name": "Reinforced Fishing Line",
 	"icon": "inv_fabric_mageweave_02",
+	"itemLevel": 1,
 	"popularity": 6,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

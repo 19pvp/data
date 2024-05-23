@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Sentry's Cape",
 	"icon": "inv_misc_cape_11",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"popularity": 5,
 	"armor": 33,
 	"class": "ARMOR",

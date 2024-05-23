@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Mutineer's Cloak",
 	"icon": "inv_misc_cape_18",
+	"requiredLevel": 14,
+	"itemLevel": 17,
 	"popularity": 4,
 	"armor": 28,
 	"side": "HORDE",

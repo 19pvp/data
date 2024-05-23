@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Mystic Riverpaw Wand",
 	"icon": "inv_staff_17",
+	"requiredLevel": 11,
+	"itemLevel": 14,
 	"dmgMin": 11,
 	"dmgMax": 22,
 	"speed": 1.6,

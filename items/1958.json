@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Petrified Shinbone",
 	"icon": "inv_misc_bone_01",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"dmgMin": 22,
 	"dmgMax": 42,
 	"speed": 2.4,

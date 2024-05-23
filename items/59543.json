@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Pigman Belt",
 	"icon": "inv_belt_05",
+	"requiredLevel": 9,
+	"itemLevel": 12,
 	"popularity": 13,
 	"armor": 33,
 	"side": "HORDE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Underestimated Crossbow",
 	"icon": "inv_weapon_crossbow_02",
+	"requiredLevel": 11,
+	"itemLevel": 13,
 	"dmgMin": 17,
 	"dmgMax": 33,
 	"speed": 2.8,

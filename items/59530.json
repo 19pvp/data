@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Wolf Tender's Boots",
 	"icon": "inv_boots_04",
+	"requiredLevel": 9,
+	"itemLevel": 11,
 	"popularity": 7,
 	"armor": 38,
 	"side": "HORDE",

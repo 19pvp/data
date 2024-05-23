@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Battle Slayer",
 	"icon": "inv_throwingaxe_06",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"dmgMin": 38,
 	"dmgMax": 58,
 	"speed": 3.3,

@@ -1,7 +1,10 @@
 {
 	"id": 6220,
+	"bind": "Binds when picked up",
 	"name": "Meteor Shard",
 	"icon": "inv_weapon_shortblade_25",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"dmgMin": 17,
 	"dmgMax": 33,
 	"speed": 1.8,
@@ -11,8 +14,9 @@
 	"quality": "RARE",
 	"subclass": "DAGGER",
 	"type": "ONE_HAND",
-	"source": "DUNGEON",
+	"source": "DROP",
 	"sourceZone": "Shadowfang Keep",
+	"sourceZoneType": "Dungeon",
 	"spell": {
 		"type": "Chance on hit",
 		"id": 13442,

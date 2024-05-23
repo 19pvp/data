@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Cookie's Meat Mallet",
 	"icon": "inv_hammer_09",
+	"requiredLevel": 15,
+	"itemLevel": 17,
 	"dmgMin": 21,
 	"dmgMax": 40,
 	"speed": 2.6,

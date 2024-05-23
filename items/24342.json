@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Stillpine Shocker",
 	"icon": "inv_staff_02",
+	"requiredLevel": 10,
+	"itemLevel": 13,
 	"dmgMin": 10,
 	"dmgMax": 20,
 	"speed": 1.6,

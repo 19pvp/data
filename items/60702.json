@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Sword of the Falling Sky",
 	"icon": "inv_sword_10",
+	"requiredLevel": 14,
+	"itemLevel": 16,
 	"dmgMin": 15,
 	"dmgMax": 28,
 	"speed": 2.6,

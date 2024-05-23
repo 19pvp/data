@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Crossbow of the Twice-Slain",
 	"icon": "inv_weapon_crossbow_02",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"dmgMin": 27,
 	"dmgMax": 50,
 	"speed": 2.8,

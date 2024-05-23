@@ -2,6 +2,7 @@
 	"id": 38830,
 	"name": "Enchant Boots - Stamina",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 17,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

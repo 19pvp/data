@@ -2,6 +2,7 @@
 	"id": 38826,
 	"name": "Enchant Cloak - Resistance",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 3,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

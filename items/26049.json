@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Old Elekk Prod",
 	"icon": "inv_torch_unlit",
+	"requiredLevel": 8,
+	"itemLevel": 11,
 	"dmgMin": 7,
 	"dmgMax": 14,
 	"speed": 1.8,

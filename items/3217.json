@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Foreman Belt",
 	"icon": "inv_belt_23",
+	"requiredLevel": 12,
+	"itemLevel": 15,
 	"popularity": 6,
 	"armor": 26,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Stillpine Defender",
 	"icon": "inv_shield_09",
+	"requiredLevel": 8,
+	"itemLevel": 12,
 	"popularity": 14,
 	"armor": 391,
 	"side": "ALLIANCE",

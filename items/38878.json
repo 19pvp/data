@@ -2,6 +2,7 @@
 	"id": 38878,
 	"name": "Enchant Weapon - Healing Power",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 10,
 	"class": "CONSUMABLE",
 	"quality": "RARE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Aboriginal Sash",
 	"icon": "inv_belt_05",
+	"requiredLevel": 10,
+	"itemLevel": 15,
 	"popularity": 5,
 	"armor": 26,
 	"class": "ARMOR",

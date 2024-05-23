@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Tower Watch Bracers",
 	"icon": "inv_bracer_10",
+	"requiredLevel": 14,
+	"itemLevel": 15,
 	"popularity": 5,
 	"armor": 20,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Trogg-Slayer Boots",
 	"icon": "inv_boots_cloth_03",
+	"requiredLevel": 10,
+	"itemLevel": 12,
 	"popularity": 10,
 	"armor": 27,
 	"side": "ALLIANCE",

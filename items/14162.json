@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Pagan Mitts",
 	"icon": "inv_gauntlets_05",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 15,
 	"armor": 40,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Battle Chain Pants",
 	"icon": "inv_pants_03",
+	"requiredLevel": 7,
+	"itemLevel": 12,
 	"popularity": 37,
 	"armor": 85,
 	"class": "ARMOR",

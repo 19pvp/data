@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Planter's Gloves",
 	"icon": "inv_gauntlets_05",
+	"requiredLevel": 16,
+	"itemLevel": 18,
 	"popularity": 14,
 	"armor": 50,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Blackwater Cutlass",
 	"icon": "inv_sword_24",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"dmgMin": 24,
 	"dmgMax": 46,
 	"speed": 2.6,
@@ -13,6 +15,7 @@
 	"subclass": "ONE_HANDED_SWORD",
 	"type": "ONE_HAND",
 	"stats": { "Hit Rating": 3, "Agility": 4 },
-	"source": "DUNGEON",
-	"sourceZone": "The Deadmines"
+	"source": "DROP",
+	"sourceZone": "The Deadmines",
+	"sourceZoneType": "Dungeon"
 }

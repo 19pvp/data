@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Chicken Stuffers",
 	"icon": "inv_gauntlets_12",
+	"requiredLevel": 10,
+	"itemLevel": 12,
 	"popularity": 10,
 	"armor": 60,
 	"side": "HORDE",

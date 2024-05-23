@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Loch Croc Hide Vest",
 	"icon": "inv_chest_wolf",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"popularity": 8,
 	"armor": 95,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "LEATHER",
 	"type": "CHEST",
 	"stats": { "Stamina": 7 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 2476,
 	"sourceName": "Gosh-Haldir",
 	"sourceZone": "Loch Modan",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

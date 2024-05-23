@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Misshapen Boots",
 	"icon": "inv_boots_chain_06",
+	"requiredLevel": 10,
+	"itemLevel": 16,
 	"popularity": 7,
 	"armor": 82,
 	"side": "HORDE",
@@ -12,5 +14,6 @@
 	"type": "FEET",
 	"stats": { "Strength": 2, "Stamina": 2 },
 	"source": "QUEST",
-	"sourceZone": "Northern Barrens"
+	"sourceZone": "Northern Barrens",
+	"sourceZoneType": "Zone"
 }

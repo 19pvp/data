@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Night Watch Shortsword",
 	"icon": "inv_sword_26",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"dmgMin": 24,
 	"dmgMax": 46,
 	"speed": 2.6,

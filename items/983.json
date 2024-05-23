@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Red Linen Sash",
 	"icon": "inv_belt_43c",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 24,
 	"armor": 19,
 	"side": "ALLIANCE",

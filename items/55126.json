@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Thistle Bear Girdle",
 	"icon": "inv_belt_45c",
+	"requiredLevel": 10,
+	"itemLevel": 11,
 	"popularity": 7,
 	"armor": 51,
 	"side": "ALLIANCE",

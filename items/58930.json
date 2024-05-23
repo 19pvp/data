@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "House Wrynn Staff",
 	"icon": "inv_staff_07",
+	"requiredLevel": 12,
+	"itemLevel": 15,
 	"dmgMin": 36,
 	"dmgMax": 55,
 	"speed": 3.3,

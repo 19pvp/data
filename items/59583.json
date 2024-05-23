@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Marauding Belt",
 	"icon": "inv_belt_03",
+	"requiredLevel": 15,
+	"itemLevel": 18,
 	"popularity": 8,
 	"armor": 45,
 	"side": "HORDE",

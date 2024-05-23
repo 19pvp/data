@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Corsair's Overshirt",
 	"icon": "inv_shirt_08",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 58,
 	"armor": 63,
 	"class": "ARMOR",
@@ -10,6 +12,7 @@
 	"subclass": "CLOTH",
 	"type": "CHEST",
 	"stats": { "Stamina": 6, "Intellect": 8 },
-	"source": "DUNGEON",
-	"sourceZone": "The Deadmines"
+	"source": "DROP",
+	"sourceZone": "The Deadmines",
+	"sourceZoneType": "Dungeon"
 }

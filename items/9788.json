@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Raider's Belt",
 	"icon": "inv_belt_11",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"popularity": 13,
 	"armor": 74,
 	"class": "ARMOR",

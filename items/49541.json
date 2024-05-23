@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Robes of the Glorious Song",
 	"icon": "inv_chest_cloth_30",
+	"requiredLevel": 13,
+	"itemLevel": 16,
 	"popularity": 11,
 	"armor": 53,
 	"side": "HORDE",

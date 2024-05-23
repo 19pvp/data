@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Undertaker's Gloves",
 	"icon": "inv_gauntlets_05",
+	"requiredLevel": 14,
+	"itemLevel": 17,
 	"popularity": 8,
 	"armor": 48,
 	"side": "HORDE",

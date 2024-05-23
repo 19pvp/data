@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Diver's Cord",
 	"icon": "inv_belt_02",
+	"requiredLevel": 8,
+	"itemLevel": 10,
 	"popularity": 9,
 	"armor": 29,
 	"side": "ALLIANCE",

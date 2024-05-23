@@ -2,6 +2,7 @@
 	"id": 38843,
 	"name": "Enchant Shield - Frost Resistance",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 21,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Dark Leather Pants",
 	"icon": "inv_pants_09",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 13,
 	"armor": 86,
 	"class": "ARMOR",

@@ -1,8 +1,10 @@
 {
 	"id": 48691,
-	"bind": "<br>Item Level <!--ilvl-->1",
+	"bind": "Binds to account",
 	"name": "Tattered Dreadmist Robe",
 	"icon": "inv_chest_cloth_49",
+	"requiredLevel": 1,
+	"itemLevel": 1,
 	"popularity": 168,
 	"armor": 0,
 	"class": "ARMOR",

@@ -2,6 +2,7 @@
 	"id": 38960,
 	"name": "Enchant Gloves - Gatherer",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 50,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

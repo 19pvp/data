@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Darkthorn Piercer",
 	"icon": "inv_sword_05",
+	"requiredLevel": 10,
+	"itemLevel": 14,
 	"dmgMin": 13,
 	"dmgMax": 25,
 	"speed": 2.6,

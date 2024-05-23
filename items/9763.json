@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Cadet Leggings",
 	"icon": "inv_pants_10",
+	"requiredLevel": 9,
+	"itemLevel": 14,
 	"popularity": 8,
 	"armor": 95,
 	"class": "ARMOR",

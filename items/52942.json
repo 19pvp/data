@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Staff of Earned Tranquility",
 	"icon": "inv_staff_113",
+	"requiredLevel": 5,
+	"itemLevel": 9,
 	"dmgMin": 16,
 	"dmgMax": 25,
 	"speed": 3.2,

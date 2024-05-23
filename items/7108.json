@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Infantry Shield",
 	"icon": "inv_shield_09",
+	"requiredLevel": 6,
+	"itemLevel": 11,
 	"popularity": 9,
 	"armor": 364,
 	"class": "ARMOR",

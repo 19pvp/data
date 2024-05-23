@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Swiftwind Blade",
 	"icon": "inv_sword_16",
+	"requiredLevel": 14,
+	"itemLevel": 15,
 	"dmgMin": 14,
 	"dmgMax": 27,
 	"speed": 2.6,

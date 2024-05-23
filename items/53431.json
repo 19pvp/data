@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Negotiation Stompers",
 	"icon": "inv_boots_chain_08",
+	"requiredLevel": 15,
+	"itemLevel": 17,
 	"popularity": 5,
 	"armor": 86,
 	"side": "HORDE",

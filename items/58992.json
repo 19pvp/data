@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Uncovered Breastplate",
 	"icon": "inv_chest_leather_07",
+	"requiredLevel": 8,
+	"itemLevel": 12,
 	"popularity": 9,
 	"armor": 59,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Faerie Mantle",
 	"icon": "inv_shoulder_05",
+	"requiredLevel": 19,
+	"itemLevel": 32,
 	"popularity": 24,
 	"armor": 64,
 	"side": "ALLIANCE",
@@ -12,5 +14,6 @@
 	"type": "SHOULDERS",
 	"stats": { "Intellect": 6, "Spirit": 6 },
 	"source": "QUEST",
-	"sourceZone": "Ashenvale"
+	"sourceZone": "Ashenvale",
+	"sourceZoneType": "Zone"
 }

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Coldridge Hammer",
 	"icon": "inv_hammer_15",
+	"requiredLevel": 6,
+	"itemLevel": 12,
 	"dmgMin": 18,
 	"dmgMax": 27,
 	"speed": 2.7,

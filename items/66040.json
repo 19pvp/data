@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Searing Belt",
 	"icon": "inv_belt_45a",
+	"requiredLevel": 13,
+	"itemLevel": 16,
 	"popularity": 5,
 	"armor": 74,
 	"side": "HORDE",

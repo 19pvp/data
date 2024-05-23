@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Ale-Soaked Robes",
 	"icon": "inv_chest_cloth_30",
+	"requiredLevel": 11,
+	"itemLevel": 13,
 	"popularity": 9,
 	"armor": 41,
 	"side": "HORDE",

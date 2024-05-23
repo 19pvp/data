@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Greater Adept's Robe",
 	"icon": "inv_chest_cloth_24",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 9,
 	"armor": 64,
 	"class": "ARMOR",

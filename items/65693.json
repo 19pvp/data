@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Quest Giver's Pauldrons",
 	"icon": "inv_shoulder_15",
+	"requiredLevel": 19,
+	"itemLevel": 20,
 	"popularity": 8,
 	"armor": 107,
 	"side": "HORDE",

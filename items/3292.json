@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Ancestral Tunic",
 	"icon": "inv_shirt_07",
+	"requiredLevel": 8,
+	"itemLevel": 13,
 	"popularity": 4,
 	"armor": 41,
 	"class": "ARMOR",

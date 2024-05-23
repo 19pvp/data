@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Boiled Boots",
 	"icon": "inv_boots_06",
+	"requiredLevel": 10,
+	"itemLevel": 12,
 	"popularity": 6,
 	"armor": 41,
 	"side": "ALLIANCE",

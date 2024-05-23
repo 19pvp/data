@@ -1,7 +1,9 @@
 {
 	"id": 18863,
+	"bind": "Binds when picked up",
 	"name": "Insignia of the Alliance",
 	"icon": "inv_jewelry_trinketpvp_01",
+	"itemLevel": 60,
 	"popularity": 10,
 	"armor": 0,
 	"side": "ALLIANCE",
@@ -11,6 +13,7 @@
 	"type": "TRINKET",
 	"source": "VENDOR",
 	"sourceZone": "Stormwind City",
+	"sourceZoneType": "Zone",
 	"spell": {
 		"type": "Use",
 		"id": 42292,

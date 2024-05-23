@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Fist of Argus",
 	"icon": "inv_mace_34",
+	"requiredLevel": 10,
+	"itemLevel": 16,
 	"dmgMin": 12,
 	"dmgMax": 24,
 	"speed": 2.2,

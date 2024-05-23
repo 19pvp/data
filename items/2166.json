@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Foreman's Leggings",
 	"icon": "inv_pants_03",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 15,
 	"armor": 138,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "MAIL",
 	"type": "LEGS",
 	"stats": { "Strength": 7, "Stamina": 7 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 626,
 	"sourceName": "Foreman Thistlenettle",
 	"sourceZone": "Westfall",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

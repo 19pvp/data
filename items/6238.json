@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Brown Linen Robe",
 	"icon": "inv_chest_cloth_21",
+	"requiredLevel": 5,
+	"itemLevel": 10,
 	"popularity": 5,
 	"armor": 34,
 	"class": "ARMOR",

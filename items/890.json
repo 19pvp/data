@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Twisted Chanter's Staff",
 	"icon": "inv_staff_04",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"dmgMin": 55,
 	"dmgMax": 84,
 	"speed": 3.4,

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Tangled Thread Gloves",
 	"icon": "inv_gauntlets_27",
+	"requiredLevel": 11,
+	"itemLevel": 14,
 	"popularity": 5,
 	"armor": 27,
 	"side": "HORDE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Buccaneer's Boots",
 	"icon": "inv_boots_05",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"popularity": 12,
 	"armor": 38,
 	"class": "ARMOR",

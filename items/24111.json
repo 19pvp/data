@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Kurken Hide Jerkin",
 	"icon": "inv_chest_fur",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 8,
 	"armor": 52,
 	"side": "ALLIANCE",

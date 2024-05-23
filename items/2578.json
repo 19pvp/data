@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Barbaric Linen Vest",
 	"icon": "inv_chest_fur",
+	"requiredLevel": 9,
+	"itemLevel": 14,
 	"popularity": 5,
 	"armor": 43,
 	"class": "ARMOR",

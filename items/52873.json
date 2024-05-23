@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Darkspear Magic Weaver Tunic",
 	"icon": "inv_chest_cloth_84v4",
+	"requiredLevel": 1,
+	"itemLevel": 2,
 	"popularity": 16,
 	"armor": 16,
 	"side": "HORDE",

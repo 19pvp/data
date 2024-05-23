@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Redridge Machete",
 	"icon": "inv_sword_16",
+	"requiredLevel": 11,
+	"itemLevel": 16,
 	"dmgMin": 13,
 	"dmgMax": 25,
 	"speed": 2.3,
@@ -13,9 +15,10 @@
 	"subclass": "ONE_HANDED_SWORD",
 	"type": "ONE_HAND",
 	"stats": { "Stamina": 2 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 424,
 	"sourceName": "Redridge Poacher",
 	"sourceZone": "Redridge Mountains",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

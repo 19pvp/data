@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Inscribed Leather Belt",
 	"icon": "inv_belt_26",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"popularity": 7,
 	"armor": 43,
 	"class": "ARMOR",

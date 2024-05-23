@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Brood Mother Carapace",
 	"icon": "inv_chest_leather_09",
+	"requiredLevel": 5,
+	"itemLevel": 10,
 	"popularity": 9,
 	"armor": 52,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "LEATHER",
 	"type": "CHEST",
 	"stats": { "Stamina": 1 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 471,
 	"sourceName": "Mother Fang",
 	"sourceZone": "Elwynn Forest",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

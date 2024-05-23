@@ -2,6 +2,7 @@
 	"id": 38774,
 	"name": "Enchant Bracer - Minor Spirit",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 6,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

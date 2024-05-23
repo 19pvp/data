@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Trogg Kickers",
 	"icon": "inv_boots_08",
+	"requiredLevel": 14,
+	"itemLevel": 13,
 	"popularity": 26,
 	"armor": 43,
 	"side": "ALLIANCE",
@@ -12,5 +14,6 @@
 	"type": "FEET",
 	"stats": { "Agility": 1, "Stamina": 1 },
 	"source": "QUEST",
-	"sourceZone": "Loch Modan"
+	"sourceZone": "Loch Modan",
+	"sourceZoneType": "Zone"
 }

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Worn Defias Bracers",
 	"icon": "inv_bracer_02",
+	"requiredLevel": 12,
+	"itemLevel": 14,
 	"popularity": 11,
 	"armor": 29,
 	"side": "ALLIANCE",

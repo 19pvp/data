@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Elekk Handler's Blade",
 	"icon": "inv_sword_04",
+	"requiredLevel": 8,
+	"itemLevel": 11,
 	"dmgMin": 8,
 	"dmgMax": 16,
 	"speed": 2,

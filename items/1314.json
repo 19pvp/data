@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Ghoul Fingers",
 	"icon": "inv_gauntlets_13",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 11,
 	"armor": 55,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "LEATHER",
 	"type": "HANDS",
 	"stats": { "Agility": 3, "Stamina": 5 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 572,
 	"sourceName": "Leprithus",
 	"sourceZone": "Westfall",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

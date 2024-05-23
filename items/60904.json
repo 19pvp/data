@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Ring of the Fool",
 	"icon": "inv_jewelry_ring_03",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"popularity": 5,
 	"armor": 0,
 	"side": "ALLIANCE",

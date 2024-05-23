@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Barkeeper's Cloak",
 	"icon": "inv_misc_cape_03",
+	"requiredLevel": 14,
+	"itemLevel": 18,
 	"popularity": 12,
 	"armor": 26,
 	"class": "ARMOR",

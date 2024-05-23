@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Merger Boots",
 	"icon": "inv_boots_cloth_01",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"popularity": 39,
 	"armor": 38,
 	"side": "HORDE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Bristlebark Bindings",
 	"icon": "inv_bracer_08",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"popularity": 9,
 	"armor": 41,
 	"class": "ARMOR",

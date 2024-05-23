@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Reinforced Mail Belt",
 	"icon": "inv_belt_45c",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 3,
 	"armor": 48,
 	"side": "ALLIANCE",

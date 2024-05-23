@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Maestra's Gloves",
 	"icon": "inv_gauntlets_29",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 5,
 	"armor": 93,
 	"side": "ALLIANCE",
@@ -12,5 +14,6 @@
 	"type": "HANDS",
 	"stats": { "Stamina": 3, "Intellect": 3 },
 	"source": "QUEST",
-	"sourceZone": "Ashenvale"
+	"sourceZone": "Ashenvale",
+	"sourceZoneType": "Zone"
 }

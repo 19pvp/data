@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Darkspear Druidic Staff",
 	"icon": "inv_staff_18",
+	"requiredLevel": 1,
+	"itemLevel": 2,
 	"dmgMin": 2.8,
 	"dmgMax": 4.480000066757202,
 	"speed": 2.8,

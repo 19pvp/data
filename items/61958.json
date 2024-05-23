@@ -1,8 +1,10 @@
 {
 	"id": 61958,
-	"bind": "<br>Item Level <!--ilvl-->1",
+	"bind": "Binds to account",
 	"name": "Tattered Dreadmist Mask",
 	"icon": "inv_helmet_29",
+	"requiredLevel": 80,
+	"itemLevel": 1,
 	"popularity": 326,
 	"armor": 0,
 	"class": "ARMOR",

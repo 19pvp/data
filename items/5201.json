@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Emberstone Staff",
 	"icon": "inv_staff_13",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"dmgMin": 42,
 	"dmgMax": 63,
 	"speed": 3,
@@ -13,6 +15,7 @@
 	"subclass": "STAFF",
 	"type": "TWO_HAND",
 	"stats": { "Critical Strike Rating": 6, "Stamina": 6, "Intellect": 6 },
-	"source": "DUNGEON",
-	"sourceZone": "The Deadmines"
+	"source": "DROP",
+	"sourceZone": "The Deadmines",
+	"sourceZoneType": "Dungeon"
 }

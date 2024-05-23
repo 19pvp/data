@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Oak Mallet",
 	"icon": "inv_hammer_15",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"dmgMin": 38,
 	"dmgMax": 58,
 	"speed": 3.5,

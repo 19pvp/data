@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Darkweave Breeches",
 	"icon": "inv_pants_06",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"popularity": 8,
 	"armor": 60,
 	"class": "ARMOR",

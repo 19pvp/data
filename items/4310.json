@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Heavy Woolen Gloves",
 	"icon": "inv_gauntlets_05",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"popularity": 10,
 	"armor": 32,
 	"class": "ARMOR",

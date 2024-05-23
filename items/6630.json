@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Seedcloud Buckler",
 	"icon": "inv_shield_10",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 8,
 	"armor": 700,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "SHIELDS",
 	"type": "SHIELD",
 	"stats": { "Intellect": 5, "Spirit": 3 },
-	"source": "DUNGEON",
+	"source": "DROP",
 	"sourceId": 5775,
 	"sourceName": "Verdan the Everliving",
 	"sourceZone": "Wailing Caverns",
+	"sourceZoneType": "Dungeon",
 	"sourceType": "NPC"
 }

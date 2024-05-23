@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Birchwood Maul",
 	"icon": "inv_hammer_15",
+	"requiredLevel": 10,
+	"itemLevel": 15,
 	"dmgMin": 26,
 	"dmgMax": 40,
 	"speed": 3.3,

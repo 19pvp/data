@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Kroum's Signet",
 	"icon": "inv_jewelry_ring_11",
+	"requiredLevel": 18,
+	"itemLevel": 20,
 	"popularity": 7,
 	"armor": 0,
 	"side": "HORDE",

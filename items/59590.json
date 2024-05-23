@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Darsok's Ring",
 	"icon": "inv_jewelry_ring_23",
+	"requiredLevel": 12,
+	"itemLevel": 20,
 	"popularity": 4,
 	"armor": 0,
 	"side": "HORDE",

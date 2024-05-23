@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Stolen Talrendis Boots",
 	"icon": "inv_boots_04",
+	"requiredLevel": 8,
+	"itemLevel": 10,
 	"popularity": 10,
 	"armor": 36,
 	"side": "HORDE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Seal of Argas",
 	"icon": "inv_jewelry_ring_08",
+	"requiredLevel": 19,
+	"itemLevel": 32,
 	"popularity": 40,
 	"armor": 0,
 	"class": "ARMOR",
@@ -11,5 +13,6 @@
 	"type": "FINGER",
 	"stats": { "Stamina": 5, "Intellect": 6 },
 	"source": "QUEST",
-	"sourceZone": "Ashenvale"
+	"sourceZone": "Ashenvale",
+	"sourceZoneType": "Zone"
 }

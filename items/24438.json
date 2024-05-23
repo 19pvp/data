@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Fur Covered Robe",
 	"icon": "inv_chest_cloth_21",
+	"requiredLevel": 7,
+	"itemLevel": 11,
 	"popularity": 21,
 	"armor": 37,
 	"side": "ALLIANCE",

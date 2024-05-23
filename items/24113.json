@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Cowlen's Bracers of Kinship",
 	"icon": "inv_bracer_02",
+	"requiredLevel": 6,
+	"itemLevel": 10,
 	"popularity": 7,
 	"armor": 15,
 	"side": "ALLIANCE",

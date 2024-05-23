@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Ancient Handguards",
 	"icon": "inv_gauntlets_10",
+	"requiredLevel": 16,
+	"itemLevel": 17,
 	"popularity": 8,
 	"armor": 79,
 	"side": "ALLIANCE",

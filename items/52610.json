@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Strap of the Ancient Horn",
 	"icon": "inv_belt_37b",
+	"requiredLevel": 17,
+	"itemLevel": 20,
 	"popularity": 7,
 	"armor": 49,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Staff of Nobles",
 	"icon": "inv_wand_04",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"dmgMin": 45,
 	"dmgMax": 68,
 	"speed": 3.2,

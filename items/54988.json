@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Cloak of the Clarion Call",
 	"icon": "inv_misc_cape_13",
+	"requiredLevel": 5,
+	"itemLevel": 14,
 	"popularity": 10,
 	"armor": 24,
 	"side": "ALLIANCE",

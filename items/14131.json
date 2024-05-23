@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Ritual Belt",
 	"icon": "inv_belt_05",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"popularity": 8,
 	"armor": 31,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Mo'grosh Masher",
 	"icon": "inv_hammer_15",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"dmgMin": 16,
 	"dmgMax": 30,
 	"speed": 2.5,
@@ -13,6 +15,7 @@
 	"subclass": "ONE_HANDED_MACE",
 	"type": "ONE_HAND",
 	"stats": { "Strength": 2 },
-	"source": "ZONE",
-	"sourceZone": "Loch Modan"
+	"source": "DROP",
+	"sourceZone": "Loch Modan",
+	"sourceZoneType": "Zone"
 }

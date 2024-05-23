@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Elegant Shortsword",
 	"icon": "inv_sword_06",
+	"requiredLevel": 12,
+	"itemLevel": 20,
 	"dmgMin": 14,
 	"dmgMax": 26,
 	"speed": 2,

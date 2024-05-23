@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Cookie's Stirring Stick",
 	"icon": "inv_wand_09",
+	"requiredLevel": 15,
+	"itemLevel": 17,
 	"dmgMin": 19,
 	"dmgMax": 37,
 	"speed": 1.6,

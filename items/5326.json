@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Flaring Baton",
 	"icon": "inv_staff_02",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"dmgMin": 18,
 	"dmgMax": 34,
 	"speed": 1.9,

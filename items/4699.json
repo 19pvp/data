@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Seer's Belt",
 	"icon": "inv_belt_22",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"popularity": 6,
 	"armor": 30,
 	"class": "ARMOR",

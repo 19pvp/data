@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Ravager Hide Gloves",
 	"icon": "inv_gauntlets_05",
+	"requiredLevel": 18,
+	"itemLevel": 20,
 	"popularity": 5,
 	"armor": 55,
 	"side": "ALLIANCE",

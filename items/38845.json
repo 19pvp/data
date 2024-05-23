@@ -2,6 +2,7 @@
 	"id": 38845,
 	"name": "Enchant 2H Weapon - Greater Impact",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 22,
 	"class": "CONSUMABLE",
 	"quality": "RARE",

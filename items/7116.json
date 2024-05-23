@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Heirloom Dagger",
 	"icon": "inv_weapon_shortblade_15",
+	"requiredLevel": 10,
+	"itemLevel": 15,
 	"dmgMin": 9,
 	"dmgMax": 17,
 	"speed": 1.7,

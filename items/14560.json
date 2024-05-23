@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Prospector's Boots",
 	"icon": "inv_boots_05",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"popularity": 9,
 	"armor": 58,
 	"class": "ARMOR",

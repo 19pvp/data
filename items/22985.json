@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Suncrown Hauberk",
 	"icon": "inv_chest_chain",
+	"requiredLevel": 10,
+	"itemLevel": 15,
 	"popularity": 10,
 	"armor": 114,
 	"class": "ARMOR",
@@ -14,5 +16,6 @@
 	"sourceId": 16528,
 	"sourceName": "Provisioner Vredigar",
 	"sourceZone": "Ghostlands",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

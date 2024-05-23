@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Tribal Pants",
 	"icon": "inv_pants_06",
+	"requiredLevel": 7,
+	"itemLevel": 12,
 	"popularity": 8,
 	"armor": 52,
 	"class": "ARMOR",

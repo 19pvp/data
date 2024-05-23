@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Wise Man's Belt",
 	"icon": "inv_belt_02",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 3,
 	"armor": 32,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Falathim-Washed Robes",
 	"icon": "inv_chest_cloth_01",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 13,
 	"armor": 60,
 	"side": "ALLIANCE",
@@ -12,5 +14,6 @@
 	"type": "CHEST",
 	"stats": { "Critical Strike Rating": 2, "Stamina": 4, "Intellect": 5 },
 	"source": "QUEST",
-	"sourceZone": "Ashenvale"
+	"sourceZone": "Ashenvale",
+	"sourceZoneType": "Zone"
 }

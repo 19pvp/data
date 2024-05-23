@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Bard's Trousers",
 	"icon": "inv_pants_06",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"popularity": 14,
 	"armor": 71,
 	"class": "ARMOR",

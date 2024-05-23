@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Pagan Cape",
 	"icon": "inv_misc_cape_10",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"popularity": 6,
 	"armor": 26,
 	"class": "ARMOR",

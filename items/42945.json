@@ -1,8 +1,10 @@
 {
 	"id": 42945,
-	"bind": "<br>Item Level <!--ilvl-->1",
+	"bind": "Binds to account",
 	"name": "Venerable Dal'Rend's Sacred Charge",
 	"icon": "inv_sword_43",
+	"requiredLevel": 80,
+	"itemLevel": 1,
 	"dmgMin": 29,
 	"dmgMax": 55,
 	"speed": 2.8,

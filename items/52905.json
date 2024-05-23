@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Best. Bracers. Ever.",
 	"icon": "inv_bracer_74v4",
+	"requiredLevel": 1,
+	"itemLevel": 8,
 	"popularity": 4,
 	"armor": 20,
 	"side": "HORDE",

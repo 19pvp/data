@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Goblin Smasher",
 	"icon": "inv_hammer_15",
+	"requiredLevel": 5,
+	"itemLevel": 12,
 	"dmgMin": 20,
 	"dmgMax": 31,
 	"speed": 3.1,

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Heavy Copper Maul",
 	"icon": "inv_hammer_18",
+	"requiredLevel": 11,
+	"itemLevel": 16,
 	"dmgMin": 24,
 	"dmgMax": 36,
 	"speed": 2.8,

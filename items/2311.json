@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "White Leather Jerkin",
 	"icon": "inv_chest_wolf",
+	"requiredLevel": 8,
+	"itemLevel": 13,
 	"popularity": 9,
 	"armor": 63,
 	"class": "ARMOR",

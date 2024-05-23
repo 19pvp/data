@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Cloudsbreak Gloves",
 	"icon": "inv_gauntlets_24",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 9,
 	"armor": 33,
 	"side": "ALLIANCE",

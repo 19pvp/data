@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Murloc Scale Breastplate",
 	"icon": "inv_chest_chain_12",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"popularity": 9,
 	"armor": 84,
 	"class": "ARMOR",

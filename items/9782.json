@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Bandit Jerkin",
 	"icon": "inv_shirt_11",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 17,
 	"armor": 98,
 	"class": "ARMOR",

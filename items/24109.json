@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Thick Ravager Belt",
 	"icon": "inv_belt_05",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 6,
 	"armor": 19,
 	"side": "ALLIANCE",

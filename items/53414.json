@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Hacker's Leggings",
 	"icon": "inv_pants_06",
+	"requiredLevel": 16,
+	"itemLevel": 18,
 	"popularity": 15,
 	"armor": 71,
 	"side": "HORDE",

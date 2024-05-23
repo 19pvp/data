@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Compact Shotgun",
 	"icon": "inv_weapon_rifle_03",
+	"requiredLevel": 8,
+	"itemLevel": 13,
 	"dmgMin": 12,
 	"dmgMax": 24,
 	"speed": 2,

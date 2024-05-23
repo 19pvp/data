@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Sporid Cape",
 	"icon": "inv_misc_cape_17",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 10,
 	"armor": 35,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Stamina": 5, "Spirit": 4 },
-	"source": "DUNGEON",
+	"source": "DROP",
 	"sourceId": 5775,
 	"sourceName": "Verdan the Everliving",
 	"sourceZone": "Wailing Caverns",
+	"sourceZoneType": "Dungeon",
 	"sourceType": "NPC"
 }

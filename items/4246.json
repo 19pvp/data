@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Fine Leather Belt",
 	"icon": "inv_belt_04",
+	"requiredLevel": 11,
+	"itemLevel": 16,
 	"popularity": 18,
 	"armor": 41,
 	"class": "ARMOR",

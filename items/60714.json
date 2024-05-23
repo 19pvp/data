@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Massive Firearm of Death",
 	"icon": "inv_weapon_rifle_40",
+	"requiredLevel": 16,
+	"itemLevel": 18,
 	"dmgMin": 33,
 	"dmgMax": 33,
 	"speed": 2.8,

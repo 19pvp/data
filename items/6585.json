@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Scouting Cloak",
 	"icon": "inv_misc_cape_02",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 8,
 	"armor": 29,
 	"class": "ARMOR",

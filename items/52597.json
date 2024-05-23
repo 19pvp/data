@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Tysha's Chestguard",
 	"icon": "inv_chest_leather_03",
+	"requiredLevel": 10,
+	"itemLevel": 13,
 	"popularity": 13,
 	"armor": 63,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Fuzzy Gloves",
 	"icon": "inv_gauntlets_05",
+	"requiredLevel": 10,
+	"itemLevel": 14,
 	"popularity": 15,
 	"armor": 42,
 	"side": "HORDE",

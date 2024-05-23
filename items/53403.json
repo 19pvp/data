@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Bedlam Gun",
 	"icon": "inv_weapon_rifle_08",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"dmgMin": 29,
 	"dmgMax": 56,
 	"speed": 2.8,

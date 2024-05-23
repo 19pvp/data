@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Silver Defias Belt",
 	"icon": "inv_belt_03",
+	"requiredLevel": 10,
+	"itemLevel": 15,
 	"popularity": 15,
 	"armor": 64,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "MAIL",
 	"type": "WAIST",
 	"stats": { "Strength": 2, "Stamina": 2 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 121,
 	"sourceName": "Defias Pathstalker",
 	"sourceZone": "Westfall",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

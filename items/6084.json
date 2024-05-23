@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Stormwind Guard Leggings",
 	"icon": "inv_pants_mail_36",
+	"requiredLevel": 7,
+	"itemLevel": 13,
 	"popularity": 4,
 	"armor": 90,
 	"side": "ALLIANCE",

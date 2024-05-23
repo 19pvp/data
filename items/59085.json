@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Breastplate of the Lost Paladin",
 	"icon": "inv_chest_chain_11",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"popularity": 7,
 	"armor": 155,
 	"side": "ALLIANCE",

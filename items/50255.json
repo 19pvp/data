@@ -1,7 +1,10 @@
 {
 	"id": 50255,
+	"bind": "Binds to account",
 	"name": "Dread Pirate Ring",
 	"icon": "inv_jewelry_ring_39",
+	"requiredLevel": 80,
+	"itemLevel": 1,
 	"popularity": 164,
 	"armor": 0,
 	"class": "ARMOR",

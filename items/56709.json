@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Garrosh's Pardon",
 	"icon": "inv_jewelry_ring_03",
+	"requiredLevel": 19,
+	"itemLevel": 23,
 	"popularity": 29,
 	"armor": 0,
 	"side": "HORDE",

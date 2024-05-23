@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Heavy Copper Longsword",
 	"icon": "inv_sword_25",
+	"requiredLevel": 6,
+	"itemLevel": 11,
 	"dmgMin": 10,
 	"dmgMax": 20,
 	"speed": 2.5,

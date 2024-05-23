@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Pagan Belt",
 	"icon": "inv_belt_24",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 5,
 	"armor": 34,
 	"class": "ARMOR",

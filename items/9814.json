@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Fortified Belt",
 	"icon": "inv_belt_04",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"popularity": 9,
 	"armor": 93,
 	"class": "ARMOR",

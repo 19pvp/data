@@ -2,6 +2,7 @@
 	"id": 38679,
 	"name": "Enchant Bracer - Minor Health",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 4,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

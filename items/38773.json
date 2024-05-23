@@ -2,6 +2,7 @@
 	"id": 38773,
 	"name": "Enchant Chest - Lesser Health",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 20,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

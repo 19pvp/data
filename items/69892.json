@@ -1,8 +1,10 @@
 {
 	"id": 69892,
-	"bind": "<br>Item Level <!--ilvl-->1",
+	"bind": "Binds to account",
 	"name": "Ripped Sandstorm Cloak",
 	"icon": "inv_misc_cape_06",
+	"requiredLevel": 80,
+	"itemLevel": 1,
 	"popularity": 94,
 	"armor": 0,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Wolfmaster Cape",
 	"icon": "inv_misc_cape_10",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 3,
 	"armor": 33,
 	"class": "ARMOR",
@@ -10,6 +12,7 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Agility": 5, "Stamina": 3 },
-	"source": "DUNGEON",
-	"sourceZone": "Shadowfang Keep"
+	"source": "DROP",
+	"sourceZone": "Shadowfang Keep",
+	"sourceZoneType": "Dungeon"
 }

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Earth-Crusted Mail",
 	"icon": "inv_chest_chain_06",
+	"requiredLevel": 13,
+	"itemLevel": 16,
 	"popularity": 9,
 	"armor": 120,
 	"side": "ALLIANCE",

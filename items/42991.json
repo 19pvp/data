@@ -1,8 +1,10 @@
 {
 	"id": 42991,
-	"bind": "<br>Item Level <!--ilvl-->1",
+	"bind": "Binds to account",
 	"name": "Swift Hand of Justice",
 	"icon": "inv_jewelry_talisman_01",
+	"requiredLevel": 80,
+	"itemLevel": 1,
 	"popularity": 109,
 	"armor": 0,
 	"class": "ARMOR",

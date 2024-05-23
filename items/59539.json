@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Mankrik's Old Wedding Garments",
 	"icon": "inv_chest_cloth_32",
+	"requiredLevel": 10,
+	"itemLevel": 12,
 	"popularity": 15,
 	"armor": 39,
 	"side": "HORDE",

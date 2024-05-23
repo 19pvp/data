@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Heartache Dagger",
 	"icon": "inv_weapon_shortblade_15",
+	"requiredLevel": 1,
+	"itemLevel": 12,
 	"dmgMin": 8,
 	"dmgMax": 15,
 	"speed": 1.8,

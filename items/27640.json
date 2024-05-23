@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Hand of Argus Crossfire",
 	"icon": "inv_weapon_crossbow_14",
+	"requiredLevel": 10,
+	"itemLevel": 16,
 	"dmgMin": 30,
 	"dmgMax": 30,
 	"speed": 2.8,

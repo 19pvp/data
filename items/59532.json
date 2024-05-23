@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Imported Bracers",
 	"icon": "inv_bracer_07",
+	"requiredLevel": 10,
+	"itemLevel": 12,
 	"popularity": 8,
 	"armor": 17,
 	"side": "HORDE",

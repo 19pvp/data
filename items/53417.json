@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Hobart's Spare Hubcap",
 	"icon": "inv_shield_09",
+	"requiredLevel": 11,
+	"itemLevel": 14,
 	"popularity": 6,
 	"armor": 444,
 	"side": "HORDE",

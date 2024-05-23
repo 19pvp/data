@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Star Shooter",
 	"icon": "inv_wand_02",
+	"requiredLevel": 8,
+	"itemLevel": 12,
 	"dmgMin": 9,
 	"dmgMax": 18,
 	"speed": 1.6,

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Bear Buckler",
 	"icon": "inv_shield_09",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 8,
 	"armor": 658,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Bristlebark Cape",
 	"icon": "inv_misc_cape_09",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 23,
 	"armor": 30,
 	"class": "ARMOR",

@@ -2,6 +2,7 @@
 	"id": 38884,
 	"name": "Enchant Weapon - Mighty Intellect",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 38,
 	"class": "CONSUMABLE",
 	"quality": "RARE",

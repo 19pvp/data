@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Sabots of Red Waters",
 	"icon": "inv_boots_08",
+	"requiredLevel": 11,
+	"itemLevel": 13,
 	"popularity": 8,
 	"armor": 43,
 	"side": "HORDE",

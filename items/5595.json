@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Thicket Hammer",
 	"icon": "inv_hammer_15",
+	"requiredLevel": 1,
+	"itemLevel": 11,
 	"dmgMin": 19,
 	"dmgMax": 29,
 	"speed": 3.1,

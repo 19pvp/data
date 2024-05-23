@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Robotronic Vest",
 	"icon": "inv_chest_chain_07",
+	"requiredLevel": 15,
+	"itemLevel": 18,
 	"popularity": 7,
 	"armor": 131,
 	"side": "HORDE",

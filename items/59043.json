@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Death Star",
 	"icon": "inv_mace_34",
+	"requiredLevel": 3,
+	"itemLevel": 3,
 	"dmgMin": 2.5999999999999996,
 	"dmgMax": 5.179999923706054,
 	"speed": 2.6,

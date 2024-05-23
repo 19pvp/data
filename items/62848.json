@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Treads of the Sepulcher",
 	"icon": "inv_boots_chain_02",
+	"requiredLevel": 11,
+	"itemLevel": 13,
 	"popularity": 5,
 	"armor": 70,
 	"side": "HORDE",

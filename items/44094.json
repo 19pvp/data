@@ -1,8 +1,10 @@
 {
 	"id": 44094,
-	"bind": "<br>Item Level <!--ilvl-->1",
+	"bind": "Binds to account",
 	"name": "The Blessed Hammer of Grace",
 	"icon": "inv_hammer_07",
+	"requiredLevel": 80,
+	"itemLevel": 1,
 	"dmgMin": 28,
 	"dmgMax": 53,
 	"speed": 2.7,
@@ -14,5 +16,6 @@
 	"type": "MAIN_HAND",
 	"stats": { "Resilience": 3, "Spell Power": 39, "Stamina": 3, "Spirit": 2 },
 	"source": "VENDOR",
-	"sourceZone": "Wintergrasp"
+	"sourceZone": "Wintergrasp",
+	"sourceZoneType": "Zone"
 }

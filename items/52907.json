@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Snake Scale Belt",
 	"icon": "inv_belt_84v2",
+	"requiredLevel": 1,
+	"itemLevel": 8,
 	"popularity": 7,
 	"armor": 41,
 	"side": "HORDE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Unsanitary Gloves",
 	"icon": "inv_gauntlets_27",
+	"requiredLevel": 14,
+	"itemLevel": 15,
 	"popularity": 8,
 	"armor": 29,
 	"side": "ALLIANCE",

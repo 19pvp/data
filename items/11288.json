@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Greater Magic Wand",
 	"icon": "inv_staff_07",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"dmgMin": 17,
 	"dmgMax": 32,
 	"speed": 1.8,

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Robe of Shame",
 	"icon": "inv_chest_cloth_31",
+	"requiredLevel": 13,
+	"itemLevel": 16,
 	"popularity": 7,
 	"armor": 48,
 	"side": "HORDE",

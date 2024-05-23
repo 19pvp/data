@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Brackwater Shield",
 	"icon": "inv_shield_09",
+	"requiredLevel": 9,
+	"itemLevel": 14,
 	"popularity": 8,
 	"armor": 444,
 	"class": "ARMOR",

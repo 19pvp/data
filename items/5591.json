@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Rain-Spotted Cape",
 	"icon": "inv_misc_cape_12",
+	"requiredLevel": 6,
+	"itemLevel": 10,
 	"popularity": 8,
 	"armor": 17,
 	"side": "ALLIANCE",

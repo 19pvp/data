@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Crossbow of the Hand",
 	"icon": "inv_weapon_crossbow_13",
+	"requiredLevel": 18,
+	"itemLevel": 20,
 	"dmgMin": 35,
 	"dmgMax": 36,
 	"speed": 2.7,

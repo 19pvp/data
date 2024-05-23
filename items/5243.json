@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Firebelcher",
 	"icon": "inv_wand_11",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"dmgMin": 25,
 	"dmgMax": 47,
 	"speed": 1.7,
@@ -13,9 +15,10 @@
 	"subclass": "WAND",
 	"type": "RANGED",
 	"stats": { "Stamina": 3, "Intellect": 3 },
-	"source": "DUNGEON",
+	"source": "DROP",
 	"sourceId": 5912,
 	"sourceName": "Deviate Faerie Dragon",
 	"sourceZone": "Wailing Caverns",
+	"sourceZoneType": "Dungeon",
 	"sourceType": "NPC"
 }

@@ -3,6 +3,7 @@
 	"bind": "Binds when picked up",
 	"name": "Lucky Fishing Hat",
 	"icon": "inv_helmet_31",
+	"itemLevel": 40,
 	"popularity": 43,
 	"armor": 84,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Cry of the Wolf",
 	"icon": "inv_weapon_rifle_40",
+	"requiredLevel": 5,
+	"itemLevel": 9,
 	"dmgMin": 18,
 	"dmgMax": 18,
 	"speed": 2.8,

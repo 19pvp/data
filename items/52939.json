@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Cage-Launcher's Mail",
 	"icon": "inv_chest_chain_08",
+	"requiredLevel": 1,
+	"itemLevel": 12,
 	"popularity": 10,
 	"armor": 97,
 	"side": "HORDE",

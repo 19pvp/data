@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Bounty Hunter's Ring",
 	"icon": "inv_jewelry_ring_01",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 10,
 	"armor": 0,
 	"side": "HORDE",

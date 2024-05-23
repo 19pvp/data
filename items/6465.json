@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Robe of the Moccasin",
 	"icon": "inv_chest_cloth_36",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 14,
 	"armor": 66,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "CLOTH",
 	"type": "CHEST",
 	"stats": { "Stamina": 6, "Intellect": 6, "Spirit": 6 },
-	"source": "DUNGEON",
+	"source": "DROP",
 	"sourceId": 3669,
 	"sourceName": "Lord Cobrahn",
 	"sourceZone": "Wailing Caverns",
+	"sourceZoneType": "Dungeon",
 	"sourceType": "NPC"
 }

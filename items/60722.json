@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Bravo Company Mantle",
 	"icon": "inv_shoulder_25",
+	"requiredLevel": 17,
+	"itemLevel": 20,
 	"popularity": 5,
 	"armor": 43,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Marblebeard's Shrug",
 	"icon": "inv_shoulder_25",
+	"requiredLevel": 18,
+	"itemLevel": 20,
 	"popularity": 4,
 	"armor": 43,
 	"side": "ALLIANCE",

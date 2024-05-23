@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Unidentified Cooking Utensil",
 	"icon": "inv_drink_17",
+	"requiredLevel": 16,
+	"itemLevel": 18,
 	"speed": 2,
 	"popularity": 45,
 	"armor": 0,

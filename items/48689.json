@@ -1,8 +1,10 @@
 {
 	"id": 48689,
-	"bind": "<br>Item Level <!--ilvl-->1",
+	"bind": "Binds to account",
 	"name": "Stained Shadowcraft Tunic",
 	"icon": "inv_chest_leather_07",
+	"requiredLevel": 1,
+	"itemLevel": 1,
 	"popularity": 113,
 	"armor": 0,
 	"class": "ARMOR",

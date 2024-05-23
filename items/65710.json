@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Creeping Boots",
 	"icon": "inv_boots_chain_07",
+	"requiredLevel": 19,
+	"itemLevel": 20,
 	"popularity": 4,
 	"armor": 98,
 	"side": "HORDE",

@@ -2,6 +2,7 @@
 	"id": 38767,
 	"name": "Enchant Chest - Minor Absorption",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 5,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

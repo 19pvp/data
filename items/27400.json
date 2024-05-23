@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Peacekeeper's Buckler",
 	"icon": "inv_shield_02",
+	"requiredLevel": 9,
+	"itemLevel": 17,
 	"popularity": 9,
 	"armor": 516,
 	"side": "ALLIANCE",

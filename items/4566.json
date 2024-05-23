@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Sturdy Quarterstaff",
 	"icon": "inv_staff_08",
+	"requiredLevel": 8,
+	"itemLevel": 13,
 	"dmgMin": 20,
 	"dmgMax": 30,
 	"speed": 2.8,

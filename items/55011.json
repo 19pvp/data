@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Mace of the Blood Price",
 	"icon": "inv_mace_66",
+	"requiredLevel": 5,
+	"itemLevel": 14,
 	"dmgMin": 34,
 	"dmgMax": 52,
 	"speed": 3.3,

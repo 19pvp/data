@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Aynasha's Spare Sword",
 	"icon": "inv_sword_04",
+	"requiredLevel": 10,
+	"itemLevel": 13,
 	"dmgMin": 12,
 	"dmgMax": 23,
 	"speed": 2.5,

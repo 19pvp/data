@@ -2,6 +2,7 @@
 	"id": 38829,
 	"name": "Enchant Bracer - Intellect",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 33,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

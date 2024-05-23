@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Gloves of the Mailed Fist",
 	"icon": "inv_gauntlets_04",
+	"requiredLevel": 13,
+	"itemLevel": 13,
 	"popularity": 22,
 	"armor": 64,
 	"side": "ALLIANCE",

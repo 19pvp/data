@@ -3,6 +3,7 @@
 	"bind": "Binds when equipped",
 	"name": "Flying Tiger Goggles",
 	"icon": "inv_helmet_47",
+	"itemLevel": 20,
 	"popularity": 29,
 	"armor": 47,
 	"class": "ARMOR",

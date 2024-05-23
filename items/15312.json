@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Feral Leggings",
 	"icon": "inv_pants_06",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 9,
 	"armor": 77,
 	"class": "ARMOR",

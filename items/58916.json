@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Chewed Belt",
 	"icon": "inv_belt_04",
+	"requiredLevel": 10,
+	"itemLevel": 13,
 	"popularity": 4,
 	"armor": 35,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "War Paint Cloak",
 	"icon": "inv_misc_cape_18",
+	"requiredLevel": 11,
+	"itemLevel": 16,
 	"popularity": 8,
 	"armor": 24,
 	"class": "ARMOR",

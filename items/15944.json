@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Ancestral Orb",
 	"icon": "inv_misc_orb_03",
+	"requiredLevel": 7,
+	"itemLevel": 12,
 	"popularity": 20,
 	"armor": 0,
 	"class": "ARMOR",

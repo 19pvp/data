@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Marshalling Point",
 	"icon": "inv_weapon_shortblade_15",
+	"requiredLevel": 5,
+	"itemLevel": 14,
 	"dmgMin": 12,
 	"dmgMax": 24,
 	"speed": 1.8,

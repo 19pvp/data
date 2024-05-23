@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Staff of the Formidable Opponent",
 	"icon": "inv_staff_08",
+	"requiredLevel": 11,
+	"itemLevel": 13,
 	"dmgMin": 23,
 	"dmgMax": 36,
 	"speed": 3.3,

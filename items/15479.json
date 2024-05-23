@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Charger's Armor",
 	"icon": "inv_chest_chain_16",
+	"requiredLevel": 6,
+	"itemLevel": 11,
 	"popularity": 10,
 	"armor": 91,
 	"class": "ARMOR",

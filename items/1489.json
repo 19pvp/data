@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Gloomshroud Armor",
 	"icon": "inv_chest_leather_08",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 39,
 	"armor": 100,
 	"class": "ARMOR",
@@ -10,6 +12,7 @@
 	"subclass": "LEATHER",
 	"type": "CHEST",
 	"stats": { "Critical Strike Rating": 6, "Agility": 8, "Stamina": 4 },
-	"source": "DUNGEON",
-	"sourceZone": "Shadowfang Keep"
+	"source": "DROP",
+	"sourceZone": "Shadowfang Keep",
+	"sourceZoneType": "Dungeon"
 }

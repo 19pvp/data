@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Shadowhide Scalper",
 	"icon": "inv_throwingaxe_03",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"dmgMin": 25,
 	"dmgMax": 47,
 	"speed": 2.9,
@@ -13,9 +15,10 @@
 	"subclass": "ONE_HANDED_AXE",
 	"type": "ONE_HAND",
 	"stats": { "Strength": 3 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 579,
 	"sourceName": "Shadowhide Assassin",
 	"sourceZone": "Redridge Mountains",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

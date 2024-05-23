@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Unfortunate Treads",
 	"icon": "inv_boots_chain_06",
+	"requiredLevel": 14,
+	"itemLevel": 15,
 	"popularity": 8,
 	"armor": 78,
 	"side": "ALLIANCE",
@@ -12,5 +14,6 @@
 	"type": "FEET",
 	"stats": { "Critical Strike Rating": 2, "Stamina": 2 },
 	"source": "QUEST",
-	"sourceZone": "Redridge Mountains"
+	"sourceZone": "Redridge Mountains",
+	"sourceZoneType": "Zone"
 }

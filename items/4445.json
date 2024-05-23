@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Flesh Carver",
 	"icon": "inv_axe_16",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"dmgMin": 18,
 	"dmgMax": 35,
 	"speed": 2.3,
@@ -13,9 +15,10 @@
 	"subclass": "ONE_HANDED_AXE",
 	"type": "ONE_HAND",
 	"stats": { "Agility": 2, "Stamina": 2 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 1948,
 	"sourceName": "Snarlmane",
 	"sourceZone": "Silverpine Forest",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

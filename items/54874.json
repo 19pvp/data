@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Grassy Bindings",
 	"icon": "inv_boots_04",
+	"requiredLevel": 1,
+	"itemLevel": 11,
 	"popularity": 33,
 	"armor": 38,
 	"side": "ALLIANCE",

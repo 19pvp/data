@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Searing Blade",
 	"icon": "inv_sword_21",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"dmgMin": 39,
 	"dmgMax": 59,
 	"speed": 2.5,

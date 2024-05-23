@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Ragefire Leggings",
 	"icon": "inv_pants_08",
+	"requiredLevel": 13,
+	"itemLevel": 16,
 	"popularity": 5,
 	"armor": 71,
 	"side": "HORDE",

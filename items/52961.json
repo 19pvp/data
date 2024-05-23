@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Gnomish Parachute Scrap",
 	"icon": "inv_misc_cape_11",
+	"requiredLevel": 1,
+	"itemLevel": 11,
 	"popularity": 10,
 	"armor": 18,
 	"side": "HORDE",

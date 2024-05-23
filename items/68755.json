@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Imbued Disciple's Gloves",
 	"icon": "inv_gauntlets_21",
+	"requiredLevel": 6,
+	"itemLevel": 11,
 	"popularity": 20,
 	"armor": 23,
 	"class": "ARMOR",

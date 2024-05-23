@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Balanced Spell Staff",
 	"icon": "inv_staff_08",
+	"requiredLevel": 7,
+	"itemLevel": 13,
 	"dmgMin": 18,
 	"dmgMax": 21,
 	"speed": 2.2,

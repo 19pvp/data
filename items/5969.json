@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Regent's Cloak",
 	"icon": "inv_misc_cape_14",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 8,
 	"armor": 32,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Spirit": 4 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 2283,
 	"sourceName": "Ravenclaw Regent",
 	"sourceZone": "Silverpine Forest",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

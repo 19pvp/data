@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Battle Healer's Cloak",
 	"icon": "inv_misc_cape_18",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 10,
 	"armor": 35,
 	"side": "HORDE",
@@ -15,5 +17,6 @@
 	"sourceId": 14754,
 	"sourceName": "Kelm Hargunth",
 	"sourceZone": "Northern Barrens",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

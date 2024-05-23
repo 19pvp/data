@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Defender Girdle",
 	"icon": "inv_belt_22",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"popularity": 12,
 	"armor": 87,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Stoutfist Breastplate",
 	"icon": "inv_chest_cloth_45",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 21,
 	"armor": 91,
 	"side": "ALLIANCE",

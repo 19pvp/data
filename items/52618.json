@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Ancient Cuffs",
 	"icon": "inv_bracer_02",
+	"requiredLevel": 16,
+	"itemLevel": 18,
 	"popularity": 9,
 	"armor": 35,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Imbued Disciple's Sash",
 	"icon": "inv_belt_02",
+	"requiredLevel": 5,
+	"itemLevel": 10,
 	"popularity": 22,
 	"armor": 19,
 	"class": "ARMOR",

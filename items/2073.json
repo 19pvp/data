@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Dwarven Hatchet",
 	"icon": "inv_axe_04",
+	"requiredLevel": 10,
+	"itemLevel": 15,
 	"dmgMin": 10,
 	"dmgMax": 20,
 	"speed": 2,

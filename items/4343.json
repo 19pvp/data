@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Brown Linen Pants",
 	"icon": "inv_pants_06",
+	"requiredLevel": 5,
+	"itemLevel": 10,
 	"popularity": 13,
 	"armor": 30,
 	"class": "ARMOR",

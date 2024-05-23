@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Hunting Pants",
 	"icon": "inv_pants_wolf",
+	"requiredLevel": 11,
+	"itemLevel": 16,
 	"popularity": 8,
 	"armor": 64,
 	"class": "ARMOR",

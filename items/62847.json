@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Sea Dog Belt",
 	"icon": "inv_belt_04",
+	"requiredLevel": 11,
+	"itemLevel": 13,
 	"popularity": 20,
 	"armor": 35,
 	"side": "HORDE",

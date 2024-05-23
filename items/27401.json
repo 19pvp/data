@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Arugoo's Crossbow of Destruction",
 	"icon": "inv_weapon_crossbow_04",
+	"requiredLevel": 8,
+	"itemLevel": 12,
 	"dmgMin": 18,
 	"dmgMax": 28,
 	"speed": 2.8,

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Wildkin Feather Belt",
 	"icon": "inv_belt_04",
+	"requiredLevel": 13,
+	"itemLevel": 17,
 	"popularity": 6,
 	"armor": 43,
 	"side": "ALLIANCE",

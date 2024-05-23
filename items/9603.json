@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Gritroot Staff",
 	"icon": "inv_staff_22",
+	"requiredLevel": 4,
+	"itemLevel": 10,
 	"dmgMin": 14,
 	"dmgMax": 22,
 	"speed": 2.6,

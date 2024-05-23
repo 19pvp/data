@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Heart Wrapper",
 	"icon": "inv_misc_cape_14",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"popularity": 9,
 	"armor": 28,
 	"side": "HORDE",

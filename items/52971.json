@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Igneous Leggings",
 	"icon": "inv_pants_07",
+	"requiredLevel": 1,
+	"itemLevel": 12,
 	"popularity": 25,
 	"armor": 57,
 	"side": "HORDE",

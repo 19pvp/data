@@ -2,6 +2,7 @@
 	"id": 38882,
 	"name": "Enchant Bracer - Healing Power",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 9,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

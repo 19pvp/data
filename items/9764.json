@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Cadet Shield",
 	"icon": "inv_shield_09",
+	"requiredLevel": 8,
+	"itemLevel": 13,
 	"popularity": 31,
 	"armor": 418,
 	"class": "ARMOR",

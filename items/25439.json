@@ -1,7 +1,10 @@
 {
 	"id": 25439,
+	"bind": "Binds when equipped",
 	"name": "Tigerseye Band",
 	"icon": "inv_jewelry_ring_21",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"popularity": 8,
 	"armor": 0,
 	"class": "ARMOR",

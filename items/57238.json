@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Cliff Running Boots",
 	"icon": "inv_boots_chain_01",
+	"requiredLevel": 4,
+	"itemLevel": 10,
 	"popularity": 19,
 	"armor": 59,
 	"side": "HORDE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Sentinel Hill Breastplate",
 	"icon": "inv_chest_chain_07",
+	"requiredLevel": 11,
+	"itemLevel": 13,
 	"popularity": 19,
 	"armor": 102,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Darkspear Soothsayer Robes",
 	"icon": "inv_chest_cloth_84v4",
+	"requiredLevel": 1,
+	"itemLevel": 2,
 	"popularity": 23,
 	"armor": 16,
 	"side": "HORDE",

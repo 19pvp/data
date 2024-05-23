@@ -2,6 +2,7 @@
 	"id": 38817,
 	"name": "Enchant Bracer - Strength",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 15,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

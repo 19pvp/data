@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Edged Bastard Sword",
 	"icon": "inv_sword_23",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"dmgMin": 29,
 	"dmgMax": 44,
 	"speed": 3.1,

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Bottom-Wader Boots",
 	"icon": "inv_boots_06",
+	"requiredLevel": 10,
+	"itemLevel": 12,
 	"popularity": 9,
 	"armor": 41,
 	"side": "HORDE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Unmistakable Gloves",
 	"icon": "inv_gauntlets_10",
+	"requiredLevel": 14,
+	"itemLevel": 18,
 	"popularity": 5,
 	"armor": 82,
 	"side": "HORDE",

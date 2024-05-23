@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "War Blood Cloak",
 	"icon": "inv_misc_cape_22",
+	"requiredLevel": 12,
+	"itemLevel": 15,
 	"popularity": 4,
 	"armor": 23,
 	"side": "HORDE",

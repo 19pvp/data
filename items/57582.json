@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Stonebreaker's Gauntlets",
 	"icon": "inv_gauntlets_12",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 18,
 	"armor": 53,
 	"side": "ALLIANCE",

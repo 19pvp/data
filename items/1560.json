@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Bluegill Sandals",
 	"icon": "inv_boots_fabric_01",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 10,
 	"armor": 41,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "CLOTH",
 	"type": "FEET",
 	"stats": { "Intellect": 2, "Spirit": 4 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 1025,
 	"sourceName": "Bluegill Puddlejumper",
 	"sourceZone": "Wetlands",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

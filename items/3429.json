@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Guardsman Belt",
 	"icon": "inv_belt_04",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"popularity": 10,
 	"armor": 57,
 	"class": "ARMOR",
@@ -10,6 +12,7 @@
 	"subclass": "LEATHER",
 	"type": "WAIST",
 	"stats": { "Agility": 4, "Stamina": 4 },
-	"source": "ZONE",
-	"sourceZone": "Hillsbrad Foothills"
+	"source": "DROP",
+	"sourceZone": "Hillsbrad Foothills",
+	"sourceZoneType": "Zone"
 }

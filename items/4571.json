@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "War Knife",
 	"icon": "inv_weapon_shortblade_15",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"dmgMin": 10,
 	"dmgMax": 19,
 	"speed": 1.7,

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Waterbearer's Robes",
 	"icon": "inv_chest_cloth_32",
+	"requiredLevel": 4,
+	"itemLevel": 10,
 	"popularity": 15,
 	"armor": 34,
 	"side": "HORDE",

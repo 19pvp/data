@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Incorruptable Shawl",
 	"icon": "inv_misc_cape_11",
+	"requiredLevel": 16,
+	"itemLevel": 18,
 	"popularity": 9,
 	"armor": 26,
 	"side": "ALLIANCE",

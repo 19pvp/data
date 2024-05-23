@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Band of Perseverance",
 	"icon": "inv_jewelry_ring_30",
+	"requiredLevel": 19,
+	"itemLevel": 26,
 	"popularity": 6,
 	"armor": 0,
 	"side": "ALLIANCE",

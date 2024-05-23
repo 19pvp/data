@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Noble's Robe",
 	"icon": "inv_chest_cloth_38",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 12,
 	"armor": 63,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Blessed Claymore",
 	"icon": "inv_sword_13",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"dmgMin": 29,
 	"dmgMax": 44,
 	"speed": 2.5,

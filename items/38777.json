@@ -2,6 +2,7 @@
 	"id": 38777,
 	"name": "Enchant Bracer - Minor Agility",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 5,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

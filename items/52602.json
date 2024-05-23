@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Archaeologist's Britches",
 	"icon": "inv_pants_08",
+	"requiredLevel": 13,
+	"itemLevel": 15,
 	"popularity": 5,
 	"armor": 61,
 	"side": "ALLIANCE",

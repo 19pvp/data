@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Arcanist's Wand",
 	"icon": "inv_staff_02",
+	"requiredLevel": 9,
+	"itemLevel": 14,
 	"dmgMin": 11,
 	"dmgMax": 22,
 	"speed": 1.6,

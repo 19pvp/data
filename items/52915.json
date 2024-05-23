@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Aggra's Sash",
 	"icon": "inv_belt_25",
+	"requiredLevel": 1,
+	"itemLevel": 11,
 	"popularity": 6,
 	"armor": 21,
 	"side": "HORDE",

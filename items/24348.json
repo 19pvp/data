@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Tunic of the Dragon Slayer",
 	"icon": "inv_chest_chain_16",
+	"requiredLevel": 19,
+	"itemLevel": 18,
 	"popularity": 19,
 	"armor": 131,
 	"side": "ALLIANCE",

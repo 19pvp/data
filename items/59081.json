@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Merchant Marine Boots",
 	"icon": "inv_boots_03",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"popularity": 5,
 	"armor": 65,
 	"side": "ALLIANCE",

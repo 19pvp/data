@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Greenweave Bracers",
 	"icon": "inv_bracer_12",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 6,
 	"armor": 26,
 	"class": "ARMOR",

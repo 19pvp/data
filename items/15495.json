@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Bloodspattered Wristbands",
 	"icon": "inv_bracer_10",
+	"requiredLevel": 10,
+	"itemLevel": 15,
 	"popularity": 9,
 	"armor": 50,
 	"class": "ARMOR",

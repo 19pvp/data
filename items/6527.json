@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Ancestral Robe",
 	"icon": "inv_chest_cloth_13",
+	"requiredLevel": 8,
+	"itemLevel": 13,
 	"popularity": 3,
 	"armor": 41,
 	"class": "ARMOR",

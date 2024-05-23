@@ -2,6 +2,7 @@
 	"id": 38860,
 	"name": "Enchant Shield - Vitality",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 21,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

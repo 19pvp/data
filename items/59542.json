@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Thornweaver Leggings",
 	"icon": "inv_pants_01",
+	"requiredLevel": 9,
+	"itemLevel": 12,
 	"popularity": 12,
 	"armor": 34,
 	"side": "HORDE",

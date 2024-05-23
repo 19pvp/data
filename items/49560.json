@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Proof of Death",
 	"icon": "inv_sword_23",
+	"requiredLevel": 14,
+	"itemLevel": 16,
 	"dmgMin": 28,
 	"dmgMax": 43,
 	"speed": 3.3,

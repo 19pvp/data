@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Arachnophobe's Breastplate",
 	"icon": "inv_chest_leather_08",
+	"requiredLevel": 5,
+	"itemLevel": 10,
 	"popularity": 10,
 	"armor": 52,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Hands of Encouragement",
 	"icon": "inv_gauntlets_29",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 6,
 	"armor": 93,
 	"side": "HORDE",

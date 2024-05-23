@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Dark Leather Tunic",
 	"icon": "inv_chest_leather_03",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 3,
 	"armor": 88,
 	"class": "ARMOR",

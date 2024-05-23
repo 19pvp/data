@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "2 Stone Sledgehammer",
 	"icon": "inv_mace_02",
+	"requiredLevel": 8,
+	"itemLevel": 11,
 	"dmgMin": 21,
 	"dmgMax": 33,
 	"speed": 3.5,

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Ritual Cape",
 	"icon": "inv_misc_cape_14",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"popularity": 19,
 	"armor": 25,
 	"class": "ARMOR",

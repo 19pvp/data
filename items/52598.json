@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Soothsaying Vest",
 	"icon": "inv_chest_leather_09",
+	"requiredLevel": 13,
+	"itemLevel": 17,
 	"popularity": 5,
 	"armor": 77,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Raider's Bracers",
 	"icon": "inv_bracer_13",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"popularity": 5,
 	"armor": 55,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Blackrock Shield",
 	"icon": "inv_shield_07",
+	"requiredLevel": 15,
+	"itemLevel": 17,
 	"popularity": 9,
 	"armor": 516,
 	"side": "ALLIANCE",

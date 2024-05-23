@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Witchdoctor Leggings",
 	"icon": "inv_pants_02",
+	"requiredLevel": 1,
+	"itemLevel": 10,
 	"popularity": 10,
 	"armor": 46,
 	"side": "HORDE",

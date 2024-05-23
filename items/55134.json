@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Fiery Bracers",
 	"icon": "inv_bracer_29",
+	"requiredLevel": 13,
+	"itemLevel": 17,
 	"popularity": 7,
 	"armor": 55,
 	"side": "ALLIANCE",

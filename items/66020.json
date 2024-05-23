@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Sandals of Sacrifice",
 	"icon": "inv_boots_cloth_01",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 13,
 	"armor": 69,
 	"side": "HORDE",

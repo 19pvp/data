@@ -2,6 +2,7 @@
 	"id": 38892,
 	"name": "Enchant Cloak - Greater Nature Resistance",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 21,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "An'telas Scale Shirt",
 	"icon": "inv_chest_chain_12",
+	"requiredLevel": 11,
+	"itemLevel": 16,
 	"popularity": 10,
 	"armor": 120,
 	"side": "HORDE",

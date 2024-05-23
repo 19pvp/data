@@ -1,7 +1,9 @@
 {
 	"id": 9362,
+	"bind": "Binds when picked up",
 	"name": "Brilliant Gold Ring",
 	"icon": "inv_jewelry_ring_03",
+	"itemLevel": 31,
 	"popularity": 8,
 	"armor": 0,
 	"class": "ARMOR",

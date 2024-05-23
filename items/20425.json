@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Advisor's Gnarled Staff",
 	"icon": "inv_staff_25",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"dmgMin": 45,
 	"dmgMax": 69,
 	"speed": 2.9,
@@ -18,5 +20,6 @@
 	"sourceId": 14754,
 	"sourceName": "Kelm Hargunth",
 	"sourceZone": "Northern Barrens",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

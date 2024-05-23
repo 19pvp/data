@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Sludge Fen Cloak",
 	"icon": "inv_misc_cape_14",
+	"requiredLevel": 14,
+	"itemLevel": 16,
 	"popularity": 3,
 	"armor": 24,
 	"side": "HORDE",

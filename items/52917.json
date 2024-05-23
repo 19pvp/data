@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Gallywix Laborer's Gloves",
 	"icon": "inv_gauntlets_105v3",
+	"requiredLevel": 1,
+	"itemLevel": 11,
 	"popularity": 7,
 	"armor": 57,
 	"side": "HORDE",

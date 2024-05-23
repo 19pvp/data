@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Stonemason Cloak",
 	"icon": "inv_misc_cape_11",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 22,
 	"armor": 32,
 	"class": "ARMOR",
@@ -10,6 +12,7 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Strength": 3, "Stamina": 5 },
-	"source": "DUNGEON",
-	"sourceZone": "The Deadmines"
+	"source": "DROP",
+	"sourceZone": "The Deadmines",
+	"sourceZoneType": "Dungeon"
 }

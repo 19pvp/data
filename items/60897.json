@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Night Watch Boots",
 	"icon": "inv_boots_chain_07",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 5,
 	"armor": 102,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Thornroot Club",
 	"icon": "inv_mace_15",
+	"requiredLevel": 4,
+	"itemLevel": 13,
 	"dmgMin": 10,
 	"dmgMax": 19,
 	"speed": 2.1,

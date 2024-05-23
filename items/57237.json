@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Cairne's First Breastplate",
 	"icon": "inv_chest_chain_08",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 14,
 	"armor": 85,
 	"side": "HORDE",

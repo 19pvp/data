@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Mighty Chain Pants",
 	"icon": "inv_pants_03",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 7,
 	"armor": 140,
 	"class": "ARMOR",

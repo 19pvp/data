@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Thick Bronze Darts",
 	"icon": "inv_spear_05",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"dmgMin": 23,
 	"dmgMax": 35,
 	"speed": 2.2,

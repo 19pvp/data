@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Je'neu's Hunting Vest",
 	"icon": "inv_chest_cloth_05",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"popularity": 6,
 	"armor": 95,
 	"side": "HORDE",

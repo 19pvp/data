@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Ritual Stopper's Slippers",
 	"icon": "inv_boots_cloth_05",
+	"requiredLevel": 17,
+	"itemLevel": 20,
 	"popularity": 5,
 	"armor": 39,
 	"class": "ARMOR",

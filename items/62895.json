@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Slippers of Unturned Loyalties",
 	"icon": "inv_boots_cloth_04",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 19,
 	"armor": 43,
 	"side": "HORDE",

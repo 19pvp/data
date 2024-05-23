@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Duskwatcher's Leggings",
 	"icon": "inv_pants_02",
+	"requiredLevel": 4,
+	"itemLevel": 10,
 	"popularity": 19,
 	"armor": 46,
 	"side": "HORDE",

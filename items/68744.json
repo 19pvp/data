@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Imbued Pioneer Cloak",
 	"icon": "inv_misc_cape_03",
+	"requiredLevel": 4,
+	"itemLevel": 9,
 	"popularity": 20,
 	"armor": 16,
 	"class": "ARMOR",

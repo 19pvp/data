@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Bargain Gloves",
 	"icon": "inv_gauntlets_15",
+	"requiredLevel": 10,
+	"itemLevel": 16,
 	"popularity": 18,
 	"armor": 30,
 	"side": "HORDE",
@@ -12,5 +14,6 @@
 	"type": "HANDS",
 	"stats": { "Critical Strike Rating": 2, "Stamina": 2 },
 	"source": "QUEST",
-	"sourceZone": "Northern Barrens"
+	"sourceZone": "Northern Barrens",
+	"sourceZoneType": "Zone"
 }

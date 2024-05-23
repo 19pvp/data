@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "War Torn Tunic",
 	"icon": "inv_chest_chain_07",
+	"requiredLevel": 11,
+	"itemLevel": 16,
 	"popularity": 23,
 	"armor": 120,
 	"class": "ARMOR",

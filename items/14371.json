@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Mystic's Robe",
 	"icon": "inv_chest_cloth_14",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 30,
 	"armor": 64,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Fine Leather Tunic",
 	"icon": "inv_chest_leather_09",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"popularity": 17,
 	"armor": 77,
 	"class": "ARMOR",

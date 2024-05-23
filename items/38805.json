@@ -2,6 +2,7 @@
 	"id": 38805,
 	"name": "Enchant Shield - Lesser Stamina",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 6,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

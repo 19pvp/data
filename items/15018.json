@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Lupine Vest",
 	"icon": "inv_chest_fur",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 5,
 	"armor": 88,
 	"class": "ARMOR",

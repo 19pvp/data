@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Red Linen Vest",
 	"icon": "inv_chest_cloth_40",
+	"requiredLevel": 7,
+	"itemLevel": 12,
 	"popularity": 9,
 	"armor": 39,
 	"class": "ARMOR",

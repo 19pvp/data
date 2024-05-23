@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Imbued Simple Cape",
 	"icon": "inv_misc_cape_22",
+	"requiredLevel": 6,
+	"itemLevel": 11,
 	"popularity": 21,
 	"armor": 18,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Stamina": 1 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 5807,
 	"sourceName": "The Rake",
 	"sourceZone": "Mulgore",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

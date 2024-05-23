@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Wrenchmen Belt",
 	"icon": "inv_belt_45",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"popularity": 5,
 	"armor": 71,
 	"side": "HORDE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Simple Blouse",
 	"icon": "inv_shirt_05",
+	"requiredLevel": 10,
+	"itemLevel": 15,
 	"popularity": 8,
 	"armor": 46,
 	"class": "ARMOR",

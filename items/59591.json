@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Shield of the Barrens",
 	"icon": "inv_shield_16",
+	"requiredLevel": 11,
+	"itemLevel": 20,
 	"popularity": 30,
 	"armor": 672,
 	"side": "HORDE",

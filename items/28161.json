@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Tranquillien Scale Leggings",
 	"icon": "inv_pants_03",
+	"requiredLevel": 15,
+	"itemLevel": 16,
 	"popularity": 9,
 	"armor": 105,
 	"side": "HORDE",

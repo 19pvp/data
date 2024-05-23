@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Cutthroat Band",
 	"icon": "inv_jewelry_ring_21",
+	"requiredLevel": 12,
+	"itemLevel": 20,
 	"popularity": 25,
 	"armor": 0,
 	"side": "HORDE",

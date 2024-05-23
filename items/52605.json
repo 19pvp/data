@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Fanatical Treads",
 	"icon": "inv_boots_07",
+	"requiredLevel": 13,
+	"itemLevel": 13,
 	"popularity": 5,
 	"armor": 43,
 	"side": "ALLIANCE",

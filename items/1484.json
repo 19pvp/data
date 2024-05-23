@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Witching Stave",
 	"icon": "inv_wand_04",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"dmgMin": 52,
 	"dmgMax": 79,
 	"speed": 3.6,
@@ -13,6 +15,7 @@
 	"subclass": "STAFF",
 	"type": "TWO_HAND",
 	"stats": { "Stamina": 6, "Intellect": 8 },
-	"source": "DUNGEON",
-	"sourceZone": "Shadowfang Keep"
+	"source": "DROP",
+	"sourceZone": "Shadowfang Keep",
+	"sourceZoneType": "Dungeon"
 }

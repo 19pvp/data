@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Bard's Gloves",
 	"icon": "inv_gauntlets_15",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"popularity": 9,
 	"armor": 48,
 	"class": "ARMOR",

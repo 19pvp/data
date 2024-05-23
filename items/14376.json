@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Sanguine Cape",
 	"icon": "inv_misc_cape_18",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"popularity": 19,
 	"armor": 31,
 	"class": "ARMOR",

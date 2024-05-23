@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Tightly Cinched Belt",
 	"icon": "inv_belt_45c",
+	"requiredLevel": 10,
+	"itemLevel": 12,
 	"popularity": 4,
 	"armor": 54,
 	"side": "ALLIANCE",

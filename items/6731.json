@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Ironforge Breastplate",
 	"icon": "inv_chest_plate05",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 9,
 	"armor": 173,
 	"class": "ARMOR",

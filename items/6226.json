@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Bloody Apron",
 	"icon": "inv_chest_cloth_24",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 8,
 	"armor": 66,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "CLOTH",
 	"type": "CHEST",
 	"stats": { "Stamina": 6, "Intellect": 8 },
-	"source": "DUNGEON",
+	"source": "DROP",
 	"sourceId": 3886,
 	"sourceName": "Razorclaw the Butcher",
 	"sourceZone": "Shadowfang Keep",
+	"sourceZoneType": "Dungeon",
 	"sourceType": "NPC"
 }

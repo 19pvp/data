@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Beaded Britches",
 	"icon": "inv_pants_02",
+	"requiredLevel": 6,
+	"itemLevel": 11,
 	"popularity": 5,
 	"armor": 32,
 	"class": "ARMOR",

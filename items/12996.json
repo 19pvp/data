@@ -1,7 +1,10 @@
 {
 	"id": 12996,
+	"bind": "Binds when equipped",
 	"name": "Band of Purification",
 	"icon": "inv_jewelry_ring_31",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 27,
 	"armor": 0,
 	"class": "ARMOR",

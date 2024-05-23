@@ -2,6 +2,7 @@
 	"id": 38889,
 	"name": "Enchant Gloves - Healing Power",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 18,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

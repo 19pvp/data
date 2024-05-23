@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Butcher's Cleaver",
 	"icon": "inv_axe_23",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"dmgMin": 31,
 	"dmgMax": 42,
 	"speed": 2.6,
@@ -13,6 +15,7 @@
 	"subclass": "ONE_HANDED_AXE",
 	"type": "ONE_HAND",
 	"stats": { "Agility": 3, "Stamina": 3 },
-	"source": "DUNGEON",
-	"sourceZone": "Shadowfang Keep"
+	"source": "DROP",
+	"sourceZone": "Shadowfang Keep",
+	"sourceZoneType": "Dungeon"
 }

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Pearl-Clasped Cloak",
 	"icon": "inv_misc_cape_11",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"popularity": 5,
 	"armor": 28,
 	"class": "ARMOR",

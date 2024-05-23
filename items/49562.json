@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Durable Drape",
 	"icon": "inv_misc_cape_11",
+	"requiredLevel": 1,
+	"itemLevel": 10,
 	"popularity": 52,
 	"armor": 17,
 	"side": "ALLIANCE",

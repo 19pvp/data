@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Journeyman's Vest",
 	"icon": "inv_chest_cloth_06",
+	"requiredLevel": 6,
+	"itemLevel": 11,
 	"popularity": 12,
 	"armor": 37,
 	"class": "ARMOR",

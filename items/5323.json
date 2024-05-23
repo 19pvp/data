@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Everglow Lantern",
 	"icon": "inv_misc_lantern_01",
+	"requiredLevel": 19,
+	"itemLevel": 25,
 	"speed": 2,
 	"popularity": 33,
 	"armor": 0,

@@ -2,5 +2,6 @@
 	"id": "58255",
 	"bind": "Binds when picked up",
 	"icon": "inv_helmet_51",
+	"requiredLevel": 1,
 	"quality": "COMMON"
 }

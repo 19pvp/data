@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Well Crafted Sword",
 	"icon": "inv_sword_05",
+	"requiredLevel": 9,
+	"itemLevel": 20,
 	"dmgMin": 17,
 	"dmgMax": 32,
 	"speed": 2.4,

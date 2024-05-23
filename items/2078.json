@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Northern Shortsword",
 	"icon": "inv_sword_20",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"dmgMin": 14,
 	"dmgMax": 26,
 	"speed": 2.2,

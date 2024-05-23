@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Blade of the Hand",
 	"icon": "inv_sword_draenei_06",
+	"requiredLevel": 18,
+	"itemLevel": 20,
 	"dmgMin": 27,
 	"dmgMax": 41,
 	"speed": 2.6,

@@ -2,6 +2,7 @@
 	"id": 38814,
 	"name": "Enchant Weapon - Lesser Elemental Slayer",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 21,
 	"class": "CONSUMABLE",
 	"quality": "RARE",

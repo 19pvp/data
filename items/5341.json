@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Spore-Covered Tunic",
 	"icon": "inv_shirt_07",
+	"requiredLevel": 9,
+	"itemLevel": 15,
 	"popularity": 15,
 	"armor": 70,
 	"class": "ARMOR",

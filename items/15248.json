@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Gleaming Claymore",
 	"icon": "inv_sword_23",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"dmgMin": 30,
 	"dmgMax": 46,
 	"speed": 2.9,

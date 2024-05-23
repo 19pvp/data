@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Godfrey's Britches",
 	"icon": "inv_pants_08",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 7,
 	"armor": 58,
 	"side": "ALLIANCE",

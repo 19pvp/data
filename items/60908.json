@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Stargazer's Pantaloons",
 	"icon": "inv_pants_05",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"popularity": 22,
 	"armor": 54,
 	"side": "ALLIANCE",

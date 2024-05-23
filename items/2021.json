@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Green Carapace Shield",
 	"icon": "inv_misc_monsterspidercarapace_01",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 5,
 	"armor": 611,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "SHIELDS",
 	"type": "SHIELD",
 	"stats": { "Nature Resistance": 4 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 569,
 	"sourceName": "Green Recluse",
 	"sourceZone": "Duskwood",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

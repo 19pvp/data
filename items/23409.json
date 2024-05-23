@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Well Crafted Long Bow",
 	"icon": "inv_weapon_bow_02",
+	"requiredLevel": 9,
+	"itemLevel": 20,
 	"dmgMin": 24,
 	"dmgMax": 46,
 	"speed": 2.7,

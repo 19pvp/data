@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Deviate Scale Gloves",
 	"icon": "inv_gauntlets_05",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 7,
 	"armor": 57,
 	"class": "ARMOR",

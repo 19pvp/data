@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Crime Scene Tape",
 	"icon": "inv_belt_25",
+	"requiredLevel": 9,
+	"itemLevel": 11,
 	"popularity": 4,
 	"armor": 21,
 	"side": "ALLIANCE",

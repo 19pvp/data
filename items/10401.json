@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Blackened Defias Gloves",
 	"icon": "inv_gauntlets_18",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 43,
 	"armor": 60,
 	"class": "ARMOR",
@@ -10,7 +12,7 @@
 	"subclass": "LEATHER",
 	"type": "HANDS",
 	"stats": { "Agility": 4, "Stamina": 6 },
-	"source": "DUNGEON",
+	"source": "DROP",
 	"sourceZone": "The Deadmines",
-	"info": "Blackened Defias ArmorBlackened Defias BeltBlackened Defias BootsBlackened Defias GlovesBlackened Defias Leggings"
+	"sourceZoneType": "Dungeon"
 }

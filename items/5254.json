@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Rugged Spaulders",
 	"icon": "inv_shoulder_08",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 15,
 	"armor": 75,
 	"class": "ARMOR",
@@ -10,6 +12,7 @@
 	"subclass": "LEATHER",
 	"type": "SHOULDERS",
 	"stats": { "Agility": 6, "Stamina": 4 },
-	"source": "DUNGEON",
-	"sourceZone": "Shadowfang Keep"
+	"source": "DROP",
+	"sourceZone": "Shadowfang Keep",
+	"sourceZoneType": "Dungeon"
 }

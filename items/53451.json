@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Wind Rider Wand",
 	"icon": "inv_wand_12",
+	"requiredLevel": 18,
+	"itemLevel": 20,
 	"dmgMin": 22,
 	"dmgMax": 43,
 	"speed": 1.6,

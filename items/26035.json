@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Corin's Handguards",
 	"icon": "inv_gauntlets_18",
+	"requiredLevel": 18,
+	"itemLevel": 20,
 	"popularity": 6,
 	"armor": 89,
 	"side": "ALLIANCE",

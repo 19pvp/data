@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Rallying Charge",
 	"icon": "inv_sword_05",
+	"requiredLevel": 5,
+	"itemLevel": 14,
 	"dmgMin": 34,
 	"dmgMax": 52,
 	"speed": 3.3,

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Technician's Boots",
 	"icon": "inv_boots_08",
+	"requiredLevel": 15,
+	"itemLevel": 19,
 	"popularity": 11,
 	"armor": 58,
 	"side": "ALLIANCE",

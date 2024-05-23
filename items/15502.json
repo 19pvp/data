@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Outrunner's Gloves",
 	"icon": "inv_gauntlets_17",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 9,
 	"armor": 89,
 	"class": "ARMOR",

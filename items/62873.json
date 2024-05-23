@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Godfrey's Belt",
 	"icon": "inv_belt_02",
+	"requiredLevel": 13,
+	"itemLevel": 16,
 	"popularity": 5,
 	"armor": 41,
 	"side": "HORDE",

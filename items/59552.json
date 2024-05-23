@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Belt of the Forgotten Pool",
 	"icon": "inv_belt_03",
+	"requiredLevel": 11,
+	"itemLevel": 14,
 	"popularity": 6,
 	"armor": 37,
 	"side": "HORDE",

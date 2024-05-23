@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Aboriginal Loincloth",
 	"icon": "inv_pants_wolf",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"popularity": 19,
 	"armor": 44,
 	"class": "ARMOR",

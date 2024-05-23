@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Farstrider's Belt",
 	"icon": "inv_belt_03",
+	"requiredLevel": 11,
+	"itemLevel": 15,
 	"popularity": 7,
 	"armor": 39,
 	"side": "HORDE",

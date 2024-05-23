@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Sleeping Robes",
 	"icon": "inv_chest_cloth_84",
+	"requiredLevel": 3,
+	"itemLevel": 10,
 	"popularity": 12,
 	"armor": 34,
 	"side": "ALLIANCE",

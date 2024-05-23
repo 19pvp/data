@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Accursed Mace",
 	"icon": "inv_mace_04",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"dmgMin": 50,
 	"dmgMax": 76,
 	"speed": 3.3,

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Boahn's Fang",
 	"icon": "inv_axe_17",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"dmgMin": 54,
 	"dmgMax": 82,
 	"speed": 3.7,

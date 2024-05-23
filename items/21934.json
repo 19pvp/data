@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Ornate Tigerseye Necklace",
 	"icon": "inv_jewelry_necklace_02",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 7,
 	"armor": 0,
 	"class": "ARMOR",

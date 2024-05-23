@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Caravan Escort's Gloves",
 	"icon": "inv_gauntlets_12",
+	"requiredLevel": 9,
+	"itemLevel": 12,
 	"popularity": 8,
 	"armor": 60,
 	"side": "HORDE",

@@ -2,6 +2,7 @@
 	"id": 52489,
 	"name": "Rhinestone Sunglasses",
 	"icon": "inv_helmet_176",
+	"itemLevel": 1,
 	"popularity": 32,
 	"armor": 10,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Well Crafted Staff",
 	"icon": "inv_staff_31",
+	"requiredLevel": 9,
+	"itemLevel": 20,
 	"dmgMin": 26,
 	"dmgMax": 39,
 	"speed": 2.5,

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Sludge-Caked Throwing Knives",
 	"icon": "inv_weapon_shortblade_05",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"dmgMin": 16,
 	"dmgMax": 31,
 	"speed": 1.7,

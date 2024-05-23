@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Forest Grace Mantle",
 	"icon": "inv_shoulder_25",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 6,
 	"armor": 45,
 	"side": "ALLIANCE",

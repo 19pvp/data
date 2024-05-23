@@ -2,6 +2,7 @@
 	"id": "20994",
 	"bind": "Binds when picked up",
 	"icon": "inv_chest_chain",
+	"requiredLevel": 1,
 	"armor": 53,
 	"quality": "COMMON"
 }

@@ -2,6 +2,7 @@
 	"id": 38880,
 	"name": "Enchant Weapon - Agility",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 12,
 	"class": "CONSUMABLE",
 	"quality": "RARE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Imbued Infantry Cloak",
 	"icon": "inv_misc_cape_11",
+	"requiredLevel": 4,
+	"itemLevel": 9,
 	"popularity": 19,
 	"armor": 16,
 	"class": "ARMOR",

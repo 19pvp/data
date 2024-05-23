@@ -2,6 +2,7 @@
 	"id": "53057",
 	"bind": "Binds when picked up",
 	"icon": "inv_helmet_29",
+	"requiredLevel": 1,
 	"armor": 44,
 	"quality": "COMMON",
 	"spell": {

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Stunted Tree Root",
 	"icon": "inv_spear_05",
+	"requiredLevel": 8,
+	"itemLevel": 10,
 	"dmgMin": 18,
 	"dmgMax": 28,
 	"speed": 3.3,

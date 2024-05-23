@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Conspirator's Slippers",
 	"icon": "inv_boots_cloth_01",
+	"requiredLevel": 14,
+	"itemLevel": 17,
 	"popularity": 27,
 	"armor": 38,
 	"side": "HORDE",

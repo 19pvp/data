@@ -1,6 +1,7 @@
 {
 	"id": "22135",
 	"icon": "inv_misc_gift_05",
+	"requiredLevel": 1,
 	"quality": "COMMON",
 	"spell": {
 		"type": "Use",

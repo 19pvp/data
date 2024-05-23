@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Breastplate of the Terrible Price",
 	"icon": "inv_chest_chain_12",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 21,
 	"armor": 164,
 	"side": "HORDE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Laborer's Belt",
 	"icon": "inv_belt_24",
+	"requiredLevel": 5,
+	"itemLevel": 13,
 	"popularity": 17,
 	"armor": 23,
 	"side": "ALLIANCE",

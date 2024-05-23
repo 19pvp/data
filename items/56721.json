@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Meat Packer Ribbon",
 	"icon": "inv_belt_17",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"popularity": 6,
 	"armor": 35,
 	"side": "HORDE",

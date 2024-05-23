@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "War Torn Pants",
 	"icon": "inv_pants_06",
+	"requiredLevel": 9,
+	"itemLevel": 14,
 	"popularity": 21,
 	"armor": 95,
 	"class": "ARMOR",

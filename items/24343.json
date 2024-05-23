@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "The Thumper",
 	"icon": "inv_hammer_09",
+	"requiredLevel": 10,
+	"itemLevel": 13,
 	"dmgMin": 13,
 	"dmgMax": 24,
 	"speed": 2.7,

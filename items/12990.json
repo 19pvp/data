@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Razor's Edge",
 	"icon": "inv_weapon_halberd_08",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"dmgMin": 25,
 	"dmgMax": 48,
 	"speed": 2.4,

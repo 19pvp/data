@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Robes of Arugal",
 	"icon": "inv_chest_cloth_31",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 12,
 	"armor": 66,
 	"class": "ARMOR",
@@ -10,6 +12,7 @@
 	"subclass": "CLOTH",
 	"type": "CHEST",
 	"stats": { "Critical Strike Rating": 4, "Stamina": 6, "Intellect": 7 },
-	"source": "DUNGEON",
-	"sourceZone": "Shadowfang Keep"
+	"source": "DROP",
+	"sourceZone": "Shadowfang Keep",
+	"sourceZoneType": "Dungeon"
 }

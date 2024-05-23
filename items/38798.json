@@ -2,6 +2,7 @@
 	"id": 38798,
 	"name": "Enchant Chest - Lesser Absorption",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 24,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

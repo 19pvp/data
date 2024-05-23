@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Detective Buckler",
 	"icon": "inv_shield_09",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"popularity": 22,
 	"armor": 635,
 	"side": "HORDE",

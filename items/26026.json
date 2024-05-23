@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Ornately Tooled Belt",
 	"icon": "inv_belt_25",
+	"requiredLevel": 14,
+	"itemLevel": 20,
 	"popularity": 20,
 	"armor": 49,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Ironheart Chain Cloak",
 	"icon": "inv_misc_cape_16",
+	"requiredLevel": 11,
+	"itemLevel": 11,
 	"popularity": 4,
 	"armor": 18,
 	"side": "ALLIANCE",
@@ -12,5 +14,6 @@
 	"type": "BACK",
 	"stats": { "Strength": 1 },
 	"source": "QUEST",
-	"sourceZone": "Loch Modan"
+	"sourceZone": "Loch Modan",
+	"sourceZoneType": "Zone"
 }

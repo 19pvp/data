@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Meadow Ring",
 	"icon": "inv_jewelry_ring_12",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"popularity": 8,
 	"armor": 0,
 	"class": "ARMOR",

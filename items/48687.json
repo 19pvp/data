@@ -1,8 +1,10 @@
 {
 	"id": 48687,
-	"bind": "<br>Item Level <!--ilvl-->1",
+	"bind": "Binds to account",
 	"name": "Preened Ironfeather Breastplate",
 	"icon": "inv_chest_leather_06",
+	"requiredLevel": 1,
+	"itemLevel": 1,
 	"popularity": 55,
 	"armor": 0,
 	"class": "ARMOR",

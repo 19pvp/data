@@ -2,6 +2,7 @@
 	"id": "864",
 	"bind": "Binds when equipped",
 	"icon": "inv_sword_27",
+	"requiredLevel": 33,
 	"dmgMin": 21,
 	"dmgMax": 40,
 	"speed": 1.5,

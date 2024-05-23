@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Barbaric Cloth Robe",
 	"icon": "inv_chest_cloth_14",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"popularity": 6,
 	"armor": 53,
 	"class": "ARMOR",

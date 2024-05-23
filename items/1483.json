@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Face Smasher",
 	"icon": "inv_hammer_08",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"dmgMin": 25,
 	"dmgMax": 48,
 	"speed": 2.6,
@@ -13,6 +15,7 @@
 	"subclass": "ONE_HANDED_MACE",
 	"type": "ONE_HAND",
 	"stats": { "Strength": 4, "Stamina": 3 },
-	"source": "DUNGEON",
-	"sourceZone": "Shadowfang Keep"
+	"source": "DROP",
+	"sourceZone": "Shadowfang Keep",
+	"sourceZoneType": "Dungeon"
 }

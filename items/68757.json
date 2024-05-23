@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Imbued Pioneer Gloves",
 	"icon": "inv_gauntlets_05",
+	"requiredLevel": 6,
+	"itemLevel": 11,
 	"popularity": 6,
 	"armor": 35,
 	"class": "ARMOR",

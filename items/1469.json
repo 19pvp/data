@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Scimitar of Atun",
 	"icon": "inv_sword_24",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"dmgMin": 17,
 	"dmgMax": 33,
 	"speed": 2.6,
@@ -13,6 +15,7 @@
 	"subclass": "ONE_HANDED_SWORD",
 	"type": "ONE_HAND",
 	"stats": { "Agility": 2 },
-	"source": "ZONE",
-	"sourceZone": "Redridge Mountains"
+	"source": "DROP",
+	"sourceZone": "Redridge Mountains",
+	"sourceZoneType": "Zone"
 }

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Topsoil Bracers",
 	"icon": "inv_bracer_03",
+	"requiredLevel": 18,
+	"itemLevel": 20,
 	"popularity": 20,
 	"armor": 38,
 	"side": "ALLIANCE",

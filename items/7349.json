@@ -3,6 +3,7 @@
 	"bind": "Binds when equipped",
 	"name": "Herbalist's Gloves",
 	"icon": "inv_gauntlets_18",
+	"itemLevel": 15,
 	"popularity": 25,
 	"armor": 70,
 	"class": "ARMOR",

@@ -2,6 +2,7 @@
 	"id": 38861,
 	"name": "Enchant Shield - Greater Stamina",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 10,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

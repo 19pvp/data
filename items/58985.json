@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Leggings of Uncanny Courage",
 	"icon": "inv_pants_08",
+	"requiredLevel": 10,
+	"itemLevel": 12,
 	"popularity": 7,
 	"armor": 52,
 	"side": "ALLIANCE",

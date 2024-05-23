@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Twin-Bladed Axe",
 	"icon": "inv_axe_09",
+	"requiredLevel": 11,
+	"itemLevel": 16,
 	"dmgMin": 23,
 	"dmgMax": 35,
 	"speed": 2.7,

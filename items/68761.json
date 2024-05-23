@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Imbued Infantry Boots",
 	"icon": "inv_boots_plate_01",
+	"requiredLevel": 6,
+	"itemLevel": 11,
 	"popularity": 8,
 	"armor": 62,
 	"class": "ARMOR",

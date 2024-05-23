@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Fizzle's Gloves",
 	"icon": "inv_gauntlets_16",
+	"requiredLevel": 8,
+	"itemLevel": 10,
 	"popularity": 12,
 	"armor": 21,
 	"side": "HORDE",

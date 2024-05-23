@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Hoodoo Wand",
 	"icon": "inv_staff_02",
+	"requiredLevel": 8,
+	"itemLevel": 11,
 	"dmgMin": 9,
 	"dmgMax": 17,
 	"speed": 1.6,

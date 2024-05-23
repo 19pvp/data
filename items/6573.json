@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Defender Boots",
 	"icon": "inv_boots_plate_01",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 8,
 	"armor": 110,
 	"class": "ARMOR",

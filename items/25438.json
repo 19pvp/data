@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Malachite Pendant",
 	"icon": "inv_jewelry_necklace_01",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"popularity": 10,
 	"armor": 0,
 	"class": "ARMOR",

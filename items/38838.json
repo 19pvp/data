@@ -2,6 +2,7 @@
 	"id": 38838,
 	"name": "Enchant Weapon - Fiery Weapon",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 23,
 	"class": "CONSUMABLE",
 	"quality": "RARE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Belt of Secret Signs",
 	"icon": "inv_belt_41",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"popularity": 6,
 	"armor": 53,
 	"side": "HORDE",

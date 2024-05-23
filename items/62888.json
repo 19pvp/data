@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Leg Bone Covers",
 	"icon": "inv_pants_mail_02",
+	"requiredLevel": 15,
+	"itemLevel": 19,
 	"popularity": 4,
 	"armor": 120,
 	"class": "ARMOR",

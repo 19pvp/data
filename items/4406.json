@@ -2,6 +2,8 @@
 	"id": 4406,
 	"name": "Standard Scope",
 	"icon": "inv_misc_spyglass_02",
+	"requiredLevel": 10,
+	"itemLevel": 22,
 	"popularity": 14,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

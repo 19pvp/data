@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Becalmed Bracers",
 	"icon": "inv_bracer_13",
+	"requiredLevel": 13,
+	"itemLevel": 15,
 	"popularity": 6,
 	"armor": 20,
 	"side": "ALLIANCE",

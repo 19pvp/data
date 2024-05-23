@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Woolgathering Gloves",
 	"icon": "inv_gauntlets_15",
+	"requiredLevel": 16,
+	"itemLevel": 18,
 	"popularity": 41,
 	"armor": 33,
 	"side": "ALLIANCE",

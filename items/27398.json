@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Carved Crystalline Orb",
 	"icon": "inv_misc_orb_05",
+	"requiredLevel": 9,
+	"itemLevel": 17,
 	"speed": 2,
 	"popularity": 21,
 	"armor": 0,

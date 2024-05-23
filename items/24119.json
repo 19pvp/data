@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Band of Argas",
 	"icon": "inv_jewelry_ring_10",
+	"requiredLevel": 19,
+	"itemLevel": 32,
 	"popularity": 20,
 	"armor": 0,
 	"class": "ARMOR",
@@ -11,5 +13,6 @@
 	"type": "FINGER",
 	"stats": { "Strength": 5, "Stamina": 4 },
 	"source": "QUEST",
-	"sourceZone": "Ashenvale"
+	"sourceZone": "Ashenvale",
+	"sourceZoneType": "Zone"
 }

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Gouging Staff",
 	"icon": "inv_staff_21",
+	"requiredLevel": 14,
+	"itemLevel": 16,
 	"dmgMin": 28,
 	"dmgMax": 43,
 	"speed": 3.3,

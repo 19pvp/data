@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Runic Cane",
 	"icon": "inv_staff_02",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"popularity": 19,
 	"armor": 0,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "OFF_HAND_FRILLS",
 	"type": "HELD_IN_OFF_HAND",
 	"stats": { "Stamina": 3 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 5838,
 	"sourceName": "Brokespear",
 	"sourceZone": "Northern Barrens",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

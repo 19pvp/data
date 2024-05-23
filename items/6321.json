@@ -1,7 +1,10 @@
 {
 	"id": 6321,
+	"bind": "Binds when picked up",
 	"name": "Silverlaine's Family Seal",
 	"icon": "inv_belt_29",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 7,
 	"armor": 0,
 	"class": "ARMOR",
@@ -9,9 +12,10 @@
 	"subclass": "RINGS",
 	"type": "FINGER",
 	"stats": { "Strength": 5, "Stamina": 3 },
-	"source": "DUNGEON",
+	"source": "DROP",
 	"sourceId": 3887,
 	"sourceName": "Baron Silverlaine",
 	"sourceZone": "Shadowfang Keep",
+	"sourceZoneType": "Dungeon",
 	"sourceType": "NPC"
 }

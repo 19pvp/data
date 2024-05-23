@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Tia's Ring",
 	"icon": "inv_jewelry_ring_76",
+	"requiredLevel": 17,
+	"itemLevel": 20,
 	"popularity": 5,
 	"armor": 0,
 	"class": "ARMOR",

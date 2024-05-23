@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Veteran Gloves",
 	"icon": "inv_gauntlets_05",
+	"requiredLevel": 10,
+	"itemLevel": 15,
 	"popularity": 20,
 	"armor": 71,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Spidersilk Drape",
 	"icon": "inv_misc_cape_16",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"popularity": 3,
 	"armor": 37,
 	"class": "ARMOR",

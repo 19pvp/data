@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Bow of Ire",
 	"icon": "inv_weapon_bow_15",
+	"requiredLevel": 19,
+	"itemLevel": 23,
 	"dmgMin": 38,
 	"dmgMax": 72,
 	"speed": 2.8,

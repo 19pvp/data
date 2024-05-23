@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Legguards of Invasion",
 	"icon": "inv_pants_03",
+	"requiredLevel": 14,
+	"itemLevel": 16,
 	"popularity": 10,
 	"armor": 105,
 	"side": "ALLIANCE",

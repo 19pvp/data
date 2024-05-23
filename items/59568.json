@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Painstakingly Crafted Belt",
 	"icon": "inv_belt_26",
+	"requiredLevel": 14,
+	"itemLevel": 16,
 	"popularity": 14,
 	"armor": 27,
 	"side": "HORDE",
@@ -12,5 +14,6 @@
 	"type": "WAIST",
 	"stats": { "Hit Rating": 2, "Stamina": 2, "Intellect": 2 },
 	"source": "QUEST",
-	"sourceZone": "Northern Barrens"
+	"sourceZone": "Northern Barrens",
+	"sourceZoneType": "Zone"
 }

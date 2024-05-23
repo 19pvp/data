@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Staff of the Hand",
 	"icon": "inv_staff_draenei_a_01",
+	"requiredLevel": 18,
+	"itemLevel": 20,
 	"dmgMin": 27,
 	"dmgMax": 30,
 	"speed": 2.2,

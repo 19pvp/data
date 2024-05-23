@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Rotting Handwraps",
 	"icon": "inv_gauntlets_16",
+	"requiredLevel": 14,
+	"itemLevel": 17,
 	"popularity": 16,
 	"armor": 32,
 	"side": "HORDE",

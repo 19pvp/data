@@ -1,8 +1,8 @@
 {
 	"id": 69209,
-	"bind": "<br>Item Level <!--ilvl-->1",
 	"name": "Illustrious Guild Tabard",
 	"icon": "inv_rareguildtabard",
+	"itemLevel": 1,
 	"popularity": 188,
 	"armor": 0,
 	"class": "ARMOR",

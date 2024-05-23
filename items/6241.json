@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "White Linen Robe",
 	"icon": "inv_chest_cloth_04",
+	"requiredLevel": 5,
+	"itemLevel": 10,
 	"popularity": 5,
 	"armor": 34,
 	"class": "ARMOR",

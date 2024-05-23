@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Suppository Preventors",
 	"icon": "inv_pants_01",
+	"requiredLevel": 10,
+	"itemLevel": 12,
 	"popularity": 8,
 	"armor": 34,
 	"side": "HORDE",

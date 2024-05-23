@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Kodo Mallet",
 	"icon": "inv_hammer_09",
+	"requiredLevel": 8,
+	"itemLevel": 10,
 	"dmgMin": 10,
 	"dmgMax": 19,
 	"speed": 2.6,

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Bloodspattered Surcoat",
 	"icon": "inv_chest_chain_07",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 5,
 	"armor": 149,
 	"class": "ARMOR",

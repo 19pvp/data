@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Ichor Stained Vest",
 	"icon": "inv_chest_chain_08",
+	"requiredLevel": 8,
+	"itemLevel": 11,
 	"popularity": 4,
 	"armor": 91,
 	"side": "ALLIANCE",

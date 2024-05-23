@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Seer's Pants",
 	"icon": "inv_pants_01",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 3,
 	"armor": 50,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Red Linen Robe",
 	"icon": "inv_chest_cloth_18",
+	"requiredLevel": 5,
+	"itemLevel": 10,
 	"popularity": 4,
 	"armor": 34,
 	"class": "ARMOR",

@@ -1,7 +1,10 @@
 {
 	"id": 20429,
+	"bind": "Binds when picked up",
 	"name": "Legionnaire's Band",
 	"icon": "inv_jewelry_ring_21",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 24,
 	"armor": 0,
 	"side": "HORDE",
@@ -14,5 +17,6 @@
 	"sourceId": 14754,
 	"sourceName": "Kelm Hargunth",
 	"sourceZone": "Northern Barrens",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

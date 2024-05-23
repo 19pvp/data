@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Citizen Wilkes' Ring",
 	"icon": "inv_jewelry_ring_12",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 7,
 	"armor": 0,
 	"side": "HORDE",

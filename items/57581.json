@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Grimaxe's Black Breastplate",
 	"icon": "inv_chest_leather_07",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 5,
 	"armor": 52,
 	"side": "ALLIANCE",

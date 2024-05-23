@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Walking Boots",
 	"icon": "inv_boots_06",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 3,
 	"armor": 43,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Boran's Shoulderguards",
 	"icon": "inv_shoulder_08",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"popularity": 16,
 	"armor": 71,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Powder Burn Vest",
 	"icon": "inv_chest_cloth_08",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 7,
 	"armor": 91,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Slayer's Band",
 	"icon": "inv_jewelry_ring_01",
+	"requiredLevel": 9,
+	"itemLevel": 21,
 	"popularity": 14,
 	"armor": 0,
 	"side": "HORDE",

@@ -1,7 +1,10 @@
 {
 	"id": 44096,
+	"bind": "Binds to account",
 	"name": "Battleworn Thrash Blade",
 	"icon": "inv_sword_36",
+	"requiredLevel": 80,
+	"itemLevel": 1,
 	"dmgMin": 25,
 	"dmgMax": 47,
 	"speed": 2.4,
@@ -14,6 +17,7 @@
 	"stats": { "Resilience": 3 },
 	"source": "VENDOR",
 	"sourceZone": "Wintergrasp",
+	"sourceZoneType": "Zone",
 	"spell": {
 		"type": "Chance on hit",
 		"id": 59830,

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Gypsy Trousers",
 	"icon": "inv_pants_05",
+	"requiredLevel": 9,
+	"itemLevel": 14,
 	"popularity": 8,
 	"armor": 58,
 	"class": "ARMOR",

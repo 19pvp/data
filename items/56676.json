@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Whitemoon Gloves",
 	"icon": "inv_gauntlets_23",
+	"requiredLevel": 19,
+	"itemLevel": 23,
 	"popularity": 9,
 	"armor": 40,
 	"side": "ALLIANCE",

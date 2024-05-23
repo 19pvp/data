@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Hewn Kodo Gloves",
 	"icon": "inv_gauntlets_24",
+	"requiredLevel": 8,
+	"itemLevel": 10,
 	"popularity": 6,
 	"armor": 33,
 	"side": "HORDE",

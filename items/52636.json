@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Portal Closer's Hammer",
 	"icon": "inv_hammer_01",
+	"requiredLevel": 13,
+	"itemLevel": 15,
 	"dmgMin": 26,
 	"dmgMax": 40,
 	"speed": 3.3,

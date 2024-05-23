@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Maggot-Ridden Leggings",
 	"icon": "inv_pants_08",
+	"requiredLevel": 9,
+	"itemLevel": 11,
 	"popularity": 6,
 	"armor": 49,
 	"side": "HORDE",

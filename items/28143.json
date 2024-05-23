@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Rusted Chain Girdle",
 	"icon": "inv_belt_03",
+	"requiredLevel": 11,
+	"itemLevel": 15,
 	"popularity": 13,
 	"armor": 64,
 	"side": "HORDE",

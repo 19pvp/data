@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Kessel's Sturdy Riding Handle",
 	"icon": "inv_belt_03",
+	"requiredLevel": 10,
+	"itemLevel": 15,
 	"popularity": 18,
 	"armor": 64,
 	"side": "ALLIANCE",

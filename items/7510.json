@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Lesser Spellfire Robes",
 	"icon": "inv_chest_cloth_18",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 8,
 	"armor": 57,
 	"class": "ARMOR",

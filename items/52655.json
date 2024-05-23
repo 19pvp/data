@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Darkshore Warder's Shield",
 	"icon": "inv_shield_32",
+	"requiredLevel": 17,
+	"itemLevel": 19,
 	"popularity": 9,
 	"armor": 645,
 	"side": "ALLIANCE",

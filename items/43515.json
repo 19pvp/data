@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Mystic Tome",
 	"icon": "inv_misc_book_11",
+	"requiredLevel": 15,
+	"itemLevel": 22,
 	"popularity": 8,
 	"armor": 0,
 	"class": "ARMOR",

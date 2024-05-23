@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Chip's Cloak",
 	"icon": "inv_misc_cape_11",
+	"requiredLevel": 1,
+	"itemLevel": 12,
 	"popularity": 20,
 	"armor": 19,
 	"side": "HORDE",

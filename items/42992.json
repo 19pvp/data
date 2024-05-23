@@ -1,8 +1,10 @@
 {
 	"id": 42992,
-	"bind": "<br>Item Level <!--ilvl-->1",
+	"bind": "Binds to account",
 	"name": "Discerning Eye of the Beast",
 	"icon": "inv_jewelry_talisman_08",
+	"requiredLevel": 80,
+	"itemLevel": 1,
 	"popularity": 94,
 	"armor": 0,
 	"class": "ARMOR",

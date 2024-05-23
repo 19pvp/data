@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Paramedic Bracers",
 	"icon": "inv_bracer_74v4",
+	"requiredLevel": 5,
+	"itemLevel": 9,
 	"popularity": 5,
 	"armor": 21,
 	"side": "ALLIANCE",

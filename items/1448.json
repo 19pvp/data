@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Blackrock Gauntlets",
 	"icon": "inv_gauntlets_04",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 4,
 	"armor": 89,
 	"class": "ARMOR",
@@ -10,6 +12,7 @@
 	"subclass": "MAIL",
 	"type": "HANDS",
 	"stats": { "Strength": 3, "Agility": 3 },
-	"source": "ZONE",
-	"sourceZone": "Redridge Mountains"
+	"source": "DROP",
+	"sourceZone": "Redridge Mountains",
+	"sourceZoneType": "Zone"
 }

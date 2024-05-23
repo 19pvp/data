@@ -1,8 +1,10 @@
 {
 	"id": 62039,
-	"bind": "<br>Item Level <!--ilvl-->1",
+	"bind": "Binds to account",
 	"name": "Inherited Cape of the Black Baron",
 	"icon": "inv_misc_cape_20",
+	"requiredLevel": 80,
+	"itemLevel": 1,
 	"popularity": 174,
 	"armor": 0,
 	"class": "ARMOR",

@@ -1,7 +1,10 @@
 {
 	"id": 4454,
+	"bind": "Binds when equipped",
 	"name": "Talon of Vultros",
 	"icon": "inv_weapon_shortblade_16",
+	"requiredLevel": 11,
+	"itemLevel": 16,
 	"dmgMin": 15,
 	"dmgMax": 29,
 	"speed": 2,
@@ -12,9 +15,10 @@
 	"subclass": "DAGGER",
 	"type": "ONE_HAND",
 	"stats": { "Hit Rating": 1, "Agility": 3 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 462,
 	"sourceName": "Vultros",
 	"sourceZone": "Westfall",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

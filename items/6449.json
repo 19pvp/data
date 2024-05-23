@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Glowing Lizardscale Cloak",
 	"icon": "inv_chest_cloth_15",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"popularity": 3,
 	"armor": 34,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "CLOAKS",
 	"type": "BACK",
 	"stats": { "Agility": 6, "Stamina": 2 },
-	"source": "DUNGEON",
+	"source": "DROP",
 	"sourceId": 3674,
 	"sourceName": "Skum",
 	"sourceZone": "Wailing Caverns",
+	"sourceZoneType": "Dungeon",
 	"sourceType": "NPC"
 }

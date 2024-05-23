@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Lesser Staff of the Spire",
 	"icon": "inv_wand_07",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"dmgMin": 35,
 	"dmgMax": 54,
 	"speed": 3.4,
@@ -13,9 +15,10 @@
 	"subclass": "STAFF",
 	"type": "TWO_HAND",
 	"stats": { "Intellect": 6 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 436,
 	"sourceName": "Blackrock Shadowcaster",
 	"sourceZone": "Redridge Mountains",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

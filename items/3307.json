@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Barbaric Cloth Boots",
 	"icon": "inv_boots_05",
+	"requiredLevel": 10,
+	"itemLevel": 15,
 	"popularity": 7,
 	"armor": 31,
 	"class": "ARMOR",

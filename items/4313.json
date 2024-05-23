@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Red Woolen Boots",
 	"icon": "inv_boots_09",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 5,
 	"armor": 39,
 	"class": "ARMOR",

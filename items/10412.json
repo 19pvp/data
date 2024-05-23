@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Belt of the Fang",
 	"icon": "inv_belt_30",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 8,
 	"armor": 56,
 	"class": "ARMOR",
@@ -10,10 +12,10 @@
 	"subclass": "LEATHER",
 	"type": "WAIST",
 	"stats": { "Agility": 4, "Stamina": 6 },
-	"source": "DUNGEON",
+	"source": "DROP",
 	"sourceId": 3671,
 	"sourceName": "Lady Anacondra",
 	"sourceZone": "Wailing Caverns",
-	"sourceType": "NPC",
-	"info": "Belt of the FangFootpads of the FangGloves of the FangLeggings of the FangArmor of the Fang"
+	"sourceZoneType": "Dungeon",
+	"sourceType": "NPC"
 }

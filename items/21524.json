@@ -3,12 +3,12 @@
 	"bind": "Binds when picked up",
 	"name": "Red Winter Hat",
 	"icon": "inv_helmet_67",
+	"itemLevel": 1,
 	"popularity": 14,
 	"armor": 11,
 	"class": "ARMOR",
 	"quality": "UNCOMMON",
 	"subclass": "MISC",
 	"type": "HEAD",
-	"source": "DROP",
-	"info": "Winter Garb (0/3)"
+	"source": "DROP"
 }

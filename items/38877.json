@@ -2,6 +2,7 @@
 	"id": 38877,
 	"name": "Enchant Weapon - Spellpower",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 8,
 	"class": "CONSUMABLE",
 	"quality": "RARE",

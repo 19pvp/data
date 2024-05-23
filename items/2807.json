@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Guillotine Axe",
 	"icon": "inv_axe_24",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"dmgMin": 26,
 	"dmgMax": 50,
 	"speed": 2.7,
@@ -13,6 +15,7 @@
 	"subclass": "ONE_HANDED_AXE",
 	"type": "ONE_HAND",
 	"stats": { "Critical Strike Rating": 2, "Agility": 3, "Stamina": 2 },
-	"source": "DUNGEON",
-	"sourceZone": "Shadowfang Keep"
+	"source": "DROP",
+	"sourceZone": "Shadowfang Keep",
+	"sourceZoneType": "Dungeon"
 }

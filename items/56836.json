@@ -1,7 +1,10 @@
 {
 	"id": 56836,
+	"bind": "Binds when picked up",
 	"name": "Overflowing Purple Brewfest Stein",
 	"icon": "inv_misc_beer_08",
+	"requiredLevel": 1,
+	"itemLevel": 5,
 	"dmgMin": 2.5,
 	"dmgMax": 10,
 	"speed": 2.5,

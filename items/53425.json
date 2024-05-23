@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Low-Altitude Parachute",
 	"icon": "inv_misc_cape_14",
+	"requiredLevel": 18,
+	"itemLevel": 20,
 	"popularity": 5,
 	"armor": 29,
 	"side": "HORDE",

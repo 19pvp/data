@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Lupine Handwraps",
 	"icon": "inv_gauntlets_15",
+	"requiredLevel": 11,
+	"itemLevel": 16,
 	"popularity": 8,
 	"armor": 46,
 	"class": "ARMOR",

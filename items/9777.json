@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Bandit Bracers",
 	"icon": "inv_bracer_05",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"popularity": 8,
 	"armor": 37,
 	"class": "ARMOR",

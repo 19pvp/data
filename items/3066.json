@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Bright Gloves",
 	"icon": "inv_gauntlets_23",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"popularity": 7,
 	"armor": 42,
 	"class": "ARMOR",

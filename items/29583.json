@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Sinister Scimitar",
 	"icon": "inv_sword_34",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"dmgMin": 20,
 	"dmgMax": 38,
 	"speed": 2.9,
@@ -17,5 +19,6 @@
 	"sourceId": 16268,
 	"sourceName": "Eralan",
 	"sourceZone": "Ghostlands",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

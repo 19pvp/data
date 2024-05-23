@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Hulking Boots",
 	"icon": "inv_boots_07",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"popularity": 7,
 	"armor": 114,
 	"class": "ARMOR",

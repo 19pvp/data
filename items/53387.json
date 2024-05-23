@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Searing Bracers",
 	"icon": "inv_bracer_01",
+	"requiredLevel": 4,
+	"itemLevel": 12,
 	"popularity": 5,
 	"armor": 26,
 	"side": "HORDE",

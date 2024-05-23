@@ -1,8 +1,10 @@
 {
 	"id": 42943,
-	"bind": "<br>Item Level <!--ilvl-->1",
+	"bind": "Binds to account",
 	"name": "Bloodied Arcanite Reaper",
 	"icon": "inv_axe_09",
+	"requiredLevel": 80,
+	"itemLevel": 1,
 	"dmgMin": 56,
 	"dmgMax": 93,
 	"speed": 3.8,

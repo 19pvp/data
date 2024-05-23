@@ -2,6 +2,7 @@
 	"id": 38870,
 	"name": "Enchant Weapon - Superior Striking",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 21,
 	"class": "CONSUMABLE",
 	"quality": "RARE",

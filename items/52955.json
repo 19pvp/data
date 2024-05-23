@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Town-In-A-Box Lid Fragment",
 	"icon": "inv_shield_09",
+	"requiredLevel": 1,
+	"itemLevel": 8,
 	"popularity": 13,
 	"armor": 285,
 	"side": "HORDE",

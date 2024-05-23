@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Imbued Disciple's Cloak",
 	"icon": "inv_misc_cape_10",
+	"requiredLevel": 5,
+	"itemLevel": 10,
 	"popularity": 25,
 	"armor": 17,
 	"class": "ARMOR",

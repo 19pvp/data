@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Electro-Staff",
 	"icon": "inv_staff_draenei_a_02",
+	"requiredLevel": 3,
+	"itemLevel": 3,
 	"dmgMin": 3.700000011920929,
 	"dmgMax": 7.699999737739563,
 	"speed": 3.3,

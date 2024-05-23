@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Brackwater Vest",
 	"icon": "inv_chest_cloth_06",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"popularity": 11,
 	"armor": 131,
 	"class": "ARMOR",

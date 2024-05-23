@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Vindicator's Woolies",
 	"icon": "inv_pants_11",
+	"requiredLevel": 15,
+	"itemLevel": 17,
 	"popularity": 15,
 	"armor": 44,
 	"side": "ALLIANCE",

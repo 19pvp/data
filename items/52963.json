@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Soulstone Breaker Wristbands",
 	"icon": "inv_bracer_01",
+	"requiredLevel": 1,
+	"itemLevel": 11,
 	"popularity": 4,
 	"armor": 24,
 	"side": "HORDE",

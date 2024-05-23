@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Brimstone Belt",
 	"icon": "inv_belt_02",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"popularity": 8,
 	"armor": 38,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "CLOTH",
 	"type": "WAIST",
 	"stats": { "Stamina": 3, "Intellect": 5 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 5849,
 	"sourceName": "Digger Flameforge",
 	"sourceZone": "Northern Barrens",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

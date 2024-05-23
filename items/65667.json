@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Shovel of Mercy",
 	"icon": "inv_misc_shovel_01",
+	"requiredLevel": 19,
+	"itemLevel": 20,
 	"dmgMin": 18,
 	"dmgMax": 34,
 	"speed": 2.6,

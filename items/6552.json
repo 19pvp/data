@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Bard's Tunic",
 	"icon": "inv_shirt_11",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"popularity": 12,
 	"armor": 84,
 	"class": "ARMOR",

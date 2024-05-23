@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Shipwreck Bow",
 	"icon": "inv_weapon_bow_03",
+	"requiredLevel": 8,
+	"itemLevel": 13,
 	"dmgMin": 17,
 	"dmgMax": 33,
 	"speed": 2.8,

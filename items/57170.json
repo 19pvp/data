@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Lilian's Staff",
 	"icon": "inv_staff_08",
+	"requiredLevel": 6,
+	"itemLevel": 10,
 	"dmgMin": 18,
 	"dmgMax": 28,
 	"speed": 3.3,

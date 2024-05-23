@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "The Axe of Severing",
 	"icon": "inv_axe_03",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"dmgMin": 44,
 	"dmgMax": 66,
 	"speed": 3,
@@ -13,9 +15,10 @@
 	"subclass": "TWO_HANDED_AXE",
 	"type": "TWO_HAND",
 	"stats": { "Critical Strike Rating": 5, "Hit Rating": 5, "Strength": 7 },
-	"source": "DUNGEON",
+	"source": "DROP",
 	"sourceId": 14682,
 	"sourceName": "Sever",
 	"sourceZone": "Shadowfang Keep",
+	"sourceZoneType": "Dungeon",
 	"sourceType": "NPC"
 }

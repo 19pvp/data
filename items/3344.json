@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Captain Sanders' Sash",
 	"icon": "inv_misc_bandana_03",
+	"requiredLevel": 9,
+	"itemLevel": 15,
 	"popularity": 40,
 	"armor": 26,
 	"side": "ALLIANCE",
@@ -12,5 +14,6 @@
 	"type": "WAIST",
 	"stats": { "Stamina": 2, "Spirit": 2 },
 	"source": "QUEST",
-	"sourceZone": "Westfall"
+	"sourceZone": "Westfall",
+	"sourceZoneType": "Zone"
 }

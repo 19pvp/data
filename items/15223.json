@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Jagged Star",
 	"icon": "inv_hammer_08",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"dmgMin": 24,
 	"dmgMax": 45,
 	"speed": 2.8,

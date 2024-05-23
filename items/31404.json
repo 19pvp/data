@@ -1,7 +1,9 @@
 {
 	"id": 31404,
+	"bind": "Binds when picked up",
 	"name": "Green Trophy Tabard of the Illidari",
 	"icon": "inv_shirt_15",
+	"itemLevel": 1,
 	"popularity": 48,
 	"armor": 0,
 	"class": "ARMOR",

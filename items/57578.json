@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Dark Iron Hobnail Boots",
 	"icon": "inv_boots_chain_01",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 10,
 	"armor": 59,
 	"side": "ALLIANCE",

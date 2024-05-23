@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Lambent Scale Cloak",
 	"icon": "inv_misc_cape_06",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"popularity": 17,
 	"armor": 33,
 	"class": "ARMOR",

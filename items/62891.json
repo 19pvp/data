@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Vessel of the Dark Lady",
 	"icon": "inv_chest_chain_09",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"popularity": 6,
 	"armor": 137,
 	"side": "HORDE",

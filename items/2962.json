@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Burnt Leather Breeches",
 	"icon": "inv_pants_06",
+	"requiredLevel": 5,
+	"itemLevel": 10,
 	"popularity": 26,
 	"armor": 46,
 	"class": "ARMOR",

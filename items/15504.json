@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Outrunner's Shield",
 	"icon": "inv_shield_10",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"popularity": 7,
 	"armor": 635,
 	"class": "ARMOR",

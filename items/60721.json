@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Shalewind Belt",
 	"icon": "inv_belt_45",
+	"requiredLevel": 17,
+	"itemLevel": 19,
 	"popularity": 6,
 	"armor": 77,
 	"side": "ALLIANCE",

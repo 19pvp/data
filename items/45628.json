@@ -2,6 +2,7 @@
 	"id": 45628,
 	"name": "Enchant Boots - Lesser Accuracy",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 8,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

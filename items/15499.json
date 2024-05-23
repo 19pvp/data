@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Outrunner's Cuffs",
 	"icon": "inv_bracer_13",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"popularity": 5,
 	"armor": 57,
 	"class": "ARMOR",

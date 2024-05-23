@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Native Pants",
 	"icon": "inv_pants_02",
+	"requiredLevel": 9,
+	"itemLevel": 14,
 	"popularity": 15,
 	"armor": 38,
 	"class": "ARMOR",

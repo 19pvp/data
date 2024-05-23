@@ -2,6 +2,7 @@
 	"id": 38852,
 	"name": "Enchant Bracer - Greater Intellect",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 13,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Maltendis' Handguards",
 	"icon": "inv_gauntlets_04",
+	"requiredLevel": 14,
+	"itemLevel": 17,
 	"popularity": 8,
 	"armor": 79,
 	"side": "HORDE",

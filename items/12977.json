@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Magefist Gloves",
 	"icon": "inv_gauntlets_27",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 26,
 	"armor": 39,
 	"class": "ARMOR",

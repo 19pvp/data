@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Skorn's Hammer",
 	"icon": "inv_hammer_09",
+	"requiredLevel": 6,
+	"itemLevel": 12,
 	"dmgMin": 12,
 	"dmgMax": 23,
 	"speed": 2.7,

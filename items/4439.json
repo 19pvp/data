@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Bruiser Club",
 	"icon": "inv_mace_10",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"dmgMin": 17,
 	"dmgMax": 32,
 	"speed": 2.2,
@@ -13,9 +15,10 @@
 	"subclass": "ONE_HANDED_MACE",
 	"type": "ONE_HAND",
 	"stats": { "Strength": 2, "Stamina": 2 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 1944,
 	"sourceName": "Rot Hide Bruiser",
 	"sourceZone": "Silverpine Forest",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

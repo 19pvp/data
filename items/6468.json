@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Deviate Scale Belt",
 	"icon": "inv_belt_09",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 10,
 	"armor": 56,
 	"class": "ARMOR",

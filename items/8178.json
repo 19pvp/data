@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Training Sword",
 	"icon": "inv_sword_45",
+	"requiredLevel": 5,
+	"itemLevel": 10,
 	"dmgMin": 20,
 	"dmgMax": 30,
 	"speed": 3.5,

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Rough Bronze Cuirass",
 	"icon": "inv_chest_chain_08",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 3,
 	"armor": 160,
 	"class": "ARMOR",

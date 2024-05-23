@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Felros' Signet",
 	"icon": "inv_jewelry_ring_16",
+	"requiredLevel": 17,
+	"itemLevel": 20,
 	"popularity": 8,
 	"armor": 0,
 	"side": "ALLIANCE",

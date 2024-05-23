@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Hammerfoot's Mail Leggings",
 	"icon": "inv_pants_mail_05",
+	"requiredLevel": 10,
+	"itemLevel": 10,
 	"popularity": 11,
 	"armor": 74,
 	"side": "ALLIANCE",
@@ -12,5 +14,6 @@
 	"type": "LEGS",
 	"stats": { "Strength": 1 },
 	"source": "QUEST",
-	"sourceZone": "Dun Morogh"
+	"sourceZone": "Dun Morogh",
+	"sourceZoneType": "Zone"
 }

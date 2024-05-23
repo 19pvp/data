@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Ritual Bands",
 	"icon": "inv_bracer_10",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"popularity": 11,
 	"armor": 23,
 	"class": "ARMOR",

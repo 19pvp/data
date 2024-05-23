@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Surveyor's Leggings",
 	"icon": "inv_pants_05",
+	"requiredLevel": 18,
+	"itemLevel": 20,
 	"popularity": 4,
 	"armor": 50,
 	"side": "ALLIANCE",

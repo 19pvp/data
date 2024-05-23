@@ -1,8 +1,10 @@
 {
 	"id": 69890,
-	"bind": "<br>Item Level <!--ilvl-->1",
+	"bind": "Binds to account",
 	"name": "Burnished Pauldrons of Might",
 	"icon": "inv_shoulder_14",
+	"requiredLevel": 80,
+	"itemLevel": 1,
 	"popularity": 139,
 	"armor": 0,
 	"class": "ARMOR",

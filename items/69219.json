@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Sacrificial Blade",
 	"icon": "inv_weapon_shortblade_08",
+	"requiredLevel": 15,
+	"itemLevel": 17,
 	"dmgMin": 8,
 	"dmgMax": 16,
 	"speed": 1.4,

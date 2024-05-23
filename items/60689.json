@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Belt of Unsolvable Problems",
 	"icon": "inv_belt_24",
+	"requiredLevel": 14,
+	"itemLevel": 15,
 	"popularity": 9,
 	"armor": 26,
 	"side": "ALLIANCE",
@@ -12,5 +14,6 @@
 	"type": "WAIST",
 	"stats": { "Stamina": 2, "Intellect": 2 },
 	"source": "QUEST",
-	"sourceZone": "Redridge Mountains"
+	"sourceZone": "Redridge Mountains",
+	"sourceZoneType": "Zone"
 }

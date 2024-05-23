@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Beggar's Belt",
 	"icon": "inv_belt_37b",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 4,
 	"armor": 51,
 	"side": "ALLIANCE",

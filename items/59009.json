@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Vyrin's Belt",
 	"icon": "inv_belt_02",
+	"requiredLevel": 14,
+	"itemLevel": 15,
 	"popularity": 8,
 	"armor": 39,
 	"side": "ALLIANCE",

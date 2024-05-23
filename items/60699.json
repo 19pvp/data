@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Bailiff's Gloves",
 	"icon": "inv_gauntlets_11",
+	"requiredLevel": 14,
+	"itemLevel": 16,
 	"popularity": 17,
 	"armor": 75,
 	"side": "ALLIANCE",

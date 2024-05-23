@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Mankrik's Boar Slicer",
 	"icon": "inv_axe_64",
+	"requiredLevel": 10,
+	"itemLevel": 12,
 	"dmgMin": 22,
 	"dmgMax": 34,
 	"speed": 3.3,

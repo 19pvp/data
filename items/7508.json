@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Ley Orb",
 	"icon": "inv_misc_orb_01",
+	"requiredLevel": 10,
+	"itemLevel": 13,
 	"popularity": 9,
 	"armor": 0,
 	"class": "ARMOR",

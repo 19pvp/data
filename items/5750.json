@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Warchief's Girdle",
 	"icon": "inv_belt_03",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 9,
 	"armor": 90,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "MAIL",
 	"type": "WAIST",
 	"stats": { "Strength": 5, "Stamina": 2 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 2090,
 	"sourceName": "Ma'ruk Wyrmscale",
 	"sourceZone": "Wetlands",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

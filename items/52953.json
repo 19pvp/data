@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Banner Cloak",
 	"icon": "inv_misc_cape_11",
+	"requiredLevel": 1,
+	"itemLevel": 8,
 	"popularity": 18,
 	"armor": 15,
 	"side": "HORDE",

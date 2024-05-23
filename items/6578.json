@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Defender Leggings",
 	"icon": "inv_pants_03",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 11,
 	"armor": 140,
 	"class": "ARMOR",

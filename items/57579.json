@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Airfield Defender's Garb",
 	"icon": "inv_chest_cloth_32",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 18,
 	"armor": 34,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Stable Boots",
 	"icon": "inv_boots_03",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"popularity": 9,
 	"armor": 55,
 	"class": "ARMOR",

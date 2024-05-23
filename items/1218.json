@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Heavy Gnoll War Club",
 	"icon": "inv_mace_14",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"dmgMin": 40,
 	"dmgMax": 61,
 	"speed": 3.7,
@@ -13,9 +15,10 @@
 	"subclass": "TWO_HANDED_MACE",
 	"type": "TWO_HAND",
 	"stats": { "Strength": 10, "Agility": -10 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 445,
 	"sourceName": "Redridge Alpha",
 	"sourceZone": "Redridge Mountains",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

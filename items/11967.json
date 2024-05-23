@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Zircon Band",
 	"icon": "inv_jewelry_ring_07",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 11,
 	"armor": 0,
 	"class": "ARMOR",

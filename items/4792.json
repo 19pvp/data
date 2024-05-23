@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Spirit Cloak",
 	"icon": "inv_misc_cape_11",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 6,
 	"armor": 32,
 	"class": "ARMOR",

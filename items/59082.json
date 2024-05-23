@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Merchant Marine Pauldrons",
 	"icon": "inv_shoulder_21",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"popularity": 6,
 	"armor": 116,
 	"side": "ALLIANCE",

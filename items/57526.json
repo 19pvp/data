@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Gnollbreaker's Boots",
 	"icon": "inv_boots_06",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 22,
 	"armor": 36,
 	"side": "ALLIANCE",

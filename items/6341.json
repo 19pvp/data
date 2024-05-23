@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Eerie Stable Lantern",
 	"icon": "inv_misc_lantern_01",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 13,
 	"armor": 0,
 	"class": "ARMOR",
@@ -10,6 +12,7 @@
 	"subclass": "OFF_HAND_FRILLS",
 	"type": "HELD_IN_OFF_HAND",
 	"stats": { "Stamina": 4, "Intellect": 4 },
-	"source": "DUNGEON",
-	"sourceZone": "Shadowfang Keep"
+	"source": "DROP",
+	"sourceZone": "Shadowfang Keep",
+	"sourceZoneType": "Dungeon"
 }

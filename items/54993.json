@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Emberstone Mail",
 	"icon": "inv_pants_mail_04",
+	"requiredLevel": 5,
+	"itemLevel": 13,
 	"popularity": 22,
 	"armor": 90,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Dirty Rotten Gloves",
 	"icon": "inv_gauntlets_31",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 3,
 	"armor": 93,
 	"side": "ALLIANCE",

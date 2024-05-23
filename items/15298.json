@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Grizzly Buckler",
 	"icon": "inv_shield_10",
+	"requiredLevel": 8,
+	"itemLevel": 13,
 	"popularity": 6,
 	"armor": 418,
 	"class": "ARMOR",

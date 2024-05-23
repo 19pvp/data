@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Outrunner's Legguards",
 	"icon": "inv_pants_03",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"popularity": 17,
 	"armor": 135,
 	"class": "ARMOR",

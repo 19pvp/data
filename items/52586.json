@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Archaeologist's Dungarees",
 	"icon": "inv_pants_11",
+	"requiredLevel": 13,
+	"itemLevel": 15,
 	"popularity": 12,
 	"armor": 40,
 	"side": "ALLIANCE",

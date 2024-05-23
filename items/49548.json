@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Gazlowe's Gloves",
 	"icon": "inv_gauntlets_24",
+	"requiredLevel": 14,
+	"itemLevel": 16,
 	"popularity": 26,
 	"armor": 46,
 	"class": "ARMOR",

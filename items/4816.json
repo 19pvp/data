@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Legionnaire's Leggings",
 	"icon": "inv_pants_03",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"popularity": 3,
 	"armor": 145,
 	"class": "ARMOR",

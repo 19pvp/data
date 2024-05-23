@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Ceremonial Leather Harness",
 	"icon": "inv_chest_leather_04",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"popularity": 20,
 	"armor": 81,
 	"class": "ARMOR",

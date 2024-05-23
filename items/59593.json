@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Deathgate Shield",
 	"icon": "inv_shield_07",
+	"requiredLevel": 11,
+	"itemLevel": 20,
 	"popularity": 9,
 	"armor": 672,
 	"side": "HORDE",

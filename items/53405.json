@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Bulldozer Vest",
 	"icon": "inv_chest_leather_08",
+	"requiredLevel": 10,
+	"itemLevel": 12,
 	"popularity": 12,
 	"armor": 59,
 	"side": "HORDE",

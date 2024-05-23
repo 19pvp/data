@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Hailwood Chestpiece",
 	"icon": "inv_chest_mail_16v2",
+	"requiredLevel": 5,
+	"itemLevel": 9,
 	"popularity": 12,
 	"armor": 79,
 	"side": "ALLIANCE",

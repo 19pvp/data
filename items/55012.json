@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Night Elven Bow",
 	"icon": "inv_weapon_bow_01",
+	"requiredLevel": 5,
+	"itemLevel": 15,
 	"dmgMin": 19,
 	"dmgMax": 37,
 	"speed": 2.8,

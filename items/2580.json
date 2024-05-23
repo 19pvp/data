@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Reinforced Linen Cape",
 	"icon": "inv_misc_cape_07",
+	"requiredLevel": 7,
+	"itemLevel": 12,
 	"popularity": 10,
 	"armor": 19,
 	"class": "ARMOR",

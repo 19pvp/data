@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Blackened Defias Leggings",
 	"icon": "inv_pants_12",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 51,
 	"armor": 84,
 	"class": "ARMOR",
@@ -10,7 +12,7 @@
 	"subclass": "LEATHER",
 	"type": "LEGS",
 	"stats": { "Agility": 7, "Stamina": 7 },
-	"source": "DUNGEON",
+	"source": "DROP",
 	"sourceZone": "The Deadmines",
-	"info": "Blackened Defias ArmorBlackened Defias BeltBlackened Defias BootsBlackened Defias GlovesBlackened Defias Leggings"
+	"sourceZoneType": "Dungeon"
 }

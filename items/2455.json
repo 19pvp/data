@@ -1,6 +1,7 @@
 {
 	"id": "2455",
 	"icon": "inv_potion_70",
+	"requiredLevel": 5,
 	"quality": "COMMON",
 	"spell": {
 		"type": "Use",

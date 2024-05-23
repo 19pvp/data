@@ -2,6 +2,7 @@
 	"id": 38893,
 	"name": "Enchant Cloak - Stealth",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 15,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

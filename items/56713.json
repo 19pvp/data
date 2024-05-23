@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Durak's Wand",
 	"icon": "inv_wand_16",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"dmgMin": 25,
 	"dmgMax": 46,
 	"speed": 1.6,

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Cue Cue Gloves",
 	"icon": "inv_gauntlets_20",
+	"requiredLevel": 19,
+	"itemLevel": 20,
 	"popularity": 4,
 	"armor": 55,
 	"side": "HORDE",

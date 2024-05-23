@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Victor's Robes",
 	"icon": "inv_chest_cloth_32",
+	"requiredLevel": 1,
+	"itemLevel": 12,
 	"popularity": 19,
 	"armor": 43,
 	"side": "HORDE",

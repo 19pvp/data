@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Dwarven Tree Chopper",
 	"icon": "inv_throwingaxe_01",
+	"requiredLevel": 16,
+	"itemLevel": 20,
 	"dmgMin": 34,
 	"dmgMax": 52,
 	"speed": 3.3,

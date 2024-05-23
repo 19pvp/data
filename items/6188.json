@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Mud Stompers",
 	"icon": "inv_boots_01",
+	"requiredLevel": 12,
+	"itemLevel": 15,
 	"popularity": 6,
 	"armor": 78,
 	"side": "ALLIANCE",

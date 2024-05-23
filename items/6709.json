@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Moonglow Vest",
 	"icon": "inv_chest_leather_09",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"popularity": 19,
 	"armor": 81,
 	"class": "ARMOR",

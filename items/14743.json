@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Hulking Bands",
 	"icon": "inv_bracer_09",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"popularity": 21,
 	"armor": 68,
 	"class": "ARMOR",

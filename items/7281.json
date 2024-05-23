@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Light Leather Bracers",
 	"icon": "inv_bracer_04",
+	"requiredLevel": 9,
+	"itemLevel": 14,
 	"popularity": 21,
 	"armor": 29,
 	"class": "ARMOR",

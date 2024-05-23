@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Beaded Orb",
 	"icon": "inv_misc_orb_05",
+	"requiredLevel": 5,
+	"itemLevel": 10,
 	"speed": 2,
 	"popularity": 15,
 	"armor": 0,

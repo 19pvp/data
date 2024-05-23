@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Kobold Basher",
 	"icon": "inv_hammer_23",
+	"requiredLevel": 9,
+	"itemLevel": 11,
 	"dmgMin": 10,
 	"dmgMax": 20,
 	"speed": 2.6,

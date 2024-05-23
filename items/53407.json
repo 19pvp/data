@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Chopped Off Ancient Limb",
 	"icon": "inv_staff_17",
+	"requiredLevel": 9,
+	"itemLevel": 11,
 	"dmgMin": 6,
 	"dmgMax": 13,
 	"speed": 1.6,

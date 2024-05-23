@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Vindicator's Soft Sole Slippers",
 	"icon": "inv_boots_05",
+	"requiredLevel": 14,
+	"itemLevel": 14,
 	"popularity": 7,
 	"armor": 30,
 	"side": "ALLIANCE",

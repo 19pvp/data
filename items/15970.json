@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Native Branch",
 	"icon": "inv_wand_03",
+	"requiredLevel": 10,
+	"itemLevel": 15,
 	"speed": 2,
 	"popularity": 9,
 	"armor": 0,

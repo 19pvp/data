@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Cleansed Pauldrons",
 	"icon": "inv_shoulder_14",
+	"requiredLevel": 15,
+	"itemLevel": 21,
 	"popularity": 9,
 	"armor": 123,
 	"class": "ARMOR",

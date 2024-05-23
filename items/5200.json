@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Impaling Harpoon",
 	"icon": "inv_spear_07",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"dmgMin": 47,
 	"dmgMax": 72,
 	"speed": 3.4,
@@ -13,6 +15,7 @@
 	"subclass": "POLEARM",
 	"type": "TWO_HAND",
 	"stats": { "Agility": 7, "Stamina": 7 },
-	"source": "DUNGEON",
-	"sourceZone": "The Deadmines"
+	"source": "DROP",
+	"sourceZone": "The Deadmines",
+	"sourceZoneType": "Dungeon"
 }

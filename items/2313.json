@@ -2,6 +2,8 @@
 	"id": 2313,
 	"name": "Medium Armor Kit",
 	"icon": "inv_misc_armorkit_15",
+	"requiredLevel": 5,
+	"itemLevel": 15,
 	"popularity": 4,
 	"armor": 16,
 	"class": "CONSUMABLE",

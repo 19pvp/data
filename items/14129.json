@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Ritual Sandals",
 	"icon": "inv_boots_03",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 15,
 	"armor": 39,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Bloodspattered Sabatons",
 	"icon": "inv_boots_03",
+	"requiredLevel": 11,
+	"itemLevel": 16,
 	"popularity": 12,
 	"armor": 82,
 	"class": "ARMOR",

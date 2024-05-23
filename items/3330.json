@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Dargol's Hauberk",
 	"icon": "inv_chest_chain",
+	"requiredLevel": 8,
+	"itemLevel": 13,
 	"popularity": 8,
 	"armor": 102,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "MAIL",
 	"type": "CHEST",
 	"stats": { "Strength": 2, "Stamina": 1 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 1658,
 	"sourceName": "Captain Dargol",
 	"sourceZone": "Tirisfal Glades",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

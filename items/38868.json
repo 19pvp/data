@@ -2,6 +2,7 @@
 	"id": 38868,
 	"name": "Enchant Weapon - Icy Chill",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 9,
 	"class": "CONSUMABLE",
 	"quality": "RARE",

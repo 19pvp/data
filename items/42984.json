@@ -1,8 +1,10 @@
 {
 	"id": 42984,
-	"bind": "<br>Item Level <!--ilvl-->1",
+	"bind": "Binds to account",
 	"name": "Preened Ironfeather Shoulders",
 	"icon": "inv_shoulder_06",
+	"requiredLevel": 80,
+	"itemLevel": 1,
 	"popularity": 56,
 	"armor": 0,
 	"class": "ARMOR",

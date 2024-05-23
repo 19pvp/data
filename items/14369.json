@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Mystic's Wrap",
 	"icon": "inv_shirt_13",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 29,
 	"armor": 64,
 	"class": "ARMOR",

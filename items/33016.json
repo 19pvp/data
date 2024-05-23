@@ -1,7 +1,10 @@
 {
 	"id": 33016,
+	"bind": "Binds when picked up",
 	"name": "Blue Brewfest Stein",
 	"icon": "inv_misc_beer_03",
+	"requiredLevel": 1,
+	"itemLevel": 5,
 	"dmgMin": 2.5,
 	"dmgMax": 11.25,
 	"speed": 2.5,

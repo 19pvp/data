@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Woolen Boots",
 	"icon": "inv_boots_09",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"popularity": 19,
 	"armor": 38,
 	"class": "ARMOR",

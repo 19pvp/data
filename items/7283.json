@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Black Whelp Cloak",
 	"icon": "inv_misc_monsterscales_03",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 15,
 	"armor": 29,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Hatchling Handlers",
 	"icon": "inv_gauntlets_102v4",
+	"requiredLevel": 1,
+	"itemLevel": 8,
 	"popularity": 9,
 	"armor": 28,
 	"side": "HORDE",

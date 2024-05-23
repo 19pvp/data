@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Ritual Gloves",
 	"icon": "inv_gauntlets_18",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 10,
 	"armor": 36,
 	"class": "ARMOR",

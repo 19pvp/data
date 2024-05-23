@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Bonesnapper Bracers",
 	"icon": "inv_bracer_01",
+	"requiredLevel": 10,
+	"itemLevel": 12,
 	"popularity": 7,
 	"armor": 26,
 	"side": "ALLIANCE",

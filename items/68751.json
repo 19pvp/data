@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Imbued Pioneer Bracers",
 	"icon": "inv_bracer_12",
+	"requiredLevel": 5,
+	"itemLevel": 10,
 	"popularity": 20,
 	"armor": 23,
 	"class": "ARMOR",

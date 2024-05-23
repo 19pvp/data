@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Silver Crossbow",
 	"icon": "inv_weapon_crossbow_01",
+	"requiredLevel": 10,
+	"itemLevel": 12,
 	"dmgMin": 18,
 	"dmgMax": 34,
 	"speed": 3.1,

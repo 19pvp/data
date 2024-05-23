@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Sentinel Hill Vest",
 	"icon": "inv_chest_leather_09",
+	"requiredLevel": 11,
+	"itemLevel": 13,
 	"popularity": 12,
 	"armor": 63,
 	"side": "ALLIANCE",

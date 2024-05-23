@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Night Watch Vest",
 	"icon": "inv_chest_cloth_45",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 4,
 	"armor": 91,
 	"side": "ALLIANCE",

@@ -2,6 +2,8 @@
 	"id": 2304,
 	"name": "Light Armor Kit",
 	"icon": "inv_misc_armorkit_17",
+	"requiredLevel": 1,
+	"itemLevel": 5,
 	"popularity": 7,
 	"armor": 8,
 	"class": "CONSUMABLE",

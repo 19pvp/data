@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Mindthrust Bracers",
 	"icon": "inv_bracer_07",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 18,
 	"armor": 29,
 	"class": "ARMOR",
@@ -10,6 +12,7 @@
 	"subclass": "CLOTH",
 	"type": "WRISTS",
 	"stats": { "Stamina": 3, "Intellect": 4, "Spirit": 3 },
-	"source": "DUNGEON",
-	"sourceZone": "Shadowfang Keep"
+	"source": "DROP",
+	"sourceZone": "Shadowfang Keep",
+	"sourceZoneType": "Dungeon"
 }

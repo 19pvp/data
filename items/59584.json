@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Foolhardy Bracers",
 	"icon": "inv_bracer_29",
+	"requiredLevel": 15,
+	"itemLevel": 18,
 	"popularity": 8,
 	"armor": 57,
 	"side": "HORDE",

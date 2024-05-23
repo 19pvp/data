@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Sunwalker's Stunner",
 	"icon": "inv_mace_07",
+	"requiredLevel": 8,
+	"itemLevel": 10,
 	"dmgMin": 18,
 	"dmgMax": 28,
 	"speed": 3.3,

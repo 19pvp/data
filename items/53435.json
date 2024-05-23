@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Restored Mennaran Mail",
 	"icon": "inv_pants_mail_05",
+	"requiredLevel": 10,
+	"itemLevel": 12,
 	"popularity": 8,
 	"armor": 85,
 	"side": "HORDE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Skitterweb Glovelettes",
 	"icon": "inv_gauntlets_27",
+	"requiredLevel": 10,
+	"itemLevel": 13,
 	"popularity": 6,
 	"armor": 26,
 	"side": "HORDE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Runed Copper Breastplate",
 	"icon": "inv_chest_plate03",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"popularity": 4,
 	"armor": 131,
 	"class": "ARMOR",

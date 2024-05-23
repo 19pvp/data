@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Harvester Boots",
 	"icon": "inv_boots_09",
+	"requiredLevel": 10,
+	"itemLevel": 13,
 	"popularity": 13,
 	"armor": 28,
 	"side": "ALLIANCE",

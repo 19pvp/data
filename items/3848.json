@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Big Bronze Knife",
 	"icon": "inv_weapon_shortblade_04",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"dmgMin": 13,
 	"dmgMax": 25,
 	"speed": 1.9,

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Battleaxe of the Sober Dwarf",
 	"icon": "inv_axe_09",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"dmgMin": 18,
 	"dmgMax": 28,
 	"speed": 3.3,

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Gypsy Tunic",
 	"icon": "inv_shirt_06",
+	"requiredLevel": 10,
+	"itemLevel": 15,
 	"popularity": 3,
 	"armor": 70,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Embossed Leather Cloak",
 	"icon": "inv_helmet_48",
+	"requiredLevel": 8,
+	"itemLevel": 13,
 	"popularity": 9,
 	"armor": 21,
 	"class": "ARMOR",

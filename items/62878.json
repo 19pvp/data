@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Codex Breaker",
 	"icon": "inv_mace_06",
+	"requiredLevel": 14,
+	"itemLevel": 18,
 	"dmgMin": 31,
 	"dmgMax": 47,
 	"speed": 3.3,

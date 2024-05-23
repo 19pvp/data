@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Cookie's Stirring Rod",
 	"icon": "inv_staff_02",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"dmgMin": 20,
 	"dmgMax": 37,
 	"speed": 1.4,
@@ -13,6 +15,7 @@
 	"subclass": "WAND",
 	"type": "RANGED",
 	"stats": { "Critical Strike Rating": 2, "Intellect": 2 },
-	"source": "DUNGEON",
-	"sourceZone": "The Deadmines"
+	"source": "DROP",
+	"sourceZone": "The Deadmines",
+	"sourceZoneType": "Dungeon"
 }

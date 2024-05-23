@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Black Metal Axe",
 	"icon": "inv_axe_14",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"dmgMin": 18,
 	"dmgMax": 34,
 	"speed": 2.1,
@@ -13,9 +15,10 @@
 	"subclass": "ONE_HANDED_AXE",
 	"type": "ONE_HAND",
 	"stats": { "Strength": 2, "Stamina": 2 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 3,
 	"sourceName": "Flesh Eater",
 	"sourceZone": "Duskwood",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

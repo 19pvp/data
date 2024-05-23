@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Goat Hide Vest",
 	"icon": "inv_chest_leather_07",
+	"requiredLevel": 8,
+	"itemLevel": 11,
 	"popularity": 7,
 	"armor": 56,
 	"side": "ALLIANCE",

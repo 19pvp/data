@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Signet of Argas",
 	"icon": "inv_jewelry_ring_08",
+	"requiredLevel": 19,
+	"itemLevel": 32,
 	"popularity": 46,
 	"armor": 0,
 	"class": "ARMOR",
@@ -11,5 +13,6 @@
 	"type": "FINGER",
 	"stats": { "Agility": 6, "Stamina": 3 },
 	"source": "QUEST",
-	"sourceZone": "Ashenvale"
+	"sourceZone": "Ashenvale",
+	"sourceZoneType": "Zone"
 }

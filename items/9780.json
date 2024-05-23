@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Bandit Gloves",
 	"icon": "inv_gauntlets_15",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 17,
 	"armor": 55,
 	"class": "ARMOR",

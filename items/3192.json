@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Short Bastard Sword",
 	"icon": "inv_sword_40",
+	"requiredLevel": 7,
+	"itemLevel": 12,
 	"dmgMin": 20,
 	"dmgMax": 30,
 	"speed": 3,

@@ -1,7 +1,9 @@
 {
 	"id": 18851,
+	"bind": "Binds when picked up",
 	"name": "Insignia of the Horde",
 	"icon": "inv_jewelry_trinketpvp_02",
+	"itemLevel": 60,
 	"popularity": 20,
 	"armor": 0,
 	"side": "HORDE",
@@ -11,6 +13,7 @@
 	"type": "TRINKET",
 	"source": "VENDOR",
 	"sourceZone": "Orgrimmar",
+	"sourceZoneType": "Zone",
 	"spell": {
 		"type": "Use",
 		"id": 42292,

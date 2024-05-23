@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Troll Handler Gloves",
 	"icon": "inv_gauntlets_06",
+	"requiredLevel": 9,
+	"itemLevel": 12,
 	"popularity": 7,
 	"armor": 24,
 	"side": "HORDE",

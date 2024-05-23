@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Shimmering Gloves",
 	"icon": "inv_gauntlets_16",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"popularity": 16,
 	"armor": 39,
 	"class": "ARMOR",

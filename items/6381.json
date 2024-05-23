@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Bright Cloak",
 	"icon": "inv_misc_cape_10",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 21,
 	"armor": 32,
 	"class": "ARMOR",

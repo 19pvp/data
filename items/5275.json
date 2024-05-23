@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Binding Girdle",
 	"icon": "inv_belt_01",
+	"requiredLevel": 9,
+	"itemLevel": 15,
 	"popularity": 21,
 	"armor": 39,
 	"side": "HORDE",

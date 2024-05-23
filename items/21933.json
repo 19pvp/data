@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Thick Bronze Necklace",
 	"icon": "inv_belt_19",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"popularity": 3,
 	"armor": 0,
 	"class": "ARMOR",

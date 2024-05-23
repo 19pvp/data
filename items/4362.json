@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Rough Boomstick",
 	"icon": "inv_weapon_rifle_03",
+	"requiredLevel": 5,
+	"itemLevel": 10,
 	"dmgMin": 11,
 	"dmgMax": 21,
 	"speed": 2.3,

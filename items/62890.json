@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Ataeric's Gloves",
 	"icon": "inv_gauntlets_15",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"popularity": 5,
 	"armor": 34,
 	"side": "HORDE",

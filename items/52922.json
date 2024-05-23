@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Demolitionist's Boots",
 	"icon": "inv_boots_06",
+	"requiredLevel": 1,
+	"itemLevel": 12,
 	"popularity": 13,
 	"armor": 41,
 	"side": "HORDE",

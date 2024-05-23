@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Yorick's Bequest",
 	"icon": "inv_gauntlets_21",
+	"requiredLevel": 9,
+	"itemLevel": 11,
 	"popularity": 7,
 	"armor": 35,
 	"side": "HORDE",

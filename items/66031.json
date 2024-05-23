@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Hide Vest of the Hungerer",
 	"icon": "inv_chest_leather_08",
+	"requiredLevel": 13,
+	"itemLevel": 16,
 	"popularity": 9,
 	"armor": 81,
 	"side": "HORDE",

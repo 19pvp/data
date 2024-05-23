@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Signet of the Night Watch",
 	"icon": "inv_jewelry_ring_85",
+	"requiredLevel": 18,
+	"itemLevel": 26,
 	"popularity": 5,
 	"armor": 0,
 	"side": "ALLIANCE",

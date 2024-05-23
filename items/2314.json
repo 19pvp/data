@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Toughened Leather Armor",
 	"icon": "inv_chest_leather_10",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"popularity": 3,
 	"armor": 112,
 	"class": "ARMOR",

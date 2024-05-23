@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Revitalizing Wristguards",
 	"icon": "inv_bracer_05",
+	"requiredLevel": 1,
+	"itemLevel": 10,
 	"popularity": 6,
 	"armor": 15,
 	"side": "ALLIANCE",

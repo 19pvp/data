@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Seafarer's Pantaloons",
 	"icon": "inv_pants_02",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 27,
 	"armor": 50,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "CLOTH",
 	"type": "LEGS",
 	"stats": { "Stamina": 4, "Spirit": 4 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 2476,
 	"sourceName": "Gosh-Haldir",
 	"sourceZone": "Loch Modan",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

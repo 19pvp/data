@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Moonstalker Bracers",
 	"icon": "inv_bracer_04",
+	"requiredLevel": 10,
+	"itemLevel": 11,
 	"popularity": 10,
 	"armor": 24,
 	"side": "ALLIANCE",

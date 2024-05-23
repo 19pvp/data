@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Rough Bronze Boots",
 	"icon": "inv_boots_01",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"popularity": 13,
 	"armor": 90,
 	"class": "ARMOR",

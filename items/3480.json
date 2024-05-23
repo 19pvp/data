@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Rough Bronze Shoulders",
 	"icon": "inv_shoulder_05",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"popularity": 7,
 	"armor": 116,
 	"class": "ARMOR",

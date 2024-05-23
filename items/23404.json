@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Padded Running Shoes",
 	"icon": "inv_boots_03",
+	"requiredLevel": 9,
+	"itemLevel": 14,
 	"popularity": 5,
 	"armor": 46,
 	"side": "HORDE",

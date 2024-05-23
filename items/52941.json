@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Jealousy's Edge",
 	"icon": "inv_axe_09",
+	"requiredLevel": 1,
+	"itemLevel": 12,
 	"dmgMin": 23,
 	"dmgMax": 35,
 	"speed": 3.4,

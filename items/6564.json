@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Shimmering Cloak",
 	"icon": "inv_misc_cape_15",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 7,
 	"armor": 30,
 	"class": "ARMOR",

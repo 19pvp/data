@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Mystic's Woolies",
 	"icon": "inv_pants_02",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"popularity": 10,
 	"armor": 48,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "War Paint Anklewraps",
 	"icon": "inv_boots_06",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"popularity": 13,
 	"armor": 86,
 	"class": "ARMOR",

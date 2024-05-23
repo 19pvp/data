@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Grove Keeper's Branch",
 	"icon": "inv_mace_05",
+	"requiredLevel": 17,
+	"itemLevel": 20,
 	"dmgMin": 17,
 	"dmgMax": 33,
 	"speed": 2.5,

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Wrangler's Belt",
 	"icon": "inv_belt_16",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"popularity": 6,
 	"armor": 57,
 	"class": "ARMOR",

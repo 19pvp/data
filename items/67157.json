@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Harness of Binding",
 	"icon": "inv_chest_leather_07",
+	"requiredLevel": 1,
+	"itemLevel": 12,
 	"popularity": 7,
 	"armor": 59,
 	"side": "HORDE",

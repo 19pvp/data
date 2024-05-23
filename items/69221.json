@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Mor'shan Caravaneer's Leggings",
 	"icon": "inv_pants_09",
+	"requiredLevel": 15,
+	"itemLevel": 17,
 	"popularity": 12,
 	"armor": 49,
 	"side": "HORDE",

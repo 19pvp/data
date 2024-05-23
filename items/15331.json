@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Wrangler's Wristbands",
 	"icon": "inv_bracer_06",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 11,
 	"armor": 43,
 	"class": "ARMOR",

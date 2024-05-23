@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Imbued Infantry Belt",
 	"icon": "inv_belt_22",
+	"requiredLevel": 5,
+	"itemLevel": 10,
 	"popularity": 4,
 	"armor": 48,
 	"class": "ARMOR",

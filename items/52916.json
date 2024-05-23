@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Gunner's Gloves",
 	"icon": "inv_gauntlets_24",
+	"requiredLevel": 1,
+	"itemLevel": 11,
 	"popularity": 19,
 	"armor": 35,
 	"side": "HORDE",

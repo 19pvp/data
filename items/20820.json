@@ -1,7 +1,10 @@
 {
 	"id": 20820,
+	"bind": "Binds when equipped",
 	"name": "Simple Pearl Ring",
 	"icon": "inv_jewelry_ring_28",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"popularity": 12,
 	"armor": 0,
 	"class": "ARMOR",

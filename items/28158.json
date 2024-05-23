@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Batskin Belt",
 	"icon": "inv_belt_09",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"popularity": 20,
 	"armor": 43,
 	"class": "ARMOR",
@@ -14,5 +16,6 @@
 	"sourceId": 16528,
 	"sourceName": "Provisioner Vredigar",
 	"sourceZone": "Ghostlands",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

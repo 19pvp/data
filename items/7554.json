@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Willow Branch",
 	"icon": "inv_staff_02",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"popularity": 9,
 	"armor": 0,
 	"class": "ARMOR",

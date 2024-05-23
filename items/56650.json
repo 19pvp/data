@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Felfire-Tainted Vest",
 	"icon": "inv_chest_cloth_08",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 5,
 	"armor": 91,
 	"side": "HORDE",

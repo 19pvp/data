@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Kargal's Breastplate",
 	"icon": "inv_chest_chain_08",
+	"requiredLevel": 9,
+	"itemLevel": 12,
 	"popularity": 6,
 	"armor": 97,
 	"side": "HORDE",

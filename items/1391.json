@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Riverpaw Mystic Staff",
 	"icon": "inv_wand_11",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"dmgMin": 28,
 	"dmgMax": 43,
 	"speed": 3,
@@ -13,9 +15,10 @@
 	"subclass": "STAFF",
 	"type": "TWO_HAND",
 	"stats": { "Intellect": 2, "Spirit": 4 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 453,
 	"sourceName": "Riverpaw Mystic",
 	"sourceZone": "Westfall",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

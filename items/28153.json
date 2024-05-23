@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Farstrider's Shield",
 	"icon": "inv_shield_04",
+	"requiredLevel": 9,
+	"itemLevel": 12,
 	"popularity": 7,
 	"armor": 391,
 	"side": "HORDE",

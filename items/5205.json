@@ -1,6 +1,7 @@
 {
 	"id": "5205",
 	"icon": "inv_misc_herb_04",
+	"requiredLevel": 5,
 	"quality": "COMMON",
 	"spell": {
 		"type": "Use",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Marcus' Pickaxe",
 	"icon": "inv_pick_03",
+	"requiredLevel": 5,
+	"itemLevel": 13,
 	"dmgMin": 12,
 	"dmgMax": 24,
 	"speed": 2.6,

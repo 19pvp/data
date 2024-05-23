@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Vest of Forsaken Necromancy",
 	"icon": "inv_chest_cloth_31",
+	"requiredLevel": 15,
+	"itemLevel": 19,
 	"popularity": 8,
 	"armor": 55,
 	"class": "ARMOR",

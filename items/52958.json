@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "S.B.R.B. Prototype 2",
 	"icon": "inv_boots_leather_10v4",
+	"requiredLevel": 1,
+	"itemLevel": 9,
 	"popularity": 9,
 	"armor": 33,
 	"side": "HORDE",

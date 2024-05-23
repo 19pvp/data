@@ -1,8 +1,10 @@
 {
 	"id": 61937,
-	"bind": "<br>Item Level <!--ilvl-->1",
+	"bind": "Binds to account",
 	"name": "Stained Shadowcraft Cap",
 	"icon": "inv_helmet_41",
+	"requiredLevel": 80,
+	"itemLevel": 1,
 	"popularity": 183,
 	"armor": 0,
 	"class": "ARMOR",

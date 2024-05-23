@@ -2,6 +2,7 @@
 	"id": 23530,
 	"name": "Felsteel Shield Spike",
 	"icon": "inv_misc_armorkit_27",
+	"itemLevel": 70,
 	"popularity": 15,
 	"class": "CONSUMABLE",
 	"quality": "UNCOMMON",

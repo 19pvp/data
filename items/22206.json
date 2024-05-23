@@ -1,7 +1,9 @@
 {
 	"id": 22206,
+	"bind": "Binds when picked up",
 	"name": "Bouquet of Red Roses",
 	"icon": "inv_rosebouquet01",
+	"itemLevel": 1,
 	"popularity": 6,
 	"armor": 0,
 	"class": "ARMOR",

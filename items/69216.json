@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Wild Rider's Gloves",
 	"icon": "inv_gauntlets_21",
+	"requiredLevel": 15,
+	"itemLevel": 17,
 	"popularity": 33,
 	"armor": 53,
 	"side": "HORDE",

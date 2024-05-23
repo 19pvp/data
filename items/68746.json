@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Imbued Primal Cape",
 	"icon": "inv_misc_cape_03",
+	"requiredLevel": 3,
+	"itemLevel": 8,
 	"popularity": 21,
 	"armor": 15,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Clean Room Boots",
 	"icon": "inv_boots_04",
+	"requiredLevel": 14,
+	"itemLevel": 16,
 	"popularity": 18,
 	"armor": 51,
 	"side": "HORDE",
@@ -12,5 +14,6 @@
 	"type": "FEET",
 	"stats": { "Critical Strike Rating": 2, "Agility": 2, "Stamina": 2 },
 	"source": "QUEST",
-	"sourceZone": "Northern Barrens"
+	"sourceZone": "Northern Barrens",
+	"sourceZoneType": "Zone"
 }

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Seryl's Robes",
 	"icon": "inv_chest_cloth_32",
+	"requiredLevel": 5,
+	"itemLevel": 11,
 	"popularity": 11,
 	"armor": 37,
 	"side": "ALLIANCE",

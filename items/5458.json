@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Dirtwood Belt",
 	"icon": "inv_belt_79",
+	"requiredLevel": 4,
+	"itemLevel": 10,
 	"popularity": 9,
 	"armor": 19,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Hotfoot Boots",
 	"icon": "inv_boots_chain_01",
+	"requiredLevel": 5,
+	"itemLevel": 11,
 	"popularity": 21,
 	"armor": 62,
 	"side": "ALLIANCE",

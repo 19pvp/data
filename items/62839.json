@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Nubly Bracers",
 	"icon": "inv_bracer_27b",
+	"requiredLevel": 9,
+	"itemLevel": 11,
 	"popularity": 9,
 	"armor": 40,
 	"side": "HORDE",

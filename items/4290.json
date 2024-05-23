@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Dust Bowl",
 	"icon": "inv_shield_09",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"popularity": 7,
 	"armor": 541,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "SHIELDS",
 	"type": "SHIELD",
 	"stats": { "Hit Rating": 2, "Strength": 2 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 832,
 	"sourceName": "Unbound Cyclone",
 	"sourceZone": "Westfall",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

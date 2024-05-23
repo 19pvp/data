@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Stonehallow's Arm Bands",
 	"icon": "inv_bracer_04",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 4,
 	"armor": 23,
 	"side": "ALLIANCE",

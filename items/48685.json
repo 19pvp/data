@@ -1,8 +1,10 @@
 {
 	"id": 48685,
-	"bind": "<br>Item Level <!--ilvl-->1",
+	"bind": "Binds to account",
 	"name": "Polished Breastplate of Valor",
 	"icon": "inv_chest_plate03",
+	"requiredLevel": 1,
+	"itemLevel": 1,
 	"popularity": 260,
 	"armor": 0,
 	"class": "ARMOR",

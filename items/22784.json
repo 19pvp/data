@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Sunwell Orb",
 	"icon": "inv_misc_orb_01",
+	"requiredLevel": 1,
+	"itemLevel": 20,
 	"popularity": 6,
 	"armor": 0,
 	"side": "HORDE",

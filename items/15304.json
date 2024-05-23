@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Grizzly Jerkin",
 	"icon": "inv_chest_leather_01",
+	"requiredLevel": 11,
+	"itemLevel": 16,
 	"popularity": 29,
 	"armor": 74,
 	"class": "ARMOR",

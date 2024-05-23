@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Stitches' Stitchings",
 	"icon": "inv_misc_cape_18",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"popularity": 4,
 	"armor": 34,
 	"side": "ALLIANCE",

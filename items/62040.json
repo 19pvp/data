@@ -1,8 +1,10 @@
 {
 	"id": 62040,
-	"bind": "<br>Item Level <!--ilvl-->1",
+	"bind": "Binds to account",
 	"name": "Ancient Bloodmoon Cloak",
 	"icon": "inv_misc_cape_05",
+	"requiredLevel": 80,
+	"itemLevel": 1,
 	"popularity": 348,
 	"armor": 0,
 	"class": "ARMOR",

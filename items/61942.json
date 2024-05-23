@@ -1,8 +1,10 @@
 {
 	"id": 61942,
-	"bind": "<br>Item Level <!--ilvl-->1",
+	"bind": "Binds to account",
 	"name": "Preened Tribal War Feathers",
 	"icon": "inv_helmet_24",
+	"requiredLevel": 80,
+	"itemLevel": 1,
 	"popularity": 68,
 	"armor": 0,
 	"class": "ARMOR",

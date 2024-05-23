@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Filthy Paw",
 	"icon": "inv_hand_1h_bwdraid_d_01",
+	"requiredLevel": 11,
+	"itemLevel": 11,
 	"dmgMin": 10,
 	"dmgMax": 20,
 	"speed": 2.6,
@@ -15,5 +17,6 @@
 	"type": "OFF_HAND",
 	"stats": { "Agility": 1 },
 	"source": "QUEST",
-	"sourceZone": "Loch Modan"
+	"sourceZone": "Loch Modan",
+	"sourceZoneType": "Zone"
 }

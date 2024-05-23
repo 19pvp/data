@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Haunting Blade",
 	"icon": "inv_sword_17",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"dmgMin": 55,
 	"dmgMax": 84,
 	"speed": 3.8,
@@ -13,6 +15,7 @@
 	"subclass": "TWO_HANDED_SWORD",
 	"type": "TWO_HAND",
 	"stats": { "Hit Rating": 6, "Strength": 8 },
-	"source": "DUNGEON",
-	"sourceZone": "Shadowfang Keep"
+	"source": "DROP",
+	"sourceZone": "Shadowfang Keep",
+	"sourceZoneType": "Dungeon"
 }

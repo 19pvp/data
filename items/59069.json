@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Slabchisel Boots",
 	"icon": "inv_boots_chain_07",
+	"requiredLevel": 18,
+	"itemLevel": 20,
 	"popularity": 19,
 	"armor": 98,
 	"side": "ALLIANCE",

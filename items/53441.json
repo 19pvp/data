@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Serpent-Crusher Gloves",
 	"icon": "inv_gauntlets_21",
+	"requiredLevel": 11,
+	"itemLevel": 13,
 	"popularity": 7,
 	"armor": 39,
 	"side": "HORDE",

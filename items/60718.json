@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Shadowhide Boots",
 	"icon": "inv_boots_07",
+	"requiredLevel": 17,
+	"itemLevel": 19,
 	"popularity": 10,
 	"armor": 58,
 	"side": "ALLIANCE",

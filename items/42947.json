@@ -1,8 +1,10 @@
 {
 	"id": 42947,
-	"bind": "<br>Item Level <!--ilvl-->1",
+	"bind": "Binds to account",
 	"name": "Dignified Headmaster's Charge",
 	"icon": "inv_jewelry_talisman_12",
+	"requiredLevel": 80,
+	"itemLevel": 1,
 	"dmgMin": 45,
 	"dmgMax": 68,
 	"speed": 2.9,

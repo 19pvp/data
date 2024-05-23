@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Throat Piercers",
 	"icon": "inv_throwingknife_03",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"dmgMin": 18,
 	"dmgMax": 27,
 	"speed": 1.8,
@@ -17,5 +19,6 @@
 	"sourceId": 16268,
 	"sourceName": "Eralan",
 	"sourceZone": "Ghostlands",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

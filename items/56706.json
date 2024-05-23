@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Greenpaw Belt",
 	"icon": "inv_belt_23",
+	"requiredLevel": 19,
+	"itemLevel": 26,
 	"popularity": 5,
 	"armor": 100,
 	"side": "ALLIANCE",

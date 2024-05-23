@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Red Silk Trousers",
 	"icon": "inv_pants_06",
+	"requiredLevel": 15,
+	"itemLevel": 16,
 	"popularity": 11,
 	"armor": 42,
 	"side": "HORDE",

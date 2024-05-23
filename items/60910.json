@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Starry Band",
 	"icon": "inv_jewelry_ring_42",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"popularity": 4,
 	"armor": 0,
 	"side": "ALLIANCE",

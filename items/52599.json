@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Restless Leggings",
 	"icon": "inv_pants_08",
+	"requiredLevel": 8,
+	"itemLevel": 11,
 	"popularity": 5,
 	"armor": 49,
 	"side": "ALLIANCE",

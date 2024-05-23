@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Cryo-Core Attendant's Boots",
 	"icon": "inv_boots_09",
+	"requiredLevel": 15,
+	"itemLevel": 19,
 	"popularity": 9,
 	"armor": 38,
 	"side": "ALLIANCE",

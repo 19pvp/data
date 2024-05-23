@@ -2,6 +2,7 @@
 	"id": 38855,
 	"name": "Enchant Bracer - Superior Stamina",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 11,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

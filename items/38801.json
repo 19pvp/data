@@ -2,6 +2,7 @@
 	"id": 38801,
 	"name": "Enchant Gloves - Herbalism",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 12,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Woven Mail Leggings",
 	"icon": "inv_pants_mail_05",
+	"requiredLevel": 8,
+	"itemLevel": 11,
 	"popularity": 5,
 	"armor": 80,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Solstice Robe",
 	"icon": "inv_chest_cloth_17",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"popularity": 10,
 	"armor": 53,
 	"class": "ARMOR",

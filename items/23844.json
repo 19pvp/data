@@ -3,6 +3,7 @@
 	"bind": "Binds when picked up",
 	"name": "Nolkai's Lantern",
 	"icon": "inv_misc_lantern_01",
+	"itemLevel": 17,
 	"popularity": 14,
 	"armor": 0,
 	"class": "ARMOR",

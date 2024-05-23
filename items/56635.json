@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "First Responder's Pauldrons",
 	"icon": "inv_shoulder_15",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 6,
 	"armor": 112,
 	"side": "HORDE",

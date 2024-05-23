@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Scouting Boots",
 	"icon": "inv_boots_05",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"popularity": 11,
 	"armor": 65,
 	"class": "ARMOR",

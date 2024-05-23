@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Labor Camp Frock",
 	"icon": "inv_chest_cloth_01",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 7,
 	"armor": 60,
 	"side": "HORDE",

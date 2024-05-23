@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Savage Trodders",
 	"icon": "inv_boots_01",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 17,
 	"armor": 113,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "MAIL",
 	"type": "FEET",
 	"stats": { "Strength": 5, "Stamina": 5 },
-	"source": "DUNGEON",
+	"source": "DROP",
 	"sourceId": 3673,
 	"sourceName": "Lord Serpentis",
 	"sourceZone": "Wailing Caverns",
+	"sourceZoneType": "Dungeon",
 	"sourceType": "NPC"
 }

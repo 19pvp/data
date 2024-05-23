@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Buckler of the Seas",
 	"icon": "inv_shield_09",
+	"requiredLevel": 12,
+	"itemLevel": 20,
 	"popularity": 40,
 	"armor": 587,
 	"side": "ALLIANCE",
@@ -12,5 +14,6 @@
 	"type": "SHIELD",
 	"stats": { "Spirit": 3 },
 	"source": "QUEST",
-	"sourceZone": "Westfall"
+	"sourceZone": "Westfall",
+	"sourceZoneType": "Zone"
 }

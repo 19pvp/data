@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Brushwood Blade",
 	"icon": "inv_sword_06",
+	"requiredLevel": 3,
+	"itemLevel": 10,
 	"dmgMin": 11,
 	"dmgMax": 21,
 	"speed": 3,

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Ritual Stein",
 	"icon": "inv_drink_08",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"speed": 2,
 	"popularity": 9,
 	"armor": 0,

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Staunch Hammer",
 	"icon": "inv_hammer_08",
+	"requiredLevel": 9,
+	"itemLevel": 14,
 	"dmgMin": 11,
 	"dmgMax": 21,
 	"speed": 2.2,

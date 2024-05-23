@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Bear Hide Vest",
 	"icon": "inv_chest_cloth_45",
+	"requiredLevel": 19,
+	"itemLevel": 20,
 	"popularity": 6,
 	"armor": 88,
 	"side": "HORDE",

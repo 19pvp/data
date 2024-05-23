@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Weighted Sap",
 	"icon": "inv_mace_06",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"dmgMin": 24,
 	"dmgMax": 46,
 	"speed": 2.6,

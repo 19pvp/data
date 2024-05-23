@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Senator's Dignified Pants",
 	"icon": "inv_pants_02",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 4,
 	"armor": 46,
 	"side": "ALLIANCE",

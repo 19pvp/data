@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Kobold Candle",
 	"icon": "inv_misc_candle_03",
+	"requiredLevel": 9,
+	"itemLevel": 11,
 	"popularity": 25,
 	"armor": 0,
 	"side": "ALLIANCE",

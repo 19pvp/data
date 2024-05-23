@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Buccaneer's Vest",
 	"icon": "inv_shirt_08",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 63,
 	"armor": 64,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Prospector Axe",
 	"icon": "inv_axe_03",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"dmgMin": 33,
 	"dmgMax": 51,
 	"speed": 2.4,

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Delgren's Leggings",
 	"icon": "inv_pants_05",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 7,
 	"armor": 52,
 	"side": "ALLIANCE",

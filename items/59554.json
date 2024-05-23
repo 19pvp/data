@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Silver-Edged Blade",
 	"icon": "inv_sword_04",
+	"requiredLevel": 13,
+	"itemLevel": 15,
 	"dmgMin": 9,
 	"dmgMax": 17,
 	"speed": 1.7,

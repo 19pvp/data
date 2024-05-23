@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Mercenary Sword",
 	"icon": "inv_sword_20",
+	"requiredLevel": 10,
+	"itemLevel": 10,
 	"dmgMin": 9,
 	"dmgMax": 17,
 	"speed": 2.4,

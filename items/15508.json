@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Grunt's Cape",
 	"icon": "inv_misc_cape_14",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"popularity": 20,
 	"armor": 28,
 	"class": "ARMOR",

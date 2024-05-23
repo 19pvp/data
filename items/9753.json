@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Gypsy Buckler",
 	"icon": "inv_shield_10",
+	"requiredLevel": 7,
+	"itemLevel": 12,
 	"popularity": 20,
 	"armor": 391,
 	"class": "ARMOR",

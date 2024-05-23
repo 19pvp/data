@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Shield of the Lesson",
 	"icon": "inv_shield_09",
+	"requiredLevel": 14,
+	"itemLevel": 16,
 	"popularity": 5,
 	"armor": 494,
 	"side": "ALLIANCE",

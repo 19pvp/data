@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Belt of Dark Schemes",
 	"icon": "inv_belt_25",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 7,
 	"armor": 19,
 	"side": "ALLIANCE",

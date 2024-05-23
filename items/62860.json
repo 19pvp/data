@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Watched Watcher's Slippers",
 	"icon": "inv_boots_09",
+	"requiredLevel": 12,
+	"itemLevel": 14,
 	"popularity": 5,
 	"armor": 30,
 	"side": "HORDE",

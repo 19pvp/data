@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Copper Chain Vest",
 	"icon": "inv_chest_chain",
+	"requiredLevel": 5,
+	"itemLevel": 10,
 	"popularity": 12,
 	"armor": 85,
 	"class": "ARMOR",

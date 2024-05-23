@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Grizzly Pants",
 	"icon": "inv_pants_09",
+	"requiredLevel": 9,
+	"itemLevel": 14,
 	"popularity": 11,
 	"armor": 58,
 	"class": "ARMOR",

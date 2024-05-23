@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Whispering Vest",
 	"icon": "inv_shirt_10",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 6,
 	"armor": 57,
 	"class": "ARMOR",

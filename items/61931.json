@@ -1,8 +1,10 @@
 {
 	"id": 61931,
-	"bind": "<br>Item Level <!--ilvl-->1",
+	"bind": "Binds to account",
 	"name": "Polished Helm of Valor",
 	"icon": "inv_helmet_02",
+	"requiredLevel": 80,
+	"itemLevel": 1,
 	"popularity": 195,
 	"armor": 0,
 	"class": "ARMOR",

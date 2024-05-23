@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Silver Scaled Belt",
 	"icon": "inv_belt_45b",
+	"requiredLevel": 10,
+	"itemLevel": 15,
 	"popularity": 11,
 	"armor": 71,
 	"side": "ALLIANCE",

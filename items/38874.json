@@ -2,6 +2,7 @@
 	"id": 38874,
 	"name": "Enchant 2H Weapon - Major Spirit",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 15,
 	"class": "CONSUMABLE",
 	"quality": "RARE",

@@ -2,6 +2,7 @@
 	"id": 38823,
 	"name": "Enchant Gloves - Skinning",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 7,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

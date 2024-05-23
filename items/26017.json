@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Venomous Silk Cover",
 	"icon": "inv_misc_cape_04",
+	"requiredLevel": 16,
+	"itemLevel": 19,
 	"popularity": 7,
 	"armor": 28,
 	"side": "ALLIANCE",

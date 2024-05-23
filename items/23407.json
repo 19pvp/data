@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Supple Cotton Bracer",
 	"icon": "inv_bracer_07",
+	"requiredLevel": 15,
+	"itemLevel": 19,
 	"popularity": 7,
 	"armor": 24,
 	"side": "HORDE",

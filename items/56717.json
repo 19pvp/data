@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Mystlash Bracers",
 	"icon": "inv_bracer_30c",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"popularity": 23,
 	"armor": 68,
 	"side": "HORDE",

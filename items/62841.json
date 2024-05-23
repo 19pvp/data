@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Bloodfang Vest",
 	"icon": "inv_chest_leather_07",
+	"requiredLevel": 10,
+	"itemLevel": 12,
 	"popularity": 11,
 	"armor": 59,
 	"side": "HORDE",

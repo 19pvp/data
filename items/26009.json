@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Flutterer Silk Handwraps",
 	"icon": "inv_gauntlets_05",
+	"requiredLevel": 18,
+	"itemLevel": 20,
 	"popularity": 8,
 	"armor": 36,
 	"side": "ALLIANCE",

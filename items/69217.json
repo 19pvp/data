@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Test Pilot Britches",
 	"icon": "inv_pants_mail_04",
+	"requiredLevel": 14,
+	"itemLevel": 16,
 	"popularity": 8,
 	"armor": 64,
 	"side": "HORDE",

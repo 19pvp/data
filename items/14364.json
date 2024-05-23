@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Mystic's Slippers",
 	"icon": "inv_boots_05",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"popularity": 8,
 	"armor": 36,
 	"class": "ARMOR",

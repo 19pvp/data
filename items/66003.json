@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Pythas' Vest",
 	"icon": "inv_chest_chain_17",
+	"requiredLevel": 15,
+	"itemLevel": 21,
 	"popularity": 10,
 	"armor": 164,
 	"class": "ARMOR",

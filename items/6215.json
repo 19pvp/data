@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Balanced Fighting Stick",
 	"icon": "inv_staff_08",
+	"requiredLevel": 7,
+	"itemLevel": 11,
 	"dmgMin": 16,
 	"dmgMax": 18,
 	"speed": 2.2,

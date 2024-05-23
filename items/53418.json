@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Honorary Gob Squad Shield",
 	"icon": "inv_shield_77",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"popularity": 8,
 	"armor": 516,
 	"side": "HORDE",

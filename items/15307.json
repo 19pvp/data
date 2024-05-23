@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Feral Buckler",
 	"icon": "inv_shield_09",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"popularity": 18,
 	"armor": 563,
 	"class": "ARMOR",

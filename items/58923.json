@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Gregorky's Bracers",
 	"icon": "inv_bracer_27a",
+	"requiredLevel": 12,
+	"itemLevel": 14,
 	"popularity": 23,
 	"armor": 47,
 	"side": "ALLIANCE",

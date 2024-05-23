@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Bristlebark Boots",
 	"icon": "inv_boots_08",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 6,
 	"armor": 68,
 	"class": "ARMOR",

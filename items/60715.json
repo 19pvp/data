@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Vial of Chloroform",
 	"icon": "inv_alchemy_leadedvial",
+	"requiredLevel": 16,
+	"itemLevel": 18,
 	"popularity": 6,
 	"armor": 0,
 	"side": "ALLIANCE",

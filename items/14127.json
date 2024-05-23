@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Ritual Shroud",
 	"icon": "inv_chest_cloth_18",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"popularity": 17,
 	"armor": 67,
 	"class": "ARMOR",

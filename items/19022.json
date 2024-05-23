@@ -3,6 +3,7 @@
 	"bind": "Binds when picked up",
 	"name": "Nat Pagle's Extreme Angler FC-5000",
 	"icon": "inv_fishingpole_01",
+	"itemLevel": 50,
 	"dmgMin": 93,
 	"dmgMax": 140,
 	"speed": 3,
@@ -14,6 +15,7 @@
 	"type": "TWO_HAND",
 	"source": "QUEST",
 	"sourceZone": "The Hinterlands",
+	"sourceZoneType": "Zone",
 	"spell": {
 		"type": "Equip",
 		"id": 7826,

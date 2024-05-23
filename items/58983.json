@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Ironband Legguards",
 	"icon": "inv_pants_mail_05",
+	"requiredLevel": 12,
+	"itemLevel": 12,
 	"popularity": 4,
 	"armor": 85,
 	"side": "ALLIANCE",

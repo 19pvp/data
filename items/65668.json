@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Officer's Armbands",
 	"icon": "inv_bracer_12",
+	"requiredLevel": 19,
+	"itemLevel": 20,
 	"popularity": 8,
 	"armor": 25,
 	"side": "HORDE",

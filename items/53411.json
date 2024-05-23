@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Eldarath Staff",
 	"icon": "inv_staff_10",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"dmgMin": 26,
 	"dmgMax": 49,
 	"speed": 3.3,

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Stillpine Stinger",
 	"icon": "inv_wand_07",
+	"requiredLevel": 8,
+	"itemLevel": 12,
 	"dmgMin": 8,
 	"dmgMax": 16,
 	"speed": 1.4,

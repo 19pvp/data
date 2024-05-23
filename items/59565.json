@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Waptor Scale Bweastpwate",
 	"icon": "inv_chest_chain_06",
+	"requiredLevel": 14,
+	"itemLevel": 16,
 	"popularity": 8,
 	"armor": 120,
 	"side": "HORDE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Goblin Mail Leggings",
 	"icon": "inv_pants_03",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 13,
 	"armor": 138,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "MAIL",
 	"type": "LEGS",
 	"stats": { "Strength": 8, "Stamina": 6 },
-	"source": "DUNGEON",
+	"source": "DROP",
 	"sourceId": 3947,
 	"sourceName": "Goblin Shipbuilder",
 	"sourceZone": "The Deadmines",
+	"sourceZoneType": "Dungeon",
 	"sourceType": "NPC"
 }

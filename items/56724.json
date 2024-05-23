@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Wet Work Gloves",
 	"icon": "inv_gauntlets_25",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"popularity": 24,
 	"armor": 39,
 	"side": "HORDE",

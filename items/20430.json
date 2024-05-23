@@ -1,7 +1,10 @@
 {
 	"id": 20430,
+	"bind": "Binds when picked up",
 	"name": "Legionnaire's Sword",
 	"icon": "inv_sword_31",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"dmgMin": 28,
 	"dmgMax": 53,
 	"speed": 2.7,
@@ -17,5 +20,6 @@
 	"sourceId": 14754,
 	"sourceName": "Kelm Hargunth",
 	"sourceZone": "Northern Barrens",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

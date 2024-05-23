@@ -2,6 +2,7 @@
 	"id": 6043,
 	"name": "Iron Counterweight",
 	"icon": "inv_misc_orb_01",
+	"itemLevel": 33,
 	"popularity": 7,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

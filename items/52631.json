@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Befouled Staff",
 	"icon": "inv_staff_18",
+	"requiredLevel": 8,
+	"itemLevel": 11,
 	"dmgMin": 19,
 	"dmgMax": 29,
 	"speed": 3.1,

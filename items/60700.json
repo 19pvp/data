@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Solomon's Gavel",
 	"icon": "inv_hammer_23",
+	"requiredLevel": 14,
+	"itemLevel": 16,
 	"dmgMin": 9,
 	"dmgMax": 17,
 	"speed": 1.6,

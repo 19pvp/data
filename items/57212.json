@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Slippers of Mourning",
 	"icon": "inv_boots_cloth_03",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 21,
 	"armor": 24,
 	"side": "HORDE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Renzithen's Dusty Cloak",
 	"icon": "inv_misc_cape_04",
+	"requiredLevel": 10,
+	"itemLevel": 13,
 	"popularity": 10,
 	"armor": 21,
 	"side": "HORDE",

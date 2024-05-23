@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Doody Boots",
 	"icon": "inv_boots_06",
+	"requiredLevel": 14,
+	"itemLevel": 15,
 	"popularity": 18,
 	"armor": 48,
 	"side": "ALLIANCE",
@@ -12,5 +14,6 @@
 	"type": "FEET",
 	"stats": { "Intellect": 3 },
 	"source": "QUEST",
-	"sourceZone": "Redridge Mountains"
+	"sourceZone": "Redridge Mountains",
+	"sourceZoneType": "Zone"
 }

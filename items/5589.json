@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Moss-covered Gauntlets",
 	"icon": "inv_gauntlets_105",
+	"requiredLevel": 4,
+	"itemLevel": 10,
 	"popularity": 12,
 	"armor": 53,
 	"side": "ALLIANCE",

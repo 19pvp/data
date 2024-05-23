@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Willow Vest",
 	"icon": "inv_shirt_green_01",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"popularity": 14,
 	"armor": 55,
 	"class": "ARMOR",

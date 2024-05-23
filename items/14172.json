@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Buccaneer's Robes",
 	"icon": "inv_chest_cloth_18",
+	"requiredLevel": 18,
+	"itemLevel": 23,
 	"popularity": 23,
 	"armor": 64,
 	"class": "ARMOR",

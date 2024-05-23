@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Shoulderwraps of Honor",
 	"icon": "inv_shoulder_02",
+	"requiredLevel": 18,
+	"itemLevel": 26,
 	"popularity": 6,
 	"armor": 54,
 	"side": "ALLIANCE",

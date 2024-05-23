@@ -2,6 +2,7 @@
 	"id": 38875,
 	"name": "Enchant 2H Weapon - Major Intellect",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 40,
 	"class": "CONSUMABLE",
 	"quality": "RARE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Barbaric Battle Axe",
 	"icon": "inv_axe_10",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"dmgMin": 34,
 	"dmgMax": 52,
 	"speed": 3.6,

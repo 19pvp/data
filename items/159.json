@@ -1,6 +1,7 @@
 {
 	"id": "159",
 	"icon": "inv_drink_07",
+	"requiredLevel": 1,
 	"quality": "COMMON",
 	"spell": {
 		"type": "Use",

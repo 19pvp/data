@@ -2,6 +2,7 @@
 	"id": 38876,
 	"name": "Enchant Weapon - Winter's Might",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 7,
 	"class": "CONSUMABLE",
 	"quality": "RARE",

@@ -2,6 +2,7 @@
 	"id": 38772,
 	"name": "Enchant 2H Weapon - Minor Impact",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 5,
 	"class": "CONSUMABLE",
 	"quality": "RARE",

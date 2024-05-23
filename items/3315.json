@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Ceremonial Leather Loincloth",
 	"icon": "inv_pants_wolf",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"popularity": 68,
 	"armor": 67,
 	"class": "ARMOR",

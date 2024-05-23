@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Asylum Shoes",
 	"icon": "inv_boots_07",
+	"requiredLevel": 15,
+	"itemLevel": 18,
 	"popularity": 8,
 	"armor": 55,
 	"side": "HORDE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Divining Crystal",
 	"icon": "inv_misc_orb_01",
+	"requiredLevel": 11,
+	"itemLevel": 16,
 	"popularity": 27,
 	"armor": 0,
 	"side": "HORDE",

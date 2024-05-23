@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Blazing Wand",
 	"icon": "inv_staff_02",
+	"requiredLevel": 12,
+	"itemLevel": 17,
 	"dmgMin": 13,
 	"dmgMax": 25,
 	"speed": 1.5,

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "\"Bear\" Hide Boots",
 	"icon": "inv_boots_07",
+	"requiredLevel": 14,
+	"itemLevel": 18,
 	"popularity": 11,
 	"armor": 55,
 	"side": "HORDE",

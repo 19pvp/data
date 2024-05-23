@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Fine Leather Sash",
 	"icon": "inv_belt_05",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 5,
 	"armor": 29,
 	"side": "ALLIANCE",

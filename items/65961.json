@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Cobrahn's Boots",
 	"icon": "inv_boots_09",
+	"requiredLevel": 15,
+	"itemLevel": 21,
 	"popularity": 27,
 	"armor": 69,
 	"class": "ARMOR",

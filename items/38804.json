@@ -2,6 +2,7 @@
 	"id": 38804,
 	"name": "Enchant Chest - Minor Stats",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 19,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

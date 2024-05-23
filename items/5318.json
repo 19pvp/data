@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Zhovur Axe",
 	"icon": "inv_weapon_halberd_02",
+	"requiredLevel": 12,
+	"itemLevel": 20,
 	"dmgMin": 32,
 	"dmgMax": 49,
 	"speed": 3.1,

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Beaded Wraps",
 	"icon": "inv_shirt_05",
+	"requiredLevel": 6,
+	"itemLevel": 11,
 	"popularity": 5,
 	"armor": 37,
 	"class": "ARMOR",

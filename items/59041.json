@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Vibro Knife",
 	"icon": "inv_weapon_shortblade_05",
+	"requiredLevel": 3,
+	"itemLevel": 3,
 	"dmgMin": 1.4,
 	"dmgMax": 2.599999928474426,
 	"speed": 1.4,

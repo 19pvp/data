@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Native Vest",
 	"icon": "inv_shirt_05",
+	"requiredLevel": 11,
+	"itemLevel": 16,
 	"popularity": 6,
 	"armor": 48,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Wax Catcher",
 	"icon": "inv_shield_09",
+	"requiredLevel": 9,
+	"itemLevel": 11,
 	"popularity": 4,
 	"armor": 364,
 	"side": "ALLIANCE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Burnished Leggings",
 	"icon": "inv_pants_02",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 22,
 	"armor": 130,
 	"class": "ARMOR",

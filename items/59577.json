@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Sputtervalve Gun",
 	"icon": "inv_weapon_rifle_08",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"dmgMin": 23,
 	"dmgMax": 43,
 	"speed": 2.8,

@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Copper Battle Axe",
 	"icon": "inv_throwingaxe_02",
+	"requiredLevel": 8,
+	"itemLevel": 13,
 	"dmgMin": 23,
 	"dmgMax": 35,
 	"speed": 3.2,

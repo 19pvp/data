@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Volunteer's Greaves",
 	"icon": "inv_boots_01",
+	"requiredLevel": 10,
+	"itemLevel": 15,
 	"popularity": 7,
 	"armor": 78,
 	"class": "ARMOR",
@@ -14,5 +16,6 @@
 	"sourceId": 16528,
 	"sourceName": "Provisioner Vredigar",
 	"sourceZone": "Ghostlands",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

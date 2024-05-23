@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Abomination Cleaver",
 	"icon": "inv_axe_23",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"dmgMin": 13,
 	"dmgMax": 18,
 	"speed": 1.7,
@@ -24,9 +26,10 @@
 			"stats": { "Critical Strike Rating": 1, "Stamina": 1, "Intellect": 1 }
 		}
 	},
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 22062,
 	"sourceName": "Dr. Whitherlimb",
 	"sourceZone": "Ghostlands",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

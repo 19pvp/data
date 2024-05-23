@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Mori's Cloak",
 	"icon": "inv_misc_cape_13",
+	"requiredLevel": 10,
+	"itemLevel": 10,
 	"popularity": 4,
 	"armor": 17,
 	"side": "ALLIANCE",
@@ -12,5 +14,6 @@
 	"type": "BACK",
 	"stats": { "Intellect": 1 },
 	"source": "QUEST",
-	"sourceZone": "Dun Morogh"
+	"sourceZone": "Dun Morogh",
+	"sourceZoneType": "Zone"
 }

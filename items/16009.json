@@ -3,6 +3,7 @@
 	"bind": "Binds when equipped",
 	"name": "Voice Amplification Modulator",
 	"icon": "inv_jewelry_amulet_07",
+	"itemLevel": 58,
 	"popularity": 28,
 	"armor": 0,
 	"class": "ARMOR",

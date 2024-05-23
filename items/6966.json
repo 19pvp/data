@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Elunite Axe",
 	"icon": "inv_axe_04",
+	"requiredLevel": 10,
+	"itemLevel": 15,
 	"dmgMin": 14,
 	"dmgMax": 28,
 	"speed": 2.7,

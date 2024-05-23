@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Belt of the Second Head",
 	"icon": "inv_belt_24",
+	"requiredLevel": 12,
+	"itemLevel": 15,
 	"popularity": 7,
 	"armor": 26,
 	"side": "HORDE",

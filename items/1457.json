@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Shadowhide Mace",
 	"icon": "inv_mace_01",
+	"requiredLevel": 17,
+	"itemLevel": 22,
 	"dmgMin": 17,
 	"dmgMax": 32,
 	"speed": 2.2,
@@ -13,9 +15,10 @@
 	"subclass": "ONE_HANDED_MACE",
 	"type": "ONE_HAND",
 	"stats": { "Stamina": 3 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 433,
 	"sourceName": "Shadowhide Gnoll",
 	"sourceZone": "Redridge Mountains",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

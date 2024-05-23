@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Crystalline Cuffs",
 	"icon": "inv_bracer_13",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"popularity": 8,
 	"armor": 25,
 	"class": "ARMOR",
@@ -10,9 +12,10 @@
 	"subclass": "CLOTH",
 	"type": "WRISTS",
 	"stats": { "Stamina": 3, "Intellect": 3, "Spirit": 2 },
-	"source": "DUNGEON",
+	"source": "DROP",
 	"sourceId": 11520,
 	"sourceName": "Taragaman the Hungerer",
 	"sourceZone": "Ragefire Chasm",
+	"sourceZoneType": "Dungeon",
 	"sourceType": "NPC"
 }

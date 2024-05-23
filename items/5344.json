@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Pointed Axe",
 	"icon": "inv_throwingaxe_01",
+	"requiredLevel": 15,
+	"itemLevel": 14,
 	"dmgMin": 9,
 	"dmgMax": 18,
 	"speed": 1.9,

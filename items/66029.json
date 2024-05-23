@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Shadowfang Spaulders",
 	"icon": "inv_shoulder_13",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 8,
 	"armor": 75,
 	"side": "HORDE",

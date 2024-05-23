@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Assassin's Blade",
 	"icon": "inv_weapon_shortblade_24",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"dmgMin": 17,
 	"dmgMax": 33,
 	"speed": 1.8,
@@ -13,6 +15,7 @@
 	"subclass": "DAGGER",
 	"type": "ONE_HAND",
 	"stats": { "Hit Rating": 3, "Agility": 4 },
-	"source": "DUNGEON",
-	"sourceZone": "Shadowfang Keep"
+	"source": "DROP",
+	"sourceZone": "Shadowfang Keep",
+	"sourceZoneType": "Dungeon"
 }

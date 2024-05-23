@@ -2,6 +2,7 @@
 	"id": 38788,
 	"name": "Enchant 2H Weapon - Lesser Spirit",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 26,
 	"class": "CONSUMABLE",
 	"quality": "RARE",

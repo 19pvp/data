@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Elekk Rider's Mail",
 	"icon": "inv_chest_chain_16",
+	"requiredLevel": 9,
+	"itemLevel": 11,
 	"popularity": 12,
 	"armor": 91,
 	"side": "ALLIANCE",

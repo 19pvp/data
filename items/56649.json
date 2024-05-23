@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Folly's Edge",
 	"icon": "inv_sword_159",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"dmgMin": 19,
 	"dmgMax": 36,
 	"speed": 2.6,

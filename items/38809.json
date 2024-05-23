@@ -2,6 +2,7 @@
 	"id": 38809,
 	"name": "Enchant Bracer - Spirit",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 8,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

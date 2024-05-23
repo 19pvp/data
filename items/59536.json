@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Bloodeye Belt",
 	"icon": "inv_belt_25",
+	"requiredLevel": 9,
+	"itemLevel": 12,
 	"popularity": 3,
 	"armor": 22,
 	"side": "HORDE",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Footman Tunic",
 	"icon": "inv_chest_leather_26",
+	"requiredLevel": 7,
+	"itemLevel": 13,
 	"popularity": 6,
 	"armor": 63,
 	"side": "ALLIANCE",

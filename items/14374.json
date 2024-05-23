@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Sanguine Sandals",
 	"icon": "inv_boots_06",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"popularity": 4,
 	"armor": 46,
 	"class": "ARMOR",

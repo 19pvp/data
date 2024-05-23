@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Bahrum's Bad Mood Ring",
 	"icon": "inv_jewelry_ring_82",
+	"requiredLevel": 16,
+	"itemLevel": 18,
 	"popularity": 22,
 	"armor": 0,
 	"side": "ALLIANCE",

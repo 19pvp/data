@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Notched Shortsword",
 	"icon": "inv_sword_04",
+	"requiredLevel": 5,
+	"itemLevel": 10,
 	"dmgMin": 8,
 	"dmgMax": 15,
 	"speed": 2.1,

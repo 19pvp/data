@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Thessera's Gift",
 	"icon": "inv_gauntlets_21",
+	"requiredLevel": 13,
+	"itemLevel": 17,
 	"popularity": 7,
 	"armor": 48,
 	"side": "ALLIANCE",

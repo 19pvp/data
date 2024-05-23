@@ -3,6 +3,7 @@
 	"bind": "Binds when picked up",
 	"name": "Enumerated Wrap",
 	"icon": "inv_belt_02",
+	"itemLevel": 25,
 	"popularity": 16,
 	"armor": 43,
 	"class": "ARMOR",

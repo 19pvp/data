@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Arborcide Axe",
 	"icon": "inv_axe_11",
+	"requiredLevel": 9,
+	"itemLevel": 11,
 	"dmgMin": 20,
 	"dmgMax": 31,
 	"speed": 3.3,

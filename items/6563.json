@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Shimmering Bracers",
 	"icon": "inv_bracer_12",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"popularity": 4,
 	"armor": 25,
 	"class": "ARMOR",

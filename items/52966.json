@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Fickle Belt",
 	"icon": "inv_belt_02",
+	"requiredLevel": 1,
+	"itemLevel": 12,
 	"popularity": 22,
 	"armor": 33,
 	"side": "HORDE",

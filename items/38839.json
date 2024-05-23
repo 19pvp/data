@@ -2,6 +2,7 @@
 	"id": 38839,
 	"name": "Enchant Shield - Greater Spirit",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 24,
 	"class": "CONSUMABLE",
 	"quality": "COMMON",

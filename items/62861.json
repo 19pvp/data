@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Wolfsbane Vest",
 	"icon": "inv_chest_leather_09",
+	"requiredLevel": 12,
+	"itemLevel": 14,
 	"popularity": 7,
 	"armor": 66,
 	"side": "HORDE",

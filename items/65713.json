@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Monstrous Shield",
 	"icon": "inv_shield_12",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 16,
 	"armor": 611,
 	"side": "HORDE",

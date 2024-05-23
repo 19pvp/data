@@ -9,6 +9,5 @@
 		"icon": "ability_druid_forceofnature",
 		"name": "Withers",
 		"text": "Teaches you how to summon and dismiss this companion."
-	},
-	"info": "Right Click to summon and dismiss Withers."
+	}
 }

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Solid Metal Club",
 	"icon": "inv_mace_01",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"dmgMin": 10,
 	"dmgMax": 19,
 	"speed": 2.7,

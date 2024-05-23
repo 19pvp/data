@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Edge of Unlifted Burdens",
 	"icon": "inv_axe_30",
+	"requiredLevel": 14,
+	"itemLevel": 18,
 	"dmgMin": 16,
 	"dmgMax": 31,
 	"speed": 2.6,

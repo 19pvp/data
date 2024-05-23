@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Unbountied Cloak",
 	"icon": "inv_misc_cape_14",
+	"requiredLevel": 19,
+	"itemLevel": 23,
 	"popularity": 8,
 	"armor": 35,
 	"side": "HORDE",

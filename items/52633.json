@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Satyr Horn Staff",
 	"icon": "inv_staff_25",
+	"requiredLevel": 8,
+	"itemLevel": 11,
 	"dmgMin": 19,
 	"dmgMax": 29,
 	"speed": 3.1,

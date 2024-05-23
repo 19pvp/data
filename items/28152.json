@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Quel'Thalas Recurve",
 	"icon": "inv_weapon_bow_02",
+	"requiredLevel": 9,
+	"itemLevel": 11,
 	"dmgMin": 14,
 	"dmgMax": 27,
 	"speed": 2.7,

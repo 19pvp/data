@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Rigid Leggings",
 	"icon": "inv_pants_02",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"popularity": 7,
 	"armor": 89,
 	"class": "ARMOR",

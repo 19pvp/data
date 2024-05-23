@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Ironwood Maul",
 	"icon": "inv_hammer_16",
+	"requiredLevel": 13,
+	"itemLevel": 18,
 	"dmgMin": 26,
 	"dmgMax": 40,
 	"speed": 2.8,

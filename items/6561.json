@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Seer's Padded Armor",
 	"icon": "inv_shirt_02",
+	"requiredLevel": 16,
+	"itemLevel": 21,
 	"popularity": 9,
 	"armor": 60,
 	"class": "ARMOR",

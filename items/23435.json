@@ -2,6 +2,7 @@
 	"id": "23435",
 	"bind": "Binds when picked up",
 	"icon": "inv_misc_food_10",
+	"requiredLevel": 1,
 	"quality": "COMMON",
 	"spell": {
 		"type": "Use",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Dust Plains Greaves",
 	"icon": "inv_pants_mail_04",
+	"requiredLevel": 11,
+	"itemLevel": 14,
 	"popularity": 7,
 	"armor": 95,
 	"side": "ALLIANCE",

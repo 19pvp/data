@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Courier's Wraps",
 	"icon": "inv_bracer_13",
+	"requiredLevel": 9,
+	"itemLevel": 10,
 	"popularity": 7,
 	"armor": 15,
 	"side": "HORDE",

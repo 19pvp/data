@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Bloodfeather Ring",
 	"icon": "inv_jewelry_ring_36",
+	"requiredLevel": 12,
+	"itemLevel": 20,
 	"popularity": 5,
 	"armor": 0,
 	"side": "HORDE",

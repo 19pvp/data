@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Hawkeye Rifle",
 	"icon": "inv_weapon_rifle_01",
+	"requiredLevel": 4,
+	"itemLevel": 10,
 	"dmgMin": 14,
 	"dmgMax": 26,
 	"speed": 2.8,

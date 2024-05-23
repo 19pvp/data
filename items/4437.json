@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Channeler's Staff",
 	"icon": "inv_staff_14",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"dmgMin": 35,
 	"dmgMax": 54,
 	"speed": 3.4,
@@ -13,9 +15,10 @@
 	"subclass": "STAFF",
 	"type": "TWO_HAND",
 	"stats": { "Intellect": 6 },
-	"source": "ZONE",
+	"source": "DROP",
 	"sourceId": 1920,
 	"sourceName": "Ambermill Spellscribe",
 	"sourceZone": "Silverpine Forest",
+	"sourceZoneType": "Zone",
 	"sourceType": "NPC"
 }

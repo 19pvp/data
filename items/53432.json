@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Pricey Bracers",
 	"icon": "inv_bracer_27a",
+	"requiredLevel": 10,
+	"itemLevel": 13,
 	"popularity": 5,
 	"armor": 45,
 	"side": "HORDE",

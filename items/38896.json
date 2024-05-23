@@ -2,6 +2,7 @@
 	"id": 38896,
 	"name": "Enchant 2H Weapon - Agility",
 	"icon": "inv_misc_enchantedscroll",
+	"itemLevel": 1,
 	"popularity": 13,
 	"class": "CONSUMABLE",
 	"quality": "RARE",

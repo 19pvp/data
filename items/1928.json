@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Defias Mage Staff",
 	"icon": "inv_staff_18",
+	"requiredLevel": 15,
+	"itemLevel": 20,
 	"dmgMin": 39,
 	"dmgMax": 59,
 	"speed": 2.8,

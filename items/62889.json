@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Transdimensional Cloak",
 	"icon": "inv_misc_cape_14",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"popularity": 5,
 	"armor": 28,
 	"side": "HORDE",

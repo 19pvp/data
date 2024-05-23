@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Feet of the Lynx",
 	"icon": "inv_boots_wolf",
+	"requiredLevel": 19,
+	"itemLevel": 24,
 	"popularity": 18,
 	"armor": 77,
 	"class": "ARMOR",

@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Diplomatic Belt",
 	"icon": "inv_belt_04",
+	"requiredLevel": 15,
+	"itemLevel": 17,
 	"popularity": 21,
 	"armor": 43,
 	"side": "HORDE",

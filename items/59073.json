@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Discolored Bracers",
 	"icon": "inv_bracer_12",
+	"requiredLevel": 18,
+	"itemLevel": 20,
 	"popularity": 20,
 	"armor": 25,
 	"side": "ALLIANCE",

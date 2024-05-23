@@ -3,6 +3,8 @@
 	"bind": "Binds when equipped",
 	"name": "Buccaneer's Bracers",
 	"icon": "inv_bracer_12",
+	"requiredLevel": 14,
+	"itemLevel": 19,
 	"popularity": 10,
 	"armor": 24,
 	"class": "ARMOR",

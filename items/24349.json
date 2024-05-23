@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Signet Ring of the Hand",
 	"icon": "inv_jewelry_ring_18",
+	"requiredLevel": 18,
+	"itemLevel": 20,
 	"popularity": 6,
 	"armor": 0,
 	"side": "ALLIANCE",

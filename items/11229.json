@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Brightscale Girdle",
 	"icon": "inv_belt_06",
+	"requiredLevel": 19,
+	"itemLevel": 32,
 	"popularity": 13,
 	"armor": 119,
 	"side": "ALLIANCE",
@@ -12,5 +14,6 @@
 	"type": "WAIST",
 	"stats": { "Strength": 6, "Stamina": 6 },
 	"source": "QUEST",
-	"sourceZone": "Ashenvale"
+	"sourceZone": "Ashenvale",
+	"sourceZoneType": "Zone"
 }

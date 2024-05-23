@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "S.B.R.B. Prototype 3",
 	"icon": "inv_boots_mail_11v2",
+	"requiredLevel": 1,
+	"itemLevel": 9,
 	"popularity": 27,
 	"armor": 55,
 	"side": "HORDE",

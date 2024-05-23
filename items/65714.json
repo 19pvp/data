@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "\"Jenny's\" Gloves",
 	"icon": "inv_gauntlets_31",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 8,
 	"armor": 93,
 	"side": "HORDE",

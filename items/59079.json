@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Merchant Marine Sandals",
 	"icon": "inv_boots_cloth_04",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"popularity": 8,
 	"armor": 43,
 	"side": "ALLIANCE",

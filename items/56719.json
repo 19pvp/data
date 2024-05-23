@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Pilfered Kaldorei Belt",
 	"icon": "inv_belt_37",
+	"requiredLevel": 19,
+	"itemLevel": 22,
 	"popularity": 5,
 	"armor": 53,
 	"side": "HORDE",

@@ -2,6 +2,7 @@
 	"id": 7967,
 	"name": "Mithril Shield Spike",
 	"icon": "inv_misc_armorkit_02",
+	"itemLevel": 43,
 	"popularity": 26,
 	"class": "CONSUMABLE",
 	"quality": "UNCOMMON",

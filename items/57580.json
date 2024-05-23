@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Tunic of Dark Leather",
 	"icon": "inv_chest_leather_08",
+	"requiredLevel": 7,
+	"itemLevel": 10,
 	"popularity": 5,
 	"armor": 52,
 	"side": "ALLIANCE",

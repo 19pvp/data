@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Scaling Knife",
 	"icon": "inv_weapon_shortblade_02",
+	"requiredLevel": 17,
+	"itemLevel": 20,
 	"dmgMin": 10,
 	"dmgMax": 20,
 	"speed": 1.5,

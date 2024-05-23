@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Silver Platter",
 	"icon": "inv_shield_10",
+	"requiredLevel": 1,
+	"itemLevel": 11,
 	"popularity": 8,
 	"armor": 364,
 	"side": "HORDE",

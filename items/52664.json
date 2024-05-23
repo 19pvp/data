@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Cloak of the Stag",
 	"icon": "inv_misc_cape_11",
+	"requiredLevel": 10,
+	"itemLevel": 11,
 	"popularity": 6,
 	"armor": 18,
 	"side": "ALLIANCE",

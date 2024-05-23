@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Skorn's Rifle",
 	"icon": "inv_weapon_rifle_01",
+	"requiredLevel": 6,
+	"itemLevel": 12,
 	"dmgMin": 11,
 	"dmgMax": 21,
 	"speed": 1.9,

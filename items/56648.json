@@ -3,6 +3,8 @@
 	"bind": "Binds when picked up",
 	"name": "Forestkeeper Legguards",
 	"icon": "inv_pants_mail_11",
+	"requiredLevel": 19,
+	"itemLevel": 21,
 	"popularity": 12,
 	"armor": 130,
 	"side": "ALLIANCE",
