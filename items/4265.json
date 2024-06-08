@@ -1,0 +1,29 @@
+{
+	"id": 4265,
+	"name": "Heavy Armor Kit",
+	"icon": "inv_misc_armorkit_16",
+	"requiredLevel": 20,
+	"itemLevel": 30,
+	"popularity": 21,
+	"armor": 24,
+	"class": "CONSUMABLE",
+	"quality": "COMMON",
+	"subclass": "ITEM_ENHANCEMENT",
+	"stats": { "Armor": 24 },
+	"source": "CRAFT",
+	"sourceId": 3780,
+	"sourceName": "Leatherworking",
+	"sourceType": "SPELL",
+	"spell": {
+		"type": "Use",
+		"id": 2833,
+		"icon": "inv_misc_armorkit_16",
+		"name": "Armor +24",
+		"text": "Permanently increase the armor value of an item worn on the chest, legs, hands or feet by 24. Only usable on items level 15 and above."
+	},
+	"enchant": {
+		"description": "Reinforced (+24 Armor)",
+		"id": 17,
+		"types": ["CHEST", "LEGS", "FEET", "HANDS"]
+	}
+}

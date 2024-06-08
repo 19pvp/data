@@ -1,0 +1,14 @@
+{
+	"id": 3761,
+	"bind": "Binds when picked up",
+	"name": "Deadskull Shield",
+	"icon": "inv_shield_01",
+	"itemLevel": 32,
+	"popularity": 17,
+	"armor": 873,
+	"class": "ARMOR",
+	"quality": "UNCOMMON",
+	"subclass": "SHIELDS",
+	"type": "SHIELD",
+	"stats": { "Strength": 1, "Stamina": 7 }
+}
